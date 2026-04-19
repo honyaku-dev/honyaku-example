@@ -1,0 +1,24 @@
+{
+  "Header": {
+    "title": "World Kitchen",
+    "subtitle": "世界中のレシピを発見しよう"
+  },
+  "HomePage": {
+    "heroTitle": "世界の味を探検しよう",
+    "heroSubtitle": "世界中のキッチンから届く本格レシピをチェック",
+    "featuredTitle": "おすすめレシピ"
+  },
+  "RecipeCard": {
+    "cookingTime": "{minutes}分",
+    "difficulty": "難易度",
+    "easy": "簡単",
+    "medium": "普通",
+    "hard": "難しい"
+  },
+  "LocaleSwitcher": {
+    "label": "言語",
+    "en": "English",
+    "ja": "日本語",
+    "es": "Español"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Header": {
+    "title": "World Kitchen",
+    "subtitle": "Descubre recetas de todo el mundo"
+  },
+  "HomePage": {
+    "heroTitle": "Explora Sabores Globales",
+    "heroSubtitle": "Descubre recetas auténticas de cocinas de todo el mundo",
+    "featuredTitle": "Recetas Destacadas"
+  },
+  "RecipeCard": {
+    "cookingTime": "{minutes} min",
+    "difficulty": "Dificultad",
+    "easy": "Fácil",
+    "medium": "Medio",
+    "hard": "Difícil"
+  },
+  "LocaleSwitcher": {
+    "label": "Idioma",
+    "en": "English",
+    "ja": "日本語",
+    "es": "Español"
+  }
+}

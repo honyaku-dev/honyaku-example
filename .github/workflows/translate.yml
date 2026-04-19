@@ -1,0 +1,22 @@
+name: Translate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "messages/en.json"
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: honyaku-dev/honyaku-action@v0
+        with:
+          source-file: "messages/en.json"
+          output-dir: "messages/generated"
+          targets: "ja:ja.json, es:es.json"
+          api-key: ${{ secrets.HONYAKU_API_KEY }}

@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "World Kitchen",
+      "description": "App name shown in the header. A recipe discovery app for world cuisines."
+    },
+    "subtitle": {
+      "text": "Discover recipes from around the world",
+      "description": "Tagline shown below the app name in the header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explore Global Flavors",
+      "description": "Main heading on the home page hero section."
+    },
+    "heroSubtitle": {
+      "text": "Browse authentic recipes from kitchens around the world",
+      "description": "Subtitle text displayed under the hero heading on the home page."
+    },
+    "featuredTitle": {
+      "text": "Featured Recipes",
+      "description": "Section heading displayed above the recipe card grid."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+    },
+    "difficulty": {
+      "text": "Difficulty",
+      "description": "Label displayed before the difficulty level on a recipe card."
+    },
+    "easy": {
+      "text": "Easy",
+      "description": "Difficulty level label indicating an easy recipe."
+    },
+    "medium": {
+      "text": "Medium",
+      "description": "Difficulty level label indicating a moderately difficult recipe."
+    },
+    "hard": {
+      "text": "Hard",
+      "description": "Difficulty level label indicating a difficult recipe."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Language",
+      "description": "Accessible label for the language switcher dropdown in the header."
+    },
+    "en": {
+      "text": "English",
+      "description": "English language option in the locale switcher."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanese language option in the locale switcher."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Spanish language option in the locale switcher."
+    }
+  }
+}
