@@ -61,6 +61,730 @@
     "es": {
       "text": "Spagnolu",
       "description": "Opzione de limba spagnola in su cambiador de limba."
+    },
+    "aa": {
+      "text": "afar",
+      "description": "Afar language option in the locale switcher."
+    },
+    "ab": {
+      "text": "abcasu",
+      "description": "Abkhazian language option in the locale switcher."
+    },
+    "ae": {
+      "text": "ae",
+      "description": "Avestan language option in the locale switcher."
+    },
+    "af": {
+      "text": "afrikaans",
+      "description": "Afrikaans language option in the locale switcher."
+    },
+    "ak": {
+      "text": "akan",
+      "description": "Akan language option in the locale switcher."
+    },
+    "am": {
+      "text": "amàricu",
+      "description": "Amharic language option in the locale switcher."
+    },
+    "an": {
+      "text": "aragonesu",
+      "description": "Aragonese language option in the locale switcher."
+    },
+    "ar": {
+      "text": "àrabu",
+      "description": "Arabic language option in the locale switcher."
+    },
+    "as": {
+      "text": "assamesu",
+      "description": "Assamese language option in the locale switcher."
+    },
+    "av": {
+      "text": "avaru",
+      "description": "Avaric language option in the locale switcher."
+    },
+    "ay": {
+      "text": "aimara",
+      "description": "Aymara language option in the locale switcher."
+    },
+    "az": {
+      "text": "azerbaigianu",
+      "description": "Azerbaijani language option in the locale switcher."
+    },
+    "ba": {
+      "text": "baschiru",
+      "description": "Bashkir language option in the locale switcher."
+    },
+    "be": {
+      "text": "bielorussu",
+      "description": "Belarusian language option in the locale switcher."
+    },
+    "bg": {
+      "text": "bùlgaru",
+      "description": "Bulgarian language option in the locale switcher."
+    },
+    "bi": {
+      "text": "bislama",
+      "description": "Bislama language option in the locale switcher."
+    },
+    "bm": {
+      "text": "bambara",
+      "description": "Bambara language option in the locale switcher."
+    },
+    "bn": {
+      "text": "bengalesu",
+      "description": "Bangla language option in the locale switcher."
+    },
+    "bo": {
+      "text": "tibetanu",
+      "description": "Tibetan language option in the locale switcher."
+    },
+    "br": {
+      "text": "brètone",
+      "description": "Breton language option in the locale switcher."
+    },
+    "bs": {
+      "text": "bosnìacu",
+      "description": "Bosnian language option in the locale switcher."
+    },
+    "ca": {
+      "text": "catalanu",
+      "description": "Catalan language option in the locale switcher."
+    },
+    "ce": {
+      "text": "cecenu",
+      "description": "Chechen language option in the locale switcher."
+    },
+    "ch": {
+      "text": "chamorru",
+      "description": "Chamorro language option in the locale switcher."
+    },
+    "co": {
+      "text": "corsicanu",
+      "description": "Corsican language option in the locale switcher."
+    },
+    "cr": {
+      "text": "cr",
+      "description": "Cree language option in the locale switcher."
+    },
+    "cs": {
+      "text": "tzecu",
+      "description": "Czech language option in the locale switcher."
+    },
+    "cu": {
+      "text": "islavu eclesiàsticu",
+      "description": "Church Slavic language option in the locale switcher."
+    },
+    "cv": {
+      "text": "ciuvàsciu",
+      "description": "Chuvash language option in the locale switcher."
+    },
+    "cy": {
+      "text": "gallesu",
+      "description": "Welsh language option in the locale switcher."
+    },
+    "da": {
+      "text": "danesu",
+      "description": "Danish language option in the locale switcher."
+    },
+    "de": {
+      "text": "tedescu",
+      "description": "German language option in the locale switcher."
+    },
+    "dv": {
+      "text": "malvidianu",
+      "description": "Divehi language option in the locale switcher."
+    },
+    "dz": {
+      "text": "dzongkha",
+      "description": "Dzongkha language option in the locale switcher."
+    },
+    "ee": {
+      "text": "ewe",
+      "description": "Ewe language option in the locale switcher."
+    },
+    "el": {
+      "text": "grecu",
+      "description": "Greek language option in the locale switcher."
+    },
+    "eo": {
+      "text": "esperanto",
+      "description": "Esperanto language option in the locale switcher."
+    },
+    "et": {
+      "text": "èstone",
+      "description": "Estonian language option in the locale switcher."
+    },
+    "eu": {
+      "text": "bascu",
+      "description": "Basque language option in the locale switcher."
+    },
+    "fa": {
+      "text": "persianu",
+      "description": "Persian language option in the locale switcher."
+    },
+    "ff": {
+      "text": "fulah",
+      "description": "Fula language option in the locale switcher."
+    },
+    "fi": {
+      "text": "finlandesu",
+      "description": "Finnish language option in the locale switcher."
+    },
+    "fj": {
+      "text": "fijianu",
+      "description": "Fijian language option in the locale switcher."
+    },
+    "fo": {
+      "text": "faroesu",
+      "description": "Faroese language option in the locale switcher."
+    },
+    "fr": {
+      "text": "frantzesu",
+      "description": "French language option in the locale switcher."
+    },
+    "fy": {
+      "text": "frisone otzidentale",
+      "description": "Western Frisian language option in the locale switcher."
+    },
+    "ga": {
+      "text": "irlandesu",
+      "description": "Irish language option in the locale switcher."
+    },
+    "gd": {
+      "text": "gaèlicu iscotzesu",
+      "description": "Scottish Gaelic language option in the locale switcher."
+    },
+    "gl": {
+      "text": "galitzianu",
+      "description": "Galician language option in the locale switcher."
+    },
+    "gn": {
+      "text": "guaranì",
+      "description": "Guarani language option in the locale switcher."
+    },
+    "gu": {
+      "text": "gujarati",
+      "description": "Gujarati language option in the locale switcher."
+    },
+    "gv": {
+      "text": "mannesu",
+      "description": "Manx language option in the locale switcher."
+    },
+    "ha": {
+      "text": "hausa",
+      "description": "Hausa language option in the locale switcher."
+    },
+    "he": {
+      "text": "ebràicu",
+      "description": "Hebrew language option in the locale switcher."
+    },
+    "hi": {
+      "text": "hindi",
+      "description": "Hindi language option in the locale switcher."
+    },
+    "ho": {
+      "text": "ho",
+      "description": "Hiri Motu language option in the locale switcher."
+    },
+    "hr": {
+      "text": "croatu",
+      "description": "Croatian language option in the locale switcher."
+    },
+    "ht": {
+      "text": "crèolu haitianu",
+      "description": "Haitian Creole language option in the locale switcher."
+    },
+    "hu": {
+      "text": "ungheresu",
+      "description": "Hungarian language option in the locale switcher."
+    },
+    "hy": {
+      "text": "armenu",
+      "description": "Armenian language option in the locale switcher."
+    },
+    "hz": {
+      "text": "herero",
+      "description": "Herero language option in the locale switcher."
+    },
+    "ia": {
+      "text": "interlìngua",
+      "description": "Interlingua language option in the locale switcher."
+    },
+    "id": {
+      "text": "indonesianu",
+      "description": "Indonesian language option in the locale switcher."
+    },
+    "ie": {
+      "text": "interlìngue",
+      "description": "Interlingue language option in the locale switcher."
+    },
+    "ig": {
+      "text": "igbo",
+      "description": "Igbo language option in the locale switcher."
+    },
+    "ii": {
+      "text": "sichuan yi",
+      "description": "Sichuan Yi language option in the locale switcher."
+    },
+    "ik": {
+      "text": "ik",
+      "description": "Inupiaq language option in the locale switcher."
+    },
+    "io": {
+      "text": "ido",
+      "description": "Ido language option in the locale switcher."
+    },
+    "is": {
+      "text": "islandesu",
+      "description": "Icelandic language option in the locale switcher."
+    },
+    "it": {
+      "text": "italianu",
+      "description": "Italian language option in the locale switcher."
+    },
+    "iu": {
+      "text": "inuktitut",
+      "description": "Inuktitut language option in the locale switcher."
+    },
+    "jv": {
+      "text": "giavanesu",
+      "description": "Javanese language option in the locale switcher."
+    },
+    "ka": {
+      "text": "georgianu",
+      "description": "Georgian language option in the locale switcher."
+    },
+    "kg": {
+      "text": "kg",
+      "description": "Kongo language option in the locale switcher."
+    },
+    "ki": {
+      "text": "kikuyu",
+      "description": "Kikuyu language option in the locale switcher."
+    },
+    "kj": {
+      "text": "kuanyama",
+      "description": "Kuanyama language option in the locale switcher."
+    },
+    "kk": {
+      "text": "kazacu",
+      "description": "Kazakh language option in the locale switcher."
+    },
+    "kl": {
+      "text": "groenlandesu",
+      "description": "Kalaallisut language option in the locale switcher."
+    },
+    "km": {
+      "text": "khmer",
+      "description": "Khmer language option in the locale switcher."
+    },
+    "kn": {
+      "text": "kannada",
+      "description": "Kannada language option in the locale switcher."
+    },
+    "ko": {
+      "text": "coreanu",
+      "description": "Korean language option in the locale switcher."
+    },
+    "kr": {
+      "text": "kanuri",
+      "description": "Kanuri language option in the locale switcher."
+    },
+    "ks": {
+      "text": "kashmiri",
+      "description": "Kashmiri language option in the locale switcher."
+    },
+    "ku": {
+      "text": "curdu",
+      "description": "Kurdish language option in the locale switcher."
+    },
+    "kv": {
+      "text": "komi",
+      "description": "Komi language option in the locale switcher."
+    },
+    "kw": {
+      "text": "còrnicu",
+      "description": "Cornish language option in the locale switcher."
+    },
+    "ky": {
+      "text": "chirghisu",
+      "description": "Kyrgyz language option in the locale switcher."
+    },
+    "la": {
+      "text": "latinu",
+      "description": "Latin language option in the locale switcher."
+    },
+    "lb": {
+      "text": "lussemburghesu",
+      "description": "Luxembourgish language option in the locale switcher."
+    },
+    "lg": {
+      "text": "ganda",
+      "description": "Ganda language option in the locale switcher."
+    },
+    "li": {
+      "text": "limburghesu",
+      "description": "Limburgish language option in the locale switcher."
+    },
+    "ln": {
+      "text": "lingala",
+      "description": "Lingala language option in the locale switcher."
+    },
+    "lo": {
+      "text": "laotianu",
+      "description": "Lao language option in the locale switcher."
+    },
+    "lt": {
+      "text": "lituanu",
+      "description": "Lithuanian language option in the locale switcher."
+    },
+    "lu": {
+      "text": "luba-katanga",
+      "description": "Luba-Katanga language option in the locale switcher."
+    },
+    "lv": {
+      "text": "lètone",
+      "description": "Latvian language option in the locale switcher."
+    },
+    "mg": {
+      "text": "malgàsciu",
+      "description": "Malagasy language option in the locale switcher."
+    },
+    "mh": {
+      "text": "marshallesu",
+      "description": "Marshallese language option in the locale switcher."
+    },
+    "mi": {
+      "text": "maori",
+      "description": "Māori language option in the locale switcher."
+    },
+    "mk": {
+      "text": "matzèdone",
+      "description": "Macedonian language option in the locale switcher."
+    },
+    "ml": {
+      "text": "malayalam",
+      "description": "Malayalam language option in the locale switcher."
+    },
+    "mn": {
+      "text": "mòngolu",
+      "description": "Mongolian language option in the locale switcher."
+    },
+    "mr": {
+      "text": "marathi",
+      "description": "Marathi language option in the locale switcher."
+    },
+    "ms": {
+      "text": "malesu",
+      "description": "Malay language option in the locale switcher."
+    },
+    "mt": {
+      "text": "maltesu",
+      "description": "Maltese language option in the locale switcher."
+    },
+    "my": {
+      "text": "burmesu",
+      "description": "Burmese language option in the locale switcher."
+    },
+    "na": {
+      "text": "nauru",
+      "description": "Nauru language option in the locale switcher."
+    },
+    "nb": {
+      "text": "norvegesu bokmål",
+      "description": "Norwegian Bokmål language option in the locale switcher."
+    },
+    "nd": {
+      "text": "ndebele de su nord",
+      "description": "North Ndebele language option in the locale switcher."
+    },
+    "ne": {
+      "text": "nepalesu",
+      "description": "Nepali language option in the locale switcher."
+    },
+    "ng": {
+      "text": "ndonga",
+      "description": "Ndonga language option in the locale switcher."
+    },
+    "nl": {
+      "text": "olandesu",
+      "description": "Dutch language option in the locale switcher."
+    },
+    "nn": {
+      "text": "norvegesu nynorsk",
+      "description": "Norwegian Nynorsk language option in the locale switcher."
+    },
+    "no": {
+      "text": "norvegesu",
+      "description": "Norwegian language option in the locale switcher."
+    },
+    "nr": {
+      "text": "ndebele de su sud",
+      "description": "South Ndebele language option in the locale switcher."
+    },
+    "nv": {
+      "text": "navajo",
+      "description": "Navajo language option in the locale switcher."
+    },
+    "ny": {
+      "text": "nyanja",
+      "description": "Nyanja language option in the locale switcher."
+    },
+    "oc": {
+      "text": "otzitanu",
+      "description": "Occitan language option in the locale switcher."
+    },
+    "oj": {
+      "text": "oj",
+      "description": "Ojibwa language option in the locale switcher."
+    },
+    "om": {
+      "text": "oromo",
+      "description": "Oromo language option in the locale switcher."
+    },
+    "or": {
+      "text": "odia",
+      "description": "Odia language option in the locale switcher."
+    },
+    "os": {
+      "text": "ossèticu",
+      "description": "Ossetic language option in the locale switcher."
+    },
+    "pa": {
+      "text": "punjabi",
+      "description": "Punjabi language option in the locale switcher."
+    },
+    "pi": {
+      "text": "pali",
+      "description": "Pali language option in the locale switcher."
+    },
+    "pl": {
+      "text": "polacu",
+      "description": "Polish language option in the locale switcher."
+    },
+    "ps": {
+      "text": "pashto",
+      "description": "Pashto language option in the locale switcher."
+    },
+    "pt": {
+      "text": "portoghesu",
+      "description": "Portuguese language option in the locale switcher."
+    },
+    "qu": {
+      "text": "quechua",
+      "description": "Quechua language option in the locale switcher."
+    },
+    "rm": {
+      "text": "romànciu",
+      "description": "Romansh language option in the locale switcher."
+    },
+    "rn": {
+      "text": "rundi",
+      "description": "Rundi language option in the locale switcher."
+    },
+    "ro": {
+      "text": "rumenu",
+      "description": "Romanian language option in the locale switcher."
+    },
+    "ru": {
+      "text": "russu",
+      "description": "Russian language option in the locale switcher."
+    },
+    "rw": {
+      "text": "kinyarwanda",
+      "description": "Kinyarwanda language option in the locale switcher."
+    },
+    "sa": {
+      "text": "sànscritu",
+      "description": "Sanskrit language option in the locale switcher."
+    },
+    "sc": {
+      "text": "sardu",
+      "description": "Sardinian language option in the locale switcher."
+    },
+    "sd": {
+      "text": "sindhi",
+      "description": "Sindhi language option in the locale switcher."
+    },
+    "se": {
+      "text": "sami setentrionale",
+      "description": "Northern Sami language option in the locale switcher."
+    },
+    "sg": {
+      "text": "sango",
+      "description": "Sango language option in the locale switcher."
+    },
+    "sh": {
+      "text": "serbu (latinu)",
+      "description": "Serbian (Latin) language option in the locale switcher."
+    },
+    "si": {
+      "text": "singalesu",
+      "description": "Sinhala language option in the locale switcher."
+    },
+    "sk": {
+      "text": "islovacu",
+      "description": "Slovak language option in the locale switcher."
+    },
+    "sl": {
+      "text": "islovenu",
+      "description": "Slovenian language option in the locale switcher."
+    },
+    "sm": {
+      "text": "samoanu",
+      "description": "Samoan language option in the locale switcher."
+    },
+    "sn": {
+      "text": "shona",
+      "description": "Shona language option in the locale switcher."
+    },
+    "so": {
+      "text": "sòmalu",
+      "description": "Somali language option in the locale switcher."
+    },
+    "sq": {
+      "text": "albanesu",
+      "description": "Albanian language option in the locale switcher."
+    },
+    "sr": {
+      "text": "serbu",
+      "description": "Serbian language option in the locale switcher."
+    },
+    "ss": {
+      "text": "swati",
+      "description": "Swati language option in the locale switcher."
+    },
+    "st": {
+      "text": "sotho meridionale",
+      "description": "Southern Sotho language option in the locale switcher."
+    },
+    "su": {
+      "text": "sundanesu",
+      "description": "Sundanese language option in the locale switcher."
+    },
+    "sv": {
+      "text": "isvedesu",
+      "description": "Swedish language option in the locale switcher."
+    },
+    "sw": {
+      "text": "swahili",
+      "description": "Swahili language option in the locale switcher."
+    },
+    "ta": {
+      "text": "tamil",
+      "description": "Tamil language option in the locale switcher."
+    },
+    "te": {
+      "text": "telugu",
+      "description": "Telugu language option in the locale switcher."
+    },
+    "tg": {
+      "text": "tagicu",
+      "description": "Tajik language option in the locale switcher."
+    },
+    "th": {
+      "text": "tailandesu",
+      "description": "Thai language option in the locale switcher."
+    },
+    "ti": {
+      "text": "tigrignu",
+      "description": "Tigrinya language option in the locale switcher."
+    },
+    "tk": {
+      "text": "turcmenu",
+      "description": "Turkmen language option in the locale switcher."
+    },
+    "tl": {
+      "text": "filipinu",
+      "description": "Filipino language option in the locale switcher."
+    },
+    "tn": {
+      "text": "tswana",
+      "description": "Tswana language option in the locale switcher."
+    },
+    "to": {
+      "text": "tonganu",
+      "description": "Tongan language option in the locale switcher."
+    },
+    "tr": {
+      "text": "turcu",
+      "description": "Turkish language option in the locale switcher."
+    },
+    "ts": {
+      "text": "tsonga",
+      "description": "Tsonga language option in the locale switcher."
+    },
+    "tt": {
+      "text": "tàtaru",
+      "description": "Tatar language option in the locale switcher."
+    },
+    "tw": {
+      "text": "akan",
+      "description": "Akan language option in the locale switcher."
+    },
+    "ty": {
+      "text": "taitianu",
+      "description": "Tahitian language option in the locale switcher."
+    },
+    "ug": {
+      "text": "uiguru",
+      "description": "Uyghur language option in the locale switcher."
+    },
+    "uk": {
+      "text": "ucrainu",
+      "description": "Ukrainian language option in the locale switcher."
+    },
+    "ur": {
+      "text": "urdu",
+      "description": "Urdu language option in the locale switcher."
+    },
+    "uz": {
+      "text": "uzbecu",
+      "description": "Uzbek language option in the locale switcher."
+    },
+    "ve": {
+      "text": "venda",
+      "description": "Venda language option in the locale switcher."
+    },
+    "vi": {
+      "text": "vietnamita",
+      "description": "Vietnamese language option in the locale switcher."
+    },
+    "vo": {
+      "text": "volapük",
+      "description": "Volapük language option in the locale switcher."
+    },
+    "wa": {
+      "text": "vallonu",
+      "description": "Walloon language option in the locale switcher."
+    },
+    "wo": {
+      "text": "wolof",
+      "description": "Wolof language option in the locale switcher."
+    },
+    "xh": {
+      "text": "xhosa",
+      "description": "Xhosa language option in the locale switcher."
+    },
+    "yi": {
+      "text": "yiddish",
+      "description": "Yiddish language option in the locale switcher."
+    },
+    "yo": {
+      "text": "yoruba",
+      "description": "Yoruba language option in the locale switcher."
+    },
+    "za": {
+      "text": "zhuang",
+      "description": "Zhuang language option in the locale switcher."
+    },
+    "zh": {
+      "text": "tzinesu",
+      "description": "Chinese language option in the locale switcher."
+    },
+    "zu": {
+      "text": "zulu",
+      "description": "Zulu language option in the locale switcher."
     }
   }
 }

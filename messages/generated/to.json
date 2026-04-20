@@ -61,6 +61,730 @@
     "es": {
       "text": "Sipania",
       "description": "Spanish language option in the locale switcher."
+    },
+    "aa": {
+      "text": "lea fakaʻafāla",
+      "description": "Afar language option in the locale switcher."
+    },
+    "ab": {
+      "text": "lea fakaʻapakasia",
+      "description": "Abkhazian language option in the locale switcher."
+    },
+    "ae": {
+      "text": "lea fakaʻavesitani",
+      "description": "Avestan language option in the locale switcher."
+    },
+    "af": {
+      "text": "lea fakaʻafilikana",
+      "description": "Afrikaans language option in the locale switcher."
+    },
+    "ak": {
+      "text": "lea fakaʻakani",
+      "description": "Akan language option in the locale switcher."
+    },
+    "am": {
+      "text": "lea fakaʻameliki",
+      "description": "Amharic language option in the locale switcher."
+    },
+    "an": {
+      "text": "lea fakaʻalakoni",
+      "description": "Aragonese language option in the locale switcher."
+    },
+    "ar": {
+      "text": "lea fakaʻalepea",
+      "description": "Arabic language option in the locale switcher."
+    },
+    "as": {
+      "text": "lea fakaʻasamia",
+      "description": "Assamese language option in the locale switcher."
+    },
+    "av": {
+      "text": "lea fakaʻavaliki",
+      "description": "Avaric language option in the locale switcher."
+    },
+    "ay": {
+      "text": "lea fakaʻaimala",
+      "description": "Aymara language option in the locale switcher."
+    },
+    "az": {
+      "text": "lea fakaʻasepaisani",
+      "description": "Azerbaijani language option in the locale switcher."
+    },
+    "ba": {
+      "text": "lea fakapasikili",
+      "description": "Bashkir language option in the locale switcher."
+    },
+    "be": {
+      "text": "lea fakapelalusi",
+      "description": "Belarusian language option in the locale switcher."
+    },
+    "bg": {
+      "text": "lea fakapulukalia",
+      "description": "Bulgarian language option in the locale switcher."
+    },
+    "bi": {
+      "text": "lea fakapisilama",
+      "description": "Bislama language option in the locale switcher."
+    },
+    "bm": {
+      "text": "lea fakapamipala",
+      "description": "Bambara language option in the locale switcher."
+    },
+    "bn": {
+      "text": "lea fakapāngilā",
+      "description": "Bangla language option in the locale switcher."
+    },
+    "bo": {
+      "text": "lea fakatipeti",
+      "description": "Tibetan language option in the locale switcher."
+    },
+    "br": {
+      "text": "lea fakapeletoni",
+      "description": "Breton language option in the locale switcher."
+    },
+    "bs": {
+      "text": "lea fakaposinia",
+      "description": "Bosnian language option in the locale switcher."
+    },
+    "ca": {
+      "text": "lea fakakatalani",
+      "description": "Catalan language option in the locale switcher."
+    },
+    "ce": {
+      "text": "lea fakasese",
+      "description": "Chechen language option in the locale switcher."
+    },
+    "ch": {
+      "text": "lea fakakamolo",
+      "description": "Chamorro language option in the locale switcher."
+    },
+    "co": {
+      "text": "lea fakakōsika",
+      "description": "Corsican language option in the locale switcher."
+    },
+    "cr": {
+      "text": "lea fakakelī",
+      "description": "Cree language option in the locale switcher."
+    },
+    "cs": {
+      "text": "lea fakaseki",
+      "description": "Czech language option in the locale switcher."
+    },
+    "cu": {
+      "text": "lea fakasilavia-fakasiasi",
+      "description": "Church Slavic language option in the locale switcher."
+    },
+    "cv": {
+      "text": "lea fakasuvasa",
+      "description": "Chuvash language option in the locale switcher."
+    },
+    "cy": {
+      "text": "lea fakauēlesi",
+      "description": "Welsh language option in the locale switcher."
+    },
+    "da": {
+      "text": "lea fakatenimaʻake",
+      "description": "Danish language option in the locale switcher."
+    },
+    "de": {
+      "text": "lea fakasiamane",
+      "description": "German language option in the locale switcher."
+    },
+    "dv": {
+      "text": "lea fakativehi",
+      "description": "Divehi language option in the locale switcher."
+    },
+    "dz": {
+      "text": "lea fakatisōngika",
+      "description": "Dzongkha language option in the locale switcher."
+    },
+    "ee": {
+      "text": "lea fakaʻeue",
+      "description": "Ewe language option in the locale switcher."
+    },
+    "el": {
+      "text": "lea fakakalisi",
+      "description": "Greek language option in the locale switcher."
+    },
+    "eo": {
+      "text": "lea fakaʻesipulanito",
+      "description": "Esperanto language option in the locale switcher."
+    },
+    "et": {
+      "text": "lea fakaʻesitōnia",
+      "description": "Estonian language option in the locale switcher."
+    },
+    "eu": {
+      "text": "lea fakapāsiki",
+      "description": "Basque language option in the locale switcher."
+    },
+    "fa": {
+      "text": "lea fakapēsia",
+      "description": "Persian language option in the locale switcher."
+    },
+    "ff": {
+      "text": "lea fakafulā",
+      "description": "Fula language option in the locale switcher."
+    },
+    "fi": {
+      "text": "lea fakafinilani",
+      "description": "Finnish language option in the locale switcher."
+    },
+    "fj": {
+      "text": "lea fakafisi",
+      "description": "Fijian language option in the locale switcher."
+    },
+    "fo": {
+      "text": "lea fakafaloe",
+      "description": "Faroese language option in the locale switcher."
+    },
+    "fr": {
+      "text": "lea fakafalanisē",
+      "description": "French language option in the locale switcher."
+    },
+    "fy": {
+      "text": "lea fakafilisia-hihifo",
+      "description": "Western Frisian language option in the locale switcher."
+    },
+    "ga": {
+      "text": "lea fakaʻaelani",
+      "description": "Irish language option in the locale switcher."
+    },
+    "gd": {
+      "text": "lea fakakaeliki",
+      "description": "Scottish Gaelic language option in the locale switcher."
+    },
+    "gl": {
+      "text": "lea fakakalisia",
+      "description": "Galician language option in the locale switcher."
+    },
+    "gn": {
+      "text": "lea fakakualani",
+      "description": "Guarani language option in the locale switcher."
+    },
+    "gu": {
+      "text": "lea fakakutalati",
+      "description": "Gujarati language option in the locale switcher."
+    },
+    "gv": {
+      "text": "lea fakamangikī",
+      "description": "Manx language option in the locale switcher."
+    },
+    "ha": {
+      "text": "lea fakahausa",
+      "description": "Hausa language option in the locale switcher."
+    },
+    "he": {
+      "text": "lea fakahepelū",
+      "description": "Hebrew language option in the locale switcher."
+    },
+    "hi": {
+      "text": "lea fakahinitī",
+      "description": "Hindi language option in the locale switcher."
+    },
+    "ho": {
+      "text": "lea fakahili-motu",
+      "description": "Hiri Motu language option in the locale switcher."
+    },
+    "hr": {
+      "text": "lea fakakuloisia",
+      "description": "Croatian language option in the locale switcher."
+    },
+    "ht": {
+      "text": "lea fakahaiti",
+      "description": "Haitian Creole language option in the locale switcher."
+    },
+    "hu": {
+      "text": "lea fakahungakalia",
+      "description": "Hungarian language option in the locale switcher."
+    },
+    "hy": {
+      "text": "lea fakaʻāmenia",
+      "description": "Armenian language option in the locale switcher."
+    },
+    "hz": {
+      "text": "lea fakahelelo",
+      "description": "Herero language option in the locale switcher."
+    },
+    "ia": {
+      "text": "lea fakavahaʻalea",
+      "description": "Interlingua language option in the locale switcher."
+    },
+    "id": {
+      "text": "lea fakaʻinitōnesia",
+      "description": "Indonesian language option in the locale switcher."
+    },
+    "ie": {
+      "text": "lea fakavahaʻalingikē",
+      "description": "Interlingue language option in the locale switcher."
+    },
+    "ig": {
+      "text": "lea fakaʻikipō",
+      "description": "Igbo language option in the locale switcher."
+    },
+    "ii": {
+      "text": "lea fakasisiuani-ī",
+      "description": "Sichuan Yi language option in the locale switcher."
+    },
+    "ik": {
+      "text": "lea fakaʻinupiaki",
+      "description": "Inupiaq language option in the locale switcher."
+    },
+    "io": {
+      "text": "lea fakaʻito",
+      "description": "Ido language option in the locale switcher."
+    },
+    "is": {
+      "text": "lea fakaʻaisilani",
+      "description": "Icelandic language option in the locale switcher."
+    },
+    "it": {
+      "text": "lea fakaʻītali",
+      "description": "Italian language option in the locale switcher."
+    },
+    "iu": {
+      "text": "lea fakaʻinuketītuti",
+      "description": "Inuktitut language option in the locale switcher."
+    },
+    "jv": {
+      "text": "lea fakasava",
+      "description": "Javanese language option in the locale switcher."
+    },
+    "ka": {
+      "text": "lea fakaseōsia",
+      "description": "Georgian language option in the locale switcher."
+    },
+    "kg": {
+      "text": "lea fakakongikō",
+      "description": "Kongo language option in the locale switcher."
+    },
+    "ki": {
+      "text": "lea fakakikuiu",
+      "description": "Kikuyu language option in the locale switcher."
+    },
+    "kj": {
+      "text": "lea fakakuaniama",
+      "description": "Kuanyama language option in the locale switcher."
+    },
+    "kk": {
+      "text": "lea fakakasaki",
+      "description": "Kazakh language option in the locale switcher."
+    },
+    "kl": {
+      "text": "lea fakakalaʻalisuti",
+      "description": "Kalaallisut language option in the locale switcher."
+    },
+    "km": {
+      "text": "lea fakakamipōtia",
+      "description": "Khmer language option in the locale switcher."
+    },
+    "kn": {
+      "text": "lea fakakanata",
+      "description": "Kannada language option in the locale switcher."
+    },
+    "ko": {
+      "text": "lea fakakōlea",
+      "description": "Korean language option in the locale switcher."
+    },
+    "kr": {
+      "text": "lea fakakanuli",
+      "description": "Kanuri language option in the locale switcher."
+    },
+    "ks": {
+      "text": "lea fakakāsimila",
+      "description": "Kashmiri language option in the locale switcher."
+    },
+    "ku": {
+      "text": "lea fakakulitī",
+      "description": "Kurdish language option in the locale switcher."
+    },
+    "kv": {
+      "text": "lea fakakomi",
+      "description": "Komi language option in the locale switcher."
+    },
+    "kw": {
+      "text": "lea fakakoniuali",
+      "description": "Cornish language option in the locale switcher."
+    },
+    "ky": {
+      "text": "lea fakakīsisi",
+      "description": "Kyrgyz language option in the locale switcher."
+    },
+    "la": {
+      "text": "lea fakalatina",
+      "description": "Latin language option in the locale switcher."
+    },
+    "lb": {
+      "text": "lea fakalakisimipeki",
+      "description": "Luxembourgish language option in the locale switcher."
+    },
+    "lg": {
+      "text": "lea fakakanita",
+      "description": "Ganda language option in the locale switcher."
+    },
+    "li": {
+      "text": "lea fakalimipūliki",
+      "description": "Limburgish language option in the locale switcher."
+    },
+    "ln": {
+      "text": "lea lingikala",
+      "description": "Lingala language option in the locale switcher."
+    },
+    "lo": {
+      "text": "lea fakalau",
+      "description": "Lao language option in the locale switcher."
+    },
+    "lt": {
+      "text": "lea fakalituania",
+      "description": "Lithuanian language option in the locale switcher."
+    },
+    "lu": {
+      "text": "lea fakalupa-katanga",
+      "description": "Luba-Katanga language option in the locale switcher."
+    },
+    "lv": {
+      "text": "lea fakalativia",
+      "description": "Latvian language option in the locale switcher."
+    },
+    "mg": {
+      "text": "lea fakamalakasi",
+      "description": "Malagasy language option in the locale switcher."
+    },
+    "mh": {
+      "text": "lea fakamāsolo",
+      "description": "Marshallese language option in the locale switcher."
+    },
+    "mi": {
+      "text": "lea fakamāuli",
+      "description": "Māori language option in the locale switcher."
+    },
+    "mk": {
+      "text": "lea fakamasitōnia",
+      "description": "Macedonian language option in the locale switcher."
+    },
+    "ml": {
+      "text": "lea fakaʻinitia-malāialami",
+      "description": "Malayalam language option in the locale switcher."
+    },
+    "mn": {
+      "text": "lea fakamongokōlia",
+      "description": "Mongolian language option in the locale switcher."
+    },
+    "mr": {
+      "text": "lea fakamalati",
+      "description": "Marathi language option in the locale switcher."
+    },
+    "ms": {
+      "text": "lea fakamalei",
+      "description": "Malay language option in the locale switcher."
+    },
+    "mt": {
+      "text": "lea fakamalita",
+      "description": "Maltese language option in the locale switcher."
+    },
+    "my": {
+      "text": "lea fakapema",
+      "description": "Burmese language option in the locale switcher."
+    },
+    "na": {
+      "text": "lea fakanaulu",
+      "description": "Nauru language option in the locale switcher."
+    },
+    "nb": {
+      "text": "lea fakanouaē-pokimali",
+      "description": "Norwegian Bokmål language option in the locale switcher."
+    },
+    "nd": {
+      "text": "lea fakanetepele-tokelau",
+      "description": "North Ndebele language option in the locale switcher."
+    },
+    "ne": {
+      "text": "lea fakanepali",
+      "description": "Nepali language option in the locale switcher."
+    },
+    "ng": {
+      "text": "lea fakanetongikā",
+      "description": "Ndonga language option in the locale switcher."
+    },
+    "nl": {
+      "text": "lea fakahōlani",
+      "description": "Dutch language option in the locale switcher."
+    },
+    "nn": {
+      "text": "lea fakanoauē-ninosiki",
+      "description": "Norwegian Nynorsk language option in the locale switcher."
+    },
+    "no": {
+      "text": "lea fakanouaē",
+      "description": "Norwegian language option in the locale switcher."
+    },
+    "nr": {
+      "text": "lea fakanetepele-tonga",
+      "description": "South Ndebele language option in the locale switcher."
+    },
+    "nv": {
+      "text": "lea fakanavaho",
+      "description": "Navajo language option in the locale switcher."
+    },
+    "ny": {
+      "text": "lea fakanianisa",
+      "description": "Nyanja language option in the locale switcher."
+    },
+    "oc": {
+      "text": "lea fakaʻokitane",
+      "description": "Occitan language option in the locale switcher."
+    },
+    "oj": {
+      "text": "lea fakaʻosipiuā",
+      "description": "Ojibwa language option in the locale switcher."
+    },
+    "om": {
+      "text": "lea fakaʻolomo",
+      "description": "Oromo language option in the locale switcher."
+    },
+    "or": {
+      "text": "lea fakaʻotia",
+      "description": "Odia language option in the locale switcher."
+    },
+    "os": {
+      "text": "lea fakaʻosetiki",
+      "description": "Ossetic language option in the locale switcher."
+    },
+    "pa": {
+      "text": "lea fakapūnusapi",
+      "description": "Punjabi language option in the locale switcher."
+    },
+    "pi": {
+      "text": "lea fakapāli",
+      "description": "Pali language option in the locale switcher."
+    },
+    "pl": {
+      "text": "lea fakapolani",
+      "description": "Polish language option in the locale switcher."
+    },
+    "ps": {
+      "text": "lea fakapasitō",
+      "description": "Pashto language option in the locale switcher."
+    },
+    "pt": {
+      "text": "lea fakapotukali",
+      "description": "Portuguese language option in the locale switcher."
+    },
+    "qu": {
+      "text": "lea fakakuetisa",
+      "description": "Quechua language option in the locale switcher."
+    },
+    "rm": {
+      "text": "lea fakalaito-lomēnia",
+      "description": "Romansh language option in the locale switcher."
+    },
+    "rn": {
+      "text": "lea fakaluaniti",
+      "description": "Rundi language option in the locale switcher."
+    },
+    "ro": {
+      "text": "lea fakalōmenia",
+      "description": "Romanian language option in the locale switcher."
+    },
+    "ru": {
+      "text": "lea fakalūsia",
+      "description": "Russian language option in the locale switcher."
+    },
+    "rw": {
+      "text": "lea fakakiniāuanita",
+      "description": "Kinyarwanda language option in the locale switcher."
+    },
+    "sa": {
+      "text": "lea fakasanisukuliti",
+      "description": "Sanskrit language option in the locale switcher."
+    },
+    "sc": {
+      "text": "lea fakasaletīnia",
+      "description": "Sardinian language option in the locale switcher."
+    },
+    "sd": {
+      "text": "lea fakasīniti",
+      "description": "Sindhi language option in the locale switcher."
+    },
+    "se": {
+      "text": "lea fakasami-tokelau",
+      "description": "Northern Sami language option in the locale switcher."
+    },
+    "sg": {
+      "text": "lea fakasangikō",
+      "description": "Sango language option in the locale switcher."
+    },
+    "sh": {
+      "text": "lea fakasēpia (tohinima fakalatina)",
+      "description": "Serbian (Latin) language option in the locale switcher."
+    },
+    "si": {
+      "text": "lea fakasingihala",
+      "description": "Sinhala language option in the locale switcher."
+    },
+    "sk": {
+      "text": "lea fakasolāvaki",
+      "description": "Slovak language option in the locale switcher."
+    },
+    "sl": {
+      "text": "lea fakasolovenia",
+      "description": "Slovenian language option in the locale switcher."
+    },
+    "sm": {
+      "text": "lea fakahaʻamoa",
+      "description": "Samoan language option in the locale switcher."
+    },
+    "sn": {
+      "text": "lea fakasiona",
+      "description": "Shona language option in the locale switcher."
+    },
+    "so": {
+      "text": "lea fakasomali",
+      "description": "Somali language option in the locale switcher."
+    },
+    "sq": {
+      "text": "lea fakaʻalapēnia",
+      "description": "Albanian language option in the locale switcher."
+    },
+    "sr": {
+      "text": "lea fakasēpia",
+      "description": "Serbian language option in the locale switcher."
+    },
+    "ss": {
+      "text": "lea fakasuati",
+      "description": "Swati language option in the locale switcher."
+    },
+    "st": {
+      "text": "lea fakasoto-tonga",
+      "description": "Southern Sotho language option in the locale switcher."
+    },
+    "su": {
+      "text": "lea fakasunitā",
+      "description": "Sundanese language option in the locale switcher."
+    },
+    "sv": {
+      "text": "lea fakasuēteni",
+      "description": "Swedish language option in the locale switcher."
+    },
+    "sw": {
+      "text": "lea fakasuahili",
+      "description": "Swahili language option in the locale switcher."
+    },
+    "ta": {
+      "text": "lea fakatamili",
+      "description": "Tamil language option in the locale switcher."
+    },
+    "te": {
+      "text": "lea fakaʻinitia-teluku",
+      "description": "Telugu language option in the locale switcher."
+    },
+    "tg": {
+      "text": "lea fakatāsiki",
+      "description": "Tajik language option in the locale switcher."
+    },
+    "th": {
+      "text": "lea fakatailani",
+      "description": "Thai language option in the locale switcher."
+    },
+    "ti": {
+      "text": "lea fakatikilinia",
+      "description": "Tigrinya language option in the locale switcher."
+    },
+    "tk": {
+      "text": "lea fakatēkimeni",
+      "description": "Turkmen language option in the locale switcher."
+    },
+    "tl": {
+      "text": "lea fakafilipaini",
+      "description": "Filipino language option in the locale switcher."
+    },
+    "tn": {
+      "text": "lea fakatisuana",
+      "description": "Tswana language option in the locale switcher."
+    },
+    "to": {
+      "text": "lea fakatonga",
+      "description": "Tongan language option in the locale switcher."
+    },
+    "tr": {
+      "text": "lea fakatoake",
+      "description": "Turkish language option in the locale switcher."
+    },
+    "ts": {
+      "text": "lea fakatisonga",
+      "description": "Tsonga language option in the locale switcher."
+    },
+    "tt": {
+      "text": "lea fakatatale",
+      "description": "Tatar language option in the locale switcher."
+    },
+    "tw": {
+      "text": "lea fakaʻakani",
+      "description": "Akan language option in the locale switcher."
+    },
+    "ty": {
+      "text": "lea fakatahiti",
+      "description": "Tahitian language option in the locale switcher."
+    },
+    "ug": {
+      "text": "lea fakaʻuikūli",
+      "description": "Uyghur language option in the locale switcher."
+    },
+    "uk": {
+      "text": "lea fakaʻūkalaʻine",
+      "description": "Ukrainian language option in the locale switcher."
+    },
+    "ur": {
+      "text": "lea fakaʻūtū",
+      "description": "Urdu language option in the locale switcher."
+    },
+    "uz": {
+      "text": "lea fakaʻusipeki",
+      "description": "Uzbek language option in the locale switcher."
+    },
+    "ve": {
+      "text": "lea fakavenitā",
+      "description": "Venda language option in the locale switcher."
+    },
+    "vi": {
+      "text": "lea fakavietinami",
+      "description": "Vietnamese language option in the locale switcher."
+    },
+    "vo": {
+      "text": "lea fakavolapiki",
+      "description": "Volapük language option in the locale switcher."
+    },
+    "wa": {
+      "text": "lea fakaʻualonia",
+      "description": "Walloon language option in the locale switcher."
+    },
+    "wo": {
+      "text": "lea fakaʻuolofo",
+      "description": "Wolof language option in the locale switcher."
+    },
+    "xh": {
+      "text": "lea fakatōsa",
+      "description": "Xhosa language option in the locale switcher."
+    },
+    "yi": {
+      "text": "lea fakaītisi",
+      "description": "Yiddish language option in the locale switcher."
+    },
+    "yo": {
+      "text": "lea fakaʻiōlupa",
+      "description": "Yoruba language option in the locale switcher."
+    },
+    "za": {
+      "text": "lea fakasuangi",
+      "description": "Zhuang language option in the locale switcher."
+    },
+    "zh": {
+      "text": "lea fakasiaina",
+      "description": "Chinese language option in the locale switcher."
+    },
+    "zu": {
+      "text": "lea fakasulu",
+      "description": "Zulu language option in the locale switcher."
     }
   }
 }

@@ -61,6 +61,730 @@
     "es": {
       "text": "Español",
       "description": "Español rimay llikaykuy."
+    },
+    "aa": {
+      "text": "aa",
+      "description": "Afar language option in the locale switcher."
+    },
+    "ab": {
+      "text": "Abjasia",
+      "description": "Abkhazian language option in the locale switcher."
+    },
+    "ae": {
+      "text": "ae",
+      "description": "Avestan language option in the locale switcher."
+    },
+    "af": {
+      "text": "Afrikaans Simi",
+      "description": "Afrikaans language option in the locale switcher."
+    },
+    "ak": {
+      "text": "Akan Simi",
+      "description": "Akan language option in the locale switcher."
+    },
+    "am": {
+      "text": "Amarico Simi",
+      "description": "Amharic language option in the locale switcher."
+    },
+    "an": {
+      "text": "Aragonesa",
+      "description": "Aragonese language option in the locale switcher."
+    },
+    "ar": {
+      "text": "Arabe Simi",
+      "description": "Arabic language option in the locale switcher."
+    },
+    "as": {
+      "text": "Asames Simi",
+      "description": "Assamese language option in the locale switcher."
+    },
+    "av": {
+      "text": "Avaric",
+      "description": "Avaric language option in the locale switcher."
+    },
+    "ay": {
+      "text": "Aymara Simi",
+      "description": "Aymara language option in the locale switcher."
+    },
+    "az": {
+      "text": "Azerbaiyano Simi",
+      "description": "Azerbaijani language option in the locale switcher."
+    },
+    "ba": {
+      "text": "Baskir Simi",
+      "description": "Bashkir language option in the locale switcher."
+    },
+    "be": {
+      "text": "Bielorruso Simi",
+      "description": "Belarusian language option in the locale switcher."
+    },
+    "bg": {
+      "text": "Bulgaro Simi",
+      "description": "Bulgarian language option in the locale switcher."
+    },
+    "bi": {
+      "text": "Bislama",
+      "description": "Bislama language option in the locale switcher."
+    },
+    "bm": {
+      "text": "Bambara Simi",
+      "description": "Bambara language option in the locale switcher."
+    },
+    "bn": {
+      "text": "Bangla Simi",
+      "description": "Bangla language option in the locale switcher."
+    },
+    "bo": {
+      "text": "Tibetano Simi",
+      "description": "Tibetan language option in the locale switcher."
+    },
+    "br": {
+      "text": "Breton Simi",
+      "description": "Breton language option in the locale switcher."
+    },
+    "bs": {
+      "text": "Bosnio Simi",
+      "description": "Bosnian language option in the locale switcher."
+    },
+    "ca": {
+      "text": "Catalan Simi",
+      "description": "Catalan language option in the locale switcher."
+    },
+    "ce": {
+      "text": "Checheno Simi",
+      "description": "Chechen language option in the locale switcher."
+    },
+    "ch": {
+      "text": "Chamorro Simi",
+      "description": "Chamorro language option in the locale switcher."
+    },
+    "co": {
+      "text": "Corso Simi",
+      "description": "Corsican language option in the locale switcher."
+    },
+    "cr": {
+      "text": "cr",
+      "description": "Cree language option in the locale switcher."
+    },
+    "cs": {
+      "text": "Checo Simi",
+      "description": "Czech language option in the locale switcher."
+    },
+    "cu": {
+      "text": "Eslavo Eclesiástico Simi",
+      "description": "Church Slavic language option in the locale switcher."
+    },
+    "cv": {
+      "text": "Chuvash Simi",
+      "description": "Chuvash language option in the locale switcher."
+    },
+    "cy": {
+      "text": "Gales Simi",
+      "description": "Welsh language option in the locale switcher."
+    },
+    "da": {
+      "text": "Danes Simi",
+      "description": "Danish language option in the locale switcher."
+    },
+    "de": {
+      "text": "Aleman Simi",
+      "description": "German language option in the locale switcher."
+    },
+    "dv": {
+      "text": "Divehi Simi",
+      "description": "Divehi language option in the locale switcher."
+    },
+    "dz": {
+      "text": "Butanés Simi",
+      "description": "Dzongkha language option in the locale switcher."
+    },
+    "ee": {
+      "text": "Ewé Simi",
+      "description": "Ewe language option in the locale switcher."
+    },
+    "el": {
+      "text": "Griego Simi",
+      "description": "Greek language option in the locale switcher."
+    },
+    "eo": {
+      "text": "Esperanto Simi",
+      "description": "Esperanto language option in the locale switcher."
+    },
+    "et": {
+      "text": "Estonio Simi",
+      "description": "Estonian language option in the locale switcher."
+    },
+    "eu": {
+      "text": "Euskera Simi",
+      "description": "Basque language option in the locale switcher."
+    },
+    "fa": {
+      "text": "Persa Simi",
+      "description": "Persian language option in the locale switcher."
+    },
+    "ff": {
+      "text": "Fulah Simi",
+      "description": "Fula language option in the locale switcher."
+    },
+    "fi": {
+      "text": "Fines Simi",
+      "description": "Finnish language option in the locale switcher."
+    },
+    "fj": {
+      "text": "Fiyiano Simi",
+      "description": "Fijian language option in the locale switcher."
+    },
+    "fo": {
+      "text": "Feroes Simi",
+      "description": "Faroese language option in the locale switcher."
+    },
+    "fr": {
+      "text": "Frances Simi",
+      "description": "French language option in the locale switcher."
+    },
+    "fy": {
+      "text": "Frison Simi",
+      "description": "Western Frisian language option in the locale switcher."
+    },
+    "ga": {
+      "text": "Irlandes Simi",
+      "description": "Irish language option in the locale switcher."
+    },
+    "gd": {
+      "text": "Gaelico Escoces Simi",
+      "description": "Scottish Gaelic language option in the locale switcher."
+    },
+    "gl": {
+      "text": "Gallego Simi",
+      "description": "Galician language option in the locale switcher."
+    },
+    "gn": {
+      "text": "Guaraní Simi",
+      "description": "Guarani language option in the locale switcher."
+    },
+    "gu": {
+      "text": "Gujarati Simi",
+      "description": "Gujarati language option in the locale switcher."
+    },
+    "gv": {
+      "text": "Manés Simi",
+      "description": "Manx language option in the locale switcher."
+    },
+    "ha": {
+      "text": "Hausa Simi",
+      "description": "Hausa language option in the locale switcher."
+    },
+    "he": {
+      "text": "Hebreo Simi",
+      "description": "Hebrew language option in the locale switcher."
+    },
+    "hi": {
+      "text": "Hindi Simi",
+      "description": "Hindi language option in the locale switcher."
+    },
+    "ho": {
+      "text": "ho",
+      "description": "Hiri Motu language option in the locale switcher."
+    },
+    "hr": {
+      "text": "Croata Simi",
+      "description": "Croatian language option in the locale switcher."
+    },
+    "ht": {
+      "text": "Haitiano Criollo Simi",
+      "description": "Haitian Creole language option in the locale switcher."
+    },
+    "hu": {
+      "text": "Hungaro Simi",
+      "description": "Hungarian language option in the locale switcher."
+    },
+    "hy": {
+      "text": "Armenio Simi",
+      "description": "Armenian language option in the locale switcher."
+    },
+    "hz": {
+      "text": "Herero Simi",
+      "description": "Herero language option in the locale switcher."
+    },
+    "ia": {
+      "text": "Interlingua Simi",
+      "description": "Interlingua language option in the locale switcher."
+    },
+    "id": {
+      "text": "Indonesio Simi",
+      "description": "Indonesian language option in the locale switcher."
+    },
+    "ie": {
+      "text": "Interlingue Simi",
+      "description": "Interlingue language option in the locale switcher."
+    },
+    "ig": {
+      "text": "Igbo Simi",
+      "description": "Igbo language option in the locale switcher."
+    },
+    "ii": {
+      "text": "Yi Simi",
+      "description": "Sichuan Yi language option in the locale switcher."
+    },
+    "ik": {
+      "text": "ik",
+      "description": "Inupiaq language option in the locale switcher."
+    },
+    "io": {
+      "text": "Ido Simi",
+      "description": "Ido language option in the locale switcher."
+    },
+    "is": {
+      "text": "Islandes Simi",
+      "description": "Icelandic language option in the locale switcher."
+    },
+    "it": {
+      "text": "Italiano Simi",
+      "description": "Italian language option in the locale switcher."
+    },
+    "iu": {
+      "text": "Inuktitut Simi",
+      "description": "Inuktitut language option in the locale switcher."
+    },
+    "jv": {
+      "text": "Javanés Simi",
+      "description": "Javanese language option in the locale switcher."
+    },
+    "ka": {
+      "text": "Georgiano Simi",
+      "description": "Georgian language option in the locale switcher."
+    },
+    "kg": {
+      "text": "kg",
+      "description": "Kongo language option in the locale switcher."
+    },
+    "ki": {
+      "text": "Kikuyu Simi",
+      "description": "Kikuyu language option in the locale switcher."
+    },
+    "kj": {
+      "text": "Kuanyama Simi",
+      "description": "Kuanyama language option in the locale switcher."
+    },
+    "kk": {
+      "text": "Kazajo Simi",
+      "description": "Kazakh language option in the locale switcher."
+    },
+    "kl": {
+      "text": "Groenlandes Simi",
+      "description": "Kalaallisut language option in the locale switcher."
+    },
+    "km": {
+      "text": "Khmer Simi",
+      "description": "Khmer language option in the locale switcher."
+    },
+    "kn": {
+      "text": "Kannada Simi",
+      "description": "Kannada language option in the locale switcher."
+    },
+    "ko": {
+      "text": "Coreano Simi",
+      "description": "Korean language option in the locale switcher."
+    },
+    "kr": {
+      "text": "Kanuri Simi",
+      "description": "Kanuri language option in the locale switcher."
+    },
+    "ks": {
+      "text": "Cachemir Simi",
+      "description": "Kashmiri language option in the locale switcher."
+    },
+    "ku": {
+      "text": "Kurdo Simi",
+      "description": "Kurdish language option in the locale switcher."
+    },
+    "kv": {
+      "text": "Komi Simi",
+      "description": "Komi language option in the locale switcher."
+    },
+    "kw": {
+      "text": "Córnico Simi",
+      "description": "Cornish language option in the locale switcher."
+    },
+    "ky": {
+      "text": "Kirghiz Simi",
+      "description": "Kyrgyz language option in the locale switcher."
+    },
+    "la": {
+      "text": "Latín Simi",
+      "description": "Latin language option in the locale switcher."
+    },
+    "lb": {
+      "text": "Luxemburgues Simi",
+      "description": "Luxembourgish language option in the locale switcher."
+    },
+    "lg": {
+      "text": "Luganda Simi",
+      "description": "Ganda language option in the locale switcher."
+    },
+    "li": {
+      "text": "Limburgues Simi",
+      "description": "Limburgish language option in the locale switcher."
+    },
+    "ln": {
+      "text": "Lingala Simi",
+      "description": "Lingala language option in the locale switcher."
+    },
+    "lo": {
+      "text": "Lao Simi",
+      "description": "Lao language option in the locale switcher."
+    },
+    "lt": {
+      "text": "Lituano Simi",
+      "description": "Lithuanian language option in the locale switcher."
+    },
+    "lu": {
+      "text": "Luba-Katanga Simi",
+      "description": "Luba-Katanga language option in the locale switcher."
+    },
+    "lv": {
+      "text": "Leton Simi",
+      "description": "Latvian language option in the locale switcher."
+    },
+    "mg": {
+      "text": "Malgache Simi",
+      "description": "Malagasy language option in the locale switcher."
+    },
+    "mh": {
+      "text": "Marshallese Simi",
+      "description": "Marshallese language option in the locale switcher."
+    },
+    "mi": {
+      "text": "Maori Simi",
+      "description": "Māori language option in the locale switcher."
+    },
+    "mk": {
+      "text": "Macedonio Simi",
+      "description": "Macedonian language option in the locale switcher."
+    },
+    "ml": {
+      "text": "Malayalam Simi",
+      "description": "Malayalam language option in the locale switcher."
+    },
+    "mn": {
+      "text": "Mongol Simi",
+      "description": "Mongolian language option in the locale switcher."
+    },
+    "mr": {
+      "text": "Marathi Simi",
+      "description": "Marathi language option in the locale switcher."
+    },
+    "ms": {
+      "text": "Malayo Simi",
+      "description": "Malay language option in the locale switcher."
+    },
+    "mt": {
+      "text": "Maltes Simi",
+      "description": "Maltese language option in the locale switcher."
+    },
+    "my": {
+      "text": "Birmano Simi",
+      "description": "Burmese language option in the locale switcher."
+    },
+    "na": {
+      "text": "Nauru Simi",
+      "description": "Nauru language option in the locale switcher."
+    },
+    "nb": {
+      "text": "Noruego Bokmål Simi",
+      "description": "Norwegian Bokmål language option in the locale switcher."
+    },
+    "nd": {
+      "text": "Ndebele septentrional Simi",
+      "description": "North Ndebele language option in the locale switcher."
+    },
+    "ne": {
+      "text": "Nepali Simi",
+      "description": "Nepali language option in the locale switcher."
+    },
+    "ng": {
+      "text": "Ndonga Simi",
+      "description": "Ndonga language option in the locale switcher."
+    },
+    "nl": {
+      "text": "Neerlandes Simi",
+      "description": "Dutch language option in the locale switcher."
+    },
+    "nn": {
+      "text": "Noruego Nynorsk Simi",
+      "description": "Norwegian Nynorsk language option in the locale switcher."
+    },
+    "no": {
+      "text": "Noruego Simi",
+      "description": "Norwegian language option in the locale switcher."
+    },
+    "nr": {
+      "text": "Ndebele del Sur Simi",
+      "description": "South Ndebele language option in the locale switcher."
+    },
+    "nv": {
+      "text": "Navajo Simi",
+      "description": "Navajo language option in the locale switcher."
+    },
+    "ny": {
+      "text": "Nyanja Simi",
+      "description": "Nyanja language option in the locale switcher."
+    },
+    "oc": {
+      "text": "Occitano Simi",
+      "description": "Occitan language option in the locale switcher."
+    },
+    "oj": {
+      "text": "oj",
+      "description": "Ojibwa language option in the locale switcher."
+    },
+    "om": {
+      "text": "Oromo Simi",
+      "description": "Oromo language option in the locale switcher."
+    },
+    "or": {
+      "text": "Odia Simi",
+      "description": "Odia language option in the locale switcher."
+    },
+    "os": {
+      "text": "Osetio Simi",
+      "description": "Ossetic language option in the locale switcher."
+    },
+    "pa": {
+      "text": "Punyabi Simi",
+      "description": "Punjabi language option in the locale switcher."
+    },
+    "pi": {
+      "text": "pi",
+      "description": "Pali language option in the locale switcher."
+    },
+    "pl": {
+      "text": "Polaco Simi",
+      "description": "Polish language option in the locale switcher."
+    },
+    "ps": {
+      "text": "Pashto Simi",
+      "description": "Pashto language option in the locale switcher."
+    },
+    "pt": {
+      "text": "Portugues Simi",
+      "description": "Portuguese language option in the locale switcher."
+    },
+    "qu": {
+      "text": "Runasimi",
+      "description": "Quechua language option in the locale switcher."
+    },
+    "rm": {
+      "text": "Romanche Simi",
+      "description": "Romansh language option in the locale switcher."
+    },
+    "rn": {
+      "text": "Rundi Simi",
+      "description": "Rundi language option in the locale switcher."
+    },
+    "ro": {
+      "text": "Rumano Simi",
+      "description": "Romanian language option in the locale switcher."
+    },
+    "ru": {
+      "text": "Ruso Simi",
+      "description": "Russian language option in the locale switcher."
+    },
+    "rw": {
+      "text": "Kinyarwanda Simi",
+      "description": "Kinyarwanda language option in the locale switcher."
+    },
+    "sa": {
+      "text": "Sanscrito Simi",
+      "description": "Sanskrit language option in the locale switcher."
+    },
+    "sc": {
+      "text": "Sardinian Simi",
+      "description": "Sardinian language option in the locale switcher."
+    },
+    "sd": {
+      "text": "Sindhi Simi",
+      "description": "Sindhi language option in the locale switcher."
+    },
+    "se": {
+      "text": "Chincha Sami Simi",
+      "description": "Northern Sami language option in the locale switcher."
+    },
+    "sg": {
+      "text": "Sango Simi",
+      "description": "Sango language option in the locale switcher."
+    },
+    "sh": {
+      "text": "Serbio Simi (Latin Simi)",
+      "description": "Serbian (Latin) language option in the locale switcher."
+    },
+    "si": {
+      "text": "Cingales Simi",
+      "description": "Sinhala language option in the locale switcher."
+    },
+    "sk": {
+      "text": "Eslovaco Simi",
+      "description": "Slovak language option in the locale switcher."
+    },
+    "sl": {
+      "text": "Esloveno Simi",
+      "description": "Slovenian language option in the locale switcher."
+    },
+    "sm": {
+      "text": "Samoano Simi",
+      "description": "Samoan language option in the locale switcher."
+    },
+    "sn": {
+      "text": "Shona Simi",
+      "description": "Shona language option in the locale switcher."
+    },
+    "so": {
+      "text": "Somali Simi",
+      "description": "Somali language option in the locale switcher."
+    },
+    "sq": {
+      "text": "Albanes Simi",
+      "description": "Albanian language option in the locale switcher."
+    },
+    "sr": {
+      "text": "Serbio Simi",
+      "description": "Serbian language option in the locale switcher."
+    },
+    "ss": {
+      "text": "Swati Simi",
+      "description": "Swati language option in the locale switcher."
+    },
+    "st": {
+      "text": "Soto Meridional Simi",
+      "description": "Southern Sotho language option in the locale switcher."
+    },
+    "su": {
+      "text": "Sundanés Simi",
+      "description": "Sundanese language option in the locale switcher."
+    },
+    "sv": {
+      "text": "Sueco Simi",
+      "description": "Swedish language option in the locale switcher."
+    },
+    "sw": {
+      "text": "Suajili Simi",
+      "description": "Swahili language option in the locale switcher."
+    },
+    "ta": {
+      "text": "Tamil Simi",
+      "description": "Tamil language option in the locale switcher."
+    },
+    "te": {
+      "text": "Telugu Simi",
+      "description": "Telugu language option in the locale switcher."
+    },
+    "tg": {
+      "text": "Tayiko Simi",
+      "description": "Tajik language option in the locale switcher."
+    },
+    "th": {
+      "text": "Tailandes Simi",
+      "description": "Thai language option in the locale switcher."
+    },
+    "ti": {
+      "text": "Tigriña Simi",
+      "description": "Tigrinya language option in the locale switcher."
+    },
+    "tk": {
+      "text": "Turcomano Simi",
+      "description": "Turkmen language option in the locale switcher."
+    },
+    "tl": {
+      "text": "Filipino Simi",
+      "description": "Filipino language option in the locale switcher."
+    },
+    "tn": {
+      "text": "Setsuana Simi",
+      "description": "Tswana language option in the locale switcher."
+    },
+    "to": {
+      "text": "Tongano Simi",
+      "description": "Tongan language option in the locale switcher."
+    },
+    "tr": {
+      "text": "Turco Simi",
+      "description": "Turkish language option in the locale switcher."
+    },
+    "ts": {
+      "text": "Tsonga Simi",
+      "description": "Tsonga language option in the locale switcher."
+    },
+    "tt": {
+      "text": "Tartaro Simi",
+      "description": "Tatar language option in the locale switcher."
+    },
+    "tw": {
+      "text": "Akan Simi",
+      "description": "Akan language option in the locale switcher."
+    },
+    "ty": {
+      "text": "Tahití Simi",
+      "description": "Tahitian language option in the locale switcher."
+    },
+    "ug": {
+      "text": "Uigur Simi",
+      "description": "Uyghur language option in the locale switcher."
+    },
+    "uk": {
+      "text": "Ucraniano Simi",
+      "description": "Ukrainian language option in the locale switcher."
+    },
+    "ur": {
+      "text": "Urdu Simi",
+      "description": "Urdu language option in the locale switcher."
+    },
+    "uz": {
+      "text": "Uzbeko Simi",
+      "description": "Uzbek language option in the locale switcher."
+    },
+    "ve": {
+      "text": "Venda Simi",
+      "description": "Venda language option in the locale switcher."
+    },
+    "vi": {
+      "text": "Vietnamita Simi",
+      "description": "Vietnamese language option in the locale switcher."
+    },
+    "vo": {
+      "text": "Volapük Simi",
+      "description": "Volapük language option in the locale switcher."
+    },
+    "wa": {
+      "text": "Valona Simi",
+      "description": "Walloon language option in the locale switcher."
+    },
+    "wo": {
+      "text": "Wolof Simi",
+      "description": "Wolof language option in the locale switcher."
+    },
+    "xh": {
+      "text": "Isixhosa Simi",
+      "description": "Xhosa language option in the locale switcher."
+    },
+    "yi": {
+      "text": "Yiddish Simi",
+      "description": "Yiddish language option in the locale switcher."
+    },
+    "yo": {
+      "text": "Yoruba Simi",
+      "description": "Yoruba language option in the locale switcher."
+    },
+    "za": {
+      "text": "Zhuang",
+      "description": "Zhuang language option in the locale switcher."
+    },
+    "zh": {
+      "text": "Chino Simi",
+      "description": "Chinese language option in the locale switcher."
+    },
+    "zu": {
+      "text": "Isizulu Simi",
+      "description": "Zulu language option in the locale switcher."
     }
   }
 }
