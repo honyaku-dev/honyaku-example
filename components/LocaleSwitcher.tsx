@@ -2,8 +2,7 @@
 
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
-import { routing } from "@/i18n/routing";
-import localeLabels from "@/i18n/locale.json";
+import { localeEntries } from "@/i18n/routing";
 
 export function LocaleSwitcher() {
   const t = useTranslations("LocaleSwitcher");
@@ -22,9 +21,9 @@ export function LocaleSwitcher() {
       aria-label={t("label")}
       className="rounded-lg border border-zinc-300 bg-white px-3 py-1.5 text-sm dark:border-zinc-700 dark:bg-zinc-800"
     >
-      {routing.locales.map((loc) => (
-        <option key={loc} value={loc}>
-          {localeLabels[loc as keyof typeof localeLabels] ?? loc}
+      {localeEntries.map(([localeCode, localeLabel]) => (
+        <option key={localeCode} value={localeCode}>
+          {localeLabel}
         </option>
       ))}
     </select>
