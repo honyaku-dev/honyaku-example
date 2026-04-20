@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Wrâldkeuken",
+      "description": "Namme fan de app werjûn yn de koptekst. In resept ûntdekkingsapp foar wrâldkeukens."
+    },
+    "subtitle": {
+      "text": "Untdek resepten fan oer de hiele wrâld",
+      "description": "Slogan ûnder de appnamme yn de koptekst."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Untdek wrâldsmaken",
+      "description": "Haadkop yn it haadôfbyldingsgebiet fan de thússide."
+    },
+    "heroSubtitle": {
+      "text": "Blêdzje troch autentike resepten út keukens fan oer de hiele wrâld",
+      "description": "Ûndertitel dy't ûnder de haadkop yn it haadôfbyldingsgebiet fan de thússide wurdt werjûn."
+    },
+    "featuredTitle": {
+      "text": "Útlicht resepten",
+      "description": "Sekseartitel dy't boppe it reseptkaartroaster wurdt werjûn."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Tiid foar it koken op in reseptkaart. {minutes} wurdt ferfongen troch it tal minuten."
+    },
+    "difficulty": {
+      "text": "Moeilijkheid",
+      "description": "Label dat foar de mooglikheidsnivo op in reseptkaart wurdt werjûn."
+    },
+    "easy": {
+      "text": "Makke",
+      "description": "Label foar in maklik resept."
+    },
+    "medium": {
+      "text": "Middel",
+      "description": "Label foar in middelmooglik resept."
+    },
+    "hard": {
+      "text": "Moeilijk",
+      "description": "Label foar in dreech resept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Taal",
+      "description": "Tagonklik label foar de taalwikselaar dropdown yn de koptekst."
+    },
+    "en": {
+      "text": "Ingelsk",
+      "description": "Ingelske taalopsje yn de taalwikselaar."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanske taalopsje yn de taalwikselaar."
+    },
+    "es": {
+      "text": "Spaansk",
+      "description": "Spaanske taalopsje yn de taalwikselaar."
+    }
+  }
+}

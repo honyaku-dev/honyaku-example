@@ -1,25 +1,25 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Cooishyn y Theay",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Faagail cooishyn dy jarroo ny theayryn",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Foghlaim Blassyn y Theay",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Foddee cooishyn fakinagh dy jarroo ny theayryn",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Cooishyn Gollrish",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
@@ -29,37 +29,37 @@
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Cheet dy Jannoo",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Smooinaghtagh",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Meinagh",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Cre'n-chre'n",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Gaaelg",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Baarle",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Español",
       "description": "Spanish language option in the locale switcher."
     }
   }

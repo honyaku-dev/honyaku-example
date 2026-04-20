@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Máilmmi Biebmu",
+      "description": "Appnamma mii galgá buktit headeris. Recepta dárkilvuohta-appa máilmmi biebmuid gaskkas."
+    },
+    "subtitle": {
+      "text": "Dárkilvvu receptaid máilmmi gaskkas",
+      "description": "Tagline mii galgá buktit appnamma jienain headeris."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Dárkilvvu Máilmmi Máttuid",
+      "description": "Ovddidit gávpogis hero-osassa."
+    },
+    "heroSubtitle": {
+      "text": "Válddejuvvot autenttalaš receptaid biebmuid gaskkas",
+      "description": "Subtitle galbmahero ovddidit gávpogis."
+    },
+    "featuredTitle": {
+      "text": "Njuolgga receptaid",
+      "description": "Osahuvvon galbma recepta kortta ruovttoluotta."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Biebmuid áiggái recepta kortta. {minutes} lea vaihtejuvvon minuttain nuorra."
+    },
+    "difficulty": {
+      "text": "Váldit",
+      "description": "Galbma recepta korttas válddi luhtteheapmi."
+    },
+    "easy": {
+      "text": "Luhtte",
+      "description": "Válddi luhtteheahtta recepta."
+    },
+    "medium": {
+      "text": "Meahcci",
+      "description": "Válddi meahcci luhtteheahtta recepta."
+    },
+    "hard": {
+      "text": "Heittolaš",
+      "description": "Válddi heittolaš recepta."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Giella",
+      "description": "Giella válddolaš dropdown headeris."
+    },
+    "en": {
+      "text": "Englannagiella",
+      "description": "Englannagiella váldde locale switcheris."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japála giella váldde locale switcheris."
+    },
+    "es": {
+      "text": "Spánskka",
+      "description": "Spánskka giella váldde locale switcheris."
+    }
+  }
+}

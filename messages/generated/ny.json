@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Mphepo wa Dziko",
+      "description": "Dzina la pulogalamu likuwonetsedwa pa mutu. Pulogalamu ya kupeza mapangidwe a chakudya cha dziko lonse."
+    },
+    "subtitle": {
+      "text": "Pezani mapangidwe a chakudya kuchokera padziko lonse",
+      "description": "Malemba omwe amawonetsedwa pansi pa dzina la pulogalamu pa mutu."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Sankhani Zosiyanasiyana za Padziko Lonse",
+      "description": "Mutu waukulu pa gawo la tsamba loyamba."
+    },
+    "heroSubtitle": {
+      "text": "Sankhani mapangidwe enieni kuchokera m'nyumba zosiyanasiyana padziko lonse",
+      "description": "Malemba owerengera oonekera pansi pa mutu waukulu pa tsamba loyamba."
+    },
+    "featuredTitle": {
+      "text": "Mapangidwe Otchuka",
+      "description": "Mutu wa gawo likuwonetsedwa pamwamba pa grid ya makadi a mapangidwe."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} mphindi",
+      "description": "Malemba a nthawi yophikira pa kadikadi ka mapangidwe. {minutes} imasinthidwa ndi chiwerengero cha mphindi."
+    },
+    "difficulty": {
+      "text": "Zovuta",
+      "description": "Malemba omwe amawonetsedwa pamaso pa mulingo wa zovuta pa kadikadi ka mapangidwe."
+    },
+    "easy": {
+      "text": "Zosavuta",
+      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe osavuta."
+    },
+    "medium": {
+      "text": "Pakati",
+      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta pang'ono."
+    },
+    "hard": {
+      "text": "Ovuta",
+      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Chilankhulo",
+      "description": "Dzina lopezeka kwa wosankha chilankhulo mu chikwatu cha mutu."
+    },
+    "en": {
+      "text": "Chingerezi",
+      "description": "Kusankha chilankhulo cha Chingerezi mu wosankha chilankhulo."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Kusankha chilankhulo cha Chijapani mu wosankha chilankhulo."
+    },
+    "es": {
+      "text": "Chisipanishi",
+      "description": "Kusankha chilankhulo cha Chisipanishi mu wosankha chilankhulo."
+    }
+  }
+}

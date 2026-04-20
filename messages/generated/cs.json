@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Světová Kuchyně",
+      "description": "Název aplikace zobrazený v hlavičce. Aplikace pro objevování receptů světových kuchyní."
+    },
+    "subtitle": {
+      "text": "Objevte recepty z celého světa",
+      "description": "Slogan zobrazený pod názvem aplikace v hlavičce."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Prozkoumejte globální chutě",
+      "description": "Hlavní nadpis v úvodní části domovské stránky."
+    },
+    "heroSubtitle": {
+      "text": "Prohlížejte si autentické recepty z kuchyní po celém světě",
+      "description": "Podtitul zobrazený pod hlavním nadpisem na domovské stránce."
+    },
+    "featuredTitle": {
+      "text": "Doporučené recepty",
+      "description": "Nadpis sekce zobrazený nad mřížkou karet receptů."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Štítek doby vaření na kartě receptu. {minutes} je nahrazen počtem minut."
+    },
+    "difficulty": {
+      "text": "Obtížnost",
+      "description": "Štítek zobrazený před úrovní obtížnosti na kartě receptu."
+    },
+    "easy": {
+      "text": "Jednoduché",
+      "description": "Štítek úrovně obtížnosti označující snadný recept."
+    },
+    "medium": {
+      "text": "Střední",
+      "description": "Štítek úrovně obtížnosti označující středně obtížný recept."
+    },
+    "hard": {
+      "text": "Těžké",
+      "description": "Štítek úrovně obtížnosti označující náročný recept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Jazyk",
+      "description": "Přístupný štítek pro rozbalovací nabídku přepínače jazyků v hlavičce."
+    },
+    "en": {
+      "text": "Angličtina",
+      "description": "Volba anglického jazyka v přepínači lokalizace."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Volba japonského jazyka v přepínači lokalizace."
+    },
+    "es": {
+      "text": "Španělština",
+      "description": "Volba španělského jazyka v přepínači lokalizace."
+    }
+  }
+}

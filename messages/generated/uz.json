@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dunyo Oshxonasi",
+      "description": "Sarlavhada ko'rsatiladigan ilova nomi. Dunyo taomlari uchun retseptlarni topish ilovasi."
+    },
+    "subtitle": {
+      "text": "Dunyo bo'ylab retseptlarni kashf eting",
+      "description": "Sarlavha ostida ilova nomi yonida ko'rsatiladigan shior."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Global Ta'mlarni Kashf Qiling",
+      "description": "Uy sahifasining asosiy sarlavhasi."
+    },
+    "heroSubtitle": {
+      "text": "Dunyo oshxonalaridan haqiqiy retseptlarni ko'rib chiqing",
+      "description": "Uy sahifasidagi asosiy sarlavha ostida ko'rsatiladigan kichik sarlavha."
+    },
+    "featuredTitle": {
+      "text": "Tavsiya etilgan retseptlar",
+      "description": "Retsept kartalari jadvali ustida ko'rsatiladigan bo'lim sarlavhasi."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} daq",
+      "description": "Retsept kartasidagi pishirish vaqti yorlig'i. {minutes} daqiqalar soni bilan almashtiriladi."
+    },
+    "difficulty": {
+      "text": "Qiyinchilik darajasi",
+      "description": "Retsept kartasida qiyinchilik darajasi oldidan ko'rsatiladigan yorliq."
+    },
+    "easy": {
+      "text": "Oson",
+      "description": "Oson retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+    },
+    "medium": {
+      "text": "O'rtacha",
+      "description": "O'rtacha qiyinchilikdagi retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+    },
+    "hard": {
+      "text": "Qiyin",
+      "description": "Qiyin retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Til",
+      "description": "Sarlavhadagi til almashgich uchun kirish yorlig'i."
+    },
+    "en": {
+      "text": "Inglizcha",
+      "description": "Til almashgichdagi ingliz tili varianti."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Til almashgichdagi yapon tili varianti."
+    },
+    "es": {
+      "text": "Ispancha",
+      "description": "Til almashgichdagi ispan tili varianti."
+    }
+  }
+}

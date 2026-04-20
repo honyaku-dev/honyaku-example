@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Jach'a Uta",
+      "description": "App sutiy jach'a uta uñt'ayatawa. Jach'a markanakan manq'atak utjkaspawa."
+    },
+    "subtitle": {
+      "text": "Jach'a markanakampi manq'atak uñt'añani",
+      "description": "App sutiy uñt'ayatawa jach'a uta q'ipir ukan."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Jach'a Markanakan Manq'atak Uñt'añani",
+      "description": "Jach'a uta q'ipir ukan jach'a sutinak."
+    },
+    "heroSubtitle": {
+      "text": "Jach'a markanakan manq'atak utjkaspawa",
+      "description": "Jach'a uta q'ipir ukan jach'a sutinakar uñt'ayata."
+    },
+    "featuredTitle": {
+      "text": "Manq'atak Uñt'ayasiñatak Uñt'ayasiñani",
+      "description": "Manq'atak q'ipirinakan uñt'ayatawa ukhamaraki manq'atak uñt'ayasiñatak."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} minutu",
+      "description": "Manq'atak utjkaspawa q'ipirinakan uñt'ayata. {minutes} minutu qillqt'añani."
+    },
+    "difficulty": {
+      "text": "Sutichäwi",
+      "description": "Manq'atak utjkaspawa q'ipirinak uñt'ayasiñapataki."
+    },
+    "easy": {
+      "text": "Suti",
+      "description": "Sutichäwi jach'a amuyt'äwi manq'atak."
+    },
+    "medium": {
+      "text": "Ch'axwäwi",
+      "description": "Sutichäwi ch'axwäwi manq'atak."
+    },
+    "hard": {
+      "text": "Jach'a ch'axwäwi",
+      "description": "Sutichäwi jach'a ch'axwäwi manq'atak."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Aruskipawi",
+      "description": "Aruskipawi qillqt'awinak uñt'ayasiñapataki."
+    },
+    "en": {
+      "text": "Inglés",
+      "description": "Inglés aruskipawi qillqt'awi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japón aruskipawi qillqt'awi."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Español aruskipawi qillqt'awi."
+    }
+  }
+}

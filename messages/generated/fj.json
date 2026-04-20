@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "World Kitchen",
+      "description": "Yaca ni app e vakaraitaki ena header. Na app ni raica ni ivakamacala ni kakana ni vuravura."
+    },
+    "subtitle": {
+      "text": "Raica na ivakamacala mai na veivanua kece e vuravura",
+      "description": "Tagline e vakaraitaki ena ruku ni yaca ni app ena header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Raica na Lolo Vuravura",
+      "description": "Ulutaga levu ena tabana hero ni mataveilawa."
+    },
+    "heroSubtitle": {
+      "text": "Raica na ivakamacala dina mai na loma ni vale ni kakana e vuravura taucoko",
+      "description": "Ulutaga loma e vakaraitaki ena ruku ni ulutaga hero ena mataveilawa."
+    },
+    "featuredTitle": {
+      "text": "Ivakamacala e Veikilai",
+      "description": "Ulutaga ni tabana e vakaraitaki ena ruku ni kaadi ni ivakamacala."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} miniti",
+      "description": "Ulutaga ni gauna ni vakakokoroi ena kaadi ni ivakamacala. {minutes} e vakacurumi ena iwiliwili ni miniti."
+    },
+    "difficulty": {
+      "text": "Levu ni dredre",
+      "description": "Ulutaga e vakaraitaki ena matamata ni levu ni dredre ena kaadi ni ivakamacala."
+    },
+    "easy": {
+      "text": "Tiko ga",
+      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e rawarawa."
+    },
+    "medium": {
+      "text": "Tiko vakatabakidua",
+      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre vakatabakidua."
+    },
+    "hard": {
+      "text": "Dredre",
+      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Vosa",
+      "description": "Ulutaga e rawa ni raica na tamata ena dropdown ni veisau ni vosa ena header."
+    },
+    "en": {
+      "text": "Vakavalagi",
+      "description": "Vosa vakavalagi ena veisau ni vosa."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Vosa vakaJapenese ena veisau ni vosa."
+    },
+    "es": {
+      "text": "Vosa Sepania",
+      "description": "Vosa vakaSepania ena veisau ni vosa."
+    }
+  }
+}

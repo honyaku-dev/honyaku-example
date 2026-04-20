@@ -1,65 +1,65 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Bếp Thế Giới",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Khám phá công thức nấu ăn từ khắp thế giới",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Khám Phá Hương Vị Toàn Cầu",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Duyệt qua các công thức nấu ăn chính thống từ các nhà bếp trên toàn thế giới",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Công Thức Nổi Bật",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
   "RecipeCard": {
     "cookingTime": {
-      "text": "{minutes} min",
+      "text": "{minutes} phút",
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Độ Khó",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Dễ",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Trung Bình",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Khó",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Ngôn Ngữ",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Tiếng Anh",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Tiếng Tây Ban Nha",
       "description": "Spanish language option in the locale switcher."
     }
   }

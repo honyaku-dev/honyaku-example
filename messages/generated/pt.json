@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cozinha Mundial",
+      "description": "Nome do aplicativo exibido no cabeçalho. Um aplicativo de descoberta de receitas de cozinhas do mundo."
+    },
+    "subtitle": {
+      "text": "Descubra receitas do mundo todo",
+      "description": "Slogan exibido abaixo do nome do aplicativo no cabeçalho."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explore Sabores Globais",
+      "description": "Título principal na seção hero da página inicial."
+    },
+    "heroSubtitle": {
+      "text": "Navegue por receitas autênticas de cozinhas ao redor do mundo",
+      "description": "Texto do subtítulo exibido abaixo do título hero na página inicial."
+    },
+    "featuredTitle": {
+      "text": "Receitas em Destaque",
+      "description": "Título da seção exibido acima da grade de cartões de receitas."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Rótulo de tempo de cozimento em um cartão de receita. {minutes} é substituído pelo número de minutos."
+    },
+    "difficulty": {
+      "text": "Dificuldade",
+      "description": "Rótulo exibido antes do nível de dificuldade em um cartão de receita."
+    },
+    "easy": {
+      "text": "Fácil",
+      "description": "Rótulo de nível de dificuldade indicando uma receita fácil."
+    },
+    "medium": {
+      "text": "Médio",
+      "description": "Rótulo de nível de dificuldade indicando uma receita moderadamente difícil."
+    },
+    "hard": {
+      "text": "Difícil",
+      "description": "Rótulo de nível de dificuldade indicando uma receita difícil."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Idioma",
+      "description": "Rótulo acessível para o menu suspenso de seleção de idioma no cabeçalho."
+    },
+    "en": {
+      "text": "Inglês",
+      "description": "Opção de idioma inglês no seletor de localidade."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opção de idioma japonês no seletor de localidade."
+    },
+    "es": {
+      "text": "Espanhol",
+      "description": "Opção de idioma espanhol no seletor de localidade."
+    }
+  }
+}

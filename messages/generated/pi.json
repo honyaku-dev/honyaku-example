@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Loka Pākakāma",
+      "description": "App nāma yassa sirase paṭimaṇḍale paṭipajjati. Loka bhojanasaṅkhāra paricchinnāni pariggahā app."
+    },
+    "subtitle": {
+      "text": "Lokaṭṭhānaṃ paṭipannāni pākakāmaṃ pariggahatha",
+      "description": "App nāmena anuvattamāna sirase paṭimaṇḍalaṭṭhena paṭipajjati."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Loka Rucīsu Paṭipajjatha",
+      "description": "Gharapāṭhaṃ sirase mukhya upasaṃhāro."
+    },
+    "heroSubtitle": {
+      "text": "Loka pākagharānaṃ saddhammapākakāmani pariggahatha",
+      "description": "Gharapāṭhe sirase upasaṃhāro vākyato."
+    },
+    "featuredTitle": {
+      "text": "Pākatthāni Paṭipajjitāni",
+      "description": "Pākakāma patikāmaṇḍalassa uparipāṭhaṃ."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} nimaṃ",
+      "description": "Pākatthassa kālaṃ paṭikāya. {minutes} nimittaṃ nimittakālo."
+    },
+    "difficulty": {
+      "text": "Dukkhatā",
+      "description": "Pākatthassa dukkhatāṃ purimāya paṭikāya."
+    },
+    "easy": {
+      "text": "Sukhaṃ",
+      "description": "Sukhena pākakāmaṃ nītatā."
+    },
+    "medium": {
+      "text": "Majjhimaṃ",
+      "description": "Majjhima dukkhatā pākakāmaṃ nītatā."
+    },
+    "hard": {
+      "text": "Dukkaṭaṃ",
+      "description": "Dukkaṭena pākakāmaṃ nītatā."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Vācā",
+      "description": "Sirase vācā badhakoṭṭhāsaṃ paricchindati."
+    },
+    "en": {
+      "text": "Aṅgālīsa",
+      "description": "Vācā badhakoṭṭhāse aṅgālīsa vācā."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Vācā badhakoṭṭhāse japonīsa vācā."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Vācā badhakoṭṭhāse espāṇiyā vācā."
+    }
+  }
+}

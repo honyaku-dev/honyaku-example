@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "월드 키친",
+      "description": "헤더에 표시되는 앱 이름. 세계 각국의 요리법을 발견하는 앱입니다."
+    },
+    "subtitle": {
+      "text": "전 세계의 레시피를 발견하세요",
+      "description": "헤더에서 앱 이름 아래에 표시되는 태그라인입니다."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "글로벌 맛 탐험",
+      "description": "홈 페이지 히어로 섹션의 주요 제목입니다."
+    },
+    "heroSubtitle": {
+      "text": "전 세계 주방의 진정한 레시피를 둘러보세요",
+      "description": "홈 페이지 히어로 제목 아래에 표시되는 부제목 텍스트입니다."
+    },
+    "featuredTitle": {
+      "text": "추천 레시피",
+      "description": "레시피 카드 그리드 위에 표시되는 섹션 제목입니다."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes}분",
+      "description": "레시피 카드의 조리 시간 라벨입니다. {minutes}는 분 수로 대체됩니다."
+    },
+    "difficulty": {
+      "text": "난이도",
+      "description": "레시피 카드에서 난이도 수준 앞에 표시되는 라벨입니다."
+    },
+    "easy": {
+      "text": "쉬움",
+      "description": "쉬운 레시피임을 나타내는 난이도 수준 라벨입니다."
+    },
+    "medium": {
+      "text": "중간",
+      "description": "보통 난이도의 레시피임을 나타내는 난이도 수준 라벨입니다."
+    },
+    "hard": {
+      "text": "어려움",
+      "description": "어려운 레시피임을 나타내는 난이도 수준 라벨입니다."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "언어",
+      "description": "헤더의 언어 전환 드롭다운에 대한 접근 가능한 라벨입니다."
+    },
+    "en": {
+      "text": "영어",
+      "description": "로케일 스위처에서 영어 옵션입니다."
+    },
+    "ja": {
+      "text": "일본어",
+      "description": "로케일 스위처에서 일본어 옵션입니다."
+    },
+    "es": {
+      "text": "스페인어",
+      "description": "로케일 스위처에서 스페인어 옵션입니다."
+    }
+  }
+}

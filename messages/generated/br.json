@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Gouel Douar",
+      "description": "Anv ar raktres gwelet e penn-kentañ. Ur raktres dizoleiñ resisadurioù evit pladennoù etrebroadel."
+    },
+    "subtitle": {
+      "text": "Dizoloiñ resisadurioù eus an holl ledanv",
+      "description": "Lodenn islinenn diskouezet dindan anv ar raktres e penn-kentañ."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Klask taolioù blaz bedel",
+      "description": "Pajenn penn kentañ e live ar c'hentañ pennad bras."
+    },
+    "heroSubtitle": {
+      "text": "Hag a rae resisadurioù gwirion eus kichennoù an holl bed",
+      "description": "Islinenn diskouezet dindan pennad bras ar pajenn gentañ."
+    },
+    "featuredTitle": {
+      "text": "Resisadurioù Dibabet",
+      "description": "Pennad evit ar rann war dachenn ar gartenn resisad."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Lezel amzer kegin war ur gartenn resisad. {minutes} a vo evezhiet gant niver ar munutennoù."
+    },
+    "difficulty": {
+      "text": "Dreistder",
+      "description": "Lezel a-raok live dreistder war ur gartenn resisad."
+    },
+    "easy": {
+      "text": "Simpel",
+      "description": "Lezel live dreistder a zispleg ur resisad aes."
+    },
+    "medium": {
+      "text": "Keuz",
+      "description": "Lezel live dreistder a zispleg ur resisad keuzus e-keñver dreistder."
+    },
+    "hard": {
+      "text": "Krenn",
+      "description": "Lezel live dreistder a zispleg ur resisad kreñv."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Yezh",
+      "description": "Lezel aes da gavout evit dibab yezh e-barzh an droad-kentañ."
+    },
+    "en": {
+      "text": "Saezh",
+      "description": "Dibab yezh saezh e-barzh an emzalc'h yezhoù."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Dibab yezh japaneg e-barzh an emzalc'h yezhoù."
+    },
+    "es": {
+      "text": "Spagnoleg",
+      "description": "Dibab yezh spagnoleg e-barzh an emzalc'h yezhoù."
+    }
+  }
+}

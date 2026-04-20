@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Likhishi LeMhlaba",
+      "description": "Ligama le-app leboniswa ekhanda. I-app yokutfola tincwadzi tekupheka temakhandlela emhlabeni wonke."
+    },
+    "subtitle": {
+      "text": "Tfolani tincwadzi tekupheka tema emhlabeni wonke",
+      "description": "Iteksti lenesihloko leniboniswa ngaphansi kwegama le-app ekhanda."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Hlola Tintfo Letimnandzi Tema Mhlaba Wonkhe",
+      "description": "Isihloko lesikhulu esigabeni se-hero ekhasini lasekhaya."
+    },
+    "heroSubtitle": {
+      "text": "Buka tincwadzi letitfutfukisiwe letivela emakhishini emhlabeni wonke",
+      "description": "Iteksti lenesihloko leniboniswa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
+    },
+    "featuredTitle": {
+      "text": "Tincwadzi Tekupheka Letiveziwe",
+      "description": "Isihloko sesigaba lesiboniswa phezulu kwegridi yekhadikhadi lelipheka."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} imizuzu",
+      "description": "Ligama lesikhatsi sekupheka ekhadikhadini lelipheka. {minutes} futsi lifakwa nenombolo yemizuzu."
+    },
+    "difficulty": {
+      "text": "Kubucayi",
+      "description": "Ligama lebekwe ngaphambi kweleveli yekubucayi ekhadikhadini lelipheka."
+    },
+    "easy": {
+      "text": "Kulula",
+      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka kulula."
+    },
+    "medium": {
+      "text": "Phakathi",
+      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lesiphakathi."
+    },
+    "hard": {
+      "text": "Linzima",
+      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lenzima."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lulwimi",
+      "description": "Ligama lekwenta kube lula kutsi utfole lulwimi lwekushintja ekhanda."
+    },
+    "en": {
+      "text": "IsiNgisi",
+      "description": "Inkhetfo yelulwimi lwesiNgisi ekushintjweni kwelulwimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Inkhetfo yelulwimi lwesiJapan ekushintjweni kwelulwimi."
+    },
+    "es": {
+      "text": "IsiSpanishi",
+      "description": "Inkhetfo yelulwimi lwesiSpanishi ekushintjweni kwelulwimi."
+    }
+  }
+}

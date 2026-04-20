@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Bucătăria Lumii",
+      "description": "Numele aplicației afișat în antet. O aplicație pentru descoperirea rețetelor din bucătăriile lumii."
+    },
+    "subtitle": {
+      "text": "Descoperă rețete din întreaga lume",
+      "description": "Slogan afișat sub numele aplicației în antet."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explorează Aromele Globale",
+      "description": "Titlul principal din secțiunea eroică a paginii de start."
+    },
+    "heroSubtitle": {
+      "text": "Răsfoiește rețete autentice din bucătării din întreaga lume",
+      "description": "Textul subtitlu afișat sub titlul eroic pe pagina de start."
+    },
+    "featuredTitle": {
+      "text": "Rețete Recomandate",
+      "description": "Titlul secțiunii afișat deasupra grilei cu carduri de rețete."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Eticheta timpului de gătit pe un card de rețetă. {minutes} este înlocuit cu numărul de minute."
+    },
+    "difficulty": {
+      "text": "Dificultate",
+      "description": "Eticheta afișată înaintea nivelului de dificultate pe un card de rețetă."
+    },
+    "easy": {
+      "text": "Ușor",
+      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă ușoară."
+    },
+    "medium": {
+      "text": "Mediu",
+      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă moderat dificilă."
+    },
+    "hard": {
+      "text": "Dificil",
+      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă dificilă."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Limbă",
+      "description": "Eticheta accesibilă pentru meniul dropdown de schimbare a limbii din antet."
+    },
+    "en": {
+      "text": "Engleză",
+      "description": "Opțiunea limbii engleze în selectorul de limbă."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opțiunea limbii japoneze în selectorul de limbă."
+    },
+    "es": {
+      "text": "Spaniolă",
+      "description": "Opțiunea limbii spaniole în selectorul de limbă."
+    }
+  }
+}

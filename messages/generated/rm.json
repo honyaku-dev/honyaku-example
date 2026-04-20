@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cuschina Mundiala",
+      "description": "Num da l'app mussà en l'entira. Ina app per scuvrir retschas da cusinas mundialas."
+    },
+    "subtitle": {
+      "text": "Descuvrir retschas da tut il mund",
+      "description": "Slogan mussà sut il num da l'app en l'entira."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explorar gusts globals",
+      "description": "Titul principal en la part hero da la pagina d'entschatta."
+    },
+    "heroSubtitle": {
+      "text": "Navigar tras retschas autenticas da cuschinas da tut il mund",
+      "description": "Text da sutitul mussà sut il titul hero en la pagina d'entschatta."
+    },
+    "featuredTitle": {
+      "text": "Retschas en evidenza",
+      "description": "Titul da la secziun mussà sur la griglia da cartas da retschas."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Label per il temp da cuschinar sin ina carta da retscha. {minutes} vegn remplazzà cun il dumber da minutas."
+    },
+    "difficulty": {
+      "text": "Difficultad",
+      "description": "Label mussà avant il nivel da difficultad sin ina carta da retscha."
+    },
+    "easy": {
+      "text": "Facil",
+      "description": "Label dal nivel da difficultad che inditgescha ina retscha simpla."
+    },
+    "medium": {
+      "text": "Mesaun",
+      "description": "Label dal nivel da difficultad che inditgescha ina retscha d'ina difficultad mesauna."
+    },
+    "hard": {
+      "text": "Difficult",
+      "description": "Label dal nivel da difficultad che inditgescha ina retscha difficila."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lingua",
+      "description": "Label accessibel per la glisadressa da lingua en l'entira."
+    },
+    "en": {
+      "text": "Englais",
+      "description": "Opziun per la lingua englaisa en la glisadressa da lingua."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opziun per la lingua giapunaisa en la glisadressa da lingua."
+    },
+    "es": {
+      "text": "Spagnol",
+      "description": "Opziun per la lingua spagnola en la glisadressa da lingua."
+    }
+  }
+}

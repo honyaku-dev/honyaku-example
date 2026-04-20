@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Svjetska Kuhinja",
+      "description": "Naziv aplikacije prikazan u zaglavlju. Aplikacija za otkrivanje recepata svjetskih kuhinja."
+    },
+    "subtitle": {
+      "text": "Otkrijte recepte iz cijelog svijeta",
+      "description": "Slogan prikazan ispod naziva aplikacije u zaglavlju."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Istražite Globalne Okuse",
+      "description": "Glavni naslov u hero sekciji početne stranice."
+    },
+    "heroSubtitle": {
+      "text": "Pregledajte autentične recepte iz kuhinja širom svijeta",
+      "description": "Podnaslov prikazan ispod glavnog naslova u hero sekciji na početnoj stranici."
+    },
+    "featuredTitle": {
+      "text": "Izdvojeni Recepti",
+      "description": "Naslov sekcije prikazan iznad mreže kartica s receptima."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Oznaka vremena kuhanja na kartici recepta. {minutes} se zamjenjuje brojem minuta."
+    },
+    "difficulty": {
+      "text": "Težina",
+      "description": "Oznaka prikazana prije razine težine na kartici recepta."
+    },
+    "easy": {
+      "text": "Lako",
+      "description": "Oznaka razine težine koja označava lagani recept."
+    },
+    "medium": {
+      "text": "Srednje",
+      "description": "Oznaka razine težine koja označava umjereno težak recept."
+    },
+    "hard": {
+      "text": "Teško",
+      "description": "Oznaka razine težine koja označava težak recept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Jezik",
+      "description": "Pristupačna oznaka za padajući izbornik za promjenu jezika u zaglavlju."
+    },
+    "en": {
+      "text": "Engleski",
+      "description": "Opcija za engleski jezik u izboru jezika."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opcija za japanski jezik u izboru jezika."
+    },
+    "es": {
+      "text": "Španjolski",
+      "description": "Opcija za španjolski jezik u izboru jezika."
+    }
+  }
+}

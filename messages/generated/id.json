@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dapur Dunia",
+      "description": "Nama aplikasi yang ditampilkan di header. Aplikasi penemuan resep untuk masakan dunia."
+    },
+    "subtitle": {
+      "text": "Temukan resep dari seluruh dunia",
+      "description": "Tagline yang ditampilkan di bawah nama aplikasi di header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Jelajahi Rasa Global",
+      "description": "Judul utama di bagian hero halaman utama."
+    },
+    "heroSubtitle": {
+      "text": "Telusuri resep autentik dari dapur di seluruh dunia",
+      "description": "Teks subjudul yang ditampilkan di bawah judul hero di halaman utama."
+    },
+    "featuredTitle": {
+      "text": "Resep Unggulan",
+      "description": "Judul bagian yang ditampilkan di atas grid kartu resep."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} menit",
+      "description": "Label waktu memasak pada kartu resep. {minutes} diganti dengan jumlah menit."
+    },
+    "difficulty": {
+      "text": "Kesulitan",
+      "description": "Label yang ditampilkan sebelum tingkat kesulitan pada kartu resep."
+    },
+    "easy": {
+      "text": "Mudah",
+      "description": "Label tingkat kesulitan yang menunjukkan resep mudah."
+    },
+    "medium": {
+      "text": "Sedang",
+      "description": "Label tingkat kesulitan yang menunjukkan resep dengan tingkat kesulitan sedang."
+    },
+    "hard": {
+      "text": "Sulit",
+      "description": "Label tingkat kesulitan yang menunjukkan resep sulit."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Bahasa",
+      "description": "Label aksesibel untuk dropdown pengalih bahasa di header."
+    },
+    "en": {
+      "text": "Inggris",
+      "description": "Opsi bahasa Inggris dalam pengalih lokal."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opsi bahasa Jepang dalam pengalih lokal."
+    },
+    "es": {
+      "text": "Spanyol",
+      "description": "Opsi bahasa Spanyol dalam pengalih lokal."
+    }
+  }
+}

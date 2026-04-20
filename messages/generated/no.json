@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Verdenskjøkken",
+      "description": "App-navn vist i overskriften. En oppdagelsesapp for oppskrifter fra verdens kjøkken."
+    },
+    "subtitle": {
+      "text": "Oppdag oppskrifter fra hele verden",
+      "description": "Slagord vist under app-navnet i overskriften."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Utforsk globale smaker",
+      "description": "Hovedoverskrift på forsiden, hero-seksjonen."
+    },
+    "heroSubtitle": {
+      "text": "Bla gjennom autentiske oppskrifter fra kjøkken over hele verden",
+      "description": "Undertekst vist under hero-overskriften på forsiden."
+    },
+    "featuredTitle": {
+      "text": "Utvalgte oppskrifter",
+      "description": "Seksjonsoverskrift vist over rutenettet med oppskriftskort."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Merkelapp for koketid på et oppskriftskort. {minutes} erstattes med antall minutter."
+    },
+    "difficulty": {
+      "text": "Vanskelighetsgrad",
+      "description": "Etikett vist før vanskelighetsgraden på et oppskriftskort."
+    },
+    "easy": {
+      "text": "Lett",
+      "description": "Vanskelighetsgrad som indikerer en lett oppskrift."
+    },
+    "medium": {
+      "text": "Middels",
+      "description": "Vanskelighetsgrad som indikerer en middels vanskelig oppskrift."
+    },
+    "hard": {
+      "text": "Vanskelig",
+      "description": "Vanskelighetsgrad som indikerer en vanskelig oppskrift."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Språk",
+      "description": "Tilgjengelighetsmerkelapp for språkmenyen i overskriften."
+    },
+    "en": {
+      "text": "Engelsk",
+      "description": "Engelsk språkvalg i språkvelgeren."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japansk språkvalg i språkvelgeren."
+    },
+    "es": {
+      "text": "Spansk",
+      "description": "Spansk språkvalg i språkvelgeren."
+    }
+  }
+}

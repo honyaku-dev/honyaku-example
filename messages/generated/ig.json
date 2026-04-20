@@ -1,61 +1,61 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Ụwa Kitchen",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Chọpụta nri sitere n'ụwa niile",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Nyochaa ụtọ ụwa niile",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Chọgharịa nri eziokwu sitere na ụlọ kichin gburugburu ụwa",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "E gosipụtara Nri",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
   "RecipeCard": {
     "cookingTime": {
-      "text": "{minutes} min",
+      "text": "{minutes} nkeji",
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Ike",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Nzọụkwụ dị mfe",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Nzọụkwụ dị n'etiti",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Nzọụkwụ siri ike",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Asụsụ",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Bekee",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {

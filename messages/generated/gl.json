@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cociña Mundial",
+      "description": "Nome da aplicación mostrado no cabeceiro. Unha aplicación para descubrir receitas de cociñas do mundo."
+    },
+    "subtitle": {
+      "text": "Descubre receitas de todo o mundo",
+      "description": "Lema mostrado debaixo do nome da aplicación no cabeceiro."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explora Sabores Globais",
+      "description": "Título principal na sección hero da páxina principal."
+    },
+    "heroSubtitle": {
+      "text": "Navega por receitas auténticas de cociñas de todo o mundo",
+      "description": "Texto do subtítulo mostrado debaixo do título hero na páxina principal."
+    },
+    "featuredTitle": {
+      "text": "Receitas Destacadas",
+      "description": "Título da sección mostrado por riba da grella de tarxetas de receitas."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etiqueta do tempo de cociñado nunha tarxeta de receita. {minutes} é substituído polo número de minutos."
+    },
+    "difficulty": {
+      "text": "Dificultade",
+      "description": "Etiqueta mostrada antes do nivel de dificultade nunha tarxeta de receita."
+    },
+    "easy": {
+      "text": "Fácil",
+      "description": "Etiqueta do nivel de dificultade indicando que a receita é fácil."
+    },
+    "medium": {
+      "text": "Medio",
+      "description": "Etiqueta do nivel de dificultade indicando que a receita é moderadamente difícil."
+    },
+    "hard": {
+      "text": "Difícil",
+      "description": "Etiqueta do nivel de dificultade indicando que a receita é difícil."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Idioma",
+      "description": "Etiqueta accesible para o despregable de cambio de idioma no cabeceiro."
+    },
+    "en": {
+      "text": "Inglés",
+      "description": "Opción do idioma inglés no cambiador de localidade."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opción do idioma xaponés no cambiador de localidade."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Opción do idioma español no cambiador de localidade."
+    }
+  }
+}

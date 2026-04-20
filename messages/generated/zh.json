@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "世界厨房",
+      "description": "显示在标题中的应用名称。一个世界美食菜谱发现应用。"
+    },
+    "subtitle": {
+      "text": "发现来自世界各地的食谱",
+      "description": "显示在标题下方的应用口号。"
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "探索全球风味",
+      "description": "主页主视觉区域的主要标题。"
+    },
+    "heroSubtitle": {
+      "text": "浏览来自世界各地厨房的正宗食谱",
+      "description": "主页主视觉标题下方显示的副标题文本。"
+    },
+    "featuredTitle": {
+      "text": "精选食谱",
+      "description": "显示在菜谱卡片网格上方的板块标题。"
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} 分钟",
+      "description": "菜谱卡上的烹饪时间标签。{minutes} 会被替换为分钟数。"
+    },
+    "difficulty": {
+      "text": "难度",
+      "description": "菜谱卡上难度等级前显示的标签。"
+    },
+    "easy": {
+      "text": "简单",
+      "description": "表示菜谱难度为简单的标签。"
+    },
+    "medium": {
+      "text": "中等",
+      "description": "表示菜谱难度为中等的标签。"
+    },
+    "hard": {
+      "text": "困难",
+      "description": "表示菜谱难度为困难的标签。"
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "语言",
+      "description": "标题中语言切换下拉菜单的无障碍标签。"
+    },
+    "en": {
+      "text": "英语",
+      "description": "语言切换器中的英语选项。"
+    },
+    "ja": {
+      "text": "日语",
+      "description": "语言切换器中的日语选项。"
+    },
+    "es": {
+      "text": "西班牙语",
+      "description": "语言切换器中的西班牙语选项。"
+    }
+  }
+}

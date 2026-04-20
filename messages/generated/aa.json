@@ -1,65 +1,65 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Duniyo Kichen",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Duniyoo kichen-gadi gaariho xammay",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Duniyo Ladde Fooyta",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Duniyo kichen-gadi asli gaariho xammay",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Fooyta Gaariho",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
   "RecipeCard": {
     "cookingTime": {
-      "text": "{minutes} min",
+      "text": "{minutes} daqiqo",
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Xal",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Sahlay",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Dhexe",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Adhay",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Lughat",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Ingiliiz",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Isbanyool",
       "description": "Spanish language option in the locale switcher."
     }
   }

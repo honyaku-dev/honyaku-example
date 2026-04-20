@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cuisine du Monde",
+      "description": "Nom de l'application affiché dans l'en-tête. Une application de découverte de recettes pour les cuisines du monde."
+    },
+    "subtitle": {
+      "text": "Découvrez des recettes du monde entier",
+      "description": "Slogan affiché sous le nom de l'application dans l'en-tête."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explorez les Saveurs du Monde",
+      "description": "Titre principal dans la section héros de la page d'accueil."
+    },
+    "heroSubtitle": {
+      "text": "Parcourez des recettes authentiques des cuisines du monde entier",
+      "description": "Texte du sous-titre affiché sous le titre héros sur la page d'accueil."
+    },
+    "featuredTitle": {
+      "text": "Recettes en Vedette",
+      "description": "Titre de section affiché au-dessus de la grille de cartes de recettes."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Étiquette du temps de cuisson sur une carte de recette. {minutes} est remplacé par le nombre de minutes."
+    },
+    "difficulty": {
+      "text": "Difficulté",
+      "description": "Étiquette affichée avant le niveau de difficulté sur une carte de recette."
+    },
+    "easy": {
+      "text": "Facile",
+      "description": "Étiquette du niveau de difficulté indiquant une recette facile."
+    },
+    "medium": {
+      "text": "Moyen",
+      "description": "Étiquette du niveau de difficulté indiquant une recette modérément difficile."
+    },
+    "hard": {
+      "text": "Difficile",
+      "description": "Étiquette du niveau de difficulté indiquant une recette difficile."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Langue",
+      "description": "Étiquette accessible pour le menu déroulant de sélection de langue dans l'en-tête."
+    },
+    "en": {
+      "text": "Anglais",
+      "description": "Option de langue anglaise dans le sélecteur de langue."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Option de langue japonaise dans le sélecteur de langue."
+    },
+    "es": {
+      "text": "Espagnol",
+      "description": "Option de langue espagnole dans le sélecteur de langue."
+    }
+  }
+}

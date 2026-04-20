@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Imba Yenyika",
+      "description": "Zita reApp rinoratidzwa musoro. App yekuwana mabikirwo enyika dzose."
+    },
+    "subtitle": {
+      "text": "Tsvaga mabikirwo kubva pasi rese",
+      "description": "Mutsetse unoratidzwa pasi pezita reapp musoro."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Ongorora Zvinonhuwira Zvenyika Dzose",
+      "description": "Musoro mukuru panguva yepamusoro peji remaoko."
+    },
+    "heroSubtitle": {
+      "text": "Tarisa mabikirwo echokwadi kubva kumakicheni enyika dzose",
+      "description": "Mutsetse uri pasi pemusoro mukuru papeji remaoko."
+    },
+    "featuredTitle": {
+      "text": "Mabikirwo Akasarudzwa",
+      "description": "Musoro wechikamu unoratidzwa pamusoro pegridhi yemakadhi emabikirwo."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Nguva yekubika inoratidzwa pakadhi rembikirwo. {minutes} inoshandurwa kuti ive nhamba yema miniti."
+    },
+    "difficulty": {
+      "text": "Kuoma",
+      "description": "Chiratidzo chinoratidzwa pamberi pechikamu chekuoma pakadhi rembikirwo."
+    },
+    "easy": {
+      "text": "Zviri Nyore",
+      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri nyore."
+    },
+    "medium": {
+      "text": "Pakati",
+      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri pakati pekuoma."
+    },
+    "hard": {
+      "text": "Zakaoma",
+      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri yakaoma."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Mutauro",
+      "description": "Chiratidzo chinowanikwa chekusarudza mutauro musoro."
+    },
+    "en": {
+      "text": "Chirungu",
+      "description": "Sarudzo yemutauro weChirungu pakusarudza mutauro."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Sarudzo yemutauro wechiJapanese pakusarudza mutauro."
+    },
+    "es": {
+      "text": "ChiSpanish",
+      "description": "Sarudzo yemutauro weSpanish pakusarudza mutauro."
+    }
+  }
+}

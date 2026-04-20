@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dünýä Aşhanasy",
+      "description": "Baş sahypadaky programma ady. Dünýä aşhanalarynyň reseptleriniň gözleg programmasy."
+    },
+    "subtitle": {
+      "text": "Dünýäniň dürli künjeklerinden reseptleri açyň",
+      "description": "Baş sahypadaky programma adynyň aşagynda görkezilýän şygyr."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Dünýä Taamlaryny Gözläň",
+      "description": "Baş sahypanyň esasy bölümindäki esasy ýazgy."
+    },
+    "heroSubtitle": {
+      "text": "Dünýäniň dürli aşhanalaryndan hakyky reseptlere göz gezdiriň",
+      "description": "Baş sahypanyň esasy ýazgysynyň aşagynda görkezilýän alty ýazgy."
+    },
+    "featuredTitle": {
+      "text": "Üstünlikli Reseptler",
+      "description": "Resept kartlarynyň torunyň ýokarsynda görkezilýän bölüm başlygy."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Resept kartyndaky bişirme wagtynyň belligi. {minutes} minutlaryň sany bilen çalşyrylýar."
+    },
+    "difficulty": {
+      "text": "Kynçylyk",
+      "description": "Resept kartyndaky kynçylyk derejesiniň öňünde görkezilen bellik."
+    },
+    "easy": {
+      "text": "Aňaýy",
+      "description": "Aňaýy resepti görkezýän kynçylyk derejesiniň belligi."
+    },
+    "medium": {
+      "text": "Orta",
+      "description": "Orta derejede kyn resepti görkezýän kynçylyk derejesiniň belligi."
+    },
+    "hard": {
+      "text": "Kyn",
+      "description": "Kyn resepti görkezýän kynçylyk derejesiniň belligi."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Dil",
+      "description": "Baş sahypadaky dil üýtgediji düşürilýän sanaw üçin elýeterli bellik."
+    },
+    "en": {
+      "text": "Iňlisçe",
+      "description": "Dil üýtgedijisindäki iňlis dili opsiýasy."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Dil üýtgedijisindäki ýapon dili opsiýasy."
+    },
+    "es": {
+      "text": "Ispança",
+      "description": "Dil üýtgedijisindäki ispan dili opsiýasy."
+    }
+  }
+}

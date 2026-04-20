@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Sakafo Manerantany",
+      "description": "Anaran'ny rindranasa aseho ao amin'ny lohateny. Rindranasa fikarohana resipe ho an'ny sakafo manerantany."
+    },
+    "subtitle": {
+      "text": "Mitadiava resipe avy amin'ny lafivalon'izao tontolo izao",
+      "description": "Tenim-pamantarana aseho eo ambanin'ny anaran'ny rindranasa ao amin'ny lohateny."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Diniho ny tsiro manerantany",
+      "description": "Lohateny lehibe ao amin'ny fizarana hero amin'ny pejy fandraisana."
+    },
+    "heroSubtitle": {
+      "text": "Mitsidika resipe tena izy avy amin'ny lakozia manerana izao tontolo izao",
+      "description": "Soratra ambanin'ny lohatenin'ny hero aseho ao amin'ny pejy fandraisana."
+    },
+    "featuredTitle": {
+      "text": "Resipe Asongadina",
+      "description": "Lohatenin'ny fizarana aseho eo ambony ny karatra resipe."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Marika mampiseho ny fotoana fahandroana amin'ny karatra resipe. {minutes} dia soloina amin'ny isan'ny minitra."
+    },
+    "difficulty": {
+      "text": "Hafetsena",
+      "description": "Marika aseho alohan'ny haavon'ny fahasarotana amin'ny karatra resipe."
+    },
+    "easy": {
+      "text": "Tsotra",
+      "description": "Marika haavon'ny fahasarotana izay manondro resipe mora."
+    },
+    "medium": {
+      "text": "Salantsalany",
+      "description": "Marika haavon'ny fahasarotana izay manondro resipe antonony sarotra."
+    },
+    "hard": {
+      "text": "Sarotra",
+      "description": "Marika haavon'ny fahasarotana izay manondro resipe sarotra."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Fiteny",
+      "description": "Marika azo idirana ho an'ny fisafidianana fiteny ao amin'ny lohateny."
+    },
+    "en": {
+      "text": "Anglisy",
+      "description": "Safidy fiteny anglisy ao amin'ny fisafidianana fiteny."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Safidy fiteny japoney ao amin'ny fisafidianana fiteny."
+    },
+    "es": {
+      "text": "Espaniola",
+      "description": "Safidy fiteny espaniola ao amin'ny fisafidianana fiteny."
+    }
+  }
+}

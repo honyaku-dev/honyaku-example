@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Heims Matstova",
+      "description": "App navn víst í høvuðslínuni. Ein uppskriftaleitandi app fyri heims matstovur."
+    },
+    "subtitle": {
+      "text": "Uppdaga uppskriftir úr heiminum",
+      "description": "Slagorð víst undir app navninum í høvuðslínuni."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Kanna Heimsligar Smakkir",
+      "description": "Høvuðsrubrikkin á heimasíðuni í herosektioninum."
+    },
+    "heroSubtitle": {
+      "text": "Skráset upprunaligar uppskriftir úr køkum kring heimin",
+      "description": "Undirskrivað tekstur undir høvuðsrubrikkinum á heimasíðuni."
+    },
+    "featuredTitle": {
+      "text": "Úrvaldar Uppskriftir",
+      "description": "Seksjónsrubrikkin vístur omanfyri uppskriftarkortnetið."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Matgerðartíðarfelti á uppskriftarkorti. {minutes} verður skift út við talið av minuttum."
+    },
+    "difficulty": {
+      "text": "Avbjóðing",
+      "description": "Merki víst framman fyri avbjóðingarstigin á uppskriftarkorti."
+    },
+    "easy": {
+      "text": "Lætt",
+      "description": "Avbjóðingarstig, sum vísir eina lætta uppskrift."
+    },
+    "medium": {
+      "text": "Miðal",
+      "description": "Avbjóðingarstig, sum vísir eina miðal torføra uppskrift."
+    },
+    "hard": {
+      "text": "Torført",
+      "description": "Avbjóðingarstig, sum vísir eina torføra uppskrift."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Mál",
+      "description": "Atkomuligt merki fyri málsveljaran í høvuðslínuni."
+    },
+    "en": {
+      "text": "Enskt",
+      "description": "Enskt málval í málsveljaranum."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanskt málval í málsveljaranum."
+    },
+    "es": {
+      "text": "Spanskt",
+      "description": "Spanskt málval í málsveljaranum."
+    }
+  }
+}

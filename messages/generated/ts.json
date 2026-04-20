@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Xikolo xa Misava",
+      "description": "Vito ra pulatifomo leri kombisiwaka eka xihloko. Pulatifomo yo kuma swiresipe swa swakudya swa misava hinkwayo."
+    },
+    "subtitle": {
+      "text": "Kuma swiresipe swa misava hinkwayo",
+      "description": "Xivutiso lexi kombisiwaka ehansi ka vito ra pulatifomo eka xihloko."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Hlaya Mintirho ya Misava",
+      "description": "Xihloko lexikulu eka xiphemu xa hero xa peji ra le ka ndzhawu ya le ka khaya."
+    },
+    "heroSubtitle": {
+      "text": "Hlaya swiresipe swa ntiyiso swa xikolo xa swakudya swa misava hinkwayo",
+      "description": "Xivutiso lexi kombisiwaka ehansi ka xihloko xa hero eka peji ra le ka ndzhawu ya le ka khaya."
+    },
+    "featuredTitle": {
+      "text": "Swiresipe leswi kotekaka",
+      "description": "Xihloko xa xiphemu lexi kombisiwaka eka xisungulo xa grid ya makhadi ya swiresipe."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Xiphemu xa nkarhi wa ku pheka eka khadi ra swiresipe. {minutes} yi hundzuluxiwa hi nhumeri ya timinete."
+    },
+    "difficulty": {
+      "text": "Nhlamuselo",
+      "description": "Xiphemu lexi kombisiwaka eka xiphemu xa matimba eka khadi ra swiresipe."
+    },
+    "easy": {
+      "text": "Swin'we",
+      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka."
+    },
+    "medium": {
+      "text": "Nawumbisi",
+      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka swinene."
+    },
+    "hard": {
+      "text": "Nene",
+      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinene swinene."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Rurimi",
+      "description": "Xiphemu lexi endlaka leswaku ku cinca ririmi eka xihloko."
+    },
+    "en": {
+      "text": "English",
+      "description": "Nkombiso wa ririmi ra Xinghezi eka ku cinca ka ririmi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Nkombiso wa ririmi ra Xijapani eka ku cinca ka ririmi."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Nkombiso wa ririmi ra Xihispaniya eka ku cinca ka ririmi."
+    }
+  }
+}

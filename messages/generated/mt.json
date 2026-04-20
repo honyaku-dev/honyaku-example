@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kċina tad-Dinja",
+      "description": "Isem tal-app murija fil-header. App ta' skoperta ta' riċetti għal kċini madwar id-dinja."
+    },
+    "subtitle": {
+      "text": "Ikkopri riċetti minn madwar id-dinja",
+      "description": "Tagline murija taħt l-isem tal-app fil-header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Esplora Toġġi Globali",
+      "description": "Titolu prinċipali fuq is-sezzjoni eroj tal-paġna ewlenija."
+    },
+    "heroSubtitle": {
+      "text": "Ħares riċetti awtentiċi mill-kċini madwar id-dinja",
+      "description": "Test tal-isottotlu murija taħt it-titolu eroj fuq il-paġna ewlenija."
+    },
+    "featuredTitle": {
+      "text": "Riċetti Mistenni",
+      "description": "Titolu tas-sezzjoni murija fuq il-karta tar-riċetta."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "It-tikketta taż-żmien tal-kċina fuq karta tar-riċetta. {minutes} tinbidel b'numeru ta' minuti."
+    },
+    "difficulty": {
+      "text": "Diffikultà",
+      "description": "Tikketta murija qabel il-livell ta' diffikultà fuq karta tar-riċetta."
+    },
+    "easy": {
+      "text": "Faċli",
+      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta faċli."
+    },
+    "medium": {
+      "text": "Medju",
+      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta ta' diffikultà medja."
+    },
+    "hard": {
+      "text": "Diffiċli",
+      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta diffiċli."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lingwa",
+      "description": "Tikketta aċċessibbli għad-dropdown tal-bidla tal-lingwa fil-header."
+    },
+    "en": {
+      "text": "Ingliż",
+      "description": "Għażla tal-lingwa Ingliża fil-bidla tal-lokalità."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Għażla tal-lingwa Ġappuniża fil-bidla tal-lokalità."
+    },
+    "es": {
+      "text": "Spanjol",
+      "description": "Għażla tal-lingwa Spanjola fil-bidla tal-lokalità."
+    }
+  }
+}

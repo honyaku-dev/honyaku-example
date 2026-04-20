@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kichuu Addunyaa",
+      "description": "Maqaa appii kan mata duree irratti mul'atu. Appii barbaacha meeshalee nyaataa addunyaaaf."
+    },
+    "subtitle": {
+      "text": "Meeshalee nyaataa addunyaa irraa argadhu",
+      "description": "Jecha haala appii maqaa jala mata duree irratti mul'atu."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Dhandhama Addunyaa Baay'ee Barbaadi",
+      "description": "Mata duree guddaa kutaa hero fuula jalqabaa irratti."
+    },
+    "heroSubtitle": {
+      "text": "Meeshalee dhugaa maddi isaanii kichuuwwan addunyaa irraa ilaali",
+      "description": "Jecha mata duree jala kutaa hero fuula jalqabaa irratti mul'atu."
+    },
+    "featuredTitle": {
+      "text": "Meeshalee Filataman",
+      "description": "Mata duree kutaa meeshalee nyaataa kaardii olitti mul'atu."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} daqiiqaa",
+      "description": "Yeroo bilcheessuu kaardii meeshalee nyaataa irratti. {minutes} bakka daqiiqaa lakkoofsatti ni jijjiirama."
+    },
+    "difficulty": {
+      "text": "Rakkina",
+      "description": "Barreeffama duratti sadarkaa rakkina kaardii meeshalee nyaataa irratti mul'atu."
+    },
+    "easy": {
+      "text": "Salphaa",
+      "description": "Sadarkaa rakkina meeshalee nyaataa salphaa agarsiisu."
+    },
+    "medium": {
+      "text": "Giddugaleessa",
+      "description": "Sadarkaa rakkina meeshalee nyaataa giddugaleessa agarsiisu."
+    },
+    "hard": {
+      "text": "Rakkisaa",
+      "description": "Sadarkaa rakkina meeshalee nyaataa cimaa agarsiisu."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Afaan",
+      "description": "Barreeffama afaan jijjiiruu filannoo header keessatti argamuuf."
+    },
+    "en": {
+      "text": "Ingiliizii",
+      "description": "Filannoo afaan Ingiliizii afaan jijjiiruu keessatti."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Filannoo afaan Jaappaanii afaan jijjiiruu keessatti."
+    },
+    "es": {
+      "text": "Ispeenishii",
+      "description": "Filannoo afaan Ispeenishii afaan jijjiiruu keessatti."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Ishirahamwe ry'Isi Yose",
+      "description": "Izina ry'uburyo bwerekwa mu mutwe. Porogaramu yo guhishura uburyo bwo guteka bw'isi yose."
+    },
+    "subtitle": {
+      "text": "Menya uburyo bwo guteka bw'isi yose",
+      "description": "Ubutumwa bwerekana hasi y'izina ry'uburyo mu mutwe."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Soma Impumuro z'Isi Yose",
+      "description": "Umurongo mukuru ku rubuga rwa mbere mu gice c'umukiza."
+    },
+    "heroSubtitle": {
+      "text": "Rondera uburyo bwo guteka bw'ukuri biva mu mashirahamwe y'isi yose",
+      "description": "Ubutumwa bwerekana munsi y'umurongo mukuru ku rubuga rwa mbere."
+    },
+    "featuredTitle": {
+      "text": "Uburyo bwo Guteka Bwerekanwe",
+      "description": "Umurongo w'igice werekana hejuru y'urutonde rw'amakarata y'uburyo bwo guteka."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} iminota",
+      "description": "Ikarita y'igihe cyo guteka ku ikarata y'uburyo bwo guteka. {minutes} isimburwa n'umubare w'iminota."
+    },
+    "difficulty": {
+      "text": "Ubworoherane",
+      "description": "Ikarita yerekana mbere y'urwego rw'ubworoherane ku ikarata y'uburyo bwo guteka."
+    },
+    "easy": {
+      "text": "Byoroshye",
+      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bworoshye."
+    },
+    "medium": {
+      "text": "Hagati",
+      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bufise ubworoherane hagati."
+    },
+    "hard": {
+      "text": "Bitoroshe",
+      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bugoye."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Ururimi",
+      "description": "Ikarita ishobora kugerwaho yerekana ururimi rwa dropdown mu mutwe."
+    },
+    "en": {
+      "text": "Icongereza",
+      "description": "Amahitamwo y'ururimi rw'icongereza mu guhindura ururimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Amahitamwo y'ururimi rw'Ubuyapani mu guhindura ururimi."
+    },
+    "es": {
+      "text": "Ispanyoli",
+      "description": "Amahitamwo y'ururimi rw'igisipanyoli mu guhindura ururimi."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Verdenskøkken",
+      "description": "App-navn vist i headeren. En opskriftsopdagelsesapp for verdens køkkener."
+    },
+    "subtitle": {
+      "text": "Opdag opskrifter fra hele verden",
+      "description": "Slogan vist under app-navnet i headeren."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Udforsk globale smagsoplevelser",
+      "description": "Hovedoverskrift på startsidens hero-sektion."
+    },
+    "heroSubtitle": {
+      "text": "Gennemse autentiske opskrifter fra køkkener verden over",
+      "description": "Underoverskrift vist under hero-overskriften på startsiden."
+    },
+    "featuredTitle": {
+      "text": "Fremhævede opskrifter",
+      "description": "Sektionstitel vist over opskriftkortgitteret."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Madlavningstid på et opskriftkort. {minutes} erstattes med antallet af minutter."
+    },
+    "difficulty": {
+      "text": "Sværhedsgrad",
+      "description": "Etiket vist før sværhedsgraden på et opskriftkort."
+    },
+    "easy": {
+      "text": "Let",
+      "description": "Sværhedsgradsetiket, der angiver en let opskrift."
+    },
+    "medium": {
+      "text": "Middel",
+      "description": "Sværhedsgradsetiket, der angiver en moderat svær opskrift."
+    },
+    "hard": {
+      "text": "Svær",
+      "description": "Sværhedsgradsetiket, der angiver en svær opskrift."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Sprog",
+      "description": "Tilgængelig etiket for sprogskifter-dropdown i headeren."
+    },
+    "en": {
+      "text": "Engelsk",
+      "description": "Engelsk sprogindstilling i sprogskifteren."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japansk sprogindstilling i sprogskifteren."
+    },
+    "es": {
+      "text": "Spansk",
+      "description": "Spansk sprogindstilling i sprogskifteren."
+    }
+  }
+}

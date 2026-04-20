@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dünya Mutfağı",
+      "description": "Başlıkta gösterilen uygulama adı. Dünya mutfakları için bir tarif keşif uygulaması."
+    },
+    "subtitle": {
+      "text": "Dünyanın dört bir yanından tarifler keşfedin",
+      "description": "Başlığın altında uygulama adının altında gösterilen slogan."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Küresel Lezzetleri Keşfedin",
+      "description": "Ana sayfa kahraman bölümündeki ana başlık."
+    },
+    "heroSubtitle": {
+      "text": "Dünyanın dört bir yanındaki mutfaklardan özgün tariflere göz atın",
+      "description": "Ana sayfadaki kahraman başlığının altında gösterilen alt başlık metni."
+    },
+    "featuredTitle": {
+      "text": "Öne Çıkan Tarifler",
+      "description": "Tarif kartı ızgarasının üzerinde gösterilen bölüm başlığı."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} dk",
+      "description": "Bir tarif kartında pişirme süresi etiketi. {minutes} dakika sayısı ile değiştirilir."
+    },
+    "difficulty": {
+      "text": "Zorluk",
+      "description": "Bir tarif kartında zorluk seviyesinden önce gösterilen etiket."
+    },
+    "easy": {
+      "text": "Kolay",
+      "description": "Kolay bir tarifi belirten zorluk seviyesi etiketi."
+    },
+    "medium": {
+      "text": "Orta",
+      "description": "Orta derecede zor bir tarifi belirten zorluk seviyesi etiketi."
+    },
+    "hard": {
+      "text": "Zor",
+      "description": "Zor bir tarifi belirten zorluk seviyesi etiketi."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Dil",
+      "description": "Başlıktaki dil değiştirme açılır menüsü için erişilebilir etiket."
+    },
+    "en": {
+      "text": "İngilizce",
+      "description": "Yer değiştirme anahtarındaki İngilizce dil seçeneği."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Yer değiştirme anahtarındaki Japonca dil seçeneği."
+    },
+    "es": {
+      "text": "İspanyolca",
+      "description": "Yer değiştirme anahtarındaki İspanyolca dil seçeneği."
+    }
+  }
+}

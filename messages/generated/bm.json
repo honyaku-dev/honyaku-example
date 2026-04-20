@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Duniya Kunbɛn",
+      "description": "App kan ka tile ye header fila. Kunbɛn bɛɛ ta ka fɛ ka taa fɔlɔw ka taa duniyaya kunbɛn."
+    },
+    "subtitle": {
+      "text": "Kunbɛn bɛɛ ta duniyaya fɛ",
+      "description": "Tagline kan ka tile app tile fila kɔrɔ ka header fila."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Duniyaya Sigilen Kunbɛn Yɔrɔ",
+      "description": "Fɔlɔw fila ka home page hero section fila."
+    },
+    "heroSubtitle": {
+      "text": "Duniyaya kunbɛn kɛnɛ bɛɛ ta sigilen kunbɛn bɛɛ fɔlɔw",
+      "description": "Subtitle kan ka tile hero heading fila ka home page fila."
+    },
+    "featuredTitle": {
+      "text": "Kunbɛn Fɔlɔw",
+      "description": "Section fila ka tile recipe card grid fila."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Kunbɛn kɔrɔ fila ka recipe card fila. {minutes} bɛ tile minitɛ kɔrɔ."
+    },
+    "difficulty": {
+      "text": "Kunbɛn Kɔnɔ",
+      "description": "Label kan ka tile recipe card fila kunbɛn kɔnɔ kɛla fila."
+    },
+    "easy": {
+      "text": "Kɔnɔ",
+      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw ye."
+    },
+    "medium": {
+      "text": "Kɔnɔ Kuru",
+      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw kɛnɛya kɔnɔ ye."
+    },
+    "hard": {
+      "text": "Kɔnɔ Dugu",
+      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw duguba ye."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Kɛnɛya",
+      "description": "Accessible label kan ka language switcher dropdown fila header fila."
+    },
+    "en": {
+      "text": "Angilɛ",
+      "description": "Angilɛ kɛnɛya fila ka locale switcher fila."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japani kɛnɛya fila ka locale switcher fila."
+    },
+    "es": {
+      "text": "Sipanyɔlɛ",
+      "description": "Sipanyɔlɛ kɛnɛya fila ka locale switcher fila."
+    }
+  }
+}

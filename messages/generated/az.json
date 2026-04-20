@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dünya Mətbəxi",
+      "description": "Başlıqda göstərilən tətbiq adı. Dünya mətbəxləri üçün resept kəşfiyyatı tətbiqi."
+    },
+    "subtitle": {
+      "text": "Dünyanın müxtəlif yerlərindən reseptlər kəşf edin",
+      "description": "Başlıqda tətbiq adının altında göstərilən şüar."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Qlobal Dadları Kəşf Edin",
+      "description": "Ana səhifənin hero bölümündə əsas başlıq."
+    },
+    "heroSubtitle": {
+      "text": "Dünyanın müxtəlif mətbəxlərindən orijinal reseptlərə baxın",
+      "description": "Ana səhifənin hero başlığının altında göstərilən alt başlıq."
+    },
+    "featuredTitle": {
+      "text": "Seçilmiş Reseptlər",
+      "description": "Resept kart şəbəkəsinin üstündə göstərilən bölmə başlığı."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} dəq",
+      "description": "Resept kartında bişirmə vaxtı etiketidir. {minutes} dəqiqə sayısı ilə əvəz olunur."
+    },
+    "difficulty": {
+      "text": "Çətinlik",
+      "description": "Resept kartında çətinlik səviyyəsinin önündə göstərilən etiket."
+    },
+    "easy": {
+      "text": "Asan",
+      "description": "Asan resepti göstərən çətinlik səviyyəsi etiketi."
+    },
+    "medium": {
+      "text": "Orta",
+      "description": "Orta çətinlik səviyyəsini göstərən etiket."
+    },
+    "hard": {
+      "text": "Çətin",
+      "description": "Çətin resepti göstərən çətinlik səviyyəsi etiketi."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Dil",
+      "description": "Başlıqdakı dil dəyişdirici açılan menyu üçün əlçatanlıq etiketi."
+    },
+    "en": {
+      "text": "İngilis",
+      "description": "Dil dəyişdiricidə ingilis dili seçimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Dil dəyişdiricidə yapon dili seçimi."
+    },
+    "es": {
+      "text": "İspan",
+      "description": "Dil dəyişdiricidə ispan dili seçimi."
+    }
+  }
+}

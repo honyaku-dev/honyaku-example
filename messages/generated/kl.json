@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Nunarsuarmi Neriartortoq",
+      "description": "App-ip aqqa header-imi takuneqarsinnaasoq. Nunarsuarmi nerisassat ilisimatitsinerannut app-i."
+    },
+    "subtitle": {
+      "text": "Nerisassat nunarsuarmi tamarmi atorneqarput",
+      "description": "App-ip aappassaanik header-imi takuneqarsinnaasoq tagline."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Nunarsuarmi neriartortunut atornissamut",
+      "description": "Aningaasaqarnermut ullut akornanni hero immikkoortortaq qitiuvoq."
+    },
+    "heroSubtitle": {
+      "text": "Nunarsuarmi neriartortunut nerisassat eqqumiitsulianik atornissaat",
+      "description": "Hero qitiuvoq kingusinnerusoq subtitle-tut takuneqarsinnaasoq ullut akornanni."
+    },
+    "featuredTitle": {
+      "text": "Nerisassat takutinneqarput",
+      "description": "Nerisassat kortit qitiuvoq takuneqarsinnaasoq immikkoortortaq qitiuvoq."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Nerisassat kortimi atortut atorlugit ukiunik paasissutissiisoq. {minutes} ukiunut allanngortinneqassaaq."
+    },
+    "difficulty": {
+      "text": "Qaffasissuseq",
+      "description": "Nerisassat kortimi qaffasissuseq oqaluttuarineqartoq takuneqarsinnaavoq."
+    },
+    "easy": {
+      "text": "Assut eqqarsaatigalugu",
+      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+    },
+    "medium": {
+      "text": "Aningaasaqarnermut qaffasissuseq",
+      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+    },
+    "hard": {
+      "text": "Qaffasissuseq assut qaffasissuseq",
+      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Oqaatsit",
+      "description": "Header-imi oqaasii allanngortinneqartarnissaat atorlugu accessible label."
+    },
+    "en": {
+      "text": "Ingerlatseqatigiiffik",
+      "description": "Oqaatsit allanngortinneqartarnissaat atorlugu kalaallisut."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Oqaatsit allanngortinneqartarnissaat atorlugu japonisut."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Oqaatsit allanngortinneqartarnissaa atorlugu spanskisut."
+    }
+  }
+}

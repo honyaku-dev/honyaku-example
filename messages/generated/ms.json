@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dapur Dunia",
+      "description": "Nama aplikasi yang dipaparkan di tajuk utama. Aplikasi penemuan resipi untuk masakan dunia."
+    },
+    "subtitle": {
+      "text": "Temui resipi dari seluruh dunia",
+      "description": "Slogan yang dipaparkan di bawah nama aplikasi di tajuk utama."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Terokai Rasa Global",
+      "description": "Tajuk utama pada bahagian hero halaman utama."
+    },
+    "heroSubtitle": {
+      "text": "Layari resipi asli dari dapur di seluruh dunia",
+      "description": "Teks subtajuk yang dipaparkan di bawah tajuk hero pada halaman utama."
+    },
+    "featuredTitle": {
+      "text": "Resipi Pilihan",
+      "description": "Tajuk bahagian yang dipaparkan di atas grid kad resipi."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} minit",
+      "description": "Label masa memasak pada kad resipi. {minutes} digantikan dengan bilangan minit."
+    },
+    "difficulty": {
+      "text": "Kesukaran",
+      "description": "Label yang dipaparkan sebelum tahap kesukaran pada kad resipi."
+    },
+    "easy": {
+      "text": "Mudah",
+      "description": "Label tahap kesukaran yang menunjukkan resipi yang mudah."
+    },
+    "medium": {
+      "text": "Sederhana",
+      "description": "Label tahap kesukaran yang menunjukkan resipi yang sederhana sukar."
+    },
+    "hard": {
+      "text": "Sukar",
+      "description": "Label tahap kesukaran yang menunjukkan resipi yang sukar."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Bahasa",
+      "description": "Label boleh diakses untuk dropdown penukar bahasa di tajuk utama."
+    },
+    "en": {
+      "text": "English",
+      "description": "Pilihan bahasa Inggeris dalam penukar lokasi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Pilihan bahasa Jepun dalam penukar lokasi."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Pilihan bahasa Sepanyol dalam penukar lokasi."
+    }
+  }
+}

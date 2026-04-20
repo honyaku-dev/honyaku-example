@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Wêreld Kombuis",
+      "description": "App naam wat in die kop vertoon word. 'n Resep ontdekking app vir wêreldkookkuns."
+    },
+    "subtitle": {
+      "text": "Ontdek resepte van regoor die wêreld",
+      "description": "Slogan wat onder die app naam in die kop vertoon word."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Verken Globale Smake",
+      "description": "Hoofopskrif op die tuisblad held afdeling."
+    },
+    "heroSubtitle": {
+      "text": "Blaai deur egte resepte uit kombuise regoor die wêreld",
+      "description": "Subtitel teks wat onder die held opskrif op die tuisblad vertoon word."
+    },
+    "featuredTitle": {
+      "text": "Uitgeligte Resepte",
+      "description": "Afdelingsopskrif wat bo die resepkaart rooster vertoon word."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Kooktyd etiket op 'n resepkaart. {minutes} word vervang met die aantal minute."
+    },
+    "difficulty": {
+      "text": "Moeilikheid",
+      "description": "Etiket wat voor die moeilikheidsvlak op 'n resepkaart vertoon word."
+    },
+    "easy": {
+      "text": "Maklik",
+      "description": "Moeilikheidsvlak etiket wat 'n maklike resep aandui."
+    },
+    "medium": {
+      "text": "Medium",
+      "description": "Moeilikheidsvlak etiket wat 'n matig moeilike resep aandui."
+    },
+    "hard": {
+      "text": "Moeilik",
+      "description": "Moeilikheidsvlak etiket wat 'n moeilike resep aandui."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Taal",
+      "description": "Toeganklike etiket vir die taalskakelaar keuselys in die kop."
+    },
+    "en": {
+      "text": "Engels",
+      "description": "Engelse taal opsie in die taalskakelaar."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanse taal opsie in die taalskakelaar."
+    },
+    "es": {
+      "text": "Spaans",
+      "description": "Spaanse taal opsie in die taalskakelaar."
+    }
+  }
+}

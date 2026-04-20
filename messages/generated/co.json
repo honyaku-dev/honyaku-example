@@ -1,25 +1,25 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Cucina Mundiale",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Scuprite ricette da tuttu u mondu",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Esplorate i Sapori Globali",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Circate ricette autentiche da e cucine di u mondu",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Ricette Mustrate",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
@@ -29,25 +29,25 @@
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Difficultà",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Facile",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Medio",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Difficile",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Lingua",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
@@ -55,11 +55,11 @@
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Español",
       "description": "Spanish language option in the locale switcher."
     }
   }

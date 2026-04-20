@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kuzhîya Cîhanê",
+      "description": "Navê sepana ku di ser sernavê de xuya dibe. Sepanekî dîtina xwarinên cîhanê ye."
+    },
+    "subtitle": {
+      "text": "Dîtina xwarinên ji her derveyî cîhanê",
+      "description": "Xeteya binavkirî ya ku jêr navê sepana di ser sernavê de xuya dibe."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Lazimandiyên Cîhanê lêkolîn bikin",
+      "description": "Sernavê sereke li beşê pêşeroja malê."
+    },
+    "heroSubtitle": {
+      "text": "Xwarinên rastîn ji xwarinxaneyên cîhanê lêgerîn",
+      "description": "Nivîsa binsernavê ku jêr sernavê pêşeroja malê xuya dibe."
+    },
+    "featuredTitle": {
+      "text": "Xwarinên Taybet",
+      "description": "Sernavê beşê ku li ser rêza karta xwarinê xuya dibe."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} xulek",
+      "description": "Nîşana demê xwarinê li ser karta xwarinê. {minutes} bi hejmarek xulek tê guhertin."
+    },
+    "difficulty": {
+      "text": "Zêdeyî",
+      "description": "Nîşana ku berî asta zêdeyî li ser karta xwarinê xuya dibe."
+    },
+    "easy": {
+      "text": "Hêsan",
+      "description": "Nîşana asta zêdeyî ku xwarinek hêsan nîşan dide."
+    },
+    "medium": {
+      "text": "Navîn",
+      "description": "Nîşana asta zêdeyî ku xwarinek navîn nîşan dide."
+    },
+    "hard": {
+      "text": "Zor",
+      "description": "Nîşana asta zêdeyî ku xwarinek zor nîşan dide."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Ziman",
+      "description": "Nîşana gihîştinê ya bo hilbijartina zimanê di dropdownê ser sernavê de."
+    },
+    "en": {
+      "text": "Îngilîzî",
+      "description": "Vebijarka zimanê Îngilîzî di hilbijartina zimanê de."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Vebijarka zimanê Japonî di hilbijartina zimanê de."
+    },
+    "es": {
+      "text": "Îspanyolî",
+      "description": "Vebijarka zimanê Îspanyolî di hilbijartina zimanê de."
+    }
+  }
+}

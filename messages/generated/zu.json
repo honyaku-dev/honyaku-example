@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Ikhishi Lomhlaba",
+      "description": "Igama lohlelo eliboniswa esihlokweni. Uhlelo lokuthola izindlela zokupheka zama-cuisine zomhlaba wonke."
+    },
+    "subtitle": {
+      "text": "Thola izindlela zokupheka ezivela emhlabeni wonke",
+      "description": "Itagline eboniswa ngaphansi kwegama lohlelo esihlokweni."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Hlola Izimnandi Zomhlaba Wonke",
+      "description": "Isihloko esiyinhloko esigabeni se-hero ekhasini lasekhaya."
+    },
+    "heroSubtitle": {
+      "text": "Bheka izindlela zokupheka eziyiqiniso ezivela emakishini emhlabeni wonke",
+      "description": "Umbhalo wesihlokwana ovezwa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
+    },
+    "featuredTitle": {
+      "text": "Izindlela Zokupheka Ezivelele",
+      "description": "Isihloko sesigaba esivezwe ngaphezu kwegridi yekhadi lezindlela zokupheka."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} imiz",
+      "description": "Ilebula lesikhathi sokupheka ekhadini lenqubo yokupheka. {minutes} lifakwa ngenani lemizuzu."
+    },
+    "difficulty": {
+      "text": "Ubunzima",
+      "description": "Ilebula eboniswa ngaphambi kwezinga lobunzima ekhadini lenqubo yokupheka."
+    },
+    "easy": {
+      "text": "Kulula",
+      "description": "Ilebula lezinga lobunzima elikhombisa indlela elula yokupheka."
+    },
+    "medium": {
+      "text": "Phakathi",
+      "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enobunzima obulinganiselwe."
+    },
+    "hard": {
+      "text": "Kunzima",
+      "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enzima."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Ulimi",
+      "description": "Ilebula elitholakalayo le-dropdown yokushintsha ulimi esihlokweni."
+    },
+    "en": {
+      "text": "IsiNgisi",
+      "description": "Inketho yolimi lwesiNgisi ku-switcher wolimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Inketho yolimi lwesiJapane ku-switcher wolimi."
+    },
+    "es": {
+      "text": "IsiSpanishi",
+      "description": "Inketho yolimi lwesiSpanishi ku-switcher wolimi."
+    }
+  }
+}

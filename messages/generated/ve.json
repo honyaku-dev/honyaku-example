@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dzikani dza shango",
+      "description": "Dzina la app ḽi khou ṱalutshedzwa kha header. App ya u wana zwiḽiwa zwa shango ḽoṱhe."
+    },
+    "subtitle": {
+      "text": "Wana zwiḽiwa zwa shango ḽoṱhe",
+      "description": "Tagline ḽi khou ṱalutshedzwa hezwi ho ḓaho dzina la app kha header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Fhufhudza mavhonele a shango ḽoṱhe",
+      "description": "Tshifhinga tsha u thoma kha hero ya home page."
+    },
+    "heroSubtitle": {
+      "text": "Vhudzisa zwiḽiwa zwa vhukuma zwa dzi kitchen dzine dza vha shango ḽoṱhe",
+      "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho hero ya home page."
+    },
+    "featuredTitle": {
+      "text": "Zwiḽiwa zwi khou ṱaluswa",
+      "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho recipe card grid."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Nḓila ya u phepha kha recipe card. {minutes} i vhuya ya shandukiwa nga nḓila ya mineti."
+    },
+    "difficulty": {
+      "text": "Vhulamukanyi",
+      "description": "Dzina ḽi khou ṱalutshedzwa u bva kha vhulamukanyi kha recipe card."
+    },
+    "easy": {
+      "text": "Vhuḓi",
+      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi a pfala."
+    },
+    "medium": {
+      "text": "Vhulamukanyi",
+      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi na vhulamukanyi ha pakati."
+    },
+    "hard": {
+      "text": "Vhulamukanyi Vhukati",
+      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi khou vha zwa u ṱuṱuwedza."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lugha",
+      "description": "Dzina ḽi wanala kha language switcher dropdown kha header."
+    },
+    "en": {
+      "text": "English",
+      "description": "Lugha ya English kha locale switcher."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Lugha ya Japanese kha locale switcher."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Lugha ya Spanish kha locale switcher."
+    }
+  }
+}

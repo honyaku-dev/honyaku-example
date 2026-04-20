@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Ìdáná Ayé",
+      "description": "Orúkọ app tí a fi hàn ní orí ìlà. App àwárí àdídùn fún onjẹ lágbàáyé."
+    },
+    "subtitle": {
+      "text": "Ṣàwárí àwọn ohun ìjẹun lágbàáyé",
+      "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn labẹ orúkọ app ní orí ìlà."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Ṣàwárí Àdídùn Àgbáyé",
+      "description": "Àkọlé pàtàkì lórí apá akíkanjú ojúlé ilé."
+    },
+    "heroSubtitle": {
+      "text": "Ṣàbẹwò àwọn àdídùn gidi láti inú àwọn ìdáná káàkiri ayé",
+      "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn lábé àkọlé akíkanjú lórí ojúlé ilé."
+    },
+    "featuredTitle": {
+      "text": "Àwọn Àdídùn Tó Ṣàfihàn",
+      "description": "Àkọlé apá tí a fi hàn lókè àtẹ̀jáde àdídùn ní ọkọ̀ọ̀kan."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} ìṣẹ́jú",
+      "description": "Àpamọ́ àkókò ìdáná lórí kaadi àdídùn. {minutes} ni a rọ́pò pẹ̀lú iye ìṣẹ́jú."
+    },
+    "difficulty": {
+      "text": "Ìṣòro",
+      "description": "Àpamọ́ tí a fi hàn ṣáájú ìpele ìṣòro lórí kaadi àdídùn."
+    },
+    "easy": {
+      "text": "Rọrùn",
+      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò ṣòro."
+    },
+    "medium": {
+      "text": "Aárín",
+      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò rọrùn bẹ́ẹ̀ gẹ́gẹ́ bí àárín."
+    },
+    "hard": {
+      "text": "Lágbára",
+      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí ó ṣòro."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Èdè",
+      "description": "Àpamọ́ tó wúlò fún yíyàn èdè nínú àtùpale èdè ní orí ìlà."
+    },
+    "en": {
+      "text": "Gẹ̀ẹ́sì",
+      "description": "Àṣàyàn èdè Gẹ̀ẹ́sì nínú àtùpale èdè."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Àṣàyàn èdè Japanese nínú àtùpale èdè."
+    },
+    "es": {
+      "text": "Èdè Sípáníìṣì",
+      "description": "Àṣàyàn èdè Sípáníìṣì nínú àtùpale èdè."
+    }
+  }
+}

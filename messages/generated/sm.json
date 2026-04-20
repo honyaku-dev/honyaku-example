@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kuka o le Lalolagi",
+      "description": "Igoa o le polokalama o lo'o fa'aalia i le ulutala. O se polokalama su'esu'e fua o kuka mai i atunuu eseese o le lalolagi."
+    },
+    "subtitle": {
+      "text": "Su'e fua mai atunuu uma o le lalolagi",
+      "description": "Fa'ailoga o lo'o fa'aalia i lalo o le igoa o le polokalama i le ulutala."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Su'esu'e Suāga Faavaomalo",
+      "description": "Ulutala autu i le vaega pito i luga o le itulau autu."
+    },
+    "heroSubtitle": {
+      "text": "Siaki fua moni mai umukuka o le lalolagi atoa",
+      "description": "Tusitusiga i lalo o le ulutala pito i luga i le itulau autu."
+    },
+    "featuredTitle": {
+      "text": "Fua Fa'aalia",
+      "description": "Ulutala o le vaega i luga atu o le fa'afanua kata fua."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Fa'ailoga o le taimi kuka i luga o le kata fua. O le {minutes} o lo'o suia i le numera o minute."
+    },
+    "difficulty": {
+      "text": "Lavelave",
+      "description": "Fa'ailoga o lo'o fa'aalia i luma o le tulaga o le lavelave i luga o le kata fua."
+    },
+    "easy": {
+      "text": "Faigofie",
+      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigofie."
+    },
+    "medium": {
+      "text": "Feololo",
+      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua e feololo le lavelave."
+    },
+    "hard": {
+      "text": "Lavelave",
+      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigatā."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Gagana",
+      "description": "Fa'ailoga maua mo le lisi liliu gagana i le ulutala."
+    },
+    "en": {
+      "text": "Igilisi",
+      "description": "Filifiliga o le gagana Igilisi i le lisi liliu gagana."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Filifiliga o le gagana Iapani i le lisi liliu gagana."
+    },
+    "es": {
+      "text": "Sipaniolo",
+      "description": "Filifiliga o le gagana Sipaniolo i le lisi liliu gagana."
+    }
+  }
+}

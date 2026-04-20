@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dapur Dunya",
+      "description": "Nami aplikasi anu ditingalikeun dina header. Aplikasi pamanggihan resep pikeun masakan dunya."
+    },
+    "subtitle": {
+      "text": "Manggihan resep ti sakuliah dunya",
+      "description": "Tagline anu ditingalikeun di handapeun nami aplikasi dina header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Jajah Rasa Global",
+      "description": "Judul utama dina bagian hero halaman utama."
+    },
+    "heroSubtitle": {
+      "text": "Jelajah resep asli tina dapur di sakuliah dunya",
+      "description": "Téks subtitle anu ditingalikeun di handapeun judul hero dina halaman utama."
+    },
+    "featuredTitle": {
+      "text": "Resep Pilihan",
+      "description": "Judul bagian anu ditingalikeun di luhur grid kartu resep."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} menit",
+      "description": "Labél waktu masak dina kartu resep. {minutes} diganti ku jumlah menit."
+    },
+    "difficulty": {
+      "text": "Kasusah",
+      "description": "Labél anu ditingalikeun saméméh tingkat kasusah dina kartu resep."
+    },
+    "easy": {
+      "text": "Gampil",
+      "description": "Labél tingkat kasusah anu nandakeun resep gampang."
+    },
+    "medium": {
+      "text": "Sedeng",
+      "description": "Labél tingkat kasusah anu nandakeun resep anu rada hese."
+    },
+    "hard": {
+      "text": "Hese",
+      "description": "Labél tingkat kasusah anu nandakeun resep hese."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Basa",
+      "description": "Labél aksésibel pikeun dropdown pangaluyuan basa dina header."
+    },
+    "en": {
+      "text": "Basa Inggris",
+      "description": "Pilihan basa Inggris dina pangaluyuan lokal."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Pilihan basa Jepang dina pangaluyuan lokal."
+    },
+    "es": {
+      "text": "Basa Spanyol",
+      "description": "Pilihan basa Spanyol dina pangaluyuan lokal."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Világ Konyhája",
+      "description": "Az alkalmazás neve, amely a fejlécben jelenik meg. Egy recept felfedező alkalmazás a világ konyháiról."
+    },
+    "subtitle": {
+      "text": "Fedezz fel recepteket a világ minden tájáról",
+      "description": "Szlogen, amely az alkalmazás neve alatt jelenik meg a fejlécben."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Fedezd fel a globális ízeket",
+      "description": "Főcímsor a kezdőlap hős szekciójában."
+    },
+    "heroSubtitle": {
+      "text": "Böngéssz autentikus recepteket a világ konyháiból",
+      "description": "Alcím a hős címe alatt a kezdőlapon."
+    },
+    "featuredTitle": {
+      "text": "Kiemelt receptek",
+      "description": "Szekciócím a receptkártyák rácsa fölött."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} perc",
+      "description": "Főzési idő címke egy receptkártyán. A {minutes} helyére a percek száma kerül."
+    },
+    "difficulty": {
+      "text": "Nehézség",
+      "description": "Címke, amely a nehézségi szint előtt jelenik meg egy receptkártyán."
+    },
+    "easy": {
+      "text": "Könnyű",
+      "description": "Nehézségi szint jelző, amely könnyű receptet mutat."
+    },
+    "medium": {
+      "text": "Közepes",
+      "description": "Nehézségi szint jelző, amely közepesen nehéz receptet mutat."
+    },
+    "hard": {
+      "text": "Nehéz",
+      "description": "Nehézségi szint jelző, amely nehéz receptet mutat."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Nyelv",
+      "description": "Hozzáférhető címke a nyelvváltó legördülő menüjéhez a fejlécben."
+    },
+    "en": {
+      "text": "Angol",
+      "description": "Angol nyelv opció a nyelvváltóban."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japán nyelv opció a nyelvváltóban."
+    },
+    "es": {
+      "text": "Spanyol",
+      "description": "Spanyol nyelv opció a nyelvváltóban."
+    }
+  }
+}

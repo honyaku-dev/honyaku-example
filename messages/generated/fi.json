@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Maailman Keittiö",
+      "description": "Sovelluksen nimi, joka näkyy otsikossa. Maailman keittiöiden reseptien löytämiseen tarkoitettu sovellus."
+    },
+    "subtitle": {
+      "text": "Löydä reseptejä ympäri maailmaa",
+      "description": "Iskulause, joka näkyy sovelluksen nimen alla otsikossa."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Tutustu Maailman Makuisiin",
+      "description": "Päänosto kotisivun hero-osiossa."
+    },
+    "heroSubtitle": {
+      "text": "Selaa aitoja reseptejä keittiöistä ympäri maailmaa",
+      "description": "Alaotsikko, joka näkyy hero-otsikon alla kotisivulla."
+    },
+    "featuredTitle": {
+      "text": "Esitellyt Reseptit",
+      "description": "Osion otsikko, joka näkyy reseptikorttien ruudukon yläpuolella."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Kypsennysaika reseptikortissa. {minutes} korvataan minuuttien määrällä."
+    },
+    "difficulty": {
+      "text": "Vaikeustaso",
+      "description": "Teksti, joka näkyy ennen vaikeustason ilmoitusta reseptikortissa."
+    },
+    "easy": {
+      "text": "Helppo",
+      "description": "Vaikeustason merkintä, joka osoittaa helpon reseptin."
+    },
+    "medium": {
+      "text": "Keskitaso",
+      "description": "Vaikeustason merkintä, joka osoittaa keskivaikean reseptin."
+    },
+    "hard": {
+      "text": "Vaikea",
+      "description": "Vaikeustason merkintä, joka osoittaa vaikean reseptin."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Kieli",
+      "description": "Esteetön tunniste kielivalitsimelle otsikossa."
+    },
+    "en": {
+      "text": "Englanti",
+      "description": "Englannin kielen valinta kielivalitsimessa."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanin kielen valinta kielivalitsimessa."
+    },
+    "es": {
+      "text": "Espanja",
+      "description": "Espanjan kielen valinta kielivalitsimessa."
+    }
+  }
+}

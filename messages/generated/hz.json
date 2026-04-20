@@ -1,25 +1,25 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Omuhera Mbuya",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Ohandi po yovipepo yovamwenyo mOmubya",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Tjengure Ohambo yOvambwa Ovandjoka",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Tjengure ohandi po yovipepo yovamwenyo mOmubya ovandjoka",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Ohandi po yOvambwa Ovandjoka",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
@@ -29,37 +29,37 @@
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Okuya",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Ongombe",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Ombi",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Oshiponga",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Oshindja",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Oshinglishi",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Oshihispania",
       "description": "Spanish language option in the locale switcher."
     }
   }

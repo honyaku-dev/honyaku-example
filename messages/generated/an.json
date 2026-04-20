@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cocina Mundial",
+      "description": "Nombre d'a aplicación que s'amuestra en a cabecera. Una aplicación ta descubrir recetas de cocinas d'o mundo."
+    },
+    "subtitle": {
+      "text": "Descubre recetas d'o mundo entero",
+      "description": "Lema que s'amuestra baxo o nombre d'a aplicación en a cabecera."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Explora Sabors Globals",
+      "description": "Títol principal en a sección hero d'a página d'inicio."
+    },
+    "heroSubtitle": {
+      "text": "Busca recetas autenticas de cocinas d'o mundo entero",
+      "description": "Texto de subtítol que s'amuestra baxo o títol hero en a página d'inicio."
+    },
+    "featuredTitle": {
+      "text": "Recetas Destacadas",
+      "description": "Títol de sección que s'amuestra sobre a cuadrícula de targetas de receta."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etiqueta de tiempo de cocción en una targeta de receta. {minutes} se substituye con o número de minutos."
+    },
+    "difficulty": {
+      "text": "Dificultá",
+      "description": "Etiqueta que s'amuestra antes d'o nivel de dificultá en una targeta de receta."
+    },
+    "easy": {
+      "text": "Facil",
+      "description": "Etiqueta de nivel de dificultá que indica una receta fácil."
+    },
+    "medium": {
+      "text": "Medio",
+      "description": "Etiqueta de nivel de dificultá que indica una receta moderadament difícil."
+    },
+    "hard": {
+      "text": "Dificil",
+      "description": "Etiqueta de nivel de dificultá que indica una receta difícil."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Idioma",
+      "description": "Etiqueta accesible ta o desplegable d'intercambiador de idioma en a cabecera."
+    },
+    "en": {
+      "text": "Anglés",
+      "description": "Opción d'idioma anglés en o intercambiador de llingua."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opción d'idioma xaponés en o intercambiador de llingua."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Opción d'idioma español en o intercambiador de llingua."
+    }
+  }
+}

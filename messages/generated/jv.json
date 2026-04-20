@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Dapur Donya",
+      "description": "Jeneng app sing ditampilake ing header. App nemokake resep kanggo masakan donya."
+    },
+    "subtitle": {
+      "text": "Temokake resep saka saindenging donya",
+      "description": "Tagline sing ditampilake ing ngisor jeneng app ing header."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Jelajah Rasa Global",
+      "description": "Judhul utama ing bagean hero kaca ngarep."
+    },
+    "heroSubtitle": {
+      "text": "Nggoleki resep asli saka pawon-pawon ing saindenging donya",
+      "description": "Teks subtitle sing ditampilake ing ngisor judhul hero ing kaca ngarep."
+    },
+    "featuredTitle": {
+      "text": "Resep Pilihan",
+      "description": "Judhul bagean sing ditampilake ing ndhuwur grid kertu resep."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} menit",
+      "description": "Label wektu masak ing kertu resep. {minutes} diganti karo jumlah menit."
+    },
+    "difficulty": {
+      "text": "Kasulitan",
+      "description": "Label sing ditampilake sadurunge tingkat kasulitan ing kertu resep."
+    },
+    "easy": {
+      "text": "Gampang",
+      "description": "Label tingkat kasulitan sing nuduhake resep gampang."
+    },
+    "medium": {
+      "text": "Sedheng",
+      "description": "Label tingkat kasulitan sing nuduhake resep kanthi tingkat kasulitan sedang."
+    },
+    "hard": {
+      "text": "Angel",
+      "description": "Label tingkat kasulitan sing nuduhake resep angel."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Basa",
+      "description": "Label aksesibel kanggo dropdown ganti basa ing header."
+    },
+    "en": {
+      "text": "Basa Inggris",
+      "description": "Pilihan basa Inggris ing ganti basa."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Pilihan basa Jepang ing ganti basa."
+    },
+    "es": {
+      "text": "Basa Spanyol",
+      "description": "Pilihan basa Spanyol ing ganti basa."
+    }
+  }
+}

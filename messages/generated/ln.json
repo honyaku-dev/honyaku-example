@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kisuka ya Mokili",
+      "description": "Kombo ya porogaramu epesami na likolo. Porogaramu ya koyekola biloko ya kolya ya bitumba ya mokili mobimba."
+    },
+    "subtitle": {
+      "text": "Zwa biloko ya kolya uta na bitumba ya mokili mobimba",
+      "description": "Liloba ya pasi ya kombo ya porogaramu na likolo."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Kende na Boyebi ya Biloko ya Mokili",
+      "description": "Liloba ya liboso na esika ya liboso ya paji ya liboso."
+    },
+    "heroSubtitle": {
+      "text": "Luka biloko ya solo ya kolya uta na bisika ya kolya ya mokili mobimba",
+      "description": "Liloba ya pasi epesami na nse ya liloba ya liboso na esika ya liboso ya paji ya liboso."
+    },
+    "featuredTitle": {
+      "text": "Biloko ya Kolya Ebimami",
+      "description": "Liloba ya esika epesami na likolo ya karte ya biloko ya kolya."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Liloba ya ntango ya kosala na karte ya biloko ya kolya. {minutes} ekokani na miniti."
+    },
+    "difficulty": {
+      "text": "Etepeli",
+      "description": "Liloba epesami liboso ya etepeli na karte ya biloko ya kolya."
+    },
+    "easy": {
+      "text": "Mpasi te",
+      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ekosalama na mpasi te."
+    },
+    "medium": {
+      "text": "Etepeli ya kati",
+      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na etepeli ya kati."
+    },
+    "hard": {
+      "text": "Mpasi",
+      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na mpasi."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Likalombo",
+      "description": "Liloba ya kosalela mpo na kobongisa likalombo na likolo."
+    },
+    "en": {
+      "text": "Lingelesi",
+      "description": "Likambo ya likalombo ya Lingelesi na kokanisa likalombo."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Likambo ya likalombo ya Japonɛzɛ na kokanisa likalombo."
+    },
+    "es": {
+      "text": "Esipanye",
+      "description": "Likambo ya likalombo ya Esipanye na kokanisa likalombo."
+    }
+  }
+}

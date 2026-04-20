@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Svetska Kuhinja",
+      "description": "Ime aplikacije prikazano u zaglavlju. Aplikacija za otkrivanje recepata iz svetskih kuhinja."
+    },
+    "subtitle": {
+      "text": "Otkrijte recepte iz celog sveta",
+      "description": "Slogan prikazan ispod imena aplikacije u zaglavlju."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Istražite globalne ukuse",
+      "description": "Glavni naslov u hero sekciji početne stranice."
+    },
+    "heroSubtitle": {
+      "text": "Pregledajte autentične recepte iz kuhinja širom sveta",
+      "description": "Podnaslov prikazan ispod hero naslova na početnoj stranici."
+    },
+    "featuredTitle": {
+      "text": "Istaknuti recepti",
+      "description": "Naslov sekcije prikazan iznad mreže kartica sa receptima."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Oznaka vremena kuvanja na kartici recepta. {minutes} se zamenjuje brojem minuta."
+    },
+    "difficulty": {
+      "text": "Težina",
+      "description": "Oznaka prikazana pre nivoa težine na kartici recepta."
+    },
+    "easy": {
+      "text": "Lako",
+      "description": "Oznaka nivoa težine koja označava lak recept."
+    },
+    "medium": {
+      "text": "Srednje",
+      "description": "Oznaka nivoa težine koja označava umereno težak recept."
+    },
+    "hard": {
+      "text": "Teško",
+      "description": "Oznaka nivoa težine koja označava težak recept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Jezik",
+      "description": "Pristupačna oznaka za padajući meni za izbor jezika u zaglavlju."
+    },
+    "en": {
+      "text": "Engleski",
+      "description": "Opcija za engleski jezik u menjaču jezika."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opcija za japanski jezik u menjaču jezika."
+    },
+    "es": {
+      "text": "Španski",
+      "description": "Opcija za španski jezik u menjaču jezika."
+    }
+  }
+}

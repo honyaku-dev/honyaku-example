@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Pachamama Mikuna",
+      "description": "App sutiyki rikuchinqa headerpi. Huk mikuna rikuy app llaqtakunapi mikunakuna rikuykuna."
+    },
+    "subtitle": {
+      "text": "Llaqtakunapi mikunakuna rikuy",
+      "description": "App sutiyuqmanta qhipa rimay headermantata."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Pachamamanta Mikunakuna Rikuy",
+      "description": "Huk llaqtapi hero rimaypi sutin."
+    },
+    "heroSubtitle": {
+      "text": "Pachamamanta mikunakuna chinkaykuy llaqtakunapi mikunakuna",
+      "description": "Hero rimaymantata qhipa rimay llaqtapi."
+    },
+    "featuredTitle": {
+      "text": "Rikurqan Mikunakuna",
+      "description": "Rikurqan mikunakuna rimaypaq qhipa."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Mikuna pachakuy pachapi rimay. {minutes} huk pachakuy minutuyuqmi."
+    },
+    "difficulty": {
+      "text": "Llakiy",
+      "description": "Llakiy rimay rikhurqan mikuna pachapi."
+    },
+    "easy": {
+      "text": "Rikch'ariy",
+      "description": "Rikch'ariy llakiy rikhurqan mikuna."
+    },
+    "medium": {
+      "text": "Ch'usaq",
+      "description": "Ch'usaq llakiy rikhurqan mikuna."
+    },
+    "hard": {
+      "text": "Llakiy",
+      "description": "Sumaq llakiy rikhurqan mikuna."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Rimay",
+      "description": "Rimay llikaykuy headerpi."
+    },
+    "en": {
+      "text": "English",
+      "description": "Inlis rimay llikaykuy."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japon rimay llikaykuy."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Español rimay llikaykuy."
+    }
+  }
+}

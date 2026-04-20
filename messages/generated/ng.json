@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Oshikuku shOmadhano",
+      "description": "Oshityo shOmadhano shokumwenyo mOmusheno. Eapp yo ndjoka yomadhano gOmadhano gOmadhano gOshilongo."
+    },
+    "subtitle": {
+      "text": "Loka omadhano goholoka mumadhano goholoka",
+      "description": "Oshityo shOhambo shokumwenyo po oshowo shOmadhano shilongo."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Loka Omadhano gOmondjila",
+      "description": "Oshityo shOmadhano shOshoka mOmusheno gOhome page."
+    },
+    "heroSubtitle": {
+      "text": "Loka omadhano goholoka gOshikuku shOmadhano gOmadhano",
+      "description": "Oshityo shOhambo shOshoka mOmusheno gOhome page po oshowo shOmadhano."
+    },
+    "featuredTitle": {
+      "text": "Omadhano GOkukwatha",
+      "description": "Oshityo shOmadhano shOshowo kOmadhano gOshilongo."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Oshityo shOhambo shokupika mEpi gOmadhano gOshilongo. {minutes} oya shoka okwa li mEpi."
+    },
+    "difficulty": {
+      "text": "Oshilongo",
+      "description": "Oshityo shOhambo shOshowo po oshowo oshilongo shOmadhano gOshilongo."
+    },
+    "easy": {
+      "text": "Okuya",
+      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmuya."
+    },
+    "medium": {
+      "text": "Ombi",
+      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmbi."
+    },
+    "hard": {
+      "text": "Okutumba",
+      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOkutumba."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Oshindonga",
+      "description": "Oshityo shOhambo shOshowo oshindonga shOshoka mOmusheno gOheader."
+    },
+    "en": {
+      "text": "English",
+      "description": "Oshindonga shOEnglish mOmusheno gOshindonga."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Oshindonga shOJapanese mOmusheno gOshindonga."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Oshindonga shOSpanish mOmusheno gOshindonga."
+    }
+  }
+}

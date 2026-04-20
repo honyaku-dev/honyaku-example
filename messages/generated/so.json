@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Jikada Adduunka",
+      "description": "Magaca app-ka oo lagu muujiyey madaxa. App-ka helitaanka cuntooyinka dhaqamada adduunka."
+    },
+    "subtitle": {
+      "text": "Soo hel cuntooyin ka kala socda adduunka oo dhan",
+      "description": "Qoraalka hoos yimaada magaca app-ka ee madaxa."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Baadh Dhadhanka Caalamiga ah",
+      "description": "Cinwaanka ugu weyn ee qeybta hero-ga bogga hore."
+    },
+    "heroSubtitle": {
+      "text": "Kusoo dhex soco cuntooyin dhab ah oo ka yimid jikada adduunka oo dhan",
+      "description": "Qoraalka hoos yimaada cinwaanka hero-ga ee bogga hore."
+    },
+    "featuredTitle": {
+      "text": "Cuntooyinka La Soo Bandhigay",
+      "description": "Cinwaanka qeybta oo ka sarreeya shabakadda kaararka cuntada."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} daqiiqo",
+      "description": "Summada waqtiga karinta ee kaarka cuntada. {minutes} waxa lagu beddelaa tirada daqiiqadaha."
+    },
+    "difficulty": {
+      "text": "Adkaanta",
+      "description": "Summada ka hor heerka adkaanta ee kaarka cuntada."
+    },
+    "easy": {
+      "text": "Fudud",
+      "description": "Summada heerka adkaanta oo muujinaysa cunto fudud."
+    },
+    "medium": {
+      "text": "Dhexdhexaad",
+      "description": "Summada heerka adkaanta oo muujinaysa cunto dhexdhexaad adag."
+    },
+    "hard": {
+      "text": "Adag",
+      "description": "Summada heerka adkaanta oo muujinaysa cunto adag."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Luqadda",
+      "description": "Summad la heli karo oo loogu talagalay doorashada luqadda ee madaxa."
+    },
+    "en": {
+      "text": "Ingiriisi",
+      "description": "Ikhtiyaarka luqadda Ingiriiska ee beddelaha luqadda."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Ikhtiyaarka luqadda Jabaan ee beddelaha luqadda."
+    },
+    "es": {
+      "text": "Isbaanish",
+      "description": "Ikhtiyaarka luqadda Isbaanishka ee beddelaha luqadda."
+    }
+  }
+}

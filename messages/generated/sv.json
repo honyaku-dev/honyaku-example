@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Världsköket",
+      "description": "App-namn som visas i rubriken. En app för att upptäcka recept från världens kök."
+    },
+    "subtitle": {
+      "text": "Upptäck recept från hela världen",
+      "description": "Tagline som visas under app-namnet i rubriken."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Utforska globala smaker",
+      "description": "Huvudrubrik på startsidans hero-sektion."
+    },
+    "heroSubtitle": {
+      "text": "Bläddra bland autentiska recept från kök runt om i världen",
+      "description": "Underrubrik som visas under hero-rubriken på startsidan."
+    },
+    "featuredTitle": {
+      "text": "Utvalda recept",
+      "description": "Sektionstitel som visas ovanför rutnätet med receptkort."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etikett för tillagningstid på ett receptkort. {minutes} ersätts med antal minuter."
+    },
+    "difficulty": {
+      "text": "Svårighetsgrad",
+      "description": "Etikett som visas före svårighetsnivån på ett receptkort."
+    },
+    "easy": {
+      "text": "Lätt",
+      "description": "Etikett för svårighetsnivå som indikerar ett lätt recept."
+    },
+    "medium": {
+      "text": "Mellan",
+      "description": "Etikett för svårighetsnivå som indikerar ett medelsvårt recept."
+    },
+    "hard": {
+      "text": "Svårt",
+      "description": "Etikett för svårighetsnivå som indikerar ett svårt recept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Språk",
+      "description": "Tillgänglighetslabel för språkväxlarens dropdown i rubriken."
+    },
+    "en": {
+      "text": "Engelska",
+      "description": "Engelsk språkalternativ i språkväxlaren."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanskt språkalternativ i språkväxlaren."
+    },
+    "es": {
+      "text": "Spanska",
+      "description": "Spanskt språkalternativ i språkväxlaren."
+    }
+  }
+}

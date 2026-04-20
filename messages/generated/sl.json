@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Svetovna Kuhinja",
+      "description": "Ime aplikacije, prikazano v glavi. Aplikacija za odkrivanje receptov svetovnih kuhinj."
+    },
+    "subtitle": {
+      "text": "Odkrijte recepte z vsega sveta",
+      "description": "Slogan, prikazan pod imenom aplikacije v glavi."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Raziščite svetovne okuse",
+      "description": "Glavni naslov v hero delu domače strani."
+    },
+    "heroSubtitle": {
+      "text": "Brskajte po avtentičnih receptih iz kuhinj po vsem svetu",
+      "description": "Podnaslov prikazan pod glavnim naslovom na domači strani."
+    },
+    "featuredTitle": {
+      "text": "Izpostavljeni recepti",
+      "description": "Naslov sekcije, prikazan nad mrežo kartic receptov."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Oznaka časa kuhanja na kartici recepta. {minutes} je nadomeščen s številom minut."
+    },
+    "difficulty": {
+      "text": "Težavnost",
+      "description": "Oznaka, prikazana pred stopnjo težavnosti na kartici recepta."
+    },
+    "easy": {
+      "text": "Enostavno",
+      "description": "Oznaka stopnje težavnosti, ki označuje enostaven recept."
+    },
+    "medium": {
+      "text": "Srednje",
+      "description": "Oznaka stopnje težavnosti, ki označuje zmerno zahteven recept."
+    },
+    "hard": {
+      "text": "Težko",
+      "description": "Oznaka stopnje težavnosti, ki označuje zahteven recept."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Jezik",
+      "description": "Dostopna oznaka za spustni seznam za menjavo jezika v glavi."
+    },
+    "en": {
+      "text": "Angleščina",
+      "description": "Možnost za angleški jezik v preklopniku lokalizacije."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Možnost za japonski jezik v preklopniku lokalizacije."
+    },
+    "es": {
+      "text": "Španščina",
+      "description": "Možnost za španski jezik v preklopniku lokalizacije."
+    }
+  }
+}

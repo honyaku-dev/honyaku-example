@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Icyumba cy'Isi",
+      "description": "Izina ry'porogaramu ryerekanwa mu mutwe. Porogaramu yo gusanga uburyo butandukanye bwo guteka ku isi."
+    },
+    "subtitle": {
+      "text": "Sangiza uburyo bwo guteka buturutse impande zose z'isi",
+      "description": "Ijambo riri munsi y'izina ry'porogaramu mu mutwe."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Sobanukirwa Ibiryo By'Isi Yose",
+      "description": "Umutwe nyamukuru uri mu gice cya hero ku rupapuro rw'imbere."
+    },
+    "heroSubtitle": {
+      "text": "Sura uburyo bw'ukuri bwo guteka buturutse mu byumba byo ku isi yose",
+      "description": "Ijambo riri munsi y'umwanya w'umutwe ku rupapuro rw'imbere."
+    },
+    "featuredTitle": {
+      "text": "Uburyo bwihariye bwo guteka",
+      "description": "Umutwe w'igice ugaragara hejuru y'amakarita y'uburyo bwo guteka."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Igihe cyo guteka kigaragazwa ku ikarita y'uburyo bwo guteka. {minutes} isimburwa n'umubare w'amasegonda."
+    },
+    "difficulty": {
+      "text": "Ubugororangingo",
+      "description": "Icyapa kigaragazwa mbere y'urwego rw'ubugororangingo ku ikarita y'uburyo bwo guteka."
+    },
+    "easy": {
+      "text": "Byoroshye",
+      "description": "Ikimenyetso cy'urwego rw'ubugororangingo kigaragaza ko uburyo bwo guteka ari bworoshye."
+    },
+    "medium": {
+      "text": "Hagati",
+      "description": "Ikimenyetso cy'urwego rw'ubugororangingo kigaragaza ko uburyo bwo guteka bufite ubugororangingo buri hagati."
+    },
+    "hard": {
+      "text": "Bitoroshye",
+      "description": "Ikimenyetso cy'urwego rw'ubugororangingo kigaragaza ko uburyo bwo guteka ari bugoye."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Ururimi",
+      "description": "Icyapa cyorohereza guhindura ururimi mu mutwe."
+    },
+    "en": {
+      "text": "Icyongereza",
+      "description": "Amahitamo y'ururimi rw'Icyongereza mu guhindura ururimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Amahitamo y'ururimi rw'Igipapani mu guhindura ururimi."
+    },
+    "es": {
+      "text": "Icyesipanyolo",
+      "description": "Amahitamo y'ururimi rw'Icyesipanyolo mu guhindura ururimi."
+    }
+  }
+}

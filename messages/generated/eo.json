@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Monda Kuirejo",
+      "description": "App nomo montrita en la kaplinio. Recepta malkovra app por mondaj kuirejoj."
+    },
+    "subtitle": {
+      "text": "Malkovru receptojn el la tuta mondo",
+      "description": "Slogano montrata sub la app-nomo en la kaplinio."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Esploru Tutmondajn Gustojn",
+      "description": "Ĉefa titolo en la ĉefa sekcio de la hejmpaĝo."
+    },
+    "heroSubtitle": {
+      "text": "Foliumu aŭtentikajn receptojn el kuirejoj tra la mondo",
+      "description": "Subtitola teksto montrata sub la ĉefa titolo en la hejmpaĝo."
+    },
+    "featuredTitle": {
+      "text": "Elstaraj Receptoj",
+      "description": "Sekcia titolo montrata super la grido de receptokartoj."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Labelo por kuirtempa sur receptokarto. {minutes} estas anstataŭigita per la nombro da minutoj."
+    },
+    "difficulty": {
+      "text": "Malfacileco",
+      "description": "Labelo montrata antaŭ la nivelo de malfacileco sur receptokarto."
+    },
+    "easy": {
+      "text": "Facila",
+      "description": "Labelo por malfacileca nivelo indikanta facilan recepton."
+    },
+    "medium": {
+      "text": "Meza",
+      "description": "Labelo por malfacileca nivelo indikanta mezume malfacilan recepton."
+    },
+    "hard": {
+      "text": "Malfacila",
+      "description": "Labelo por malfacileca nivelo indikanta malfacilan recepton."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lingvo",
+      "description": "Alirebla labelo por la lingva ŝanĝilo en la kaplinio."
+    },
+    "en": {
+      "text": "Angla",
+      "description": "Angla lingvo-opcio en la lingva ŝanĝilo."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japana lingvo-opcio en la lingva ŝanĝilo."
+    },
+    "es": {
+      "text": "Hispana",
+      "description": "Hispana lingvo-opcio en la lingva ŝanĝilo."
+    }
+  }
+}

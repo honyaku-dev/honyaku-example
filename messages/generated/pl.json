@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kuchnia Świata",
+      "description": "Nazwa aplikacji wyświetlana w nagłówku. Aplikacja do odkrywania przepisów kuchni świata."
+    },
+    "subtitle": {
+      "text": "Odkrywaj przepisy z całego świata",
+      "description": "Hasło wyświetlane pod nazwą aplikacji w nagłówku."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Odkrywaj Globalne Smaki",
+      "description": "Główny nagłówek w sekcji hero strony głównej."
+    },
+    "heroSubtitle": {
+      "text": "Przeglądaj autentyczne przepisy z kuchni całego świata",
+      "description": "Tekst podtytułu wyświetlany pod nagłówkiem hero na stronie głównej."
+    },
+    "featuredTitle": {
+      "text": "Polecane Przepisy",
+      "description": "Nagłówek sekcji wyświetlany nad siatką kart przepisów."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etykieta czasu gotowania na karcie przepisu. {minutes} jest zastępowane liczbą minut."
+    },
+    "difficulty": {
+      "text": "Trudność",
+      "description": "Etykieta wyświetlana przed poziomem trudności na karcie przepisu."
+    },
+    "easy": {
+      "text": "Łatwy",
+      "description": "Etykieta poziomu trudności oznaczająca łatwy przepis."
+    },
+    "medium": {
+      "text": "Średni",
+      "description": "Etykieta poziomu trudności oznaczająca umiarkowanie trudny przepis."
+    },
+    "hard": {
+      "text": "Trudny",
+      "description": "Etykieta poziomu trudności oznaczająca trudny przepis."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Język",
+      "description": "Etykieta dostępności dla rozwijanego przełącznika języka w nagłówku."
+    },
+    "en": {
+      "text": "Angielski",
+      "description": "Opcja języka angielskiego w przełączniku języków."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opcja języka japońskiego w przełączniku języków."
+    },
+    "es": {
+      "text": "Hiszpański",
+      "description": "Opcja języka hiszpańskiego w przełączniku języków."
+    }
+  }
+}

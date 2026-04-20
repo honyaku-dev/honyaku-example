@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Wereldkeuken",
+      "description": "App-naam weergegeven in de koptekst. Een app voor het ontdekken van recepten uit wereldkeukens."
+    },
+    "subtitle": {
+      "text": "Ontdek recepten van over de hele wereld",
+      "description": "Slogan weergegeven onder de app-naam in de koptekst."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Ontdek Wereldsmaken",
+      "description": "Hoofdtitel in het hero-gedeelte van de startpagina."
+    },
+    "heroSubtitle": {
+      "text": "Blader door authentieke recepten uit keukens over de hele wereld",
+      "description": "Subtitel weergegeven onder de hoofdtitel op de startpagina."
+    },
+    "featuredTitle": {
+      "text": "Uitgelichte Recepten",
+      "description": "Sectietitel weergegeven boven het raster met receptkaarten."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Label voor bereidingstijd op een receptkaart. {minutes} wordt vervangen door het aantal minuten."
+    },
+    "difficulty": {
+      "text": "Moeilijkheid",
+      "description": "Label weergegeven vóór het moeilijkheidsniveau op een receptkaart."
+    },
+    "easy": {
+      "text": "Makkelijk",
+      "description": "Label voor moeilijkheidsniveau die een makkelijk recept aangeeft."
+    },
+    "medium": {
+      "text": "Gemiddeld",
+      "description": "Label voor moeilijkheidsniveau die een matig moeilijk recept aangeeft."
+    },
+    "hard": {
+      "text": "Moeilijk",
+      "description": "Label voor moeilijkheidsniveau die een moeilijk recept aangeeft."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Taal",
+      "description": "Toegankelijkheidslabel voor de taalkeuzelijst in de koptekst."
+    },
+    "en": {
+      "text": "Engels",
+      "description": "Engelse taaloptie in de taalkeuzelijst."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanse taaloptie in de taalkeuzelijst."
+    },
+    "es": {
+      "text": "Spaans",
+      "description": "Spaanse taaloptie in de taalkeuzelijst."
+    }
+  }
+}

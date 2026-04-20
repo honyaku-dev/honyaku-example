@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Ekikoni ky’ensi yonna",
+      "description": "Erinnya ly’ekikozesebwa eryawereddwa mu mutwe. Ekikozesebwa eky’okufuna ebirungo eby’enjawulo okuva mu bikoni by’ensi yonna."
+    },
+    "subtitle": {
+      "text": "Laba ebirungo okuva mu bifo by’ensi yonna",
+      "description": "Ekitundu eky’obulungi ekyawereddwa wansi w’erinnya ly’ekikozesebwa mu mutwe."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Laba eby’obulamu eby’ensi yonna",
+      "description": "Ekifaananyi ekikulu ku lupapula lw’ewaka mu kitundu eky’ekibuga."
+    },
+    "heroSubtitle": {
+      "text": "Laba ebirungo eby’obulamu eby’amaanyi okuva mu bikoni by’ensi yonna",
+      "description": "Ekitundu eky’obulungi ekyawereddwa wansi w’ekifaananyi ekikulu ku lupapula lw’ewaka."
+    },
+    "featuredTitle": {
+      "text": "Ebirungo eby’amaanyi",
+      "description": "Ekifaananyi ekyawereddwa waggulu ku kaadi y’ebirungo."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} ddaakiika",
+      "description": "Ekitundu eky’omutindo gw’okukola ku kaadi y’ebirungo. {minutes} ky’akolebwa n’ennamba y’ebiddaakiika."
+    },
+    "difficulty": {
+      "text": "Obuzibu",
+      "description": "Ekitundu ekyawereddwa nga kibanza ku mutindo gw’obuzibu ku kaadi y’ebirungo."
+    },
+    "easy": {
+      "text": "Kisanyizo",
+      "description": "Ekitundu eky’omutindo gw’obuzibu ekyegatta ku kirungo ekirina obusanyizo."
+    },
+    "medium": {
+      "text": "Ekiseera",
+      "description": "Ekitundu eky’omutindo gw’obuzibu ekyegatta ku kirungo ekirina obuzibu obutono."
+    },
+    "hard": {
+      "text": "Kikadde",
+      "description": "Ekitundu eky’omutindo gw’obuzibu ekyegatta ku kirungo ekirina obuzibu obunene."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Olulimi",
+      "description": "Ekitundu eky’amaanyi eky’okuddamu ku lulimi mu mutwe."
+    },
+    "en": {
+      "text": "Luzungu",
+      "description": "Ekifaananyi ky’olulimi lw’oluzungu mu kulondoola kw’olulimi."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Ekifaananyi ky’olulimi lw’eyapani mu kulondoola kw’olulimi."
+    },
+    "es": {
+      "text": "Esipanyolo",
+      "description": "Ekifaananyi ky’olulimi lw’esipanyolo mu kulondoola kw’olulimi."
+    }
+  }
+}

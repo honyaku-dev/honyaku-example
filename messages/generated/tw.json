@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Wiase Aduane Fie",
+      "description": "App din a wɔda header no so. App a ɛboa ma wuhu aduane a wɔyɛ wɔ wiase mfinimfini."
+    },
+    "subtitle": {
+      "text": "Hu aduane a ɛfiri wiase mfinimfini",
+      "description": "Tagline a ɛda app din ase wɔ header no mu."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Sua Wiase Mfinimfini Nnuane Ho",
+      "description": "Titiriw asɛm a ɛda home page hero fa no so."
+    },
+    "heroSubtitle": {
+      "text": "Hwɛ aduane a ɛyɛ nokware fi wiase mfinimfini aduane fie mu",
+      "description": "Subtitle asɛm a ɛda hero titiriw no ase wɔ home page no so."
+    },
+    "featuredTitle": {
+      "text": "Nnuane A Wɔahyɛ Mu",
+      "description": "Fael a ɛda nnuane krataa no atifi wɔ grid no so."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} sim",
+      "description": "Bere a wode yɛ aduane no kyerɛ wɔ nnuane krataa so. {minutes} yɛ bere a ɛda ho no."
+    },
+    "difficulty": {
+      "text": "Nyaatwom",
+      "description": "Label a ɛda nnuane krataa so ansa na wɔbɛka ɔhaw no ho."
+    },
+    "easy": {
+      "text": "Mmerɛ",
+      "description": "Nyaatwom a ɛkyerɛ sɛ aduane no yɛ mmerɛ."
+    },
+    "medium": {
+      "text": "Mfinimfini",
+      "description": "Nyaatwom a ɛkyerɛ sɛ aduane no yɛ mfinimfini wɔ ɔhaw mu."
+    },
+    "hard": {
+      "text": "Den",
+      "description": "Nyaatwom a ɛkyerɛ sɛ aduane no yɛ den."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Kasa",
+      "description": "Kasa a wɔde bɛsesaa kasa no wɔ header no mu."
+    },
+    "en": {
+      "text": "Borɔfo",
+      "description": "Borɔfo kasa a wɔde yɛ locale switcher no mu."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japan kasa a wɔde yɛ locale switcher no mu."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Spanish kasa a wɔde yɛ locale switcher no mu."
+    }
+  }
+}

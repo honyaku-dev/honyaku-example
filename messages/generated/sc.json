@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Cucina Mondiale",
+      "description": "App nome mostradu in su testu de su testu. Un'app po scoprire ricettas de is cucinas mundialis."
+    },
+    "subtitle": {
+      "text": "Scopri ricettas dae totu su mundu",
+      "description": "Slogan mostradu subra su nomine de s'app in su testu."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Esplora Is Sapores Mundialis",
+      "description": "Titulu principali in sa sección hero de sa pàgina iniziale."
+    },
+    "heroSubtitle": {
+      "text": "Navega ricettas autenticas dae is cucinas de totu su mundu",
+      "description": "Testu de su sottotìtulu mostradu inoghe de su titulu hero in sa pàgina iniziale."
+    },
+    "featuredTitle": {
+      "text": "Ricettas In Evidèntzia",
+      "description": "Titulu de sa sección mostradu inoghe de sa griglia de is tarjetas de ricetta."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etichetta de su tempus de cottura in una tarjeta de ricetta. {minutes} est substituitu cun su numeru de minutos."
+    },
+    "difficulty": {
+      "text": "Difficultade",
+      "description": "Etichetta mostrada prima de su liveddu de difficultade in una tarjeta de ricetta."
+    },
+    "easy": {
+      "text": "Facile",
+      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta fàcile."
+    },
+    "medium": {
+      "text": "Medio",
+      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta de difficultade meda."
+    },
+    "hard": {
+      "text": "Difficile",
+      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta difficile."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Limba",
+      "description": "Etichetta accessìbile po su menu a cascada de su cambiador de limba in su testu."
+    },
+    "en": {
+      "text": "Inglese",
+      "description": "Opzione de limba inglese in su cambiador de limba."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opzione de limba giapponese in su cambiador de limba."
+    },
+    "es": {
+      "text": "Spagnolu",
+      "description": "Opzione de limba spagnola in su cambiador de limba."
+    }
+  }
+}

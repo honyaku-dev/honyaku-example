@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Yvy Marã Rape",
+      "description": "App réra oñe’ẽva pe yvyra yvoty reheve. Peteî app receta oñemohendáva yvy marã rapére."
+    },
+    "subtitle": {
+      "text": "Ehecha receta kuéra yvy marã reheve",
+      "description": "Ehechauka oñembojoajuva’ekue app réra reheve yvyra yvoty reheve."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Ehecha Yvy Marã Ñemity Rape",
+      "description": "Yvoty mbyte oĩva pe yvyra yvoty reheve yvyra mbyte reheve."
+    },
+    "heroSubtitle": {
+      "text": "Ehecha receta kuéra teko hague yvy marã rape",
+      "description": "Mbyte rehegua ñe’ẽ oñehenói pe yvoty mbyte reheve yvyra yvoty reheve."
+    },
+    "featuredTitle": {
+      "text": "Receta Mbaretéva",
+      "description": "Mbyte rehegua yvoty rehegua oñehenói peteĩ receta tarjeta reheve."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Receta tarjeta rehegua tiempo oñemohendáva. {minutes} oñemohendáva minutos rehe."
+    },
+    "difficulty": {
+      "text": "Nemyaty",
+      "description": "Etiqueta oñehenói receta tarjeta rehegua nemyaty nivel rehe."
+    },
+    "easy": {
+      "text": "Ñemomba’e porã",
+      "description": "Etiqueta oñembohérava receta oñembopyhare porã rehe."
+    },
+    "medium": {
+      "text": "Mboyve",
+      "description": "Etiqueta oñembohérava receta nemyaty moderado rehe."
+    },
+    "hard": {
+      "text": "Iporãva",
+      "description": "Etiqueta oñembohérava receta nemyaty iporãva rehe."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Ñe’ẽ",
+      "description": "Etiqueta oñemohendáva ñe’ẽ mokõi rehegua oñembojoajuva’ekue yvyra yvoty reheve."
+    },
+    "en": {
+      "text": "Ingles",
+      "description": "Inglés ñe’ẽ opción yvoty rehegua."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japones ñe’ẽ opción yvoty rehegua."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Español ñe’ẽ opción yvoty rehegua."
+    }
+  }
+}

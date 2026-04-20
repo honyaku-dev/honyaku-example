@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kuzhina Botërore",
+      "description": "Emri i aplikacionit shfaqet në krye. Një aplikacion për zbulimin e recetave të kuzhinave botërore."
+    },
+    "subtitle": {
+      "text": "Zbuloni receta nga e gjithë bota",
+      "description": "Slogani shfaqet nën emrin e aplikacionit në krye."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Eksploroni Shijet Globale",
+      "description": "Titulli kryesor në seksionin hero të faqes kryesore."
+    },
+    "heroSubtitle": {
+      "text": "Shfletoni receta autentike nga kuzhinat e botës",
+      "description": "Teksti i nëntitullit shfaqet nën titullin hero në faqen kryesore."
+    },
+    "featuredTitle": {
+      "text": "Receta të Zgjedhura",
+      "description": "Titulli i seksionit shfaqet mbi rrjetën e kartave të recetave."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etiketa e kohës së gatimit në një kartë recete. {minutes} zëvendësohet me numrin e minutave."
+    },
+    "difficulty": {
+      "text": "Vështirësi",
+      "description": "Etiketa që shfaqet para nivelit të vështirësisë në një kartë recete."
+    },
+    "easy": {
+      "text": "E Lehtë",
+      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të lehtë."
+    },
+    "medium": {
+      "text": "Mesatare",
+      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë me vështirësi të mesme."
+    },
+    "hard": {
+      "text": "E Vështirë",
+      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të vështirë."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Gjuha",
+      "description": "Etiketa e aksesueshme për rënien e menusë së zgjedhjes së gjuhës në krye."
+    },
+    "en": {
+      "text": "Anglisht",
+      "description": "Opsioni i gjuhës angleze në zgjedhësin e gjuhës."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opsioni i gjuhës japoneze në zgjedhësin e gjuhës."
+    },
+    "es": {
+      "text": "Spanjisht",
+      "description": "Opsioni i gjuhës spanjolle në zgjedhësin e gjuhës."
+    }
+  }
+}

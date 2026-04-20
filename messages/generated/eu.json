@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Munduko Sukaldea",
+      "description": "Goiburuan agertzen den aplikazioaren izena. Munduko sukaldaritzetarako errezeta aurkikuntza aplikazioa."
+    },
+    "subtitle": {
+      "text": "Errezetak mundu osotik aurkitu",
+      "description": "Goiburuko aplikazioaren izenaren azpian agertzen den eslogan edo leloa."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Ezagutu Mundu Osoko Zaporeak",
+      "description": "Hasierako orriaren sekzio nagusiko goiburua."
+    },
+    "heroSubtitle": {
+      "text": "Arakatu mundu osoko sukaldeetatik datozen errezeta autentikoak",
+      "description": "Hasierako orriko goiburua azpian agertzen den azpititulua."
+    },
+    "featuredTitle": {
+      "text": "Errezeta Nabarmenduak",
+      "description": "Errezeta kartelen sarearen goialdean agertzen den atalaren izenburua."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Errezeta kartel batean sukalde denboraren etiketa. {minutes} minutuen kopuruarekin ordezkatzen da."
+    },
+    "difficulty": {
+      "text": "Zailtasuna",
+      "description": "Errezeta kartel batean zailtasun mailaren aurretik agertzen den etiketa."
+    },
+    "easy": {
+      "text": "Erraza",
+      "description": "Errezeta erraz baten zailtasun mailaren etiketa."
+    },
+    "medium": {
+      "text": "Ertaina",
+      "description": "Zailtasun ertaina duen errezetaren etiketa."
+    },
+    "hard": {
+      "text": "Zaila",
+      "description": "Zailtasun handiko errezetaren etiketa."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Hizkuntza",
+      "description": "Goiburuko hizkuntza aldatzeko hautapenaren irisgarria den etiketa."
+    },
+    "en": {
+      "text": "Ingelesa",
+      "description": "Hizkuntza aldaketako ingeles aukeraren etiketa."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Hizkuntza aldaketako japoniar aukeraren etiketa."
+    },
+    "es": {
+      "text": "Espainiera",
+      "description": "Hizkuntza aldaketako gaztelania aukeraren etiketa."
+    }
+  }
+}

@@ -1,65 +1,65 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "Pisin Kitchen",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "Fakaongo'i e ngaahi me'a 'oku kai mei he lalolagi kotoa",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "Fakaongo'i e ngaahi tohi kai 'o e lalolagi",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "Lomi'i e ngaahi tohi kai 'oku lelei mei he ngaahi pisin kitchen 'o e lalolagi kotoa",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "Ngaahi Tohi Kai 'oku Fakahā",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
   "RecipeCard": {
     "cookingTime": {
-      "text": "{minutes} min",
+      "text": "miniti {minutes}",
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "Fakamālohi",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "Faka'ata'ata",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "Faka'eiki",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "Fakamālohi",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "Lea faka-Tonga",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "Sāpele",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "日本語",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "Sipania",
       "description": "Spanish language option in the locale switcher."
     }
   }

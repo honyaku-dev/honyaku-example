@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Mondo Kuirejo",
+      "description": "App nomo montrita en la kapo. Recepto trova app por mondo kuisino."
+    },
+    "subtitle": {
+      "text": "Trovar receptoj da totala mondo",
+      "description": "Tagligno montrita sub la app nomo en la kapo."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Eksplorar Global Flavori",
+      "description": "Principa titolo en la hejma paĝo hero sekcio."
+    },
+    "heroSubtitle": {
+      "text": "Navigar autentika receptoj da kuirejo rondo la mondo",
+      "description": "Subtitolo teksto montrita sub la hero titolo en la hejma paĝo."
+    },
+    "featuredTitle": {
+      "text": "Selektita Receptoj",
+      "description": "Sekcio titolo montrita super la recepta karto grido."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Kuiranta tempo etiketo sur recepta karto. {minutes} esas substituita kun la nombro di minutoj."
+    },
+    "difficulty": {
+      "text": "Dificulte",
+      "description": "Etiketo montrita ante la dificulte nivelo sur recepta karto."
+    },
+    "easy": {
+      "text": "Facila",
+      "description": "Dificulte nivelo etiketo indikanta facila recepto."
+    },
+    "medium": {
+      "text": "Mez",
+      "description": "Dificulte nivelo etiketo indikanta meze dificila recepto."
+    },
+    "hard": {
+      "text": "Dura",
+      "description": "Dificulte nivelo etiketo indikanta dura recepto."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lengo",
+      "description": "Acesebla etiketo por la lengo ŝanĝanto dropdown en la kapo."
+    },
+    "en": {
+      "text": "Angla",
+      "description": "Angla lengo opcio en la locale ŝanĝanto."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japana lengo opcio en la locale ŝanĝanto."
+    },
+    "es": {
+      "text": "Hispana",
+      "description": "Hispana lengo opcio en la locale ŝanĝanto."
+    }
+  }
+}

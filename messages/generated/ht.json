@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Kwizin Mondyal",
+      "description": "Non aplikasyon ki parèt nan tèt paj la. Yon aplikasyon dekouvèt resèt pou kwizin mondyal."
+    },
+    "subtitle": {
+      "text": "Dekouvri resèt soti atravè lemond",
+      "description": "Slogan ki parèt anba non aplikasyon an nan tèt paj la."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Eksplore Gou Global",
+      "description": "Tit prensipal nan seksyon ewo paj dakèy la."
+    },
+    "heroSubtitle": {
+      "text": "Navige resèt otantik soti nan kwizin atravè lemond",
+      "description": "Tèks sou-tit ki parèt anba tit ewo a nan paj dakèy la."
+    },
+    "featuredTitle": {
+      "text": "Resèt Chwazi",
+      "description": "Tit seksyon ki parèt anlè kad resèt yo."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Etikèt tan kwit manje sou yon kat resèt. {minutes} ranplase pa kantite minit yo."
+    },
+    "difficulty": {
+      "text": "Difikilte",
+      "description": "Etikèt ki parèt anvan nivo difikilte sou yon kat resèt."
+    },
+    "easy": {
+      "text": "Fasil",
+      "description": "Etikèt nivo difikilte ki endike yon resèt fasil."
+    },
+    "medium": {
+      "text": "Mwayen",
+      "description": "Etikèt nivo difikilte ki endike yon resèt ki gen difikilte mwayèn."
+    },
+    "hard": {
+      "text": "Difisil",
+      "description": "Etikèt nivo difikilte ki endike yon resèt ki difisil."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Lang",
+      "description": "Etikèt aksè pou meni chwa lang nan tèt paj la."
+    },
+    "en": {
+      "text": "Angle",
+      "description": "Opsyon lang Angle nan meni chwa lang nan."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Opsyon lang Japonè nan meni chwa lang nan."
+    },
+    "es": {
+      "text": "Panyòl",
+      "description": "Opsyon lang Panyòl nan meni chwa lang nan."
+    }
+  }
+}

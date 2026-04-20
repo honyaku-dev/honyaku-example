@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Wiase Mmaadwo",
+      "description": "App din a ɛda header no so. Adidibea a wɔhwehwɛ aduan a ɛfiri wiase nyinaa."
+    },
+    "subtitle": {
+      "text": "Hwehwɛ aduan fi wiase nyinaa mu",
+      "description": "Tagline a ɛda app din ase wɔ header no mu."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Hwehwɛ Wiase Mmaadwo Nkyene",
+      "description": "Titire kɛse a ɛda home page hero beae no so."
+    },
+    "heroSubtitle": {
+      "text": "Hwɛ nokware aduan a ɛfiri wiase mmaadwo mu",
+      "description": "Subtitle a ɛda hero titire ase wɔ home page no so."
+    },
+    "featuredTitle": {
+      "text": "Aduan a Wɔahyɛ Mu",
+      "description": "Beae titire a ɛda aduan kɔd no so wɔ grid no anim."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} min",
+      "description": "Bere a wɔfa so yɛ aduan no wɔ aduan kɔd no so. {minutes} de bɛkyerɛ bere no a ɛda mu."
+    },
+    "difficulty": {
+      "text": "Ɛyɛ den",
+      "description": "Label a ɛda aduan ho den a ɛwɔ aduan kɔd no so anim."
+    },
+    "easy": {
+      "text": "Mɛyɛ mmerɛ",
+      "description": "Den a ɛkyerɛ sɛ aduan no yɛ mmerɛ."
+    },
+    "medium": {
+      "text": "Mfinimfini",
+      "description": "Den a ɛkyerɛ sɛ aduan no yɛ mfinimfini den."
+    },
+    "hard": {
+      "text": "Dɛn",
+      "description": "Den a ɛkyerɛ sɛ aduan no yɛ dɛn paa."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Kasa",
+      "description": "Label a ɛda kasa a wɔbɛsesaw no anim wɔ header no mu."
+    },
+    "en": {
+      "text": "Borɔfo",
+      "description": "Borɔfo kasa a ɛda kasa a wɔbɛsesaw no mu."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japan kasa a ɛda kasa a wɔbɛsesaw no mu."
+    },
+    "es": {
+      "text": "Español",
+      "description": "Spanish kasa a ɛda kasa a wɔbɛsesaw no mu."
+    }
+  }
+}

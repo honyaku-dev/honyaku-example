@@ -1,65 +1,65 @@
 {
   "Header": {
     "title": {
-      "text": "World Kitchen",
+      "text": "𐬎𐬭𐬀𐬌𐬛 𐬐𐬀𐬔𐬌𐬥𐬀",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Discover recipes from around the world",
+      "text": "𐬛𐬀𐬭𐬆𐬥𐬀𐬊 𐬯𐬀𐬭𐬌𐬨𐬀𐬥𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀 𐬯𐬀 𐬛𐬀𐬭𐬆𐬥𐬀𐬊 𐬐𐬀𐬔𐬌𐬥𐬀𐬌𐬙𐬀",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explore Global Flavors",
+      "text": "𐬁𐬟𐬀𐬙𐬌𐬨 𐬐𐬀𐬔𐬌𐬥𐬀𐬌𐬞𐬀𐬥𐬀𐬌𐬙𐬀 𐬯𐬀𐬭𐬌𐬨𐬀𐬥𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Browse authentic recipes from kitchens around the world",
+      "text": "𐬛𐬀𐬭𐬆𐬥𐬀𐬊 𐬠𐬀𐬭𐬌𐬨𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀𐬯𐬀 𐬐𐬀𐬔𐬌𐬥𐬀𐬌𐬙𐬀 𐬛𐬀𐬭𐬆𐬥𐬀𐬊 𐬐𐬀𐬔𐬌𐬥𐬀𐬌𐬞𐬀𐬥𐬀𐬌𐬙𐬀",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Featured Recipes",
+      "text": "𐬠𐬀𐬭𐬌𐬨𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀 𐬐𐬀𐬔𐬌𐬥𐬀𐬌𐬙𐬀",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
   "RecipeCard": {
     "cookingTime": {
-      "text": "{minutes} min",
+      "text": "{minutes} 𐬨𐬀𐬥",
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Difficulty",
+      "text": "𐬛𐬀𐬭𐬆𐬥𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Easy",
+      "text": "𐬞𐬀𐬯𐬌𐬙𐬀𐬥𐬀",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medium",
+      "text": "𐬨𐬀𐬭𐬆𐬥𐬌𐬙𐬀𐬥𐬀",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Hard",
+      "text": "𐬈𐬭𐬀𐬙𐬀𐬥𐬀",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Language",
+      "text": "𐬯𐬀𐬭𐬌𐬨𐬀𐬥𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
-      "text": "English",
+      "text": "𐬁𐬥𐬕𐬌𐬱",
       "description": "English language option in the locale switcher."
     },
     "ja": {
-      "text": "Japanese",
+      "text": "𐬰𐬀𐬉𐬞𐬀𐬌𐬙𐬀",
       "description": "Japanese language option in the locale switcher."
     },
     "es": {
-      "text": "Spanish",
+      "text": "𐬁𐬯𐬞𐬀𐬚𐬀𐬎𐬎𐬀𐬌𐬙𐬀",
       "description": "Spanish language option in the locale switcher."
     }
   }

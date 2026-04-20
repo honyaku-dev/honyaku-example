@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": {
+      "text": "Weltkichen",
+      "description": "App Numm deen am Header ugewisen gëtt. Eng Rezept Entdeckungs-App fir Weltkichen."
+    },
+    "subtitle": {
+      "text": "Entdeckt Rezepten aus der ganzer Welt",
+      "description": "Slogan deen ënner dem App Numm am Header ugewisen gëtt."
+    }
+  },
+  "HomePage": {
+    "heroTitle": {
+      "text": "Entdeckt global Goûten",
+      "description": "Haapt Iwwerschrëft um Homepage Hero Sektioun."
+    },
+    "heroSubtitle": {
+      "text": "Duerchbliedert authentesch Rezepten aus Kichen ronderëm d'Welt",
+      "description": "Ënnerschrëft Text deen ënner der Hero Iwwerschrëft op der Homepage ugewisen gëtt."
+    },
+    "featuredTitle": {
+      "text": "Virgestallte Rezepten",
+      "description": "Sektioun Iwwerschrëft déi iwwer dem Rezeptkaart Grid ugewisen gëtt."
+    }
+  },
+  "RecipeCard": {
+    "cookingTime": {
+      "text": "{minutes} Min",
+      "description": "Kachzäit Label op enger Rezeptkaart. {minutes} gëtt mat der Zuel vu Minutte ersat."
+    },
+    "difficulty": {
+      "text": "Schwieregkeet",
+      "description": "Label deen virun der Schwieregkeetsniveau op enger Rezeptkaart ugewisen gëtt."
+    },
+    "easy": {
+      "text": "Eifach",
+      "description": "Schwieregkeetsniveau Label deen e einfach Rezept ugëtt."
+    },
+    "medium": {
+      "text": "Mëttelméisseg",
+      "description": "Schwieregkeetsniveau Label deen e mëttelméisseg schwieregt Rezept ugëtt."
+    },
+    "hard": {
+      "text": "Schwéier",
+      "description": "Schwieregkeetsniveau Label deen e schwéieren Rezept ugëtt."
+    }
+  },
+  "LocaleSwitcher": {
+    "label": {
+      "text": "Sprooch",
+      "description": "Accessibel Label fir d'Sproochwiessel Dropdown am Header."
+    },
+    "en": {
+      "text": "Englesch",
+      "description": "Englesch Sproochoptioun am Locale Switcher."
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "Japanesch Sproochoptioun am Locale Switcher."
+    },
+    "es": {
+      "text": "Spuenesch",
+      "description": "Spuenesch Sproochoptioun am Locale Switcher."
+    }
+  }
+}
