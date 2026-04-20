@@ -3,6 +3,7 @@
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
+import localeLabels from "@/i18n/locale.json";
 
 export function LocaleSwitcher() {
   const t = useTranslations("LocaleSwitcher");
@@ -23,7 +24,7 @@ export function LocaleSwitcher() {
     >
       {routing.locales.map((loc) => (
         <option key={loc} value={loc}>
-          {t(loc)}
+          {localeLabels[loc as keyof typeof localeLabels] ?? loc}
         </option>
       ))}
     </select>
