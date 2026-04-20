@@ -4,6 +4,17 @@ import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
 import { localeEntries } from "@/i18n/routing";
 
+function getLanguageEndonym(localeCode: string) {
+  try {
+    return (
+      new Intl.DisplayNames([localeCode], { type: "language" }).of(localeCode) ??
+      localeCode
+    );
+  } catch {
+    return localeCode;
+  }
+}
+
 export function LocaleSwitcher() {
   const t = useTranslations("LocaleSwitcher");
   const locale = useLocale();
@@ -23,7 +34,7 @@ export function LocaleSwitcher() {
     >
       {localeEntries.map(([localeCode, localeLabel]) => (
         <option key={localeCode} value={localeCode}>
-          {localeLabel}
+          {`${localeLabel} (${getLanguageEndonym(localeCode)})`}
         </option>
       ))}
     </select>
