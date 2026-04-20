@@ -1,25 +1,31 @@
 "use client";
 
+import { useMemo } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
 import { localeEntries } from "@/i18n/routing";
-
-function getLanguageEndonym(localeCode: string) {
-  try {
-    return (
-      new Intl.DisplayNames([localeCode], { type: "language" }).of(localeCode) ??
-      localeCode
-    );
-  } catch {
-    return localeCode;
-  }
-}
 
 export function LocaleSwitcher() {
   const t = useTranslations("LocaleSwitcher");
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
+  const languageEndonyms = useMemo(() => {
+    return new Map(
+      localeEntries.map(([localeCode]) => {
+        try {
+          return [
+            localeCode,
+            new Intl.DisplayNames([localeCode], { type: "language" }).of(
+              localeCode
+            ) ?? localeCode,
+          ];
+        } catch {
+          return [localeCode, localeCode];
+        }
+      })
+    );
+  }, []);
 
   function onChange(e: React.ChangeEvent<HTMLSelectElement>) {
     router.replace(pathname, { locale: e.target.value });
@@ -34,7 +40,7 @@ export function LocaleSwitcher() {
     >
       {localeEntries.map(([localeCode, localeLabel]) => (
         <option key={localeCode} value={localeCode}>
-          {`${localeLabel} (${getLanguageEndonym(localeCode)})`}
+          {`${localeLabel} (${languageEndonyms.get(localeCode) ?? localeCode})`}
         </option>
       ))}
     </select>
