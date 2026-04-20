@@ -1,24 +1,66 @@
 {
   "Header": {
-    "title": "World Kitchen",
-    "subtitle": "世界中のレシピを発見しよう"
+    "title": {
+      "text": "ワールドキッチン",
+      "description": "ヘッダーに表示されるアプリ名。世界の料理のレシピ発見アプリ。"
+    },
+    "subtitle": {
+      "text": "世界中のレシピを発見しよう",
+      "description": "ヘッダーのアプリ名の下に表示されるキャッチフレーズ。"
+    }
   },
   "HomePage": {
-    "heroTitle": "世界の味を探検しよう",
-    "heroSubtitle": "世界中のキッチンから届く本格レシピをチェック",
-    "featuredTitle": "おすすめレシピ"
+    "heroTitle": {
+      "text": "世界の味を探検しよう",
+      "description": "ホームページのヒーローセクションのメイン見出し。"
+    },
+    "heroSubtitle": {
+      "text": "世界中の本格的なレシピを閲覧しよう",
+      "description": "ホームページのヒーロー見出しの下に表示されるサブタイトルテキスト。"
+    },
+    "featuredTitle": {
+      "text": "注目のレシピ",
+      "description": "レシピカードのグリッドの上に表示されるセクション見出し。"
+    }
   },
   "RecipeCard": {
-    "cookingTime": "{minutes}分",
-    "difficulty": "難易度",
-    "easy": "簡単",
-    "medium": "普通",
-    "hard": "難しい"
+    "cookingTime": {
+      "text": "{minutes} 分",
+      "description": "レシピカードの調理時間ラベル。{minutes}は分数に置き換えられる。"
+    },
+    "difficulty": {
+      "text": "難易度",
+      "description": "レシピカードの難易度の前に表示されるラベル。"
+    },
+    "easy": {
+      "text": "簡単",
+      "description": "簡単なレシピを示す難易度ラベル。"
+    },
+    "medium": {
+      "text": "中級",
+      "description": "やや難しいレシピを示す難易度ラベル。"
+    },
+    "hard": {
+      "text": "難しい",
+      "description": "難しいレシピを示す難易度ラベル。"
+    }
   },
   "LocaleSwitcher": {
-    "label": "言語",
-    "en": "English",
-    "ja": "日本語",
-    "es": "Español"
+    "label": {
+      "text": "言語",
+      "description": "ヘッダーの言語切替ドロップダウンのアクセシブルラベル。"
+    },
+    "en": {
+      "text": "英語",
+      "description": "ロケールスイッチャーの英語オプション。"
+    },
+    "ja": {
+      "text": "日本語",
+      "description": "ロケールスイッチャーの日本語オプション。"
+    },
+    "es": {
+      "text": "スペイン語",
+      "description": "ロケールスイッチャーのスペイン語オプション。"
+    }
   }
 }

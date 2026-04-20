@@ -1,25 +1,25 @@
 {
   "Header": {
     "title": {
-      "text": "Cocina Mundial",
+      "text": "World Kitchen",
       "description": "App name shown in the header. A recipe discovery app for world cuisines."
     },
     "subtitle": {
-      "text": "Descubre recetas de todo el mundo",
+      "text": "Discover recipes from around the world",
       "description": "Tagline shown below the app name in the header."
     }
   },
   "HomePage": {
     "heroTitle": {
-      "text": "Explora Sabores Globales",
+      "text": "Explore Global Flavors",
       "description": "Main heading on the home page hero section."
     },
     "heroSubtitle": {
-      "text": "Navega recetas auténticas de cocinas alrededor del mundo",
+      "text": "Browse authentic recipes from kitchens around the world",
       "description": "Subtitle text displayed under the hero heading on the home page."
     },
     "featuredTitle": {
-      "text": "Recetas Destacadas",
+      "text": "Featured Recipes",
       "description": "Section heading displayed above the recipe card grid."
     }
   },
@@ -29,25 +29,25 @@
       "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
     },
     "difficulty": {
-      "text": "Dificultad",
+      "text": "Difficulty",
       "description": "Label displayed before the difficulty level on a recipe card."
     },
     "easy": {
-      "text": "Fácil",
+      "text": "Easy",
       "description": "Difficulty level label indicating an easy recipe."
     },
     "medium": {
-      "text": "Medio",
+      "text": "Medium",
       "description": "Difficulty level label indicating a moderately difficult recipe."
     },
     "hard": {
-      "text": "Difícil",
+      "text": "Hard",
       "description": "Difficulty level label indicating a difficult recipe."
     }
   },
   "LocaleSwitcher": {
     "label": {
-      "text": "Idioma",
+      "text": "Language",
       "description": "Accessible label for the language switcher dropdown in the header."
     },
     "en": {
