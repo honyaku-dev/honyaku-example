@@ -43,6 +43,54 @@
     "hard": {
       "text": "Bitoroshe",
       "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bugoye."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Izina ry'uburyo bwo guteka Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Isosi y'ibibabi vy'inka iryoshye ifise inyama zoroshye za chashu, iyaheze y'inyama y'agatogo, hamwe n'imisambi mishasha.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Izina ry'uburyo bwo guteka Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya kera ifise utuyaga twa San Marzano, mozzarella nshasha, hamwe na basil.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Izina ry'uburyo bwo guteka Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos z'inka ziteguwe mu buryo butandukanye hamwe n'umuneke, cilantro, n'igitunguru ku mapapuro ya corn.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Inkoko mu Vuta",
+      "description": "Izina ry'uburyo bwo guteka Inkoko mu Vuta."
+    },
+    "butterChickenDescription": {
+      "text": "Inkoko zoroshye mu isosi y'utuyaga twa tomate n'ibinure vy'inka hamwe n'ibitonyanga vy'impumuro nziza.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Inkoko mu Vuta."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Izina ry'uburyo bwo guteka Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Imisambi y'umuceri ishyushye hamwe n'udusu tw'ibikoko, tofu, ibinyomoro, hamwe n'isosi ya tamarind.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes z'Ubufaransa",
+      "description": "Izina ry'uburyo bwo guteka Crepes z'Ubufaransa."
+    },
+    "crepesDescription": {
+      "text": "Crepes zoroshye, zifise umwero w'ibinyomoro vya Nutella, imineke mishasha, hamwe n'akayunguruzo k'amavuta.",
+      "description": "Ibisobanuro vy'uburyo bwo guteka Crepes z'Ubufaransa."
     }
   },
   "LocaleSwitcher": {

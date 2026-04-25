@@ -43,6 +43,54 @@
     "hard": {
       "text": "Moeilijk",
       "description": "Label foar in dreech resept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Namme fan it Tonkotsu Ramen-resept."
+    },
+    "ramenDescription": {
+      "text": "Rike pork bonensoep mei sêfte chashu, sêft-koke aaien, en farske noedels.",
+      "description": "Beskriuwing fan it Tonkotsu Ramen-resept."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Namme fan it Margherita Pizza-resept."
+    },
+    "margheritaDescription": {
+      "text": "Klasike Napolitaanske pizza mei San Marzano tomaten, farske mozzarella, en basilicum.",
+      "description": "Beskriuwing fan it Margherita Pizza-resept."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Namme fan it Tacos al Pastor-resept."
+    },
+    "tacosDescription": {
+      "text": "Gemarinearre pork tacos mei ananas, koriander, en sipel op maïstortilla's.",
+      "description": "Beskriuwing fan it Tacos al Pastor-resept."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Namme fan it Butter Chicken-resept."
+    },
+    "butterChickenDescription": {
+      "text": "Sêfte hin mei in romige tomaat- en bûtersaus mei aromatyske krûden.",
+      "description": "Beskriuwing fan it Butter Chicken-resept."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Namme fan it Pad Thai-resept."
+    },
+    "padThaiDescription": {
+      "text": "Roerbakke rysnoedels mei garnalen, tofu, pinda's, en tamaryndsaus.",
+      "description": "Beskriuwing fan it Pad Thai-resept."
+    },
+    "crepesName": {
+      "text": "Franse Crêpes",
+      "description": "Namme fan it Franse Crêpes-resept."
+    },
+    "crepesDescription": {
+      "text": "Tin, delikate crêpes fol mei Nutella, farske aarbeien, en slachroom.",
+      "description": "Beskriuwing fan it Franse Crêpes-resept."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Adag",
       "description": "Summada heerka adkaanta oo muujinaysa cunto adag."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Magaca cunto karinta Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Maraq lafaha doofaarka hodan ah oo leh chashu jilicsan, ukun si fiican loo kariyey, iyo baasto cusub.",
+      "description": "Sharaxaadda cunto karinta Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Magaca cunto karinta Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan classic ah oo leh yaanyo San Marzano, mozzarella cusub, iyo basil.",
+      "description": "Sharaxaadda cunto karinta Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Magaca cunto karinta Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos doofaar marinad leh oo leh canab, cilantro, iyo basal ku yaal tortillas galleyda.",
+      "description": "Sharaxaadda cunto karinta Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Digaag Subag leh",
+      "description": "Magaca cunto karinta Digaag Subag leh."
+    },
+    "butterChickenDescription": {
+      "text": "Digaag jilicsan oo ku jira maraq yaanyo iyo subag leh oo leh dhir udgoon.",
+      "description": "Sharaxaadda cunto karinta Digaag Subag leh."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Magaca cunto karinta Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Baasto bariis shiilan oo leh shrimp, tofu, laws, iyo maraq tamarind ah.",
+      "description": "Sharaxaadda cunto karinta Pad Thai."
+    },
+    "crepesName": {
+      "text": "Krebs Faransiis",
+      "description": "Magaca cunto karinta Krebs Faransiis."
+    },
+    "crepesDescription": {
+      "text": "Krebs khafiif ah oo jilicsan oo buuxda leh Nutella, strawberries cusub, iyo kareem la garaacay.",
+      "description": "Sharaxaadda cunto karinta Krebs Faransiis."
     }
   },
   "LocaleSwitcher": {

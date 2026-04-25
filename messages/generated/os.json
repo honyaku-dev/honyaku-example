@@ -43,6 +43,54 @@
     "hard": {
       "text": "Æфтæ",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Тонкоту Рамен",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Хъуыджы свиньи костæйы суп æфсатын чæшу, лæгъыр яйцæ, уыдонæй хæуы.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Маргерита Пицца",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Классик Неаполитан пицца Сан Марцано томаттæй, уыдонæй моцарелла, æмæ базиликæй.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Такос ал Пастор",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Маринованнæй свиньи такосæй ананас, кинза, уæлæнæй картона куыранæй.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Баттер Чикен",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Лæгъыр цыпцæй томат æмæ баттер соус æрцы æмæ ароматы специят.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Пад Тай",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Обжаренны рис пирæнæй сæр, тофу, арахис æмæ тамаринд соус.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Француз кре́пæй",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Тонкæй, деликатнæй кре́пæй Nutella, уыдонæй клубника, æмæ взбитый крем куыран.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difficile",
       "description": "Etiqueta de nivello de difficultate que indica un receta difficile."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nomine del receta Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Ric brodo de ossos de porco con chashu tener, ovo cocite a basse fervura, e noodles fresce.",
+      "description": "Description del receta Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nomine del receta Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilico.",
+      "description": "Description del receta Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nomine del receta Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porco marinate con ananas, coriandro, e cepa super tortillas de maiz.",
+      "description": "Description del receta Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pollo al Burro",
+      "description": "Nomine del receta Pollo al Burro."
+    },
+    "butterChickenDescription": {
+      "text": "Pollo tener in un salsa cremose de tomate e burro con species aromatic.",
+      "description": "Description del receta Pollo al Burro."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nomine del receta Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles de rice sauté con gambas, tofu, arachides, e salsa de tamarindo.",
+      "description": "Description del receta Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crespellas Francese",
+      "description": "Nomine del receta Crespellas Francese."
+    },
+    "crepesDescription": {
+      "text": "Crespellas delicat e finemente plenas con Nutella, frutillas fresce, e crema montate.",
+      "description": "Description del receta Crespellas Francese."
     }
   },
   "LocaleSwitcher": {

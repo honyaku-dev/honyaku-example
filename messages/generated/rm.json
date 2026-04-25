@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difficult",
       "description": "Label dal nivel da difficultad che inditgescha ina retscha difficila."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Num da la retscha Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Broda da oss da purtga ric cun chashu tener, ovetta mez dura e nouilles frescas.",
+      "description": "Descriziun da la retscha Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Num da la retscha Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza neapolitana classica cun tomatas San Marzano, mozzarella fresca e basilic.",
+      "description": "Descriziun da la retscha Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Num da la retscha Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos da purtga maridada cun ananas, coriandru e utschella sin tortillas da maiz.",
+      "description": "Descriziun da la retscha Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Num da la retscha Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Pulaster tener en ina salsa cremusa da tomatas e buttier cun spezias aromaticas.",
+      "description": "Descriziun da la retscha Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Num da la retscha Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nouilles da ris saltadas cun gamberets, tofu, cugn e salsa da tamarind.",
+      "description": "Descriziun da la retscha Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crêpes franzosas",
+      "description": "Num da la retscha Crêpes franzosas."
+    },
+    "crepesDescription": {
+      "text": "Crêpes finas e delicatas emplenidas cun Nutella, fraidas freschas e panna battida.",
+      "description": "Descriziun da la retscha Crêpes franzosas."
     }
   },
   "LocaleSwitcher": {

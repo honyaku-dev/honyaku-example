@@ -43,6 +43,54 @@
     "hard": {
       "text": "Angel",
       "description": "Label tingkat kasulitan sing nuduhake resep angel."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Jeneng resep Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Kaldu balung babi sing kandel karo chashu empuk, endhog setengah mateng, lan mie seger.",
+      "description": "Deskripsi resep Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Jeneng resep Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan klasik nganggo tomat San Marzano, mozzarella seger, lan kemangi.",
+      "description": "Deskripsi resep Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Jeneng resep Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos babi sing dimarinasi karo nanas, cilantro, lan bawang ing tortilla jagung.",
+      "description": "Deskripsi resep Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Jeneng resep Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Ayam empuk ing saos tomat lan mentega sing krim karo rempah aromatik.",
+      "description": "Deskripsi resep Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Jeneng resep Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Mie beras goreng karo udang, tahu, kacang, lan saos asam jawa.",
+      "description": "Deskripsi resep Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crêpe Prancis",
+      "description": "Jeneng resep Crêpe Prancis."
+    },
+    "crepesDescription": {
+      "text": "Crêpe tipis lan alus diisi Nutella, stroberi seger, lan krim kocok.",
+      "description": "Deskripsi resep Crêpe Prancis."
     }
   },
   "LocaleSwitcher": {

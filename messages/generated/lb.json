@@ -43,6 +43,54 @@
     "hard": {
       "text": "Schwéier",
       "description": "Schwieregkeetsniveau Label deen e schwéieren Rezept ugëtt."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Numm vun der Tonkotsu Ramen Rezept."
+    },
+    "ramenDescription": {
+      "text": "Räiche Schwäinsknochenbouillon mat zäitem Chashu, mëll gekachte Ee, an frëschen Nuddele.",
+      "description": "Beschreiwung vun der Tonkotsu Ramen Rezept."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Numm vun der Margherita Pizza Rezept."
+    },
+    "margheritaDescription": {
+      "text": "Klassesch neapolitanesch Pizza mat San Marzano Tomaten, frëscher Mozzarella, an Basilikum.",
+      "description": "Beschreiwung vun der Margherita Pizza Rezept."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Numm vun der Tacos al Pastor Rezept."
+    },
+    "tacosDescription": {
+      "text": "Marinéiert Schwäinchen Tacos mat Ananas, Koriander, an Zwiebel op Mais Tortillas.",
+      "description": "Beschreiwung vun der Tacos al Pastor Rezept."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Numm vun der Butter Chicken Rezept."
+    },
+    "butterChickenDescription": {
+      "text": "Zäitegt Poulet an enger crémeger Tomaten- an Bottersauce mat aromatesche Gewierzer.",
+      "description": "Beschreiwung vun der Butter Chicken Rezept."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Numm vun der Pad Thai Rezept."
+    },
+    "padThaiDescription": {
+      "text": "Gebraten Reesnuddele mat Garnelen, Tofu, Erdnëss, an Tamarind Sauce.",
+      "description": "Beschreiwung vun der Pad Thai Rezept."
+    },
+    "crepesName": {
+      "text": "Franséisch Crêpes",
+      "description": "Numm vun der Franséisch Crêpes Rezept."
+    },
+    "crepesDescription": {
+      "text": "Dënn, delikat Crêpes gefëllt mat Nutella, frëschen Äerdbieren, an geschloener Creme.",
+      "description": "Beschreiwung vun der Franséisch Crêpes Rezept."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Matsananci",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Miyan ƙashi na alade mai ɗanɗano tare da chashu mai laushi, ƙwai mai taushi, da sabbin noodles.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza na Neapolitan na gargajiya tare da tumatir San Marzano, mozzarella sabo, da basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos na alade masu marinade tare da ayaba, cilantro, da albasa a kan tortillas na masara.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Kaza Mai Man Shanu",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Kaza mai laushi a cikin miya mai cream na tumatir da man shanu tare da kayan kamshi.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles na shinkafa da aka soyaya tare da kifi, tofu, gyada, da miya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes na Faransa",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes masu laushi, masu siriri cike da Nutella, strawberries sabo, da kirim whipped.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

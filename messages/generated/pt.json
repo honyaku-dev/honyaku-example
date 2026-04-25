@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difícil",
       "description": "Rótulo de nível de dificuldade indicando uma receita difícil."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nome da receita de Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Caldo rico de osso de porco com chashu macio, ovo cozido mole e macarrão fresco.",
+      "description": "Descrição da receita de Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nome da receita de Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza napolitana clássica com tomates San Marzano, mussarela fresca e manjericão.",
+      "description": "Descrição da receita de Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nome da receita de Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porco marinados com abacaxi, coentro e cebola em tortilhas de milho.",
+      "description": "Descrição da receita de Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Frango com Manteiga",
+      "description": "Nome da receita de Frango com Manteiga."
+    },
+    "butterChickenDescription": {
+      "text": "Frango macio em molho cremoso de tomate e manteiga com especiarias aromáticas.",
+      "description": "Descrição da receita de Frango com Manteiga."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nome da receita de Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Macarrão de arroz frito com camarão, tofu, amendoim e molho de tamarindo.",
+      "description": "Descrição da receita de Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Franceses",
+      "description": "Nome da receita de Crepes Franceses."
+    },
+    "crepesDescription": {
+      "text": "Crepes finos e delicados recheados com Nutella, morangos frescos e chantilly.",
+      "description": "Descrição da receita de Crepes Franceses."
     }
   },
   "LocaleSwitcher": {

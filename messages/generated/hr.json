@@ -43,6 +43,54 @@
     "hard": {
       "text": "Teško",
       "description": "Oznaka razine težine koja označava težak recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Naziv recepta za Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bogati temeljac od svinjskih kostiju s mekanim chashuom, mekim kuhanim jajetom i svježom tjesteninom.",
+      "description": "Opis recepta za Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Naziv recepta za Margherita pizzu."
+    },
+    "margheritaDescription": {
+      "text": "Klasična Napuljska pizza s rajčicama San Marzano, svježom mozzarellom i bosiljkom.",
+      "description": "Opis recepta za Margherita pizzu."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Naziv recepta za Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinirani svinjski tacos s ananasom, korijanderom i lukom na tortiljama od kukuruza.",
+      "description": "Opis recepta za Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Maslac Piletina",
+      "description": "Naziv recepta za Maslac Piletinu."
+    },
+    "butterChickenDescription": {
+      "text": "Mekana piletina u kremastom umaku od rajčice i maslaca s aromatičnim začinima.",
+      "description": "Opis recepta za Maslac Piletinu."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Naziv recepta za Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Pržena rižina tjestenina s kozicama, tofujem, kikirikijem i tamarind umakom.",
+      "description": "Opis recepta za Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francuski Crepes",
+      "description": "Naziv recepta za Francuske Crepse."
+    },
+    "crepesDescription": {
+      "text": "Tanki, nježni crepsi punjeni Nutellom, svježim jagodama i šlagom.",
+      "description": "Opis recepta za Francuske Crepse."
     }
   },
   "LocaleSwitcher": {

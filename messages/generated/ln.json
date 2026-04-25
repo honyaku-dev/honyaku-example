@@ -43,6 +43,54 @@
     "hard": {
       "text": "Mpasi",
       "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na mpasi."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Kombo ya resipi ya Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Madesu ya nyama ya ngulu ya porki oyo ezali na mabele ya malamu, chashu oyo ezali malamu, mayi ya mbisi ya kokoba, mpe biloko ya bilei ya sika.",
+      "description": "Nkombo ya resipi ya Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Kombo ya resipi ya Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya kala na tomates San Marzano, mozzarella ya sika, mpe basil.",
+      "description": "Nkombo ya resipi ya Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Kombo ya resipi ya Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos ya nyama ya porki oyo esalemi na marinade na anana, cilantro, mpe oyo ya lolo na biloko ya corn.",
+      "description": "Nkombo ya resipi ya Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Kombo ya resipi ya Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Nani ya ngulu oyo ezali malamu na sauce ya tomate mpe beurre ya malamu na biloko ya monene ya mabele.",
+      "description": "Nkombo ya resipi ya Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Kombo ya resipi ya Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Biloko ya bilei ya rice noodles oyo esalemaki na shrimp, tofu, peanuts, mpe sauce ya tamarind.",
+      "description": "Nkombo ya resipi ya Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes ya Bufransi",
+      "description": "Kombo ya resipi ya Crepes ya Bufransi."
+    },
+    "crepesDescription": {
+      "text": "Crepes ya petele, ya malamu oyo ebomamaki na Nutella, fraises ya sika, mpe crème ya kokoba.",
+      "description": "Nkombo ya resipi ya Crepes ya Bufransi."
     }
   },
   "LocaleSwitcher": {

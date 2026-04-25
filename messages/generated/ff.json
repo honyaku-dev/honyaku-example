@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kammu",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Ñaari woyde ngesaaji ndiyam goɗɗo e chashu maa, ndiyam ngaddu, e noodels ɓe kaɗɗi.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan ngam San Marzano tomatoes, mozzarella ngam mboddi, e basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos ngesaaji ngesa e ñaamu, cilantro, e cebolla e tortillas ngaari.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Chicken Butter",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Ngesaaji ngeɗɗo e sauce tomate e butter ngol e ceedeere aromatique.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles ngesaaji e shrimp, tofu, peanuts, e sauce tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes Faransiis",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes ndiyam, finaa, e Nutella, strawberries ngesa, e cream ngol.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

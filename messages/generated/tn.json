@@ -43,6 +43,54 @@
     "hard": {
       "text": "Bokhutshwane",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Moro wa maungo a kolobe o o nonofileng o nang le chashu e e bonolo, lehe le le besitsweng sentle, le dinoodle tse di dintšhwa.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya setso e nang le matokomane a San Marzano, mozzarella e ntšhwa, le basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos tsa kolobe tse di mahe a pineapple, cilantro, le onion mo dilayong tsa koro.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Lenyora la Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Koko e e bonolo mo soso ya tomato le lenyora e e nang le ditlhare tse di monate.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Dinoodle tsa raese tse di besitsweng ka shrimp, tofu, peanut, le soso ya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes tsa Fora",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes tse di motlhofo, tse di tlatsitsweng ka Nutella, ditapole tse dintšhwa, le kirimu e e peletsweng.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

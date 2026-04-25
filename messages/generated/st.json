@@ -43,6 +43,54 @@
     "hard": {
       "text": "E thata",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Moro oa mesifa ea khomo o ruileng o nang le chashu e bonolo, leqhoa le phehiloeng ka bonolo, le noodles tse ncha.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza ea Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ea Neapolitan ea khale e nang le tamati tsa San Marzano, mozzarella e ncha, le basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos tsa nama ea kolobe e belisitsoeng le pineapple, cilantro, le onion holim'a li-tortilla tsa koro.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Kuku ea Botoro",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Kuku e bonolo ka soso ea tamati le botoro e nang le monko o monate oa linoko.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles tsa raese tse phehiloeng ka shrimp, tofu, dinawa, le soso ea tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes tsa Fora",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes tse tenya, tse boreleli tse tletseng Nutella, litholoana tse ncha tsa strawberry, le kirimu e halikiloeng.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

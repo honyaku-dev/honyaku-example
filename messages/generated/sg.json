@@ -43,6 +43,54 @@
     "hard": {
       "text": "Tîngö",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mâ tîngö yângâ ti ngâ tîngö ti chashu ti mbè ti tîngö ti mbênî ti ë tîngö ti ngâ ti tîngö ti so.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Mbangi Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Mbangi Neapolitan ti ngâ ti San Marzano ti mozarella mû ti basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos ti ngâ ti mbè ti mbênî mû ti ananas, cilantro, ti yângâ ti mbâ ti ngâ ti kòrnî.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Bata ti Ngâ",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Ngâ ti lânga ti mbênî ti tomati mû bata ti ti ti yângâ ti mbâ ti mîngo.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Ngâ ti tîngö ti mbâ ti ngâ ti shrimp, tofu, peanuts, mû tamarind ti mbê.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Mbangi French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes ti tîngö ti ngâ ti Nutella, mû strawberries mû ti mbê ti yângâ ti mbâ.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

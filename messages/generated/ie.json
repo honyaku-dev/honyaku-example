@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dure",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nomine del recet Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Ric brod de ossos de porco con chashu tender, ov soft-cuit, e noodles fresc.",
+      "description": "Description del recet Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pitza Margherita",
+      "description": "Nomine del recet Pitza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pitza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilic.",
+      "description": "Description del recet Pitza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nomine del recet Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porco marinat con ananas, coriandro, e cepe sur tortillas de gran.",
+      "description": "Description del recet Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pollo al Buter",
+      "description": "Nomine del recet Pollo al Buter."
+    },
+    "butterChickenDescription": {
+      "text": "Pollo tender in un salsa cremose de tomate e buter con spices aromatic.",
+      "description": "Description del recet Pollo al Buter."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nomine del recet Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles de rice saltat con crevettes, tofu, arachides, e salsa de tamarindo.",
+      "description": "Description del recet Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Francese",
+      "description": "Nomine del recet Crepes Francese."
+    },
+    "crepesDescription": {
+      "text": "Crepes fin e delicat plenat con Nutella, fragoles fresc, e crema frapat.",
+      "description": "Description del recet Crepes Francese."
     }
   },
   "LocaleSwitcher": {

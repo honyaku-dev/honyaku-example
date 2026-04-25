@@ -43,6 +43,54 @@
     "hard": {
       "text": "Adhay",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Marqo daa'ima xoolo hililay chashu, ukku laan ah, iyo baasto cusub.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan caadi ah oo leh yaanyo San Marzano, mozzarella cusub, iyo basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos hilib doofaar la marinateeyay oo leh cananaaska, qajaar, iyo basal dusha ka saaran tortillas galleyda.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Digaag jilicsan oo ku jira suugo yaanyo iyo subag leh dhir udgoon.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Baasto bariis la shiilay oo leh shrimp, tofu, lows, iyo suugo tamarind ah.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes khafiif ah oo jilicsan oo lagu buuxiyey Nutella, strawberries cusub, iyo kareemo la garaacay.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

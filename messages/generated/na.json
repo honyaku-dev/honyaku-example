@@ -43,6 +43,54 @@
     "hard": {
       "text": "Had",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Rik porok bon brot wita tencha chashu, soft-boild eg, e fres noodels.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasik Neapolitan pizza wita San Marzano tomatoes, fres mozzarella, e basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinated porok tacos wita pineapple, cilantro, e onion on corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Tencha chicken in a creamy tomato e butter sos wita aromatic spices.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Stir-fried rais noodels wita shrimp, tofu, peanuts, e tamarind sos.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Thin, delicate crepes filled wita Nutella, fres strawberries, e whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

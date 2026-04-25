@@ -43,6 +43,54 @@
     "hard": {
       "text": "Nzọụkwụ siri ike",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mmiri ọkụ anụ ezi juputara na chashu dị nro, akwa esi ọkụ, na noodles ọhụrụ.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan nke omenala nwere tomatos San Marzano, mozzarella ọhụrụ, na basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos anụ ezi e ji mmiri ọgwụ mee nwere pineapple, cilantro, na yabasị na tortillas ọka.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Nkwu Anụ ọkụkọ",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Anụ ọkụkọ dị nro n’ime mmanya tomati na mmanụ aṅụ dị ụtọ nwere ísì ụtọ nke anụ ọkụkọ.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles osikapa a na-esi na shrimp, tofu, mkpụrụ ọka, na mmanụ tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes French",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes ndị dị nro, dịkwa mfe a na-atụgharị na Nutella, strawberries ọhụrụ, na whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

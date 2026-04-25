@@ -43,6 +43,54 @@
     "hard": {
       "text": "Zakaoma",
       "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri yakaoma."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Zita re resipi yeTonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Muto wemapfupa enhuku une nyama yakaoma, zai rakabikwa zvinyoronyoro, uye nhozi nyowani.",
+      "description": "Tsanangudzo ye resipi yeTonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Zita re resipi yeMargherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Pizza yeNeapolitan yechinyakare ine matomatisi eSan Marzano, mozzarella itsva, uye basil.",
+      "description": "Tsanangudzo ye resipi yeMargherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Zita re resipi yeTacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos dzemhuru dzakanyikwa nemupineapuro, cilantro, uye hanyanisi pamakapu echibage.",
+      "description": "Tsanangudzo ye resipi yeTacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Zita re resipi yeButter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Huku yakanaka iri musosi yetamatisi inotapira nebhata uye zvinonhuwira zvinofadza.",
+      "description": "Tsanangudzo ye resipi yeButter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Zita re resipi yePad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nhozi dzakakangwa dzemupunga dzine huku yegungwa, tofu, nzungu, uye muto wetamarind.",
+      "description": "Tsanangudzo ye resipi yePad Thai."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Zita re resipi yeFrench Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes dzakatetepa, dzakatsetseka dzakazadzwa neNutella, ma strawberries matsva, uye kirimu yakarohwa.",
+      "description": "Tsanangudzo ye resipi yeFrench Crepes."
     }
   },
   "LocaleSwitcher": {

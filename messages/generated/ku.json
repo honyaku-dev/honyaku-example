@@ -43,6 +43,54 @@
     "hard": {
       "text": "Zor",
       "description": "Nîşana asta zêdeyî ku xwarinek zor nîşan dide."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Navê reseptê Tonkotsu Ramenê."
+    },
+    "ramenDescription": {
+      "text": "Şorba tûrê qelibê porkê bi chashuya nerm, hêkê zîv, û nimêjên tazeyên.",
+      "description": "Danasîna reseptê Tonkotsu Ramenê."
+    },
+    "margheritaName": {
+      "text": "Pîza Margherita",
+      "description": "Navê reseptê Pîza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pîza klasîk a Neapolitan bi tomatan San Marzano, mozzarella tazeyê, û fesleğen.",
+      "description": "Danasîna reseptê Pîza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Navê reseptê Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacosên porkê marînkirî bi ananas, cilantro, û pîvaz li ser tortilla yên gândî.",
+      "description": "Danasîna reseptê Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Mirîşkê Bêra",
+      "description": "Navê reseptê Mirîşkê Bêra."
+    },
+    "butterChickenDescription": {
+      "text": "Mirîşkê nerm di sosê xwêzayî ya tomat û bêra bi herîkên hûr dikeve.",
+      "description": "Danasîna reseptê Mirîşkê Bêra."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Navê reseptê Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nimêjên birincî yên qevî bi shrimp, tofu, qeseyên fistik, û sosê tamarind.",
+      "description": "Danasîna reseptê Pad Thai."
+    },
+    "crepesName": {
+      "text": "Krepsên Fransî",
+      "description": "Navê reseptê Krepsên Fransî."
+    },
+    "crepesDescription": {
+      "text": "Krepsên nerm û nazik tije kirî bi Nutella, tûşeya tazeyê, û kremê şîrîn.",
+      "description": "Danasîna reseptê Krepsên Fransî."
     }
   },
   "LocaleSwitcher": {

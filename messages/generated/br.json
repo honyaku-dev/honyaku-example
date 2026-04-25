@@ -43,6 +43,54 @@
     "hard": {
       "text": "Krenn",
       "description": "Lezel live dreistder a zispleg ur resisad kreñv."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Anv ar resisad Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Brozhig gwad-toull eus gwad porc pinvidik gant chashu gouez, viñv-boest, ha noed fresk.",
+      "description": "Deskrivadur ar resisad Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pitsa Margherita",
+      "description": "Anv ar resisad Pitsa Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pitsa klasel neapolitanek gant tomataoù San Marzano, mozzarella fresk, ha basil.",
+      "description": "Deskrivadur ar resisad Pitsa Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Anv ar resisad Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos porc marinat gant ananas, cilantro, ha oignon war tortilla korn.",
+      "description": "Deskrivadur ar resisad Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Poulet a-boutonenn",
+      "description": "Anv ar resisad Poulet a-boutonenn."
+    },
+    "butterChickenDescription": {
+      "text": "Poulet gouez e sous kremañs tomata ha beurre gant spizioù aromatek.",
+      "description": "Deskrivadur ar resisad Poulet a-boutonenn."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Anv ar resisad Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nodelloù ruz stourmet gant crevetenn, tofu, anvein, ha sous tamarind.",
+      "description": "Deskrivadur ar resisad Pad Thai."
+    },
+    "crepesName": {
+      "text": "Krampouezh Frañs",
+      "description": "Anv ar resisad Krampouezh Frañs."
+    },
+    "crepesDescription": {
+      "text": "Krampouezh sklaer ha delik gant Nutella, fraezhenn fresk, ha krem gwisket.",
+      "description": "Deskrivadur ar resisad Krampouezh Frañs."
     }
   },
   "LocaleSwitcher": {

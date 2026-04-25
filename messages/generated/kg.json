@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kukangama mingi",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mambu ya nyama ya mbisi ya nyama ya ngulu yina kele na mayindu, chashu ya kwikama, nzambi ya mpasi, ti minene ya mbika ya mpasi.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya ntete na tomati za San Marzano, mozarela ya ntete, ti basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos ya nyama ya mbisi ya mbisi na pinãpulu, cilantro, ti lufu na biloko ya mbika ya ngoma.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Nzonzo ya ngulu ya mpasi na mayindu ya tomati ti buteri na minyama ya nsungi ya mambu ya mpasi.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Mbika ya mbika ya mbisi ya mpasi na nzambi, tofu, minene ya nsimbi, ti mayindu ya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes ya Fulansi",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes ya ntete, ya malamu ya kele na Nutella, minene ya mbisi ya mpasi, ti mayindu ya mpasi ya nsungi.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

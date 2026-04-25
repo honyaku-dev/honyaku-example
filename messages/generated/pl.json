@@ -43,6 +43,54 @@
     "hard": {
       "text": "Trudny",
       "description": "Etykieta poziomu trudności oznaczająca trudny przepis."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nazwa przepisu Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bogaty bulion z kości wieprzowych z delikatnym chashu, miękkim jajkiem i świeżym makaronem.",
+      "description": "Opis przepisu Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nazwa przepisu na pizzę Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Klasyczna neapolitańska pizza z pomidorami San Marzano, świeżą mozzarellą i bazylią.",
+      "description": "Opis przepisu na pizzę Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nazwa przepisu na Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marynowane tacos z wieprzowiną z ananasem, kolendrą i cebulą na kukurydzianych tortillach.",
+      "description": "Opis przepisu na Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Nazwa przepisu na Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Delikatny kurczak w kremowym sosie pomidorowo-maślanym z aromatycznymi przyprawami.",
+      "description": "Opis przepisu na Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nazwa przepisu na Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Smażony makaron ryżowy z krewetkami, tofu, orzeszkami ziemnymi i sosem tamaryndowym.",
+      "description": "Opis przepisu na Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francuskie Naleśniki",
+      "description": "Nazwa przepisu na francuskie naleśniki."
+    },
+    "crepesDescription": {
+      "text": "Cienkie, delikatne naleśniki nadziewane Nutellą, świeżymi truskawkami i bitą śmietaną.",
+      "description": "Opis przepisu na francuskie naleśniki."
     }
   },
   "LocaleSwitcher": {

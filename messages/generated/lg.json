@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kikadde",
       "description": "Ekitundu eky’omutindo gw’obuzibu ekyegatta ku kirungo ekirina obuzibu obunene."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Erinnya lya Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Amayinja ag’amazzi ag’amaanyi agava mu mbuto za nyama y’embuzi n’ennyama eza chashu ezisanyizo, eggi ery’amaanyi, n’ebikadde eby’obulungi.",
+      "description": "Amagezi ku Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizaa ya Margherita",
+      "description": "Erinnya lya Pizaa ya Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizaa ya Neapolitan ey’obulamu nga erimu tomato za San Marzano, mozzarella empya, ne basil.",
+      "description": "Amagezi ku Pizaa ya Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Erinnya lya Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos za nyama y’embuzi ezisanyizo eziri wamu n’epinepuli, cilantro, n’ensigo ku bibbo bya siminti.",
+      "description": "Amagezi ku Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Ennyama y’Inkoko n’amafuta",
+      "description": "Erinnya lya Ennyama y’Inkoko n’amafuta."
+    },
+    "butterChickenDescription": {
+      "text": "Ennyama y’inkoko entuufu mu ssupu ey’obutunda n’amafuta n’ebirungo eby’obuwunga.",
+      "description": "Amagezi ku Ennyama y’Inkoko n’amafuta."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Erinnya lya Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Ebikadde eby’obulungi eby’okukola n’ebitookye, tofu, peanuts, n’amayinja ga tamarind.",
+      "description": "Amagezi ku Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes z’Ebifananyi by’Amawanga g’e Bufalansa",
+      "description": "Erinnya lya Crepes z’Ebifananyi by’Amawanga g’e Bufalansa."
+    },
+    "crepesDescription": {
+      "text": "Crepes ezisinga obulungi ezibadde n’ekyokulya kya Nutella, bisembe eby’obulamu, n’omuwendo gwa whipped cream.",
+      "description": "Amagezi ku Crepes z’Ebifananyi by’Amawanga g’e Bufalansa."
     }
   },
   "LocaleSwitcher": {

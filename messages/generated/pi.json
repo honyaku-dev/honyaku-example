@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dukkaṭaṃ",
       "description": "Dukkaṭena pākakāmaṃ nītatā."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen pākatthassa nāma."
+    },
+    "ramenDescription": {
+      "text": "Maddanena pātālassa honti mūṣaka hatthe pākaṃ, mrduṃ andaṃ, navaṃ nāḷikaṃ ca.",
+      "description": "Tonkotsu Ramen pākatthassa paribhāṣā."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza pākatthassa nāma."
+    },
+    "margheritaDescription": {
+      "text": "Paramparikaṃ Neapolitan pizza San Marzano ṭomāṭo, nava mozzarella, basilīka ca.",
+      "description": "Margherita Pizza pākatthassa paribhāṣā."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor pākatthassa nāma."
+    },
+    "tacosDescription": {
+      "text": "Māricassa amūḷhaṃ tacos ananasena, dhānyapattena, pyājaṃ ca corn tortillas uppajīvā.",
+      "description": "Tacos al Pastor pākatthassa paribhāṣā."
+    },
+    "butterChickenName": {
+      "text": "Navaneḍaka Kukkuṭa",
+      "description": "Navaneḍaka Kukkuṭa pākatthassa nāma."
+    },
+    "butterChickenDescription": {
+      "text": "Mrdu kukkuṭa tomāṭo mañca navaneḍaka saṭṭhi ca gandhita masālāhi sahita.",
+      "description": "Navaneḍaka Kukkuṭa pākatthassa paribhāṣā."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai pākatthassa nāma."
+    },
+    "padThaiDescription": {
+      "text": "Udaka nāḷikāya saha cūḷhā, tuṭo, mūṣaka, tamarindasaṭṭhiyā ca paṭipāṭita.",
+      "description": "Pad Thai pākatthassa paribhāṣā."
+    },
+    "crepesName": {
+      "text": "Phālañca Crepes",
+      "description": "Phālañca Crepes pākatthassa nāma."
+    },
+    "crepesDescription": {
+      "text": "Sūkṣma, mrdu crepes Nutella, nava strāubērī, piṇḍita sītehi pūrita.",
+      "description": "Phālañca Crepes pākatthassa paribhāṣā."
     }
   },
   "LocaleSwitcher": {

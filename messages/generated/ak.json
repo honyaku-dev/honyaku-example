@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dɛn",
       "description": "Den a ɛkyerɛ sɛ aduan no yɛ dɛn paa."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen nkyerɛase din."
+    },
+    "ramenDescription": {
+      "text": "Nnuaba a wɔde pork bone broth a ɛdɔɔso yɛ, chashu a ɛyɛ mmerɛ, kosua a wɔbɔ wɔn mu hyɛ no, ne nnuaba foforo.",
+      "description": "Tonkotsu Ramen nkyerɛase."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza nkyerɛase din."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan pizza a ɛyɛ dɛ a wɔde San Marzano nkyene, mozzarella foforo, ne basil.",
+      "description": "Margherita Pizza nkyerɛase."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor nkyerɛase din."
+    },
+    "tacosDescription": {
+      "text": "Pork a wɔde ankaa, cilantro, ne ankaa nkyene wɔ corn tortillas so.",
+      "description": "Tacos al Pastor nkyerɛase."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken nkyerɛase din."
+    },
+    "butterChickenDescription": {
+      "text": "Akokɔ a ɛyɛ mmerɛ wɔ tomato ne nkuto a ɛyɛ creamy mu a wɔde nsɛm a ɛyɛ fɛfɛɛfɛ ka ho.",
+      "description": "Butter Chicken nkyerɛase."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai nkyerɛase din."
+    },
+    "padThaiDescription": {
+      "text": "Rice noodles a wɔde shrimp, tofu, nkateɛ, ne tamarind sauce bɔ mu.",
+      "description": "Pad Thai nkyerɛase."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "French Crepes nkyerɛase din."
+    },
+    "crepesDescription": {
+      "text": "Crepes a ɛyɛ fine na ɛyɛ fɛfɛɛfɛ a wɔde Nutella, strawberries foforo, ne whipped cream hyɛ mu.",
+      "description": "French Crepes nkyerɛase."
     }
   },
   "LocaleSwitcher": {

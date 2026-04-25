@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difícil",
       "description": "Etiqueta do nivel de dificultade indicando que a receita é difícil."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nome da receita Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Caldo rico de ósos de porco con chashu tenro, ovo cocido brandamente e fideos frescos.",
+      "description": "Descrición da receita Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nome da receita Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza clásica napolitana con tomates San Marzano, mozzarella fresca e albahaca.",
+      "description": "Descrición da receita Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nome da receita Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porco marinados con piña, cilantro e cebola en tortillas de millo.",
+      "description": "Descrición da receita Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pollo con Manteiga",
+      "description": "Nome da receita Pollo con Manteiga."
+    },
+    "butterChickenDescription": {
+      "text": "Pollo tenro nunha salsa cremosa de tomate e manteiga con especias aromáticas.",
+      "description": "Descrición da receita Pollo con Manteiga."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nome da receita Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Fideos de arroz fritidos con gambas, tofu, cacahuetes e salsa de tamarindo.",
+      "description": "Descrición da receita Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Franceses",
+      "description": "Nome da receita Crepes Franceses."
+    },
+    "crepesDescription": {
+      "text": "Crepes finos e delicados recheos con Nutella, amorodos frescos e crema batida.",
+      "description": "Descrición da receita Crepes Franceses."
     }
   },
   "LocaleSwitcher": {

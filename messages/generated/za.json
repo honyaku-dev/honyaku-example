@@ -43,6 +43,54 @@
     "hard": {
       "text": "Ndaw",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Roengz raemx mbouj mbouj gwn daih daengz yiengh chashu, nyenj raemx roengz giet, caeuq mbouj mbouj roengz.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan Pizza gyangq daengq San Marzano daengq, Mozzarella gyangq roengz, caeuq basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos raemx daengq mbouj mbouj gyangq nyenj ananae, cilantro, caeuq ceb onh goj mbouj maenh.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Gai roengz mbouj mbouj gyangq nyenj daengq dwg tomato caeuq butter haenq gyangq hmbwnh.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Boux mbouj mbouj gyangq nyenj, tofu, mbouj mbouj, caeuq tamarind haenq.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes mbouj mbouj gyangq Nutella, nyenj boux, caeuq whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

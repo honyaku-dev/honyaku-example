@@ -43,6 +43,54 @@
     "hard": {
       "text": "Zor",
       "description": "Zor bir tarifi belirten zorluk seviyesi etiketi."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen tarifinin adı."
+    },
+    "ramenDescription": {
+      "text": "Yumuşak chashu, haşlanmış yumurta ve taze erişte ile zengin domuz kemiği suyu.",
+      "description": "Tonkotsu Ramen tarifinin açıklaması."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza tarifinin adı."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano domatesleri, taze mozzarella ve fesleğen ile klasik Napoli pizzası.",
+      "description": "Margherita Pizza tarifinin açıklaması."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor tarifinin adı."
+    },
+    "tacosDescription": {
+      "text": "Mısır tortilla üzerinde ananas, kişniş ve soğan ile marine edilmiş domuz tacosları.",
+      "description": "Tacos al Pastor tarifinin açıklaması."
+    },
+    "butterChickenName": {
+      "text": "Tereyağlı Tavuk",
+      "description": "Tereyağlı Tavuk tarifinin adı."
+    },
+    "butterChickenDescription": {
+      "text": "Aromatik baharatlarla kremalı domates ve tereyağı sosunda yumuşak tavuk.",
+      "description": "Tereyağlı Tavuk tarifinin açıklaması."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai tarifinin adı."
+    },
+    "padThaiDescription": {
+      "text": "Karides, tofu, yer fıstığı ve tamarind sosuyla sotelenmiş pirinç eriştesi.",
+      "description": "Pad Thai tarifinin açıklaması."
+    },
+    "crepesName": {
+      "text": "Fransız Krep",
+      "description": "Fransız Krep tarifinin adı."
+    },
+    "crepesDescription": {
+      "text": "Nutella, taze çilek ve krem şanti ile doldurulmuş ince, narin krepler.",
+      "description": "Fransız Krep tarifinin açıklaması."
     }
   },
   "LocaleSwitcher": {

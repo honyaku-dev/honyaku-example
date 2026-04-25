@@ -43,6 +43,54 @@
     "hard": {
       "text": "Vhulamukanyi Vhukati",
       "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi khou vha zwa u ṱuṱuwedza."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Dzina ḽa recipe ya Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Nḓila ya mavu a ngwedi ya pork ine ya vha hone na chashu yo vhuya, dzi egg dza u tanga nga u nyanya, na noodles dza mutshelo.",
+      "description": "Ṱhalutshedzo ya recipe ya Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Dzina ḽa recipe ya Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya tshivhumbeo ine ya vha na tomato dza San Marzano, mozzarella ya mutshelo, na basil.",
+      "description": "Ṱhalutshedzo ya recipe ya Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Dzina ḽa recipe ya Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos dza pork dzi khou swikiswa nga pineapple, cilantro, na onion kha corn tortillas.",
+      "description": "Ṱhalutshedzo ya recipe ya Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Dzina ḽa recipe ya Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Kuku yo vhuya kha sauce ya tomato na butter ine ya vha na zwilamulo zwa mivhili.",
+      "description": "Ṱhalutshedzo ya recipe ya Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Dzina ḽa recipe ya Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles dza rice dzi khou tshimbidzwa na shrimp, tofu, peanuts, na sauce ya tamarind.",
+      "description": "Ṱhalutshedzo ya recipe ya Pad Thai."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Dzina ḽa recipe ya French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes dza u fhulufhela dza u lulama dzi khou bveledzwa na Nutella, strawberries dza mutshelo, na whipped cream.",
+      "description": "Ṱhalutshedzo ya recipe ya French Crepes."
     }
   },
   "LocaleSwitcher": {

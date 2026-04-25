@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dificil",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nom de la recepta Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Brou ric de òsses de porc amb chashu tendre, òu passat a l'aiga doça, e nòdas frescas.",
+      "description": "Descripción de la recepta Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Piza Margherita",
+      "description": "Nom de la recepta Piza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Piza napolitana classica amb tomatas San Marzano, mozzarella fresca, e basilic.",
+      "description": "Descripción de la recepta Piza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nom de la recepta Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porc marinats amb pina, coriandre e cebas sus tortillas de milh.",
+      "description": "Descripción de la recepta Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pollastre al Burre",
+      "description": "Nom de la recepta Pollastre al Burre."
+    },
+    "butterChickenDescription": {
+      "text": "Pollastre tendre dins una salsa cremosa de tomata e burre amb espècias aromàticas.",
+      "description": "Descripción de la recepta Pollastre al Burre."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nom de la recepta Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nòdas de ris saltejadas amb camarons, tofù, cacahuètes e salsa de tamarind.",
+      "description": "Descripción de la recepta Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crèpas Francesas",
+      "description": "Nom de la recepta Crèpas Francesas."
+    },
+    "crepesDescription": {
+      "text": "Crèpas finas e delicadas emplenadas amb Nutella, fragoletas frescas e crema batuda.",
+      "description": "Descripción de la recepta Crèpas Francesas."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Okutumba",
       "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOkutumba."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Oshindjila shOmakwawo shO Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Omukalo gwOmadhano gOmapuku gOshilongo gOshilongo na chashu yomahumbata, ombinga yOmapeto, na ongele yOmadhano gOmwene.",
+      "description": "Okutaholoka kOmakwawo gO Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Oshindjila shOmakwawo shO Pizza ya Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan e ta li na San Marzano tomatoes, mozzarella yOmwene, na basil.",
+      "description": "Okutaholoka kOmakwawo gO Pizza ya Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Oshindjila shOmakwawo shO Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos dzOmapuku dzOshilongo dzO shoka na pineapple, cilantro, na onion pa corn tortillas.",
+      "description": "Okutaholoka kOmakwawo gO Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Omadhano gOshipandelo shOmapuku",
+      "description": "Oshindjila shOmakwawo shOmapuku gOshipandelo."
+    },
+    "butterChickenDescription": {
+      "text": "Omadhano gOmapuku gOshilongo gOli na sauce ya tomato na butter gOli na omakandjo gO makandjo.",
+      "description": "Okutaholoka kOmakwawo gOmapuku gOshipandelo."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Oshindjila shOmakwawo shO Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Ongele yOmadhano gOshilongo gOli na shrimp, tofu, peanuts, na sauce ya tamarind.",
+      "description": "Okutaholoka kOmakwawo gO Pad Thai."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Oshindjila shOmakwawo shO French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes dzOshilongo, dzOli na Nutella, strawberries yOmwene, na whipped cream.",
+      "description": "Okutaholoka kOmakwawo gO French Crepes."
     }
   },
   "LocaleSwitcher": {

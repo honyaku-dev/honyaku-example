@@ -43,6 +43,54 @@
     "hard": {
       "text": "Nene",
       "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinene swinene."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Vito ra swiresipe swa Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Nyama ya nkhuku ya xihoko leyinene leyinene ni chashu leyinyenyana, nhova leyi tsakisaka, ni noodles leyin'wana.",
+      "description": "Nhlamuselo ya swiresipe swa Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Vito ra swiresipe swa Pizza ya Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya xivumbeko xa khale ni tinambhu ta San Marzano, mozzarella leyintshwa, na basil.",
+      "description": "Nhlamuselo ya swiresipe swa Pizza ya Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Vito ra swiresipe swa Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos ta nyama ya nkungu leyi koxiwaka ni pineapple, cilantro, na anyisi eka tortillas ya mbewu ya mhungu.",
+      "description": "Nhlamuselo ya swiresipe swa Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Chicken ya Butter",
+      "description": "Vito ra swiresipe swa Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Nyama ya nkhuku leyinyenyana eka swisi swa tamati ni butter swo tiya ni swiphephana swa xivumbeko.",
+      "description": "Nhlamuselo ya swiresipe swa Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Vito ra swiresipe swa Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles ya vhusiku byo hlelela hi shrimp, tofu, timpeleti, ni swisi swa tamarind.",
+      "description": "Nhlamuselo ya swiresipe swa Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes ya le France",
+      "description": "Vito ra swiresipe swa French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes leyinyenyana, leyi nga riki na moya leyipfukaka leyi tivelaka Nutella, masipala matsongo, ni swikombelo swa swikandza.",
+      "description": "Nhlamuselo ya swiresipe swa French Crepes."
     }
   },
   "LocaleSwitcher": {

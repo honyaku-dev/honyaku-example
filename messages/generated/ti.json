@@ -43,6 +43,54 @@
     "hard": {
       "text": "ከባድ",
       "description": "ከባድ የሆነ የምግብ አሰራር መለያ።"
+    },
+    "ramenName": {
+      "text": "ቶንኮቱስ ራሜን",
+      "description": "ስም ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
+    },
+    "ramenDescription": {
+      "text": "ባህርያዊ ድንች ኣንባሳይ ጭራሽ ሻሹ፣ ሰላማዊ እንቁላል እና ናይ ናይነት ኖድልስ ዝተሰራሕ ማይጨርር ስርዓት።",
+      "description": "መግለጺ ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
+    },
+    "margheritaName": {
+      "text": "ማርገሪታ ፒዛ",
+      "description": "ስም ናይ ማርገሪታ ፒዛ ክረፍቲ።"
+    },
+    "margheritaDescription": {
+      "text": "ክላሲክ ኒያፖሊታን ፒዛ ከም ሳን ማርዛኖ ቶማቶች፣ ናይ ናይነት ሞዝየራላ እና ባዚል።",
+      "description": "መግለጺ ናይ ማርገሪታ ፒዛ ክረፍቲ።"
+    },
+    "tacosName": {
+      "text": "ታኮስ ኣል ፓስተር",
+      "description": "ስም ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
+    },
+    "tacosDescription": {
+      "text": "ዝተሰማማቱ ድንች ታኮሶች ከም ፓይናፕል፣ ሲላንትሮ፣ እና ሽንኩርት ብኮርን ቶርቲላስ።",
+      "description": "መግለጺ ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
+    },
+    "butterChickenName": {
+      "text": "ባተር ቺክን",
+      "description": "ስም ናይ ባተር ቺክን ክረፍቲ።"
+    },
+    "butterChickenDescription": {
+      "text": "በግ ስጋ ብርታዕ ቶማቶ እና ባተር ሳስ ኣብ ንመንጋታዊ ቅመምታት ዝተሰራሕ።",
+      "description": "መግለጺ ናይ ባተር ቺክን ክረፍቲ።"
+    },
+    "padThaiName": {
+      "text": "ፓድ ታይ",
+      "description": "ስም ናይ ፓድ ታይ ክረፍቲ።"
+    },
+    "padThaiDescription": {
+      "text": "በዝግ እንቁላል ኖድልስ ኣብ ዝተሰራሕ ሽሪም፣ ቶፉ፣ አንቄሊን እና ታማሪንድ ሳስ።",
+      "description": "መግለጺ ናይ ፓድ ታይ ክረፍቲ።"
+    },
+    "crepesName": {
+      "text": "ፈረንሳይ ክሬፕስ",
+      "description": "ስም ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
+    },
+    "crepesDescription": {
+      "text": "አርከትና ዝኾነ ክሬፕስ ብኑተላ፣ ናይነት ስትራበሪዎች እና ዝተፈነጠ ክሬም ዝተሞላ።",
+      "description": "መግለጺ ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dɔwɔ",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
+    },
+    "ramenDescription": {
+      "text": "Tɔƒe pork bone broth kple chashu si wòle ɖoɖo, nu ɖoɖo egg, kple noodles si wòle dzo.",
+      "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Dzudzɔla si le Margherita Pizza recipe me."
+    },
+    "margheritaDescription": {
+      "text": "Classic Neapolitan pizza kple San Marzano tomatoes, fresh mozzarella, kple basil.",
+      "description": "Dzudzɔla si le Margherita Pizza recipe me."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Dzudzɔla si le Tacos al Pastor recipe me."
+    },
+    "tacosDescription": {
+      "text": "Marinated pork tacos kple pineapple, cilantro, kple onion le corn tortillas me.",
+      "description": "Dzudzɔla si le Tacos al Pastor recipe me."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Dzudzɔla si le Butter Chicken recipe me."
+    },
+    "butterChickenDescription": {
+      "text": "Tender chicken le creamy tomato kple butter sauce kple aromatic spices.",
+      "description": "Dzudzɔla si le Butter Chicken recipe me."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Dzudzɔla si le Pad Thai recipe me."
+    },
+    "padThaiDescription": {
+      "text": "Stir-fried rice noodles kple shrimp, tofu, peanuts, kple tamarind sauce.",
+      "description": "Dzudzɔla si le Pad Thai recipe me."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Dzudzɔla si le French Crepes recipe me."
+    },
+    "crepesDescription": {
+      "text": "Thin, delicate crepes si wòle Nutella, fresh strawberries, kple whipped cream.",
+      "description": "Dzudzɔla si le French Crepes recipe me."
     }
   },
   "LocaleSwitcher": {

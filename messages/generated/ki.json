@@ -43,6 +43,54 @@
     "hard": {
       "text": "Thutha",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mũgũnda wa mĩrĩrĩ ya ng'ombe wa pork ũtukũ na chashu iria yathuthĩrĩte, aĩgĩ ya mbembe, na ithũri icio kĩa gũtũma.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Piza ya Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Piza ya Neapolitan ya mũthũ wa kĩrĩa na maĩte ma San Marzano, mozzarella ya mũgũnda, na basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos cia pork cia gũtirĩa na ũrĩa wa mĩtĩ, cilantro, na ũtari mũno icio kĩa maũndũ a corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Kĩrĩmi kĩa Mbũri kĩa Mbura",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Kĩrĩmi kĩa mbũri kĩa thutha kĩa mĩtũrĩkano ya tomate na mbura na mbeca cia ũtukũ na maũndũ ma mĩtĩrĩrĩrĩ.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Ithũri cia mĩrĩrĩ ya ũtũmi cia thutha na shrimp, tofu, peanuts, na mĩtũrĩkano ya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes cia Francia",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes cia mũno, cia gũtũma cia Nutella, mĩtĩ ya mbembe, na cream iria yathuthĩrĩte.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

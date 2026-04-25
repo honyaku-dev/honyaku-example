@@ -43,6 +43,54 @@
     "hard": {
       "text": "Mahirap",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mamanghang sabaw ng buto ng baboy na may malambot na chashu, malambot na nilagang itlog, at sariwang pansit.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasikong Neapolitan pizza na may mga kamatis na San Marzano, sariwang mozzarella, at basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Mga pinalamnamang pork tacos na may pinya, cilantro, at sibuyas sa mga mais na tortilla.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Malambot na manok sa creamy na sarsa ng kamatis at mantikilya na may mga mabangong pampalasa.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Ginisang pansit na gawa sa bigas na may hipon, tofu, mani, at sarsa ng sampalok.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Manipis, marurupok na crepes na may palaman ng Nutella, sariwang presa, at whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

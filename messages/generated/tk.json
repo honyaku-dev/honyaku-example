@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kyn",
       "description": "Kyn resepti görkezýän kynçylyk derejesiniň belligi."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen reseptiniň ady."
+    },
+    "ramenDescription": {
+      "text": "Ýumşak chashu, ýumşak bişirilýän ýumurtga we täze noodle bilen baý aýak süýji çorbasynyň.",
+      "description": "Tonkotsu Ramen reseptiniň beýany."
+    },
+    "margheritaName": {
+      "text": "Margherita Pitsa",
+      "description": "Margherita Pitsa reseptiniň ady."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano pomidorlary, täze mozarella we reyhan bilen klassik Neapolitan pitsa.",
+      "description": "Margherita Pitsa reseptiniň beýany."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor reseptiniň ady."
+    },
+    "tacosDescription": {
+      "text": "Ananas, kişniş we sogan bilen marinadalanan guş eti tacosy, makkajoş tortillasynda.",
+      "description": "Tacos al Pastor reseptiniň beýany."
+    },
+    "butterChickenName": {
+      "text": "Sary ýagly towuk",
+      "description": "Sary ýagly towuk reseptiniň ady."
+    },
+    "butterChickenDescription": {
+      "text": "Atrap iýmitler bilen ýumşak towuk, pomidor we sary ýagly kremli sousda.",
+      "description": "Sary ýagly towuk reseptiniň beýany."
+    },
+    "padThaiName": {
+      "text": "Pad Tai",
+      "description": "Pad Thai reseptiniň ady."
+    },
+    "padThaiDescription": {
+      "text": "Tüwi noodle, garnel, tofu, ýer ýagy we tamarind sousy bilen gyzardylan.",
+      "description": "Pad Thai reseptiniň beýany."
+    },
+    "crepesName": {
+      "text": "Fransuz krepleri",
+      "description": "Fransuz krepleri reseptiniň ady."
+    },
+    "crepesDescription": {
+      "text": "Nutella, täze gaýnatylan ýerkökresi we köpürtkilen krem bilen doldurylan inçe we ýumşak krepler.",
+      "description": "Fransuz krepleri reseptiniň beýany."
     }
   },
   "LocaleSwitcher": {

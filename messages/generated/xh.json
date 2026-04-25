@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kunzima",
       "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi enzima."
+    },
+    "ramenName": {
+      "text": "ITonkotsu Ramen",
+      "description": "Igama leresiphi yeTonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Isuphu eqinileyo yamathambo enkomo enenyama ethambileyo ye-chashu, iqanda elithambileyo eliphekwe kakuhle, kunye neenoodle ezintsha.",
+      "description": "Inkcazo yeresiphi yeTonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "IPizza yeMargherita",
+      "description": "Igama leresiphi yePizza yeMargherita."
+    },
+    "margheritaDescription": {
+      "text": "IPizza yesiNnapolitan eqhelekileyo eneetumato zeSan Marzano, imozarela entsha, kunye ne-basil.",
+      "description": "Inkcazo yeresiphi yePizza yeMargherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Igama leresiphi yeTacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Ii-tacos zenkukhu ezi-marinated kunye neepayinapile, i-cilantro, kunye no-anyanisi kwi-tortilla yerhasi.",
+      "description": "Inkcazo yeresiphi yeTacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Inkukhu yeBhata",
+      "description": "Igama leresiphi yeButter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Inkukhu ethambileyo kwisosi yetumato enebhotela enevumba elimnandi lesipuni.",
+      "description": "Inkcazo yeresiphi yeButter Chicken."
+    },
+    "padThaiName": {
+      "text": "IPad Thai",
+      "description": "Igama leresiphi yePad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Iinoodle zeryisi ezitshisiweyo kunye neeshrimps, itofu, iipeanut, kunye nesosi yetamarind.",
+      "description": "Inkcazo yeresiphi yePad Thai."
+    },
+    "crepesName": {
+      "text": "Iikrepi zaseFransi",
+      "description": "Igama leresiphi yeFrench Crepes."
+    },
+    "crepesDescription": {
+      "text": "Iikrepi ezincinci nezithambileyo ezigcwele iNutella, iistrawberry ezitsha, kunye nekhrimu eqhwetyiweyo.",
+      "description": "Inkcazo yeresiphi yeFrench Crepes."
     }
   },
   "LocaleSwitcher": {

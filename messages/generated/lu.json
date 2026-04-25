@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kukadika Kwena",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Maji ma nyama ya ngulu ya ngulu ya ngulu na chashu ya mpasi, mayi ya nsonyi na ma noodles ma mpya.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan ya kala na tomate ya San Marzano, mozzarella ya mpya, na basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos ya nyama ya ngulu ya ngulu ya nyama na pineapple, cilantro, na anyi pa tortilla ya mbula.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Ngulu ya mpasi mu sauce ya tomate na butter ya malukanyi ma mpasi.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles ya mpasi ya mpunga ya stir-fry na shrimp, tofu, mbula ya peanut, na sauce ya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes ya Bufaransa",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes ya mpasi, ya mpasi sana, ya kulimbikila na Nutella, strawberries ya mpya, na cream ya whipped.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

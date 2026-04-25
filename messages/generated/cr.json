@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kîsikâw pimipahtâwak",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Pîsimwâw pîsimwa mîkiwahkamik wîcêwêwak chashu, nîpin pîsimwa kîsikâw, nîpîhkêt wâskahikanak.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan wîci pimipahtâwak pizza mîna San Marzano mîskanâhkamik, wîskahikan mîna basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Pîsimwa mîkiwahkamik tacos mîna anipêw, cilantro, mîna sîpîhkamik kâsikâwâtak kîsikâw tortilla.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Mîkiwahkamik kîsikâw pîsimwa mîna mîskanâhkamik, mîna wîskahikan askiy mîna pîsimwa mîna minôsîs.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Pîsimwâw mîkiwahkamik kîsikâw kîsikâw, shrimp, tofu, peanuts, mîna tamarind wîskahikan.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Pîsimwa kîsikâw, nutella, wîskahikan wâskahikan mîna whip cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

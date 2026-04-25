@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dura",
       "description": "Dificulte nivelo etiketo indikanta dura recepto."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nomo di la Tonkotsu Ramen recepto."
+    },
+    "ramenDescription": {
+      "text": "Rika porko osta brodo kun mol chashu, soft-boilita ovo, e freŝa nudli.",
+      "description": "Deskription di la Tonkotsu Ramen recepto."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizo",
+      "description": "Nomo di la Margherita Pizo recepto."
+    },
+    "margheritaDescription": {
+      "text": "Klasika Neapolitan pizo kun San Marzano tomatoj, freŝa mozzarela, e bazilo.",
+      "description": "Deskription di la Margherita Pizo recepto."
+    },
+    "tacosName": {
+      "text": "Takoj al Pastor",
+      "description": "Nomo di la Takoj al Pastor recepto."
+    },
+    "tacosDescription": {
+      "text": "Marinita porko tako kun ananaso, cilantro, e cepo sur maiza tortiljo.",
+      "description": "Deskription di la Takoj al Pastor recepto."
+    },
+    "butterChickenName": {
+      "text": "Butera Kokino",
+      "description": "Nomo di la Butera Kokino recepto."
+    },
+    "butterChickenDescription": {
+      "text": "Mola kokino en krimosa tomato e butera soso kun aromatika spicoj.",
+      "description": "Deskription di la Butera Kokino recepto."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nomo di la Pad Thai recepto."
+    },
+    "padThaiDescription": {
+      "text": "Stir-frita rizo nudli kun ŝrimp, tofu, nuksoj, e tamarinda soso.",
+      "description": "Deskription di la Pad Thai recepto."
+    },
+    "crepesName": {
+      "text": "Franca Krepes",
+      "description": "Nomo di la Franca Krepes recepto."
+    },
+    "crepesDescription": {
+      "text": "Malpeza, delikata krepes plenita kun Nutella, freŝa fragoj, e pufita kremu.",
+      "description": "Deskription di la Franca Krepes recepto."
     }
   },
   "LocaleSwitcher": {

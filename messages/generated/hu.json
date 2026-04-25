@@ -43,6 +43,54 @@
     "hard": {
       "text": "Nehéz",
       "description": "Nehézségi szint jelző, amely nehéz receptet mutat."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "A Tonkotsu Ramen recept neve."
+    },
+    "ramenDescription": {
+      "text": "Gazdag sertéscsont alaplé puha chashuval, lágy tojással és friss tésztával.",
+      "description": "A Tonkotsu Ramen recept leírása."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "A Margherita Pizza recept neve."
+    },
+    "margheritaDescription": {
+      "text": "Klasszikus nápolyi pizza San Marzano paradicsommal, friss mozzarellával és bazsalikommal.",
+      "description": "A Margherita Pizza recept leírása."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "A Tacos al Pastor recept neve."
+    },
+    "tacosDescription": {
+      "text": "Pácolt sertéshúsos tacos ananásszal, korianderrel és hagymával kukoricás tortillán.",
+      "description": "A Tacos al Pastor recept leírása."
+    },
+    "butterChickenName": {
+      "text": "Vajcsirke",
+      "description": "A Vajcsirke recept neve."
+    },
+    "butterChickenDescription": {
+      "text": "Párolt csirke krémes paradicsomos-vajas szósszal és aromás fűszerekkel.",
+      "description": "A Vajcsirke recept leírása."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "A Pad Thai recept neve."
+    },
+    "padThaiDescription": {
+      "text": "Pirított rizstészta garnélával, tofúval, földimogyoróval és tamarind szósszal.",
+      "description": "A Pad Thai recept leírása."
+    },
+    "crepesName": {
+      "text": "Francia palacsinta",
+      "description": "A Francia palacsinta recept neve."
+    },
+    "crepesDescription": {
+      "text": "Vékony, finom palacsinták Nutellával, friss eperrel és habtejszínnel töltve.",
+      "description": "A Francia palacsinta recept leírása."
     }
   },
   "LocaleSwitcher": {

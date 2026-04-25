@@ -43,6 +43,54 @@
     "hard": {
       "text": "Ombi Di",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Enele lyomadhilo gookutuka Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Ombi yomutwe gwomahungu gopangela ogali na chashu oshowo, omukate ogukwatala, noonoka yiilonga.",
+      "description": "Ombi yomadhilo gookutuka Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Enele lyomadhilo gookutuka Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Pizza yoye ya Neapolitan na San Marzano tomatoes, mozzarella oshowo, no basil.",
+      "description": "Ombi yomadhilo gookutuka Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Enele lyomadhilo gookutuka Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos yomahungu gopangela ge na pineapple, cilantro, no onion omacorn tortillas.",
+      "description": "Ombi yomadhilo gookutuka Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Enele lyomadhilo gookutuka Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Omuya ogupitilwe na creamy tomato no butter sauce na omakungu ga aromatiki.",
+      "description": "Ombi yomadhilo gookutuka Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Enele lyomadhilo gookutuka Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Omakate ga rice noodles gokulya na shrimp, tofu, peanuts no tamarind sauce.",
+      "description": "Ombi yomadhilo gookutuka Pad Thai."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Enele lyomadhilo gookutuka French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes omandi, ogali na Nutella, fresh strawberries, no whipped cream.",
+      "description": "Ombi yomadhilo gookutuka French Crepes."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Llakiy",
       "description": "Sumaq llakiy rikhurqan mikuna."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen mikuna sutiy."
+    },
+    "ramenDescription": {
+      "text": "Sumaq wayk'a ch'aki wank'a ch'aylla chashu, ch'uwa ch'uwa ch'uwa, ch'uwa q'omer noodles.",
+      "description": "Tonkotsu Ramen mikuna rimasqa."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza mikuna sutiy."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan k'uchu pizza San Marzano tomati, q'omer mozzarella, basil tantiykuna.",
+      "description": "Margherita Pizza mikuna rimasqa."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor mikuna sutiy."
+    },
+    "tacosDescription": {
+      "text": "Marinado wayk'a tacos pineapple, koriya, anqas kamputi korn tortillaspi.",
+      "description": "Tacos al Pastor mikuna rimasqa."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken mikuna sutiy."
+    },
+    "butterChickenDescription": {
+      "text": "Ch'uki wayk'a kachka tomati manteca sikiwan aromatikus k'uychiwan.",
+      "description": "Butter Chicken mikuna rimasqa."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai mikuna sutiy."
+    },
+    "padThaiDescription": {
+      "text": "Ch'uwa q'omer noodles shrimp, tofu, maní, tamarindo sikiwan mikuy.",
+      "description": "Pad Thai mikuna rimasqa."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "French Crepes mikuna sutiy."
+    },
+    "crepesDescription": {
+      "text": "Llwina, sumaq crepes Nutella, q'omer frutilla, ch'uwa k'uchu creammi.",
+      "description": "French Crepes mikuna rimasqa."
     }
   },
   "LocaleSwitcher": {

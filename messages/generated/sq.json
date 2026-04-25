@@ -43,6 +43,54 @@
     "hard": {
       "text": "E Vështirë",
       "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të vështirë."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Emri i recetës Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Supë e pasur me kocka derri me chashu të butë, vezë të zierë butësisht, dhe petë të freskëta.",
+      "description": "Përshkrimi i recetës Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pica Margherita",
+      "description": "Emri i recetës Pica Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pica klasike napolitane me domate San Marzano, mocarela të freskët, dhe borzilok.",
+      "description": "Përshkrimi i recetës Pica Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Emri i recetës Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tako me derr të marinuar me ananas, koriandër, dhe qepë në tortilla misri.",
+      "description": "Përshkrimi i recetës Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pulë me Gjalpë",
+      "description": "Emri i recetës Pulë me Gjalpë."
+    },
+    "butterChickenDescription": {
+      "text": "Pulë e butë në një salcë kremi me domate dhe gjalpë me erëza aromatike.",
+      "description": "Përshkrimi i recetës Pulë me Gjalpë."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Emri i recetës Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Petë orizi të skuqura me karkaleca, tofu, arrë kikiriku, dhe salcë tamarindi.",
+      "description": "Përshkrimi i recetës Pad Thai."
+    },
+    "crepesName": {
+      "text": "Krepë Franceze",
+      "description": "Emri i recetës Krepë Franceze."
+    },
+    "crepesDescription": {
+      "text": "Krepë të holla dhe delikate të mbushura me Nutella, luleshtrydhe të freskëta, dhe krem të rrahur.",
+      "description": "Përshkrimi i recetës Krepë Franceze."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dîfici",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nom del ricete do Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bouyon d osse di porc ric avou d tchashu tendre, ouf molèt, eyet nouilles freûdes.",
+      "description": "Descrîption del ricete Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nom del ricete do Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza napolitaine classike avou des tomates San Marzano, mozzarella freûde eyet basilic.",
+      "description": "Descrîption del ricete Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nom del ricete do Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos di porc mariné avou d pineûpe, coriandre eyet ognon so des tortillas di blé.",
+      "description": "Descrîption del ricete Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pôlet a l'Beurre",
+      "description": "Nom del ricete do Pôlet a l'Beurre."
+    },
+    "butterChickenDescription": {
+      "text": "Pôlet tendre dins ene sauce crémêye di tomate eyet beurre avou des épices aromatiquès.",
+      "description": "Descrîption del ricete Pôlet a l'Beurre."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nom del ricete do Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nouilles di riz sautêyes avou des crevettes, tofu, cacahouètes eyet sauce tamarin.",
+      "description": "Descrîption del ricete Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crêpes francesès",
+      "description": "Nom del ricete do Crêpes francesès."
+    },
+    "crepesDescription": {
+      "text": "Crêpes finesses eyet delicates plenes avou du Nutella, des fraises freûdes eyet de la crème fouettée.",
+      "description": "Descrîption del ricete Crêpes francesès."
     }
   },
   "LocaleSwitcher": {

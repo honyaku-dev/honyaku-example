@@ -43,6 +43,54 @@
     "hard": {
       "text": "Gumu",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Jina la mapishi ya Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Mchuzi tajiri wa mfupa wa nguruwe wenye chashu laini, yai lililopikwa kwa upole, na tambi safi.",
+      "description": "Maelezo ya mapishi ya Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Piza ya Margherita",
+      "description": "Jina la mapishi ya Piza ya Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Piza ya Neapolitan ya jadi yenye nyanya za San Marzano, mozzarella safi, na basil.",
+      "description": "Maelezo ya mapishi ya Piza ya Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Jina la mapishi ya Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos za nguruwe zilizochochewa na nanasi, cilantro, na kitunguu kwenye tortillas za mahindi.",
+      "description": "Maelezo ya mapishi ya Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Kuku wa Siagi",
+      "description": "Jina la mapishi ya Kuku wa Siagi."
+    },
+    "butterChickenDescription": {
+      "text": "Kuku laini katika mchuzi wa nyanya na siagi wenye viungo vyenye harufu nzuri.",
+      "description": "Maelezo ya mapishi ya Kuku wa Siagi."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Jina la mapishi ya Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Tambi za mchele zilizokaangwa na kamba, tofu, karanga, na mchuzi wa tamarind.",
+      "description": "Maelezo ya mapishi ya Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes za Kifaransa",
+      "description": "Jina la mapishi ya Crepes za Kifaransa."
+    },
+    "crepesDescription": {
+      "text": "Crepes nyembamba, nyororo zilizojaa Nutella, jordgubbar safi, na krimu iliyopigwa.",
+      "description": "Maelezo ya mapishi ya Crepes za Kifaransa."
     }
   },
   "LocaleSwitcher": {

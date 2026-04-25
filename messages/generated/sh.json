@@ -43,6 +43,54 @@
     "hard": {
       "text": "Teško",
       "description": "Oznaka nivoa težine koja označava težak recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ime recepta za Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bogati bujon od svinjskih kostiju sa nežnim čašu, mekanim jajetom i svežim nudlama.",
+      "description": "Opis recepta za Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Ime recepta za Margherita pitu."
+    },
+    "margheritaDescription": {
+      "text": "Klasična neapolitanska pizza sa San Marzano paradajzom, svežom mocarelom i bosiljkom.",
+      "description": "Opis recepta za Margherita pitu."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ime recepta za Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinirani svinjski tacos sa ananasom, korijanderom i lukom na kukuruznim tortiljama.",
+      "description": "Opis recepta za Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Maslac Piletina",
+      "description": "Ime recepta za Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Nežna piletina u kremastom sosu od paradajza i putera sa aromatičnim začinima.",
+      "description": "Opis recepta za Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ime recepta za Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Prženi pirinčani rezanci sa škampima, tofujem, kikirikijem i tamarind sosom.",
+      "description": "Opis recepta za Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francuski Krepi",
+      "description": "Ime recepta za Francuske krepove."
+    },
+    "crepesDescription": {
+      "text": "Tanki, delikatni krepi punjeni Nutellom, svežim jagodama i šlagom.",
+      "description": "Opis recepta za Francuske krepove."
     }
   },
   "LocaleSwitcher": {

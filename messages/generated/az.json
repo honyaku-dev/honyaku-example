@@ -43,6 +43,54 @@
     "hard": {
       "text": "Çətin",
       "description": "Çətin resepti göstərən çətinlik səviyyəsi etiketi."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen reseptinin adı."
+    },
+    "ramenDescription": {
+      "text": "Zəngin donuz sümüyü bulyonu, yumşaq chashu, yumşaq qaynadılmış yumurta və təzə əriştələrlə.",
+      "description": "Tonkotsu Ramen reseptinin təsviri."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizzası",
+      "description": "Margherita Pizza reseptinin adı."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano pomidorları, təzə mozzarella və reyhan ilə klassik Neapolitan pizza.",
+      "description": "Margherita Pizza reseptinin təsviri."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor reseptinin adı."
+    },
+    "tacosDescription": {
+      "text": "Ananas, keşniş və soğanla marinatlanmış donuz ətindən hazırlanmış tacos, qarğıdalı tortillalarında.",
+      "description": "Tacos al Pastor reseptinin təsviri."
+    },
+    "butterChickenName": {
+      "text": "Kərə Yağlı Toyuq",
+      "description": "Butter Chicken reseptinin adı."
+    },
+    "butterChickenDescription": {
+      "text": "Ətirli ədviyyatlarla kremli pomidor və kərə yağı sousunda yumşaq toyuq.",
+      "description": "Butter Chicken reseptinin təsviri."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai reseptinin adı."
+    },
+    "padThaiDescription": {
+      "text": "Çörəkli düyü əriştələri, krevetka, tofu, yer fıstığı və tamarind sousu ilə qızardılmış.",
+      "description": "Pad Thai reseptinin təsviri."
+    },
+    "crepesName": {
+      "text": "Fransız Krepələri",
+      "description": "French Crepes reseptinin adı."
+    },
+    "crepesDescription": {
+      "text": "Nutella, təzə çiyələk və şirin qaymaqla doldurulmuş nazik, incə kreplər.",
+      "description": "French Crepes reseptinin təsviri."
     }
   },
   "LocaleSwitcher": {

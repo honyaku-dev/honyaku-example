@@ -43,6 +43,54 @@
     "hard": {
       "text": "Swaor",
       "description": "Label veur 'n moeiliek recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Naam van de Tonkotsu Ramen recept."
+    },
+    "ramenDescription": {
+      "text": "Rijke varkensbeenderbouillon mit zachte chashu, zachtgekookt ei, en verse noedels.",
+      "description": "Beschrijving van de Tonkotsu Ramen recept."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Naam van de Margherita Pizza recept."
+    },
+    "margheritaDescription": {
+      "text": "Klassieke Napolitaanse pizza mit San Marzano tomaten, verse mozzarella, en basilicum.",
+      "description": "Beschrijving van de Margherita Pizza recept."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Naam van de Tacos al Pastor recept."
+    },
+    "tacosDescription": {
+      "text": "Gemarineerde varkensvlees tacos mit ananas, koriander, en ajuin op maïs tortillas.",
+      "description": "Beschrijving van de Tacos al Pastor recept."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Naam van de Butter Chicken recept."
+    },
+    "butterChickenDescription": {
+      "text": "Zacht kip in een romige tomaat- en botersaus mit aromatische kruiden.",
+      "description": "Beschrijving van de Butter Chicken recept."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Naam van de Pad Thai recept."
+    },
+    "padThaiDescription": {
+      "text": "Gebakken rijstnoedels mit garnalen, tofu, pinda's, en tamarindesaus.",
+      "description": "Beschrijving van de Pad Thai recept."
+    },
+    "crepesName": {
+      "text": "Franse Crêpes",
+      "description": "Naam van de Franse Crêpes recept."
+    },
+    "crepesDescription": {
+      "text": "Dunne, delicate crêpes gevuld mit Nutella, verse aardbeien, en slagroom.",
+      "description": "Beschrijving van de Franse Crêpes recept."
     }
   },
   "LocaleSwitcher": {

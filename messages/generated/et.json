@@ -43,6 +43,54 @@
     "hard": {
       "text": "Raske",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Rikkalik sealiha luude puljong koos pehme chashu, pehmelt keedetud munaga ja värskete nuudlitega.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pitsa",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klassikaline Napoli pitsa San Marzano tomatite, värske mozzarelli ja basiilikuga.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marineeritud sealiha tacos ananassi, koriandri ja sibulaga maisitortilladel.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Võikana",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Pehme kana kreemjas tomati- ja võikastmes aromaatsete vürtsidega.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Praetud riisinuudlid krevettide, tofuga, maapähklite ja tamariinikastmega.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Prantsuse pannkoogid",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Õhukesed, delikaatsed pannkoogid täidetud Nutella, värskete maasikate ja vahukoorega.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

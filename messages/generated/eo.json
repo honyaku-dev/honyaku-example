@@ -43,6 +43,54 @@
     "hard": {
       "text": "Malfacila",
       "description": "Labelo por malfacileca nivelo indikanta malfacilan recepton."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nomo de la recepto Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Riĉa porkosta osto-buljono kun mola chashu, milda boligita ovo, kaj freŝaj nudeloj.",
+      "description": "Priskribo de la recepto Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pico",
+      "description": "Nomo de la recepto Margherita Pico."
+    },
+    "margheritaDescription": {
+      "text": "Klasika Neapola pico kun San Marzano tomatoj, freŝa mozzarelo, kaj bazilio.",
+      "description": "Priskribo de la recepto Margherita Pico."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nomo de la recepto Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinita porka tacos kun ananaso, koriandro, kaj cepo sur maizaj tortiloj.",
+      "description": "Priskribo de la recepto Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butera Koko",
+      "description": "Nomo de la recepto Butera Koko."
+    },
+    "butterChickenDescription": {
+      "text": "Mola koko en kremeca tomato- kaj butersaŭco kun aromaj spicoj.",
+      "description": "Priskribo de la recepto Butera Koko."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nomo de la recepto Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Frititaj riza nudeloj kun ŝrimpeto, tofuo, pekanoj, kaj tamarinda saŭco.",
+      "description": "Priskribo de la recepto Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francaj Krepes",
+      "description": "Nomo de la recepto Francaj Krepes."
+    },
+    "crepesDescription": {
+      "text": "Maldikaj, delikataj krepes plenigitaj per Nutella, freŝaj fragoj, kaj batis kremon.",
+      "description": "Priskribo de la recepto Francaj Krepes."
     }
   },
   "LocaleSwitcher": {

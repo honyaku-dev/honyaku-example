@@ -43,6 +43,54 @@
     "hard": {
       "text": "Jàmm ci njàmm",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tur gi ci Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Foñi biir bu rafet bu lekk ngelaw chashu bu rafet, ndoxu mburu, ak ñuul yu rafet.",
+      "description": "Tàmbali Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Tur gi ci Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan bu jàmm ak tomate San Marzano, mozzarella bu rafet, ak basil.",
+      "description": "Tàmbali Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tur gi ci Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos yu lekk ngelaw yu mariné ak pineappl, cilantro, ak onions ci tortillas bu mburu.",
+      "description": "Tàmbali Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Tur gi ci Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Ngelaw bu rafet ci sauce bu tomate ak beurre bu rafet ak épices yu rafet.",
+      "description": "Tàmbali Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Tur gi ci Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles yu lekk ci sauce ak shrimp, tofu, peanuts, ak tamarind.",
+      "description": "Tàmbali Pad Thai."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Tur gi ci French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes yu neex, yu lekk ci Nutella, strawberries yu rafet, ak cream bu xam xam.",
+      "description": "Tàmbali French Crepes."
     }
   },
   "LocaleSwitcher": {

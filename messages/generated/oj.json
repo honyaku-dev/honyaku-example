@@ -43,6 +43,54 @@
     "hard": {
       "text": "Mikwenimaang",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Mikwenimad ishkode-mshkikiwin miinawaa mizhinawewin chashu, mkadewin minose, miinawaa wiisiniwinag odaya.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan pizza giiwedinong San Marzano minose, fresh mozzarella, miinawaa basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Minose pork tacos miinawaa pineapple, cilantro, miinawaa onion giiwedinong corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Mino-giizhigad chicken ishkode-mshkikiwin tomato miinawaa butter sauce miinawaa odaminwaag.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Mshkikiwinag rice noodles miinawaa shrimp, tofu, peanuts, miinawaa tamarind sauce.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Thin, delicate crepes minose Nutella, fresh strawberries, miinawaa whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

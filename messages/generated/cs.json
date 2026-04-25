@@ -43,6 +43,54 @@
     "hard": {
       "text": "Těžké",
       "description": "Štítek úrovně obtížnosti označující náročný recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Název receptu Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bohatý vývar z vepřových kostí s měkkým chashu, měkkým vařeným vejcem a čerstvými nudlemi.",
+      "description": "Popis receptu Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Název receptu Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Klasická neapolská pizza se San Marzano rajčaty, čerstvou mozzarellou a bazalkou.",
+      "description": "Popis receptu Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Název receptu Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinované vepřové tacos s ananasem, koriandrem a cibulí na kukuřičných tortillách.",
+      "description": "Popis receptu Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Název receptu Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Měkké kuře v krémové rajčatové a máslové omáčce s aromatickým kořením.",
+      "description": "Popis receptu Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Název receptu Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Smažené rýžové nudle s krevetami, tofu, arašídy a tamarindovou omáčkou.",
+      "description": "Popis receptu Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francouzské palačinky",
+      "description": "Název receptu Francouzské palačinky."
+    },
+    "crepesDescription": {
+      "text": "Tenoučké, jemné palačinky plněné Nutellou, čerstvými jahodami a šlehačkou.",
+      "description": "Popis receptu Francouzské palačinky."
     }
   },
   "LocaleSwitcher": {

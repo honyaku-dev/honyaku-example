@@ -43,6 +43,54 @@
     "hard": {
       "text": "Vanskelig",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Rik svinekraft med mør chashu, bløtkokt egg og ferske nudler.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klassisk napolitansk pizza med San Marzano tomater, fersk mozzarella og basilikum.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinerte svinetacos med ananas, koriander og løk på mais-tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Mørt kyllingkjøtt i en kremet tomat- og smørsaus med aromatiske krydder.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Wokstekte risnudler med reker, tofu, peanøtter og tamarind-saus.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Franske Crêpes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Tynne, delikate crêpes fylt med Nutella, ferske jordbær og pisket krem.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

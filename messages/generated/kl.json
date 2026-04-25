@@ -43,6 +43,54 @@
     "hard": {
       "text": "Qaffasissuseq assut qaffasissuseq",
       "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen-ip nerisassiani aningaanngitsumik aqqa."
+    },
+    "ramenDescription": {
+      "text": "Aqutsineqartartoq qaammatit iluanni nerisassat, chashu qernertut, qeqqussut qernertut, aammalu nillataq nutaaq.",
+      "description": "Tonkotsu Ramen-ip nerisassiani apeqqutit."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza-ip nerisassiani aqqa."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano atorsinnaasut, mozzarella nutaaq, aamma basil qernertut, Neapolitan pizza klassik.",
+      "description": "Margherita Pizza-ip nerisassiani apeqqutit."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor-ip nerisassiani aqqa."
+    },
+    "tacosDescription": {
+      "text": "Marineret porki tacos, annanas, cilantro, aamma qarasaasiaq corn tortillas-imi.",
+      "description": "Tacos al Pastor-ip nerisassiani apeqqutit."
+    },
+    "butterChickenName": {
+      "text": "Qimussimik Chicken",
+      "description": "Butter Chicken-ip nerisassiani aqqa."
+    },
+    "butterChickenDescription": {
+      "text": "Qimussimik qaqugu, tomatomi, qimussimik saasiaq, aamma aaliangersimasunik aserorsimallutik.",
+      "description": "Butter Chicken-ip nerisassiani apeqqutit."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai-ip nerisassiani aqqa."
+    },
+    "padThaiDescription": {
+      "text": "Qaqqap qernertup, tofu, peanuts, tamarind saasiaq, sorlermi qernertut nerisassat.",
+      "description": "Pad Thai-ip nerisassiani apeqqutit."
+    },
+    "crepesName": {
+      "text": "Fransk Crepes",
+      "description": "Fransk Crepes-ip nerisassiani aqqa."
+    },
+    "crepesDescription": {
+      "text": "Nutella, nutaaq strawberry, aamma qernertut qernertut, qernertut crepes.",
+      "description": "Fransk Crepes-ip nerisassiani apeqqutit."
     }
   },
   "LocaleSwitcher": {

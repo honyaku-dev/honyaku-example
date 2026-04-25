@@ -43,6 +43,54 @@
     "hard": {
       "text": "Cre'n-chre'n",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Broth elley çhionnit pork lesh chashu soft, ughtan bog-boiled, as noodles noa.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan clasic lesh tomatooy San Marzano, mozzarella noa, as basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos pork marinatey lesh pineaple, cilantro, as ounjey ayns tortillaoy corn.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Chicken Boailley",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Chicken bog ayns sauce tomato creamagh as boailley lesh spoyrtyn geur.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles reis stir-fry lesh shrimp, tofu, peanuts, as sauce tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes Frangach",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes caghlaagh, sleih lesh Nutella, strauberry noa, as ughtan whipped.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

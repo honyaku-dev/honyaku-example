@@ -43,6 +43,54 @@
     "hard": {
       "text": "Krev",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Broth hwans pur an hwart hag a'n chashu tendr, wy re loydhek, ha noodleow fresk.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan klassek gans tomatos San Marzano, mozzarella fresk, ha basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos hwart marinat gans pineapple, cilantro, ha onyow war tortillas kornen.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Menkys Hwans",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Hwans tendr yn saws tomatos ha menkys kremek gans spysyow aromatek.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodleow resa stir-fry gans shrimps, tofu, peanuts, ha saws tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crepes Frys",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes tenyn, delikat, lenys gans Nutella, strowberries fresk, ha krem whypy.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

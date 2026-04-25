@@ -43,6 +43,54 @@
     "hard": {
       "text": "Sunku",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Turtingas kiaulienos kaulų sultinys su minkštu chashu, minkštu virto kiaušinio ir šviežiomis makaronais.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margheritos pica",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasikinė Neapolio pica su San Marzano pomidorais, šviežia mocarela ir baziliku.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinuotos kiaulienos tacos su ananasais, kalendra ir svogūnais kukurūzų tortilijose.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Sviestinis vištienos troškinys",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Minkšta vištiena kreminėje pomidorų ir sviesto padaže su aromatingais prieskoniais.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Kepti ryžių makaronai su krevetėmis, tofu, žemės riešutais ir tamarindo padažu.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Prancūziški blynai",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Ploni, subtilūs blynai, įdaryti Nutella, šviežiomis braškėmis ir plakta grietinėle.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

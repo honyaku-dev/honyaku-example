@@ -43,6 +43,54 @@
     "hard": {
       "text": "ꉙꌠꂷ",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "ꉙꊿꌠꑟꀋ Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "ꍏꄸ ꃅꂷ ꑴꉙ ꁧꄸ ꌠꂷꑟꄸ ꑌꀋꇁꉙ, ꍏꐯ ꃅꀋꊿ, ꄸꌠꑟꄸ ꑍꀋꑟꄸ ꀋꅇꉙ.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita ꑍꀋꀋꍏ",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "ꏃꂷꄸ ꀋꊿꄸꐯ Neapolitan ꑍꀋꀋꍏ San Marzano ꄸꑟꀋꉙ, ꄸꌠꀋꀋꍏ, ꄸꃅꐯ.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "ꑌꂷꄸ ꃅꂷ ꀋꑟꁧꌠꀋ tacos ꄸꍏꇁꉙ, ꄸꑍꉙ, ꀋꅇꀋ, ꀋꍔꉙ corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "ꍏꐯ ꃅꀋꐯ ꄸꑍꀋꉙ ꑴꉙ ꑍꀋꂷꄸꌠ ꀋꐯꄸ, ꄸꐯ ꍏꃅꀋꀋꍏ ꑌꀋꑟꄸ.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "ꑌꑍꄸ ꄸꑍꀋꉙꐯ ꑴꉙꀋꌠꉙ, ꑌꐯ, tofu, peanuts, ꑍꐯ tamarind ꄸꐯ.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "ꄸꑍꀋꀋꍏ, ꍏꑍꀋꌠꉙ crepes Nutella, ꄸꑍꀋꉙ strawberries, ꑍꀋ whipped cream.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

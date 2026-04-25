@@ -43,6 +43,54 @@
     "hard": {
       "text": "Had",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Strong pigbon broth wetem soft chashu, soft-boiled egg, mo frutfala noodel.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Piza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasik Neapolitan piza wetem San Marzano tomato, frutfala mozzarella, mo basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinated pork tacos wetem pineapple, cilantro, mo onion long corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Bata Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Soft chicken long creamy tomato mo bata sos wetem aroma spices.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Stir-fried rice noodel wetem shrimp, tofu, peanuts, mo tamarind sos.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Thin, deliket crepes fulap wetem Nutella, frutfala strawberry, mo whipped krem.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

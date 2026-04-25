@@ -43,6 +43,54 @@
     "hard": {
       "text": "𐬈𐬭𐬀𐬙𐬀𐬥𐬀",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "𐬙𐬊𐬙𐬊𐬑𐬙𐬋 𐬭𐬀𐬙𐬁𐬥",
+      "description": "𐬙𐬊𐬙𐬊𐬑𐬙𐬋 𐬭𐬀𐬙𐬁𐬥 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬀."
+    },
+    "ramenDescription": {
+      "text": "𐬓𐬭𐬌𐬙𐬀𐬭 𐬞𐬭𐬀𐬩𐬋𐬱𐬀𐬥𐬀 𐬓𐬭𐬀𐬙𐬀𐬥𐬀 𐬗𐬵𐬀𐬱𐬎, 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬈𐬙𐬀, 𐬰𐬵𐬀𐬭𐬂 𐬞𐬀𐬯𐬌𐬙𐬁, 𐬙𐬀𐬯𐬀𐬎 𐬥𐬀𐬥𐬋𐬙𐬀𐬭𐬌.",
+      "description": "𐬙𐬊𐬙𐬊𐬑𐬙𐬋 𐬭𐬀𐬙𐬁𐬥 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
+    },
+    "margheritaName": {
+      "text": "𐬨𐬀𐬭𐬘𐬆𐬭𐬌𐬙𐬀 𐬞𐬋𐬙𐬀",
+      "description": "𐬨𐬀𐬭𐬘𐬆𐬭𐬌𐬙𐬀 𐬞𐬋𐬙𐬀 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬀."
+    },
+    "margheritaDescription": {
+      "text": "𐬘𐬀𐬯𐬀𐬎𐬭𐬀𐬙𐬌𐬥𐬁𐬙𐬀 𐬨𐬀𐬭𐬘𐬆𐬭𐬌𐬙𐬀 𐬞𐬋𐬙𐬀 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬀𐬥𐬀, 𐬯𐬀𐬰 𐬨𐬀𐬰𐬆𐬰𐬀𐬭𐬌𐬙𐬀, 𐬯𐬀𐬱𐬀𐬯𐬀𐬙𐬍𐬥.",
+      "description": "𐬨𐬀𐬭𐬘𐬆𐬭𐬌𐬙𐬀 𐬞𐬋𐬙𐬀 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
+    },
+    "tacosName": {
+      "text": "𐬙𐬀𐬓𐬋𐬰𐬀𐬎 𐬀𐬎𐬎𐬭 𐬞𐬀𐬱𐬙𐬋𐬭",
+      "description": "𐬙𐬀𐬓𐬋𐬰𐬀𐬎 𐬀𐬎𐬎𐬭 𐬞𐬀𐬱𐬙𐬋𐬭 𐬓𐬀𐬰𐬭𐬀𐬌."
+    },
+    "tacosDescription": {
+      "text": "𐬨𐬀𐬭𐬀𐬢𐬀𐬭𐬀𐬙𐬁𐬙𐬀 𐬞𐬭𐬀𐬩𐬋𐬱𐬀𐬥𐬀 𐬙𐬀𐬓𐬋𐬰𐬀𐬎 𐬗𐬀𐬢𐬀𐬥𐬋𐬙𐬋, 𐬗𐬆𐬨𐬭𐬎𐬙𐬍, 𐬯𐬀𐬥𐬀𐬙𐬍 𐬀𐬙 𐬓𐬱𐬀𐬢𐬊𐬥 𐬞𐬋𐬢𐬭𐬌𐬙𐬀𐬭𐬌.",
+      "description": "𐬙𐬀𐬓𐬋𐬰𐬀𐬎 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
+    },
+    "butterChickenName": {
+      "text": "𐬠𐬎𐬙𐬙𐬀𐬭 𐬗𐬌𐬗𐬀𐬥",
+      "description": "𐬠𐬎𐬙𐬙𐬀𐬭 𐬗𐬌𐬗𐬀𐬥 𐬓𐬀𐬰𐬭𐬀𐬌."
+    },
+    "butterChickenDescription": {
+      "text": "𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬗𐬌𐬗𐬀𐬥 𐬀𐬙 𐬓𐬀𐬰𐬀𐬭𐬌 𐬞𐬭𐬃 𐬙𐬋𐬙𐬀 𐬠𐬎𐬙𐬙𐬀𐬭 𐬯𐬇𐬯𐬀 𐬠𐬁𐬙 𐬯𐬀𐬭𐬀𐬙𐬍𐬥 𐬯𐬙𐬀𐬭𐬁𐬙.",
+      "description": "𐬠𐬎𐬙𐬙𐬀𐬭 𐬗𐬌𐬗𐬀𐬥 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
+    },
+    "padThaiName": {
+      "text": "𐬞𐬀𐬞 𐬙𐬀𐬱𐬌",
+      "description": "𐬞𐬀𐬞 𐬙𐬀𐬱𐬌 𐬓𐬀𐬰𐬭𐬀𐬌."
+    },
+    "padThaiDescription": {
+      "text": "𐬯𐬙𐬄𐬭𐬀𐬌𐬙𐬁𐬙𐬀 𐬓𐬭𐬌𐬱𐬭𐬃 𐬥𐬀𐬥𐬋𐬙𐬀𐬭𐬌 𐬗𐬭𐬌𐬙𐬋, 𐬙𐬂𐬚𐬋, 𐬞𐬀𐬰𐬀𐬢𐬋, 𐬯𐬀𐬭𐬀𐬙𐬍𐬥 𐬯𐬀𐬭𐬀.",
+      "description": "𐬞𐬀𐬞 𐬙𐬀𐬱𐬌 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
+    },
+    "crepesName": {
+      "text": "𐬞𐬆𐬭𐬀𐬣𐬀𐬎 𐬗𐬭𐬊𐬞𐬀𐬯",
+      "description": "𐬞𐬆𐬭𐬀𐬣𐬀𐬎 𐬗𐬭𐬊𐬞𐬀𐬯 𐬓𐬀𐬰𐬭𐬀𐬌."
+    },
+    "crepesDescription": {
+      "text": "𐬚𐬋𐬙𐬋𐬥𐬀𐬙𐬋𐬮𐬀 𐬙𐬀𐬭𐬂𐬙𐬋, 𐬥𐬇𐬙𐬆𐬭𐬋𐬙𐬋, 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬱𐬭𐬙𐬭𐬋𐬙𐬋, 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬢𐬭𐬀𐬙𐬀𐬭𐬁𐬙𐬋.",
+      "description": "𐬞𐬆𐬭𐬀𐬣𐬀𐬎 𐬗𐬭𐬊𐬞𐬀𐬯 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
     }
   },
   "LocaleSwitcher": {

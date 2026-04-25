@@ -43,6 +43,54 @@
     "hard": {
       "text": "Den",
       "description": "Nyaatwom a ɛkyerɛ sɛ aduane no yɛ den."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen aduane no din."
+    },
+    "ramenDescription": {
+      "text": "Nnuane a wɔde pork bone broth a ɛyɛ dɛ paa, chashu a ɛyɛ tender, kosua a wɔaboa mu, ne noodles foforo.",
+      "description": "Tonkotsu Ramen aduane no nkyerɛase."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza aduane no din."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan pizza a ɛyɛ klasik, a wɔde San Marzano tomati, mozzarella foforo, ne basil.",
+      "description": "Margherita Pizza aduane no nkyerɛase."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor aduane no din."
+    },
+    "tacosDescription": {
+      "text": "Pork tacos a wɔde marinade, pineapple, cilantro, ne onion gu so wɔ corn tortillas so.",
+      "description": "Tacos al Pastor aduane no nkyerɛase."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken aduane no din."
+    },
+    "butterChickenDescription": {
+      "text": "Akokɔ a ɛyɛ tender wɔ tomato ne butter sauce a ɛyɛ creamy mu, a wɔde nnuane a ɛwɔ hɔ.",
+      "description": "Butter Chicken aduane no nkyerɛase."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai aduane no din."
+    },
+    "padThaiDescription": {
+      "text": "Rice noodles a wɔakɔtɔ mu ne shrimp, tofu, peanuts, ne tamarind sauce.",
+      "description": "Pad Thai aduane no nkyerɛase."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "French Crepes aduane no din."
+    },
+    "crepesDescription": {
+      "text": "Crepes a ɛyɛ hare na ɛyɛ fɛfɛɛfɛ a wɔde Nutella, strawberries foforo, ne whipped cream hyɛ mu.",
+      "description": "French Crepes aduane no nkyerɛase."
     }
   },
   "LocaleSwitcher": {

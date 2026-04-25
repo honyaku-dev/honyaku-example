@@ -43,6 +43,54 @@
     "hard": {
       "text": "Náročné",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Bohatý vývar z bravčových kostí s jemným chashu, polotvrdým vajcom a čerstvými rezancami.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasická neapolská pizza s paradajkami San Marzano, čerstvou mozzarellou a bazalkou.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinované bravčové tacos s ananásom, koriandrom a cibuľou na kukuričných tortillách.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Jemné kuracie mäso v krémovej paradajkovo-maslovej omáčke s aromatickým korením.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Smažené ryžové rezance s krevetami, tofu, arašidmi a tamarindovou omáčkou.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Francúzske palacinky",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Tenké, jemné palacinky plnené Nutellou, čerstvými jahodami a šľahačkou.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

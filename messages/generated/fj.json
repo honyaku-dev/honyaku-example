@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dredre",
       "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Yaca ni ivakamacala ni Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Vakamamare ni mamu ni pua ni kena yacova na chashu malumu, qio malumu ni koro, kei na noodles vou.",
+      "description": "Vakasama ni ivakamacala ni Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Yaca ni ivakamacala ni Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan e dau kilai vakalevu ena tomati San Marzano, mozzarella vou, kei na basil.",
+      "description": "Vakasama ni ivakamacala ni Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Yaca ni ivakamacala ni Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos ni pua e marinated vata kei na pineapple, cilantro, kei na ulu ni wai vavalagi ena tortillas ni koro.",
+      "description": "Vakasama ni ivakamacala ni Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Kikokiko ni Suka",
+      "description": "Yaca ni ivakamacala ni Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Kikokiko malumu ena sauce tomato kei na suka, vata kei na manumanu ni kakana ni veisautaki ni manumanu.",
+      "description": "Vakasama ni ivakamacala ni Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Yaca ni ivakamacala ni Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Rice noodles e vakakokoroi vata kei na shrimp, tofu, peanuts, kei na sauce ni tamarind.",
+      "description": "Vakasama ni ivakamacala ni Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes ni Peritania",
+      "description": "Yaca ni ivakamacala ni French Crepes."
+    },
+    "crepesDescription": {
+      "text": "Crepes lailai, malumalumu e vakayagataki kina Nutella, strawberries vou, kei na kirim cream.",
+      "description": "Vakasama ni ivakamacala ni French Crepes."
     }
   },
   "LocaleSwitcher": {

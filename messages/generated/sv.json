@@ -43,6 +43,54 @@
     "hard": {
       "text": "Svårt",
       "description": "Etikett för svårighetsnivå som indikerar ett svårt recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Namnet på Tonkotsu Ramen-receptet."
+    },
+    "ramenDescription": {
+      "text": "Rik fläskbenbuljong med mör chashu, mjukkokt ägg och färska nudlar.",
+      "description": "Beskrivning av Tonkotsu Ramen-receptet."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Namnet på Margherita Pizza-receptet."
+    },
+    "margheritaDescription": {
+      "text": "Klassisk napolitansk pizza med San Marzano-tomater, färsk mozzarella och basilika.",
+      "description": "Beskrivning av Margherita Pizza-receptet."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Namnet på Tacos al Pastor-receptet."
+    },
+    "tacosDescription": {
+      "text": "Marinerade fläskköttstacos med ananas, koriander och lök på majstortillas.",
+      "description": "Beskrivning av Tacos al Pastor-receptet."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Namnet på Butter Chicken-receptet."
+    },
+    "butterChickenDescription": {
+      "text": "Mört kycklingkött i en krämig tomat- och smörsås med aromatiska kryddor.",
+      "description": "Beskrivning av Butter Chicken-receptet."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Namnet på Pad Thai-receptet."
+    },
+    "padThaiDescription": {
+      "text": "Wokade risnudlar med räkor, tofu, jordnötter och tamarindsås.",
+      "description": "Beskrivning av Pad Thai-receptet."
+    },
+    "crepesName": {
+      "text": "Franska Crêpes",
+      "description": "Namnet på Franska Crêpes-receptet."
+    },
+    "crepesDescription": {
+      "text": "Tunna, delikata crêpes fyllda med Nutella, färska jordgubbar och vispgrädde.",
+      "description": "Beskrivning av Franska Crêpes-receptet."
     }
   },
   "LocaleSwitcher": {

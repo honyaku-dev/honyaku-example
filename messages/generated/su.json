@@ -43,6 +43,54 @@
     "hard": {
       "text": "Hese",
       "description": "Labél tingkat kasusah anu nandakeun resep hese."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ngaran resep Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Kaldu tulang babi anu kandel jeung chashu anu lemes, endog satengah asak, jeung mie seger.",
+      "description": "Pedaran ngeunaan resep Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Ngaran resep Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan klasik kalayan tomat San Marzano, mozzarella seger, jeung daun basil.",
+      "description": "Pedaran ngeunaan resep Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ngaran resep Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos daging babi anu diasinkeun kalayan nanas, cilantro, jeung bawang dina tortilla jagong.",
+      "description": "Pedaran ngeunaan resep Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Ayam Butter",
+      "description": "Ngaran resep Ayam Butter."
+    },
+    "butterChickenDescription": {
+      "text": "Ayam lemes dina saos tomat jeung butter krim kalayan rempah aromatik.",
+      "description": "Pedaran ngeunaan resep Ayam Butter."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ngaran resep Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Mie béas tumis kalayan udang, tahu, kacang, jeung saos asam jawa.",
+      "description": "Pedaran ngeunaan resep Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Perancis",
+      "description": "Ngaran resep Crepes Perancis."
+    },
+    "crepesDescription": {
+      "text": "Crepes ipis sareng hampang dieusian ku Nutella, stroberi seger, jeung krim kocok.",
+      "description": "Pedaran ngeunaan resep Crepes Perancis."
     }
   },
   "LocaleSwitcher": {

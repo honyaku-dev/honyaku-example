@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dian",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ainm oidis Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Broth cnámh muice saibhir le chashu bog, ubh bogbhruite, agus núdail úr.",
+      "description": "Cur síos ar oidis Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Píotsa Margherita",
+      "description": "Ainm oidis Píotsa Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Píotsa Neapolitan clasaiceach le trátaí San Marzano, mozzarella úr, agus basil.",
+      "description": "Cur síos ar oidis Píotsa Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ainm oidis Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos muice marinated le pina, cilantro, agus oinniún ar tortillaí arbhar.",
+      "description": "Cur síos ar oidis Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Cearc Im",
+      "description": "Ainm oidis Cearc Im."
+    },
+    "butterChickenDescription": {
+      "text": "Cearc bog i anlann trátaí uachtarach agus im le spíosraí boladhach.",
+      "description": "Cur síos ar oidis Cearc Im."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ainm oidis Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Núdail ríse friochta le smábha, tofu, peanuts, agus anlann tamarind.",
+      "description": "Cur síos ar oidis Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crêpes Francacha",
+      "description": "Ainm oidis Crêpes Francacha."
+    },
+    "crepesDescription": {
+      "text": "Crêpes tanaí, mín líonta le Nutella, sútha talún úr, agus uachtar gealaithe.",
+      "description": "Cur síos ar oidis Crêpes Francacha."
     }
   },
   "LocaleSwitcher": {

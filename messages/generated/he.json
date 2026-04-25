@@ -43,6 +43,54 @@
     "hard": {
       "text": "קשה",
       "description": "תווית רמת קושי המציינת מתכון קשה."
+    },
+    "ramenName": {
+      "text": "ראמן טונקוצו",
+      "description": "שם מתכון הראמן טונקוצו."
+    },
+    "ramenDescription": {
+      "text": "מרק עצמות חזיר עשיר עם צ'אשו רך, ביצה רכה, ואטריות טריות.",
+      "description": "תיאור מתכון הראמן טונקוצו."
+    },
+    "margheritaName": {
+      "text": "פיצה מרגריטה",
+      "description": "שם מתכון פיצה מרגריטה."
+    },
+    "margheritaDescription": {
+      "text": "פיצה נאפוליטנית קלאסית עם עגבניות סן מרצנו, מוצרלה טרייה ובזיליקום.",
+      "description": "תיאור מתכון פיצה מרגריטה."
+    },
+    "tacosName": {
+      "text": "טאקוס אל פסטור",
+      "description": "שם מתכון טאקוס אל פסטור."
+    },
+    "tacosDescription": {
+      "text": "טאקוס חזיר במרינדה עם אננס, כוסברה ובצל בטורטיות תירס.",
+      "description": "תיאור מתכון טאקוס אל פסטור."
+    },
+    "butterChickenName": {
+      "text": "עוף בחמאה",
+      "description": "שם מתכון עוף בחמאה."
+    },
+    "butterChickenDescription": {
+      "text": "עוף רך ברוטב עגבניות וחמאה קרמי עם תבלינים ארומטיים.",
+      "description": "תיאור מתכון עוף בחמאה."
+    },
+    "padThaiName": {
+      "text": "פאד תאי",
+      "description": "שם מתכון פאד תאי."
+    },
+    "padThaiDescription": {
+      "text": "אטריות אורז מוקפצות עם שרימפס, טופו, בוטנים ורוטב טמרינד.",
+      "description": "תיאור מתכון פאד תאי."
+    },
+    "crepesName": {
+      "text": "קרפ צרפתי",
+      "description": "שם מתכון הקרפ הצרפתי."
+    },
+    "crepesDescription": {
+      "text": "קרפים דקים ועדינים ממולאים בנוטלה, תותים טריים וקצפת.",
+      "description": "תיאור מתכון הקרפ הצרפתי."
     }
   },
   "LocaleSwitcher": {

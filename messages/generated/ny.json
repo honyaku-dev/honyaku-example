@@ -43,6 +43,54 @@
     "hard": {
       "text": "Ovuta",
       "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Dzina la mapangidwe a Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Msuzi wa mkaka wa mafupa a ng'ombe wokhala ndi chashu yofewa, dzira lofewa, ndi mtedza watsopano.",
+      "description": "Kufotokozera kwa mapangidwe a Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza ya Margherita",
+      "description": "Dzina la mapangidwe a Pizza ya Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza ya Neapolitan yakale yokhala ndi ma tomati a San Marzano, mozzarella watsopano, ndi basil.",
+      "description": "Kufotokozera kwa mapangidwe a Pizza ya Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Dzina la mapangidwe a Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos a nyama ya nkhumba yophika ndi maapulo a pineapple, cilantro, ndi anyezi pa mkate wa chimanga.",
+      "description": "Kufotokozera kwa mapangidwe a Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Dzina la mapangidwe a Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Nkhuku yofewa mu msuzi wa tomato ndi batala wokhala ndi zonunkhira zokoma.",
+      "description": "Kufotokozera kwa mapangidwe a Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Dzina la mapangidwe a Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Mtedza wa mpunga wokazinga wokhala ndi nsomba, tofu, ma peanut, ndi msuzi wa tamarind.",
+      "description": "Kufotokozera kwa mapangidwe a Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes za ku France",
+      "description": "Dzina la mapangidwe a Crepes za ku France."
+    },
+    "crepesDescription": {
+      "text": "Crepes ochepa, ofewa okhala ndi Nutella, strawberi watsopano, ndi kirimu wopukutidwa.",
+      "description": "Kufotokozera kwa mapangidwe a Crepes za ku France."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Jach'a ch'axwäwi",
       "description": "Sutichäwi jach'a ch'axwäwi manq'atak."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen manq'at aruskipañani."
+    },
+    "ramenDescription": {
+      "text": "Jach'a ch'aki wayna k'iwru chashu, suman utji manq'a, ukhamaraki phisqa wayllutaki.",
+      "description": "Tonkotsu Ramen manq'at aruskipañani."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza manq'at aruskipañani."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano ch'arki, jach'a mozzarella, ukhamaraki basil ukhamarak Neapolitan pizza clásico.",
+      "description": "Margherita Pizza manq'at aruskipañani."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor manq'at aruskipañani."
+    },
+    "tacosDescription": {
+      "text": "Q'ipi wayna marinado tacos, ananá, qullu, ukhamaraki q'illu ch'uñu tortilla jach'a.",
+      "description": "Tacos al Pastor manq'at aruskipañani."
+    },
+    "butterChickenName": {
+      "text": "Manteka Wayna",
+      "description": "Butter Chicken manq'at aruskipañani."
+    },
+    "butterChickenDescription": {
+      "text": "Sum uñtawi wayna, tomate manteka ukhamaraki aroma especia sauce.",
+      "description": "Butter Chicken manq'at aruskipañani."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai manq'at aruskipañani."
+    },
+    "padThaiDescription": {
+      "text": "T'ika phisqa wayllutu q'ipiri shrimp, tofu, mani, ukhamaraki tamarindo sauce.",
+      "description": "Pad Thai manq'at aruskipañani."
+    },
+    "crepesName": {
+      "text": "Frantsesa Crepes",
+      "description": "French Crepes manq'at aruskipañani."
+    },
+    "crepesDescription": {
+      "text": "Phisqa, suman crepes Nutella, phisqa frutilla, ukhamaraki whip cream.",
+      "description": "French Crepes manq'at aruskipañani."
     }
   },
   "LocaleSwitcher": {

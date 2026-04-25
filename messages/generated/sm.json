@@ -43,6 +43,54 @@
     "hard": {
       "text": "Lavelave",
       "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigatā."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Igoa o le fua Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Suāu'u a'au pua'a mauoa ma chashu mālūlū, fuamoa mālūlū, ma fettu pasta fou.",
+      "description": "Fa'amatalaga o le fua Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pīsā Margherita",
+      "description": "Igoa o le fua Pīsā Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pīsā Neapolitan masani ma tamato San Marzano, mozzarella fou, ma basil.",
+      "description": "Fa'amatalaga o le fua Pīsā Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Igoa o le fua Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos pua'a marinated ma pineapple, cilantro, ma aniani i luga o tortilla corn.",
+      "description": "Fa'amatalaga o le fua Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pua'a Pata",
+      "description": "Igoa o le fua Pua'a Pata."
+    },
+    "butterChickenDescription": {
+      "text": "Pua'a mālūlū i se sosi tomato ma pata mālūlū ma sua manogi.",
+      "description": "Fa'amatalaga o le fua Pua'a Pata."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Igoa o le fua Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Fettu pasta fa'afefiloi ma shrimp, tofu, pi, ma sosi tamarind.",
+      "description": "Fa'amatalaga o le fua Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Faranisi",
+      "description": "Igoa o le fua Crepes Faranisi."
+    },
+    "crepesDescription": {
+      "text": "Crepes manifinifi ma mālūlū ua tumu i Nutella, tua'i fou, ma sua mamago.",
+      "description": "Fa'amatalaga o le fua Crepes Faranisi."
     }
   },
   "LocaleSwitcher": {

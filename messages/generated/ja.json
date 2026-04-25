@@ -43,6 +43,54 @@
     "hard": {
       "text": "難しい",
       "description": "難しいレシピを示す難易度ラベル。"
+    },
+    "ramenName": {
+      "text": "豚骨ラーメン",
+      "description": "豚骨ラーメンのレシピ名。"
+    },
+    "ramenDescription": {
+      "text": "濃厚な豚骨スープに柔らかいチャーシュー、半熟卵、新鮮な麺が入ったラーメン。",
+      "description": "豚骨ラーメンのレシピの説明。"
+    },
+    "margheritaName": {
+      "text": "マルゲリータピザ",
+      "description": "マルゲリータピザのレシピ名。"
+    },
+    "margheritaDescription": {
+      "text": "サンマルツァーノトマト、新鮮なモッツァレラ、バジルを使ったクラシックなナポリピザ。",
+      "description": "マルゲリータピザのレシピの説明。"
+    },
+    "tacosName": {
+      "text": "タコス・アル・パストール",
+      "description": "タコス・アル・パストールのレシピ名。"
+    },
+    "tacosDescription": {
+      "text": "マリネした豚肉のタコスにパイナップル、シラントロ、玉ねぎをトウモロコシのトルティーヤで包んだ一品。",
+      "description": "タコス・アル・パストールのレシピの説明。"
+    },
+    "butterChickenName": {
+      "text": "バターチキン",
+      "description": "バターチキンのレシピ名。"
+    },
+    "butterChickenDescription": {
+      "text": "クリーミーなトマトとバターソースに香り高いスパイスを加えた柔らかいチキン料理。",
+      "description": "バターチキンのレシピの説明。"
+    },
+    "padThaiName": {
+      "text": "パッタイ",
+      "description": "パッタイのレシピ名。"
+    },
+    "padThaiDescription": {
+      "text": "エビ、豆腐、ピーナッツ、タマリンドソースで炒めた米麺料理。",
+      "description": "パッタイのレシピの説明。"
+    },
+    "crepesName": {
+      "text": "フレンチクレープ",
+      "description": "フレンチクレープのレシピ名。"
+    },
+    "crepesDescription": {
+      "text": "薄く繊細なクレープにヌテラ、新鮮なイチゴ、生クリームを詰めたデザート。",
+      "description": "フレンチクレープのレシピの説明。"
     }
   },
   "LocaleSwitcher": {

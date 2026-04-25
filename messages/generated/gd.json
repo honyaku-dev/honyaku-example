@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dian",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ainm reasabaidh Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Broth cnàmhan muc beairteach le chashu rèidh, ugh bog-bhruich, agus nòtan ùr.",
+      "description": "Tuairisgeul air reasabaidh Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Ainm reasabaidh Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan clasaigeach le tomato San Marzano, mozzarella ùr, agus basil.",
+      "description": "Tuairisgeul air reasabaidh Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ainm reasabaidh Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos muc marinate le pineappl, cilantro, agus oinniún air tortillas arbhar.",
+      "description": "Tuairisgeul air reasabaidh Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Cearc Bùthar",
+      "description": "Ainm reasabaidh Cearc Bùthar."
+    },
+    "butterChickenDescription": {
+      "text": "Cearc rèidh ann an sauce tomato agus bùthar uachdar le spìosan fàileadhail.",
+      "description": "Tuairisgeul air reasabaidh Cearc Bùthar."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ainm reasabaidh Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Nòtan rìs air an stir-fhrithealadh le creachadair, tofu, cnòthan-peant, agus sauce tamarind.",
+      "description": "Tuairisgeul air reasabaidh Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Fraingis",
+      "description": "Ainm reasabaidh Crepes Fraingis."
+    },
+    "crepesDescription": {
+      "text": "Crepes tana, caileagach làn le Nutella, sùbh-làir ùra, agus uachdar air a shìoladh.",
+      "description": "Tuairisgeul air reasabaidh Crepes Fraingis."
     }
   },
   "LocaleSwitcher": {

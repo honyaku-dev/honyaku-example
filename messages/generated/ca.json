@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difícil",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Caldo ric d'os de porc amb chashu tendre, ou passat per aigua i fideus frescos.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza napolitana clàssica amb tomàquets San Marzano, mozzarella fresca i alfàbrega.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porc marinat amb pinya, coriandre i ceba sobre tortillas de blat de moro.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Pollastre amb mantega",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Pollastre tendre en una salsa cremosa de tomàquet i mantega amb espècies aromàtiques.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Fideus d'arròs saltejats amb gambes, tofu, cacauets i salsa de tamarinde.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Crespells francesos",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crespells fins i delicats farcits de Nutella, maduixes fresques i nata muntada.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

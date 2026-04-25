@@ -43,6 +43,54 @@
     "hard": {
       "text": "Khó",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Nước dùng xương heo đậm đà với chashu mềm, trứng luộc lòng đào và mì tươi.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan cổ điển với cà chua San Marzano, mozzarella tươi và húng quế.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos thịt heo ướp gia vị với dứa, ngò rí và hành trên bánh ngô.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Gà Sốt Bơ",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Thịt gà mềm trong sốt bơ và cà chua kem với các loại gia vị thơm.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Mì gạo xào với tôm, đậu hũ, đậu phộng và sốt me.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Bánh Crepes Pháp",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Bánh crepes mỏng, tinh tế nhân Nutella, dâu tây tươi và kem tươi.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

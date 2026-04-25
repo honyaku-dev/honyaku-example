@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difficile",
       "description": "Étiquette du niveau de difficulté indiquant une recette difficile."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nom de la recette Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bouillon riche d'os de porc avec chashu tendre, œuf mollet et nouilles fraîches.",
+      "description": "Description de la recette Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nom de la recette Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza napolitaine classique avec tomates San Marzano, mozzarella fraîche et basilic.",
+      "description": "Description de la recette Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nom de la recette Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porc marinés avec ananas, coriandre et oignon sur tortillas de maïs.",
+      "description": "Description de la recette Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Poulet au Beurre",
+      "description": "Nom de la recette Poulet au Beurre."
+    },
+    "butterChickenDescription": {
+      "text": "Poulet tendre dans une sauce crémeuse à la tomate et au beurre avec des épices aromatiques.",
+      "description": "Description de la recette Poulet au Beurre."
+    },
+    "padThaiName": {
+      "text": "Pad Thaï",
+      "description": "Nom de la recette Pad Thaï."
+    },
+    "padThaiDescription": {
+      "text": "Nouilles de riz sautées avec crevettes, tofu, cacahuètes et sauce tamarin.",
+      "description": "Description de la recette Pad Thaï."
+    },
+    "crepesName": {
+      "text": "Crêpes Françaises",
+      "description": "Nom de la recette Crêpes Françaises."
+    },
+    "crepesDescription": {
+      "text": "Crêpes fines et délicates garnies de Nutella, fraises fraîches et crème fouettée.",
+      "description": "Description de la recette Crêpes Françaises."
     }
   },
   "LocaleSwitcher": {

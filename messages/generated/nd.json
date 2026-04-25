@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kunzima",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Umhluzi omnandi wethambo lenkukhu onechashu ethambileyo, iqanda elithambileyo, kunye neenoodle ezintsha.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "I-Pizza yeMargherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "I-pizza yesintu yaseNeapolitan eneetumato zeSan Marzano, i-mozzarella entsha, kunye ne-basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Ii-tacos zenkomo ezityiwe ngophondo, i-pineapple, i-cilantro, kunye no-anyanisi kwi-corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Inkukhu yeButter",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Inkukhu ethambileyo kwisosi yetumato nebhatha enetyhefu yeearomatikhi.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Iinoodle zeryisi eziphekwe ngokukhawuleza kunye ne-shrimp, tofu, ipeanuts, kunye nesosi ye-tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "I-Crepes yaseFrance",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Icrepes ezincinci, ezithambileyo ezigcwele iNutella, i-strawberries ezintsha, kunye ne-cream eguqukayo.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

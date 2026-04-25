@@ -43,6 +43,54 @@
     "hard": {
       "text": "Rakkisaa",
       "description": "Sadarkaa rakkina meeshalee nyaataa cimaa agarsiisu."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Maqaa garaa Ramen Tonkotsu."
+    },
+    "ramenDescription": {
+      "text": "Shorba harree laafaa fi chashu laafaa, uumaa butu, fi noodles haaraa.",
+      "description": "Ibsa garaa Ramen Tonkotsu."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Maqaa garaa Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan durii kan nyaata San Marzano, mozzarella haaraa, fi basil.",
+      "description": "Ibsa garaa Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Maqaa garaa Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos harree marinate godhame kan ananas, cilantro, fi qoonqoo irratti tortilla qamadii.",
+      "description": "Ibsa garaa Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Maqaa garaa Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Kukkuu laafaa meesha zayitii fi tomaatota dhandhama qabu waliin qophaa'e.",
+      "description": "Ibsa garaa Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Maqaa garaa Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles midhaan shurubaa, tofu, boolla, fi shubbisa tamarind waliin bilcheessu.",
+      "description": "Ibsa garaa Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Faransaayii",
+      "description": "Maqaa garaa Crepes Faransaayii."
+    },
+    "crepesDescription": {
+      "text": "Crepes laaffaa fi bareedaa kan Nutella, qamadii haaraa, fi akaakuu korma wajjin guutame.",
+      "description": "Ibsa garaa Crepes Faransaayii."
     }
   },
   "LocaleSwitcher": {

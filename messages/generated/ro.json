@@ -43,6 +43,54 @@
     "hard": {
       "text": "Dificil",
       "description": "Etichetă pentru nivelul de dificultate care indică o rețetă dificilă."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Numele rețetei Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Supă bogată de oase de porc cu chashu fraged, ou moale fiert și tăiței proaspeți.",
+      "description": "Descrierea rețetei Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Numele rețetei Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza clasică napolitană cu roșii San Marzano, mozzarella proaspătă și busuioc.",
+      "description": "Descrierea rețetei Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Numele rețetei Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porc marinat cu ananas, coriandru și ceapă pe tortilla de porumb.",
+      "description": "Descrierea rețetei Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pui cu unt",
+      "description": "Numele rețetei Pui cu unt."
+    },
+    "butterChickenDescription": {
+      "text": "Pui fraged într-un sos cremos de roșii și unt cu condimente aromatice.",
+      "description": "Descrierea rețetei Pui cu unt."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Numele rețetei Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Tăiței de orez prăjiți cu creveți, tofu, arahide și sos de tamarind.",
+      "description": "Descrierea rețetei Pad Thai."
+    },
+    "crepesName": {
+      "text": "Clătite franțuzești",
+      "description": "Numele rețetei Clătite franțuzești."
+    },
+    "crepesDescription": {
+      "text": "Clătite subțiri și delicate umplute cu Nutella, căpșuni proaspete și frișcă bătută.",
+      "description": "Descrierea rețetei Clătite franțuzești."
     }
   },
   "LocaleSwitcher": {

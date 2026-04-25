@@ -43,6 +43,54 @@
     "hard": {
       "text": "Erfitt",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Ríkur svínabeinasoð með mjúkum chashu, mjúksoðnu eggi og ferskum núðlum.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klassísk napólísk pizza með San Marzano tómötum, ferskri mozzarella og basiliku.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marineruð svínatacos með ananas, kóríander og lauk á maís tortillum.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Smjörkjúklingur",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Mjúkur kjúklingur í rjómalagaðri tómatsósu og smjöri með ilmandi kryddum.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Steiktar hrísgrjónanúðlur með rækjum, tofu, hnetum og tamarind sósa.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Franskar pönnukökur",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Þunnar, viðkvæmar pönnukökur fylltar með Nutella, ferskum jarðarberjum og þeyttum rjóma.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

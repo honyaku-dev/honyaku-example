@@ -43,6 +43,54 @@
     "hard": {
       "text": "Moeilijk",
       "description": "Label voor moeilijkheidsniveau die een moeilijk recept aangeeft."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Naam van het Tonkotsu Ramen recept."
+    },
+    "ramenDescription": {
+      "text": "Rijke varkensbottenbouillon met malse chashu, zachtgekookt ei en verse noedels.",
+      "description": "Beschrijving van het Tonkotsu Ramen recept."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Naam van het Margherita Pizza recept."
+    },
+    "margheritaDescription": {
+      "text": "Klassieke Napolitaanse pizza met San Marzano tomaten, verse mozzarella en basilicum.",
+      "description": "Beschrijving van het Margherita Pizza recept."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Naam van het Tacos al Pastor recept."
+    },
+    "tacosDescription": {
+      "text": "Gemarineerde varkensvleestaco's met ananas, koriander en ui op maïstortilla's.",
+      "description": "Beschrijving van het Tacos al Pastor recept."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Naam van het Butter Chicken recept."
+    },
+    "butterChickenDescription": {
+      "text": "Malse kip in een romige tomaten- en botersaus met aromatische kruiden.",
+      "description": "Beschrijving van het Butter Chicken recept."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Naam van het Pad Thai recept."
+    },
+    "padThaiDescription": {
+      "text": "Gebakken rijstnoedels met garnalen, tofu, pinda's en tamarindesaus.",
+      "description": "Beschrijving van het Pad Thai recept."
+    },
+    "crepesName": {
+      "text": "Franse Crêpes",
+      "description": "Naam van het Franse Crêpes recept."
+    },
+    "crepesDescription": {
+      "text": "Dunne, delicate crêpes gevuld met Nutella, verse aardbeien en slagroom.",
+      "description": "Beschrijving van het Franse Crêpes recept."
     }
   },
   "LocaleSwitcher": {

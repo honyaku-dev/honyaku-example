@@ -43,6 +43,54 @@
     "hard": {
       "text": "Δύσκολη",
       "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει δύσκολη συνταγή."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Όνομα της συνταγής Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Πλούσιος ζωμός από χοιρινά κόκαλα με τρυφερό chashu, μαλακό βρασμένο αυγό και φρέσκα ζυμαρικά.",
+      "description": "Περιγραφή της συνταγής Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Πίτσα Margherita",
+      "description": "Όνομα της συνταγής πίτσας Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Κλασική νεαπολιτάνικη πίτσα με ντομάτες San Marzano, φρέσκια μοτσαρέλα και βασιλικό.",
+      "description": "Περιγραφή της συνταγής πίτσας Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Όνομα της συνταγής Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Μαριναρισμένα χοιρινά tacos με ανανά, κόλιανδρο και κρεμμύδι σε τορτίγιες καλαμποκιού.",
+      "description": "Περιγραφή της συνταγής Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Όνομα της συνταγής Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Τρυφερό κοτόπουλο σε κρεμώδη σάλτσα ντομάτας και βουτύρου με αρωματικά μπαχαρικά.",
+      "description": "Περιγραφή της συνταγής Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Όνομα της συνταγής Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Τηγανητά ρύζι νουντλς με γαρίδες, τόφου, φιστίκια και σάλτσα ταμάρινδου.",
+      "description": "Περιγραφή της συνταγής Pad Thai."
+    },
+    "crepesName": {
+      "text": "Γαλλικές Κρέπες",
+      "description": "Όνομα της συνταγής γαλλικών κρέπών."
+    },
+    "crepesDescription": {
+      "text": "Λεπτές, ευαίσθητες κρέπες γεμιστές με Nutella, φρέσκιες φράουλες και σαντιγί.",
+      "description": "Περιγραφή της συνταγής γαλλικών κρέπών."
     }
   },
   "LocaleSwitcher": {

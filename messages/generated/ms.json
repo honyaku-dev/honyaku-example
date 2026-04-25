@@ -43,6 +43,54 @@
     "hard": {
       "text": "Sukar",
       "description": "Label tahap kesukaran yang menunjukkan resipi yang sukar."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nama resipi Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Sup tulang babi kaya dengan chashu yang lembut, telur rebus separa, dan mi segar.",
+      "description": "Deskripsi resipi Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nama resipi Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan klasik dengan tomato San Marzano, mozzarella segar, dan daun basil.",
+      "description": "Deskripsi resipi Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nama resipi Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos daging babi yang diperap dengan nanas, daun ketumbar, dan bawang di atas tortilla jagung.",
+      "description": "Deskripsi resipi Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Ayam Mentega",
+      "description": "Nama resipi Ayam Mentega."
+    },
+    "butterChickenDescription": {
+      "text": "Ayam lembut dalam sos tomato berkrim dan mentega dengan rempah aromatik.",
+      "description": "Deskripsi resipi Ayam Mentega."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nama resipi Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Mi beras goreng dengan udang, tauhu, kacang tanah, dan sos asam jawa.",
+      "description": "Deskripsi resipi Pad Thai."
+    },
+    "crepesName": {
+      "text": "Krep Perancis",
+      "description": "Nama resipi Krep Perancis."
+    },
+    "crepesDescription": {
+      "text": "Krep nipis dan halus diisi dengan Nutella, strawberi segar, dan krim putar.",
+      "description": "Deskripsi resipi Krep Perancis."
     }
   },
   "LocaleSwitcher": {

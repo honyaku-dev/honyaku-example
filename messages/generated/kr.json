@@ -43,6 +43,54 @@
     "hard": {
       "text": "Matsananci",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Dibbi na ƙashin alade mai ƙarfi da chashu mai laushi, ƙwai mai laushi, da noodles sabo.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza na Neapolitan na gargajiya da tumatir San Marzano, mozzarella sabo, da basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos na ƙashin alade da aka yi marinating tare da ayaba mai zaƙi, cilantro, da albasa akan tortillas na masara.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Kaza mai laushi cikin miya mai madara, tumatir, da man shanu tare da ƙamshi na kayan yaji.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Noodles na shinkafa da aka soya da shrimp, tofu, gyada, da miya tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes masu siriri, masu laushi cike da Nutella, strawberries sabo, da kirim mai tsami.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Вӧлӧм",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Выль сёрны кутскöдъя тонкоту-рамен, шоршӧм чашу, кывыт яйц, шöртӧд нудлёс.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Маргерита Пицца",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Классическöй Неаполитанскöй пицца Сан-Марцано помидоръяс, свежай моцарелла, да базилик.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Такос ал Пастор",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Маринованны свинина такос, ананас, кинза, лук корн тортильяс уж.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Масляной Курица",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Нежнöй курица кремовой томатной и масляной соус с ароматны пряности уж.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Пад Тай",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Жаренöй рисовы нудлёс креветка, тофу, арахис, тамаринд соус уж.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Французскöй Крепёс",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Тонкöй, нежнöй крепёс с нутеллой, свежай клубника, да взбитый сливки уж.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

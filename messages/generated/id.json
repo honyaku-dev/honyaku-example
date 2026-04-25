@@ -43,6 +43,54 @@
     "hard": {
       "text": "Sulit",
       "description": "Label tingkat kesulitan yang menunjukkan resep sulit."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nama resep Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Kaldu tulang babi kaya dengan chashu lembut, telur setengah matang, dan mie segar.",
+      "description": "Deskripsi resep Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Nama resep Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan klasik dengan tomat San Marzano, mozzarella segar, dan basil.",
+      "description": "Deskripsi resep Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nama resep Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos daging babi yang dimarinasi dengan nanas, ketumbar, dan bawang di atas tortilla jagung.",
+      "description": "Deskripsi resep Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Nama resep Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Ayam lembut dalam saus tomat dan mentega yang creamy dengan rempah aromatik.",
+      "description": "Deskripsi resep Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nama resep Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Mie beras tumis dengan udang, tahu, kacang tanah, dan saus asam jawa.",
+      "description": "Deskripsi resep Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Perancis",
+      "description": "Nama resep Crepes Perancis."
+    },
+    "crepesDescription": {
+      "text": "Crepes tipis dan lembut diisi dengan Nutella, stroberi segar, dan krim kocok.",
+      "description": "Deskripsi resep Crepes Perancis."
     }
   },
   "LocaleSwitcher": {

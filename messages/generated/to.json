@@ -43,6 +43,54 @@
     "hard": {
       "text": "Fakamālohi",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Vai kolo'i moa pua'a mā'olunga ʻoku ʻi ai ha chashu malolō, moa huhu malie, pea mo e sipi fo'ou.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan to'onga 'a e San Marzano tomatoes, mozzarella fo'ou, pea mo e basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos pua'a fa'a mālō'i'i 'i he fakamoli, cilantro, pea mo e onioni 'i he corn tortillas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Moa malolō'i 'i ha sosi keke tomato mo e sosi sisi ʻoku ʻi ai ha ngaahi me'a mālohi 'oku ʻoka.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Sipisi laisisi sipi, tofu, peanuts, pea mo e sosi tamarind 'i he noodles laisisi siofua.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Crepes mālohi lahi 'oku 'i ai ha Nutella, strawberries fo'ou, pea mo e cream 'oku to'o.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

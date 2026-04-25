@@ -43,6 +43,54 @@
     "hard": {
       "text": "Heittolaš",
       "description": "Válddi heittolaš recepta."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen recepta namma."
+    },
+    "ramenDescription": {
+      "text": "Ránnán buorre biebmuid luopmušan chashu, láhka boagán, ja ođđa njálmmis.",
+      "description": "Tonkotsu Ramen recepta máŋggaid."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza recepta namma."
+    },
+    "margheritaDescription": {
+      "text": "Klassalaš Neapolitan pizza San Marzano njálmmis, ođđa mozzarella ja basil.",
+      "description": "Margherita Pizza recepta máŋggaid."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor recepta namma."
+    },
+    "tacosDescription": {
+      "text": "Marinerte biebmui tacos ananas, cilantro ja čuovgga veahkkin.",
+      "description": "Tacos al Pastor recepta máŋggaid."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken recepta namma."
+    },
+    "butterChickenDescription": {
+      "text": "Láhka guovssahas juvvon tomáhtta ja muorjjesáhka soassi aromtaš spisis.",
+      "description": "Butter Chicken recepta máŋggaid."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai recepta namma."
+    },
+    "padThaiDescription": {
+      "text": "Bierggadaga njálmmis barggá, tofu, maŋŋebáhkis ja tamarind soassi.",
+      "description": "Pad Thai recepta máŋggaid."
+    },
+    "crepesName": {
+      "text": "Fránska Crepes",
+      "description": "Fránska Crepes recepta namma."
+    },
+    "crepesDescription": {
+      "text": "Vuolgit, ruoššat crepes šaddat Nutella, ođđa máhttu ja vahkkuš.",
+      "description": "Fránska Crepes recepta máŋggaid."
     }
   },
   "LocaleSwitcher": {

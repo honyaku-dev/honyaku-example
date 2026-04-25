@@ -43,6 +43,54 @@
     "hard": {
       "text": "Linzima",
       "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lenzima."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ligama lekunyatsela kweTonksu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Umhluzi lomtfutfukile wemathambo enkukhu nenhloko lenemphilo, iqanda lelitsoftiwe kahle, kanye nematilosi lamasha.",
+      "description": "Incazelo yekunyatsela kweTonksu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pitsa yeMargherita",
+      "description": "Ligama lekunyatsela kwePitsa yeMargherita."
+    },
+    "margheritaDescription": {
+      "text": "Pitsa yekwakha yeNeapolitan ngeletamatisi leSan Marzano, i-mozzarella lemasha, kanye nebasil.",
+      "description": "Incazelo yekunyatsela kwePitsa yeMargherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ligama lekunyatsela kweTacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos lenyanyisiwe lenziwe ngepork, iphayinaphu, i-cilantro, kanye nelionji ematortilla e-corn.",
+      "description": "Incazelo yekunyatsela kweTacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Inkukhu ngebhotela",
+      "description": "Ligama lekunyatsela kweInkukhu ngebhotela."
+    },
+    "butterChickenDescription": {
+      "text": "Inkukhu lenzima lephakanyisiwe esosini yetamatisi nebhotela lelinemafutha kanye neminongo lenuka kahle.",
+      "description": "Incazelo yekunyatsela kweInkukhu ngebhotela."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ligama lekunyatsela kwePad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Imatilosi etiwashiwe ngekushisa ngeletshrimps, tofu, amakinati, kanye nesosisi yetamarind.",
+      "description": "Incazelo yekunyatsela kwePad Thai."
+    },
+    "crepesName": {
+      "text": "Amakrepi aseFrance",
+      "description": "Ligama lekunyatsela kweAmakrepi aseFrance."
+    },
+    "crepesDescription": {
+      "text": "Amakrepi lamatsandza, agcwele iNutella, amatamatisi lamasha, kanye nekhrimu lephukile.",
+      "description": "Incazelo yekunyatsela kweAmakrepi aseFrance."
     }
   },
   "LocaleSwitcher": {

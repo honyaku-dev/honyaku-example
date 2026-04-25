@@ -43,6 +43,54 @@
     "hard": {
       "text": "Anodd",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Broth cyhyrog o esgyrn moch gyda chashu meddal, wy wedi'i ferwi'n ysgafn, a nodiadau ffres.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Pitsa Margherita",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Pitsa Neapolitan glasurol gyda thomatos San Marzano, mozzarella ffres, a basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos moch wedi'u marini gyda physan, cilantro, a nionod ar daenlenni corn.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Cyw iâr Menyn",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Cyw iâr meddal mewn saws menyn a thomatos hufennog gyda sbeisys aroglus.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Nodiadau reis wedi'u stir-fried gyda chreision, tofu, cnau pinwydd, a saws tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Creps Ffrengig",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Creps tenau, delicaet wedi'u llenwi gyda Nutella, mefus ffres, a hufen wedi'i chwipio.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

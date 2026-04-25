@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kɔnɔ Dugu",
       "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw duguba ye."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen recipe minɛ."
+    },
+    "ramenDescription": {
+      "text": "Kɛnɛya furu fɛrɛ kelen chashu ye, sigi nyɛlen furu, ni sigi kun bɛɛ ye.",
+      "description": "Tonkotsu Ramen recipe minɛ ka kɔrɔ."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza recipe minɛ."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano tomati, sigi mozzarella, ni basil bɛɛ la Neapolitan pizza kɛra.",
+      "description": "Margherita Pizza recipe minɛ ka kɔrɔ."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor recipe minɛ."
+    },
+    "tacosDescription": {
+      "text": "Anana, cilantro, ni onion kɛla ma sigi pork tacos bɛɛ la corn tortillas kɛra.",
+      "description": "Tacos al Pastor recipe minɛ ka kɔrɔ."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken recipe minɛ."
+    },
+    "butterChickenDescription": {
+      "text": "Lafiyɛ furu kɛla ni tomati ni butter sauce kɛra, ni sigi mankɛman kɛra.",
+      "description": "Butter Chicken recipe minɛ ka kɔrɔ."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai recipe minɛ."
+    },
+    "padThaiDescription": {
+      "text": "Sigi nyɛlen furu kɛra, shrimp, tofu, peanuts, ni tamarind sauce bɛɛ la.",
+      "description": "Pad Thai recipe minɛ ka kɔrɔ."
+    },
+    "crepesName": {
+      "text": "French Crepes",
+      "description": "French Crepes recipe minɛ."
+    },
+    "crepesDescription": {
+      "text": "Thin, sigi yera crepes bɛɛ la Nutella, sigi strawberries, ni whipped cream bɛɛ ye.",
+      "description": "French Crepes recipe minɛ ka kɔrɔ."
     }
   },
   "LocaleSwitcher": {

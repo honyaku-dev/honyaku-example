@@ -43,6 +43,54 @@
     "hard": {
       "text": "Vanskelig",
       "description": "Vanskelighetsgrad som indikerer en vanskelig oppskrift."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Navnet på Tonkotsu Ramen-oppskriften."
+    },
+    "ramenDescription": {
+      "text": "Rik svinekraft med mørt chashu, mykt kokt egg og ferske nudler.",
+      "description": "Beskrivelse av Tonkotsu Ramen-oppskriften."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Navnet på Margherita Pizza-oppskriften."
+    },
+    "margheritaDescription": {
+      "text": "Klassisk napolitansk pizza med San Marzano-tomater, fersk mozzarella og basilikum.",
+      "description": "Beskrivelse av Margherita Pizza-oppskriften."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Navnet på Tacos al Pastor-oppskriften."
+    },
+    "tacosDescription": {
+      "text": "Marinerte svinetacos med ananas, koriander og løk på mais-tortillas.",
+      "description": "Beskrivelse av Tacos al Pastor-oppskriften."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Navnet på Butter Chicken-oppskriften."
+    },
+    "butterChickenDescription": {
+      "text": "Mørt kyllingkjøtt i kremet tomat- og smørsaus med aromatiske krydder.",
+      "description": "Beskrivelse av Butter Chicken-oppskriften."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Navnet på Pad Thai-oppskriften."
+    },
+    "padThaiDescription": {
+      "text": "Stekte risnudler med reker, tofu, peanøtter og tamarindsaus.",
+      "description": "Beskrivelse av Pad Thai-oppskriften."
+    },
+    "crepesName": {
+      "text": "Franske Crêpes",
+      "description": "Navnet på de franske crêpes-oppskriftene."
+    },
+    "crepesDescription": {
+      "text": "Tynne, delikate crêpes fylt med Nutella, ferske jordbær og pisket krem.",
+      "description": "Beskrivelse av de franske crêpes-oppskriftene."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Qiyin",
       "description": "Qiyin retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen retsepti nomi."
+    },
+    "ramenDescription": {
+      "text": "Yumshoq chashu, yumshoq qaynatilgan tuxum va yangi noodle bilan boy cho'chqa suyak sho'rvasi.",
+      "description": "Tonkotsu Ramen retsepti ta'rifi."
+    },
+    "margheritaName": {
+      "text": "Margherita Pitsasi",
+      "description": "Margherita Pitsasi retsepti nomi."
+    },
+    "margheritaDescription": {
+      "text": "San Marzano pomidorlari, yangi mozzarella va reyhan bilan klassik Neapolitan pizza.",
+      "description": "Margherita Pitsasi retsepti ta'rifi."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor retsepti nomi."
+    },
+    "tacosDescription": {
+      "text": "Ananas, ko'katlar va piyoz bilan marinadlangan cho'chqa go'shti tacoslari, makkajo'xori tortilla ustida.",
+      "description": "Tacos al Pastor retsepti ta'rifi."
+    },
+    "butterChickenName": {
+      "text": "Sariyog'li Tovuq",
+      "description": "Sariyog'li Tovuq retsepti nomi."
+    },
+    "butterChickenDescription": {
+      "text": "Aromatik ziravorlar bilan kremli pomidor va sariyog' sousida pishirilgan yumshoq tovuq.",
+      "description": "Sariyog'li Tovuq retsepti ta'rifi."
+    },
+    "padThaiName": {
+      "text": "Pad Tay",
+      "description": "Pad Tay retsepti nomi."
+    },
+    "padThaiDescription": {
+      "text": "Qovurilgan guruch noodle, qisqichbaqa, tofu, yer yong'og'i va tamarind sousi bilan.",
+      "description": "Pad Tay retsepti ta'rifi."
+    },
+    "crepesName": {
+      "text": "Fransuz Kreplari",
+      "description": "Fransuz Kreplari retsepti nomi."
+    },
+    "crepesDescription": {
+      "text": "Nozik, nozik kreplar Nutella, yangi qulupnay va qaymoq bilan to'ldirilgan.",
+      "description": "Fransuz Kreplari retsepti ta'rifi."
     }
   },
   "LocaleSwitcher": {

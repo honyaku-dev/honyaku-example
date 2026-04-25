@@ -43,6 +43,54 @@
     "hard": {
       "text": "Sarotra",
       "description": "Marika haavon'ny fahasarotana izay manondro resipe sarotra."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Anaran'ny resipe Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Lasopy taolana kisoa manankarena miaraka amin'ny chashu malefaka, atody nendasina malefaka, ary laoka vaovao.",
+      "description": "Famaritana ny resipe Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pizza Margherita",
+      "description": "Anaran'ny resipe Pizza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pizza Neapolitan nentim-paharazana miaraka amin'ny voatabia San Marzano, mozzarella vaovao, ary basilika.",
+      "description": "Famaritana ny resipe Pizza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Anaran'ny resipe Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos kisoa namboarina miaraka amin'ny mananasy, cilantro, ary tongolo amin'ny tortilla katsaka.",
+      "description": "Famaritana ny resipe Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Anaran'ny resipe Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Akoho malefaka amin'ny saosy voatabia sy dibera misy zava-manitra manitra.",
+      "description": "Famaritana ny resipe Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Anaran'ny resipe Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Soba vary nendasina miaraka amin'ny trondro, tofu, voanjo, ary saosy tamarind.",
+      "description": "Famaritana ny resipe Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Frantsay",
+      "description": "Anaran'ny resipe Crepes Frantsay."
+    },
+    "crepesDescription": {
+      "text": "Crepes manify, malefaka feno Nutella, frezy vaovao, ary crème whipped.",
+      "description": "Famaritana ny resipe Crepes Frantsay."
     }
   },
   "LocaleSwitcher": {

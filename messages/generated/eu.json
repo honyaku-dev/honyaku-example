@@ -43,6 +43,54 @@
     "hard": {
       "text": "Zaila",
       "description": "Zailtasun handiko errezetaren etiketa."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen errezetaren izena."
+    },
+    "ramenDescription": {
+      "text": "Txerriki hezunen salda aberatsa, chashu leunarekin, arrautza bigunarekin eta noiz freskoekin.",
+      "description": "Tonkotsu Ramen errezetaren deskribapena."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Margherita Pizza errezetaren izena."
+    },
+    "margheritaDescription": {
+      "text": "Neapolitan klasiko pizza San Marzano tomatea, mozzarella freskoa eta basilikoa.",
+      "description": "Margherita Pizza errezetaren deskribapena."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor errezetaren izena."
+    },
+    "tacosDescription": {
+      "text": "Txerri marinatuzko tacosak anana, koriandro eta tipulinarekin, arto tortilla gainean.",
+      "description": "Tacos al Pastor errezetaren deskribapena."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken errezetaren izena."
+    },
+    "butterChickenDescription": {
+      "text": "Ongi leundutako oilasko krematsu bat tomate eta gurin saltsan, espezi aromatikoekin.",
+      "description": "Butter Chicken errezetaren deskribapena."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai errezetaren izena."
+    },
+    "padThaiDescription": {
+      "text": "Arroz noizak txirlak, tofu, intxaurrak eta tamarindo saltsarekin egositakoak.",
+      "description": "Pad Thai errezetaren deskribapena."
+    },
+    "crepesName": {
+      "text": "Frantziar Krepeak",
+      "description": "Frantziar Krepeak errezetaren izena."
+    },
+    "crepesDescription": {
+      "text": "Lodi, delikatuak diren krepeak Nutella, freskako marrubiak eta krema irina beteta.",
+      "description": "Frantziar Krepeak errezetaren deskribapena."
     }
   },
   "LocaleSwitcher": {

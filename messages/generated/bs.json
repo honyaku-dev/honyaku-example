@@ -43,6 +43,54 @@
     "hard": {
       "text": "Teško",
       "description": "Oznaka nivoa težine koja označava težak recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Naziv recepta za Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bogati bujon od svinjskih kostiju sa nježnim chashuom, mekanim kuhanim jajetom i svježom tjesteninom.",
+      "description": "Opis recepta za Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Naziv recepta za Margherita pizzu."
+    },
+    "margheritaDescription": {
+      "text": "Klasična napuljska pizza sa San Marzano paradajzom, svježom mozzarellom i bosiljkom.",
+      "description": "Opis recepta za Margherita pizzu."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Naziv recepta za Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinirani svinjski tacos sa ananasom, korijanderom i lukom na kukuruznim tortiljama.",
+      "description": "Opis recepta za Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Maslac Piletina",
+      "description": "Naziv recepta za Maslac Piletinu."
+    },
+    "butterChickenDescription": {
+      "text": "Nježna piletina u kremastom umaku od paradajza i maslaca sa aromatičnim začinima.",
+      "description": "Opis recepta za Maslac Piletinu."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Naziv recepta za Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Pržena rižina tjestenina sa kozicama, tofujem, kikirikijem i tamarind umakom.",
+      "description": "Opis recepta za Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francuski palačinci",
+      "description": "Naziv recepta za francuske palačinke."
+    },
+    "crepesDescription": {
+      "text": "Tanki, delikatni palačinci punjeni Nutellom, svježim jagodama i šlagom.",
+      "description": "Opis recepta za francuske palačinke."
     }
   },
   "LocaleSwitcher": {

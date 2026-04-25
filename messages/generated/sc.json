@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difficile",
       "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta difficile."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Nòmine de sa ricetta Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Brodo riccu de ossos de porcu cun chashu tenneru, ou bollidu molle, e noodles friscu.",
+      "description": "Descritzione de sa ricetta Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Pitzza Margherita",
+      "description": "Nòmine de sa ricetta Pitzza Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Pitzza napulitana classica cun tomàtigas San Marzano, mozzarella fresca, e basilicu.",
+      "description": "Descritzione de sa ricetta Pitzza Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Nòmine de sa ricetta Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos de porcu marinadu cun ananas, cilantro, e cebolla in tortillas de frumentu.",
+      "description": "Descritzione de sa ricetta Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Pollu cun Butiru",
+      "description": "Nòmine de sa ricetta Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Pollu tenneru in una salsa cremosa de tomàtiga e butiru cun spezzias aromàticas.",
+      "description": "Descritzione de sa ricetta Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Nòmine de sa ricetta Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Noodles de arròs saltados cun gambas, tofu, anacardus, e salsa de tamarindu.",
+      "description": "Descritzione de sa ricetta Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Frantzesas",
+      "description": "Nòmine de sa ricetta Crepes Frantzesas."
+    },
+    "crepesDescription": {
+      "text": "Crepes finas e delicadas imbottidas cun Nutella, fragolas frescas, e crema montada.",
+      "description": "Descritzione de sa ricetta Crepes Frantzesas."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Težko",
       "description": "Oznaka stopnje težavnosti, ki označuje zahteven recept."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Ime recepta Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Bogata juha iz svinjskih kosti z nežnim chashujem, mehko kuhanim jajcem in svežimi rezanci.",
+      "description": "Opis recepta Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Ime recepta Margherita Pizza."
+    },
+    "margheritaDescription": {
+      "text": "Klasična neapeljska pica s paradižniki San Marzano, svežo mozzarello in baziliko.",
+      "description": "Opis recepta Margherita Pizza."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Ime recepta Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Marinirani svinjski tacosi s pinjami, koriandrom in čebulo na koruznih tortiljah.",
+      "description": "Opis recepta Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Ime recepta Butter Chicken."
+    },
+    "butterChickenDescription": {
+      "text": "Nežno piščančje meso v kremni omaki iz paradižnika in masla z aromatičnimi začimbami.",
+      "description": "Opis recepta Butter Chicken."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Ime recepta Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Praženi riževi rezanci z gamberi, tofujem, arašidi in tamarindovo omako.",
+      "description": "Opis recepta Pad Thai."
+    },
+    "crepesName": {
+      "text": "Francoski palačinki",
+      "description": "Ime recepta Francoski palačinki."
+    },
+    "crepesDescription": {
+      "text": "Tanki, nežni palačinki, polnjeni z Nutello, svežimi jagodami in stepeno smetano.",
+      "description": "Opis recepta Francoski palačinki."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "Lágbára",
       "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí ó ṣòro."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Orúkọ àdídùn Tonkotsu Ramen."
+    },
+    "ramenDescription": {
+      "text": "Omi ẹ̀dá èékánná ewurẹ tó ní ọlọ́rọ̀ pẹ̀lú chashu tó rọrùn, ẹyin tó jinna díẹ̀, àti ìṣúra tuntun.",
+      "description": "Àpejuwe àdídùn Tonkotsu Ramen."
+    },
+    "margheritaName": {
+      "text": "Písà Margherita",
+      "description": "Orúkọ àdídùn Písà Margherita."
+    },
+    "margheritaDescription": {
+      "text": "Písà Neapolitan àtọkànwá pẹ̀lú tomati San Marzano, mozzarella tuntun, àti bàsílì.",
+      "description": "Àpejuwe àdídùn Písà Margherita."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Orúkọ àdídùn Tacos al Pastor."
+    },
+    "tacosDescription": {
+      "text": "Tacos ewurẹ tí a fi ọ̀tí ṣoṣo ṣe pẹ̀lú ọ̀pẹ̀, cilantro, àti alubosa lórí tortilla agbado.",
+      "description": "Àpejuwe àdídùn Tacos al Pastor."
+    },
+    "butterChickenName": {
+      "text": "Adìẹ Butter",
+      "description": "Orúkọ àdídùn Adìẹ Butter."
+    },
+    "butterChickenDescription": {
+      "text": "Adìẹ tó rọrùn nínú obe tomati àti bọ́tá pẹ̀lú àwọn ìrun tó ń tú ẹ̀fọ́.",
+      "description": "Àpejuwe àdídùn Adìẹ Butter."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Orúkọ àdídùn Pad Thai."
+    },
+    "padThaiDescription": {
+      "text": "Ìṣúra iresi tí a fẹ́ sẹ́ pẹ̀lú ẹ̀fọ́ omi, tofu, pínútì, àti obe tamarind.",
+      "description": "Àpejuwe àdídùn Pad Thai."
+    },
+    "crepesName": {
+      "text": "Crepes Faranse",
+      "description": "Orúkọ àdídùn Crepes Faranse."
+    },
+    "crepesDescription": {
+      "text": "Crepes tinútinú, pẹ̀lú Nutella, stoberi tuntun, àti kírímù tí a fi fẹ́ràn sí i.",
+      "description": "Àpejuwe àdídùn Crepes Faranse."
     }
   },
   "LocaleSwitcher": {

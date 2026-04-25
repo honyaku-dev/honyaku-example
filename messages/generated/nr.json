@@ -43,6 +43,54 @@
     "hard": {
       "text": "Kunzima",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Isobho esicebile semathambo enkukhu esinenyama ethambileyo ye-chashu, iqanda elicibilikileyo, kunye neenoodles ezintsha.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "I-Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Ipitsa yesiqhelo yaseNeapolitan eneetumato zeSan Marzano, i-mozzarella entsha, kunye ne-basil.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Iitacos zenkomo ezimnandi ezinepineapple, i-cilantro, kunye no-anyanisi kwii-tortillas zekolweni.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Inkukhu eneBhotela",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Inkukhu ethambileyo kwisoso yetumato etyebileyo nebhotela kunye nezityebi ezivuthayo.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Iinoodles zeryisi ezithosiweyo kunye ne-shrimp, tofu, amaqanda, kunye nesoso ye-tamarind.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "AmaCrepes aseFransi",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "AmaCrepes amancinci, amnene agcwele iNutella, ii-strawberries ezintsha, kunye nekhrimu eqhutywayo.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

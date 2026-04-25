@@ -43,6 +43,54 @@
     "hard": {
       "text": "Hard",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Poka pis bilong pua soup wantaim sof chashu, sof boil igo, na niupla nodol.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pitsa",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Klasik Neapolitan pitsa wantaim San Marzano tomato, niupla mozzarela, na basi.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tako al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Marinet pork tako wantaim painapol, korianda, na anion long korn tortila.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Bata Kek",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Sof kek long kremi tomato na bata sos wantaim strong smel spais.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Stia-frai rais nodol wantaim shrimp, tofu, pinit, na tamarind sos.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Frens Crepes",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Thin, lait crepes bilong fill wantaim Nutella, niupla strawberry, na whipped krim.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

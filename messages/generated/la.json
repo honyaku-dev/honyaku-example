@@ -43,6 +43,54 @@
     "hard": {
       "text": "Difficile",
       "description": "Difficulty level label indicating a difficult recipe."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Name of the Tonkotsu Ramen recipe."
+    },
+    "ramenDescription": {
+      "text": "Saporosus ex ossibus porcinis ius cum tenero chashu, ovo leviter cocto, et recentibus vermiculis.",
+      "description": "Description of the Tonkotsu Ramen recipe."
+    },
+    "margheritaName": {
+      "text": "Margherita Pizza",
+      "description": "Name of the Margherita Pizza recipe."
+    },
+    "margheritaDescription": {
+      "text": "Classica Neapolitana pizza cum tomatis San Marzano, mozzarella recens, et basilico.",
+      "description": "Description of the Margherita Pizza recipe."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Name of the Tacos al Pastor recipe."
+    },
+    "tacosDescription": {
+      "text": "Tacos porcinae marinatae cum ananasso, coriandro, et cepa super tortillas maizianas.",
+      "description": "Description of the Tacos al Pastor recipe."
+    },
+    "butterChickenName": {
+      "text": "Butyrum Pullum",
+      "description": "Name of the Butter Chicken recipe."
+    },
+    "butterChickenDescription": {
+      "text": "Pullus tener in cremoso tomatino et butyri condimento cum aromaticis speciebus.",
+      "description": "Description of the Butter Chicken recipe."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Name of the Pad Thai recipe."
+    },
+    "padThaiDescription": {
+      "text": "Oryzae vermiculi sartagine cocti cum pelagiae, tofu, arachidis, et tamarindi liquamine.",
+      "description": "Description of the Pad Thai recipe."
+    },
+    "crepesName": {
+      "text": "Galettes Francogallicae",
+      "description": "Name of the French Crepes recipe."
+    },
+    "crepesDescription": {
+      "text": "Tenues et delicatae galettes replentes Nutella, fragis recentibus, et cremore sufflato.",
+      "description": "Description of the French Crepes recipe."
     }
   },
   "LocaleSwitcher": {

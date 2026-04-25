@@ -43,6 +43,54 @@
     "hard": {
       "text": "Vaikea",
       "description": "Vaikeustason merkintä, joka osoittaa vaikean reseptin."
+    },
+    "ramenName": {
+      "text": "Tonkotsu Ramen",
+      "description": "Tonkotsu Ramen -reseptin nimi."
+    },
+    "ramenDescription": {
+      "text": "Rikas sianluuliemi, jossa on mureaa chashua, pehmeäkeitetty kananmuna ja tuoreita nuudeleita.",
+      "description": "Tonkotsu Ramen -reseptin kuvaus."
+    },
+    "margheritaName": {
+      "text": "Margherita-pizza",
+      "description": "Margherita-pizza reseptin nimi."
+    },
+    "margheritaDescription": {
+      "text": "Perinteinen neapolilainen pizza San Marzano -tomaateilla, tuoreella mozzarellalla ja basilikalla.",
+      "description": "Margherita-pizza reseptin kuvaus."
+    },
+    "tacosName": {
+      "text": "Tacos al Pastor",
+      "description": "Tacos al Pastor -reseptin nimi."
+    },
+    "tacosDescription": {
+      "text": "Marinoidut possutacot ananaksella, korianterilla ja sipulilla maissitortilloilla.",
+      "description": "Tacos al Pastor -reseptin kuvaus."
+    },
+    "butterChickenName": {
+      "text": "Butter Chicken",
+      "description": "Butter Chicken -reseptin nimi."
+    },
+    "butterChickenDescription": {
+      "text": "Mureaa kanaa kermainen tomaatti-voikastikkeessa aromaattisilla mausteilla.",
+      "description": "Butter Chicken -reseptin kuvaus."
+    },
+    "padThaiName": {
+      "text": "Pad Thai",
+      "description": "Pad Thai -reseptin nimi."
+    },
+    "padThaiDescription": {
+      "text": "Paistetut riisinuudelit katkaravuilla, tofulla, maapähkinöillä ja tamarindikastikkeella.",
+      "description": "Pad Thai -reseptin kuvaus."
+    },
+    "crepesName": {
+      "text": "Ranskalaiset vohvelit",
+      "description": "Ranskalaiset vohvelit -reseptin nimi."
+    },
+    "crepesDescription": {
+      "text": "Ohuet, herkät vohvelit, jotka on täytetty Nutellalla, tuoreilla mansikoilla ja kermavaahdolla.",
+      "description": "Ranskalaiset vohvelit -reseptin kuvaus."
     }
   },
   "LocaleSwitcher": {

@@ -43,6 +43,54 @@
     "hard": {
       "text": "ከባድ",
       "description": "አሰራር ከባድ መሆኑን የሚገልጽ የከባድነት ደረጃ ምልክት።"
+    },
+    "ramenName": {
+      "text": "ቶንኮቱስ ራመን",
+      "description": "የቶንኮቱስ ራመን አሰራር ስም።"
+    },
+    "ramenDescription": {
+      "text": "በቀላል ቻሹ፣ ርጥቅ የተቀቀለ እንቁላል እና አዲስ ነውል የተሞላ ባለብቃ የአሳም ጡት ወተት ቁርጥ ሾርባ።",
+      "description": "የቶንኮቱስ ራመን አሰራር መግለጫ።"
+    },
+    "margheritaName": {
+      "text": "ማርጄሪታ ፒዛ",
+      "description": "የማርጄሪታ ፒዛ አሰራር ስም።"
+    },
+    "margheritaDescription": {
+      "text": "ክላሲክ ኔፓሊታን ፒዛ ከሳን ማርዛኖ ቲማቲሞች፣ አዲስ ሞዛሬላ እና ባዚል ጋር።",
+      "description": "የማርጄሪታ ፒዛ አሰራር መግለጫ።"
+    },
+    "tacosName": {
+      "text": "ታኮስ አል ፓስቶር",
+      "description": "የታኮስ አል ፓስቶር አሰራር ስም።"
+    },
+    "tacosDescription": {
+      "text": "የተጠጣጠሙ እንቁላል በፓይናፕል፣ ሲላንትሮ እና ሽንኩርት በበርጭ ቶርቲላዎች ላይ።",
+      "description": "የታኮስ አል ፓስቶር አሰራር መግለጫ።"
+    },
+    "butterChickenName": {
+      "text": "በተር ዶሮ",
+      "description": "የበተር ዶሮ አሰራር ስም።"
+    },
+    "butterChickenDescription": {
+      "text": "በሚሽተው ቲማቲም እና በተር ሶስ ውስጥ በርበሬ በሙሉ የተቀቀለ ርጥቅ ዶሮ።",
+      "description": "የበተር ዶሮ አሰራር መግለጫ።"
+    },
+    "padThaiName": {
+      "text": "ፓድ ታይ",
+      "description": "የፓድ ታይ አሰራር ስም።"
+    },
+    "padThaiDescription": {
+      "text": "ከሽርምፕ፣ ቶፉ፣ ድንች እና ታማሪንድ ሶስ ጋር የተቀደሰ የእንቁላል ሩዝ ነውል።",
+      "description": "የፓድ ታይ አሰራር መግለጫ።"
+    },
+    "crepesName": {
+      "text": "የፈረንሳይ ክሬፕስ",
+      "description": "የፈረንሳይ ክሬፕስ አሰራር ስም።"
+    },
+    "crepesDescription": {
+      "text": "ሚና ያለውና የተሰራ ክሬፕስ ከኑቴላ፣ አዲስ ፈረንጅ ፍራንድስ እና ተንቀሳቃሽ ክሬም ጋር የተሞላ።",
+      "description": "የፈረንሳይ ክሬፕስ አሰራር መግለጫ።"
     }
   },
   "LocaleSwitcher": {
