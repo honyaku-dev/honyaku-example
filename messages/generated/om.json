@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kichuu Addunyaa",
-      "description": "Maqaa appii kan mata duree irratti mul'atu. Appii barbaacha meeshalee nyaataa addunyaaaf."
-    },
-    "subtitle": {
-      "text": "Meeshalee nyaataa addunyaa irraa argadhu",
-      "description": "Jecha haala appii maqaa jala mata duree irratti mul'atu."
-    }
+  "header_title": {
+    "text": "Kichuu Addunyaa",
+    "description": "Maqaa appii kan mata duree irratti mul'atu. Appii barbaacha meeshalee nyaataa addunyaaaf."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Dhandhama Addunyaa Baay'ee Barbaadi",
-      "description": "Mata duree guddaa kutaa hero fuula jalqabaa irratti."
-    },
-    "heroSubtitle": {
-      "text": "Meeshalee dhugaa maddi isaanii kichuuwwan addunyaa irraa ilaali",
-      "description": "Jecha mata duree jala kutaa hero fuula jalqabaa irratti mul'atu."
-    },
-    "featuredTitle": {
-      "text": "Meeshalee Filataman",
-      "description": "Mata duree kutaa meeshalee nyaataa kaardii olitti mul'atu."
-    }
+  "header_subtitle": {
+    "text": "Meeshalee nyaataa addunyaa irraa argadhu",
+    "description": "Jecha haala appii maqaa jala mata duree irratti mul'atu."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} daqiiqaa",
-      "description": "Yeroo bilcheessuu kaardii meeshalee nyaataa irratti. {minutes} bakka daqiiqaa lakkoofsatti ni jijjiirama."
-    },
-    "difficulty": {
-      "text": "Rakkina",
-      "description": "Barreeffama duratti sadarkaa rakkina kaardii meeshalee nyaataa irratti mul'atu."
-    },
-    "easy": {
-      "text": "Salphaa",
-      "description": "Sadarkaa rakkina meeshalee nyaataa salphaa agarsiisu."
-    },
-    "medium": {
-      "text": "Giddugaleessa",
-      "description": "Sadarkaa rakkina meeshalee nyaataa giddugaleessa agarsiisu."
-    },
-    "hard": {
-      "text": "Rakkisaa",
-      "description": "Sadarkaa rakkina meeshalee nyaataa cimaa agarsiisu."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Maqaa garaa Ramen Tonkotsu."
-    },
-    "ramenDescription": {
-      "text": "Shorba harree laafaa fi chashu laafaa, uumaa butu, fi noodles haaraa.",
-      "description": "Ibsa garaa Ramen Tonkotsu."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Maqaa garaa Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan durii kan nyaata San Marzano, mozzarella haaraa, fi basil.",
-      "description": "Ibsa garaa Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Maqaa garaa Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos harree marinate godhame kan ananas, cilantro, fi qoonqoo irratti tortilla qamadii.",
-      "description": "Ibsa garaa Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Maqaa garaa Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Kukkuu laafaa meesha zayitii fi tomaatota dhandhama qabu waliin qophaa'e.",
-      "description": "Ibsa garaa Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Maqaa garaa Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles midhaan shurubaa, tofu, boolla, fi shubbisa tamarind waliin bilcheessu.",
-      "description": "Ibsa garaa Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Faransaayii",
-      "description": "Maqaa garaa Crepes Faransaayii."
-    },
-    "crepesDescription": {
-      "text": "Crepes laaffaa fi bareedaa kan Nutella, qamadii haaraa, fi akaakuu korma wajjin guutame.",
-      "description": "Ibsa garaa Crepes Faransaayii."
-    }
+  "home_page_hero_title": {
+    "text": "Dhandhama Addunyaa Baay'ee Barbaadi",
+    "description": "Mata duree guddaa kutaa hero fuula jalqabaa irratti."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Afaan",
-      "description": "Barreeffama afaan jijjiiruu filannoo header keessatti argamuuf."
-    },
-    "en": {
-      "text": "Ingiliizii",
-      "description": "Filannoo afaan Ingiliizii afaan jijjiiruu keessatti."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Filannoo afaan Jaappaanii afaan jijjiiruu keessatti."
-    },
-    "es": {
-      "text": "Ispeenishii",
-      "description": "Filannoo afaan Ispeenishii afaan jijjiiruu keessatti."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Meeshalee dhugaa maddi isaanii kichuuwwan addunyaa irraa ilaali",
+    "description": "Jecha mata duree jala kutaa hero fuula jalqabaa irratti mul'atu."
+  },
+  "home_page_featured_title": {
+    "text": "Meeshalee Filataman",
+    "description": "Mata duree kutaa meeshalee nyaataa kaardii olitti mul'atu."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} daqiiqaa",
+    "description": "Yeroo bilcheessuu kaardii meeshalee nyaataa irratti. {minutes} bakka daqiiqaa lakkoofsatti ni jijjiirama."
+  },
+  "recipe_card_difficulty": {
+    "text": "Rakkina",
+    "description": "Barreeffama duratti sadarkaa rakkina kaardii meeshalee nyaataa irratti mul'atu."
+  },
+  "recipe_card_easy": {
+    "text": "Salphaa",
+    "description": "Sadarkaa rakkina meeshalee nyaataa salphaa agarsiisu."
+  },
+  "recipe_card_medium": {
+    "text": "Giddugaleessa",
+    "description": "Sadarkaa rakkina meeshalee nyaataa giddugaleessa agarsiisu."
+  },
+  "recipe_card_hard": {
+    "text": "Rakkisaa",
+    "description": "Sadarkaa rakkina meeshalee nyaataa cimaa agarsiisu."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Maqaa garaa Ramen Tonkotsu."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Shorba harree laafaa fi chashu laafaa, uumaa butu, fi noodles haaraa.",
+    "description": "Ibsa garaa Ramen Tonkotsu."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Maqaa garaa Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan durii kan nyaata San Marzano, mozzarella haaraa, fi basil.",
+    "description": "Ibsa garaa Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Maqaa garaa Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos harree marinate godhame kan ananas, cilantro, fi qoonqoo irratti tortilla qamadii.",
+    "description": "Ibsa garaa Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Maqaa garaa Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Kukkuu laafaa meesha zayitii fi tomaatota dhandhama qabu waliin qophaa'e.",
+    "description": "Ibsa garaa Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Maqaa garaa Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles midhaan shurubaa, tofu, boolla, fi shubbisa tamarind waliin bilcheessu.",
+    "description": "Ibsa garaa Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Faransaayii",
+    "description": "Maqaa garaa Crepes Faransaayii."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes laaffaa fi bareedaa kan Nutella, qamadii haaraa, fi akaakuu korma wajjin guutame.",
+    "description": "Ibsa garaa Crepes Faransaayii."
+  },
+  "locale_switcher_label": {
+    "text": "Afaan",
+    "description": "Barreeffama afaan jijjiiruu filannoo header keessatti argamuuf."
+  },
+  "locale_switcher_en": {
+    "text": "Ingiliizii",
+    "description": "Filannoo afaan Ingiliizii afaan jijjiiruu keessatti."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Filannoo afaan Jaappaanii afaan jijjiiruu keessatti."
+  },
+  "locale_switcher_es": {
+    "text": "Ispeenishii",
+    "description": "Filannoo afaan Ispeenishii afaan jijjiiruu keessatti."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Svetová kuchyňa",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Objavujte recepty z celého sveta",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Svetová kuchyňa",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Preskúmajte globálne chute",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Prehliadajte autentické recepty z kuchýň po celom svete",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Vybrané recepty",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Objavujte recepty z celého sveta",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Náročnosť",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Jednoduché",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Stredne náročné",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Náročné",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Name of the Tonkotsu Ramen recipe."
-    },
-    "ramenDescription": {
-      "text": "Bohatý vývar z bravčových kostí s jemným chashu, polotvrdým vajcom a čerstvými rezancami.",
-      "description": "Description of the Tonkotsu Ramen recipe."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Name of the Margherita Pizza recipe."
-    },
-    "margheritaDescription": {
-      "text": "Klasická neapolská pizza s paradajkami San Marzano, čerstvou mozzarellou a bazalkou.",
-      "description": "Description of the Margherita Pizza recipe."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Name of the Tacos al Pastor recipe."
-    },
-    "tacosDescription": {
-      "text": "Marinované bravčové tacos s ananásom, koriandrom a cibuľou na kukuričných tortillách.",
-      "description": "Description of the Tacos al Pastor recipe."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Name of the Butter Chicken recipe."
-    },
-    "butterChickenDescription": {
-      "text": "Jemné kuracie mäso v krémovej paradajkovo-maslovej omáčke s aromatickým korením.",
-      "description": "Description of the Butter Chicken recipe."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Name of the Pad Thai recipe."
-    },
-    "padThaiDescription": {
-      "text": "Smažené ryžové rezance s krevetami, tofu, arašidmi a tamarindovou omáčkou.",
-      "description": "Description of the Pad Thai recipe."
-    },
-    "crepesName": {
-      "text": "Francúzske palacinky",
-      "description": "Name of the French Crepes recipe."
-    },
-    "crepesDescription": {
-      "text": "Tenké, jemné palacinky plnené Nutellou, čerstvými jahodami a šľahačkou.",
-      "description": "Description of the French Crepes recipe."
-    }
+  "home_page_hero_title": {
+    "text": "Preskúmajte globálne chute",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Jazyk",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Angličtina",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Španielčina",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Prehliadajte autentické recepty z kuchýň po celom svete",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Vybrané recepty",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Náročnosť",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Jednoduché",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Stredne náročné",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Náročné",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Name of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bohatý vývar z bravčových kostí s jemným chashu, polotvrdým vajcom a čerstvými rezancami.",
+    "description": "Description of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Name of the Margherita Pizza recipe."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasická neapolská pizza s paradajkami San Marzano, čerstvou mozzarellou a bazalkou.",
+    "description": "Description of the Margherita Pizza recipe."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Name of the Tacos al Pastor recipe."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinované bravčové tacos s ananásom, koriandrom a cibuľou na kukuričných tortillách.",
+    "description": "Description of the Tacos al Pastor recipe."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Name of the Butter Chicken recipe."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Jemné kuracie mäso v krémovej paradajkovo-maslovej omáčke s aromatickým korením.",
+    "description": "Description of the Butter Chicken recipe."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Name of the Pad Thai recipe."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Smažené ryžové rezance s krevetami, tofu, arašidmi a tamarindovou omáčkou.",
+    "description": "Description of the Pad Thai recipe."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francúzske palacinky",
+    "description": "Name of the French Crepes recipe."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tenké, jemné palacinky plnené Nutellou, čerstvými jahodami a šľahačkou.",
+    "description": "Description of the French Crepes recipe."
+  },
+  "locale_switcher_label": {
+    "text": "Jazyk",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Angličtina",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Španielčina",
+    "description": "Spanish language option in the locale switcher."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Mondo Kuirejo",
-      "description": "App nomo montrita en la kapo. Recepto trova app por mondo kuisino."
-    },
-    "subtitle": {
-      "text": "Trovar receptoj da totala mondo",
-      "description": "Tagligno montrita sub la app nomo en la kapo."
-    }
+  "header_title": {
+    "text": "Mondo Kuirejo",
+    "description": "App nomo montrita en la kapo. Recepto trova app por mondo kuisino."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Eksplorar Global Flavori",
-      "description": "Principa titolo en la hejma paĝo hero sekcio."
-    },
-    "heroSubtitle": {
-      "text": "Navigar autentika receptoj da kuirejo rondo la mondo",
-      "description": "Subtitolo teksto montrita sub la hero titolo en la hejma paĝo."
-    },
-    "featuredTitle": {
-      "text": "Selektita Receptoj",
-      "description": "Sekcio titolo montrita super la recepta karto grido."
-    }
+  "header_subtitle": {
+    "text": "Trovar receptoj da totala mondo",
+    "description": "Tagligno montrita sub la app nomo en la kapo."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Kuiranta tempo etiketo sur recepta karto. {minutes} esas substituita kun la nombro di minutoj."
-    },
-    "difficulty": {
-      "text": "Dificulte",
-      "description": "Etiketo montrita ante la dificulte nivelo sur recepta karto."
-    },
-    "easy": {
-      "text": "Facila",
-      "description": "Dificulte nivelo etiketo indikanta facila recepto."
-    },
-    "medium": {
-      "text": "Mez",
-      "description": "Dificulte nivelo etiketo indikanta meze dificila recepto."
-    },
-    "hard": {
-      "text": "Dura",
-      "description": "Dificulte nivelo etiketo indikanta dura recepto."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nomo di la Tonkotsu Ramen recepto."
-    },
-    "ramenDescription": {
-      "text": "Rika porko osta brodo kun mol chashu, soft-boilita ovo, e freŝa nudli.",
-      "description": "Deskription di la Tonkotsu Ramen recepto."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizo",
-      "description": "Nomo di la Margherita Pizo recepto."
-    },
-    "margheritaDescription": {
-      "text": "Klasika Neapolitan pizo kun San Marzano tomatoj, freŝa mozzarela, e bazilo.",
-      "description": "Deskription di la Margherita Pizo recepto."
-    },
-    "tacosName": {
-      "text": "Takoj al Pastor",
-      "description": "Nomo di la Takoj al Pastor recepto."
-    },
-    "tacosDescription": {
-      "text": "Marinita porko tako kun ananaso, cilantro, e cepo sur maiza tortiljo.",
-      "description": "Deskription di la Takoj al Pastor recepto."
-    },
-    "butterChickenName": {
-      "text": "Butera Kokino",
-      "description": "Nomo di la Butera Kokino recepto."
-    },
-    "butterChickenDescription": {
-      "text": "Mola kokino en krimosa tomato e butera soso kun aromatika spicoj.",
-      "description": "Deskription di la Butera Kokino recepto."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nomo di la Pad Thai recepto."
-    },
-    "padThaiDescription": {
-      "text": "Stir-frita rizo nudli kun ŝrimp, tofu, nuksoj, e tamarinda soso.",
-      "description": "Deskription di la Pad Thai recepto."
-    },
-    "crepesName": {
-      "text": "Franca Krepes",
-      "description": "Nomo di la Franca Krepes recepto."
-    },
-    "crepesDescription": {
-      "text": "Malpeza, delikata krepes plenita kun Nutella, freŝa fragoj, e pufita kremu.",
-      "description": "Deskription di la Franca Krepes recepto."
-    }
+  "home_page_hero_title": {
+    "text": "Eksplorar Global Flavori",
+    "description": "Principa titolo en la hejma paĝo hero sekcio."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lengo",
-      "description": "Acesebla etiketo por la lengo ŝanĝanto dropdown en la kapo."
-    },
-    "en": {
-      "text": "Angla",
-      "description": "Angla lengo opcio en la locale ŝanĝanto."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japana lengo opcio en la locale ŝanĝanto."
-    },
-    "es": {
-      "text": "Hispana",
-      "description": "Hispana lengo opcio en la locale ŝanĝanto."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navigar autentika receptoj da kuirejo rondo la mondo",
+    "description": "Subtitolo teksto montrita sub la hero titolo en la hejma paĝo."
+  },
+  "home_page_featured_title": {
+    "text": "Selektita Receptoj",
+    "description": "Sekcio titolo montrita super la recepta karto grido."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Kuiranta tempo etiketo sur recepta karto. {minutes} esas substituita kun la nombro di minutoj."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dificulte",
+    "description": "Etiketo montrita ante la dificulte nivelo sur recepta karto."
+  },
+  "recipe_card_easy": {
+    "text": "Facila",
+    "description": "Dificulte nivelo etiketo indikanta facila recepto."
+  },
+  "recipe_card_medium": {
+    "text": "Mez",
+    "description": "Dificulte nivelo etiketo indikanta meze dificila recepto."
+  },
+  "recipe_card_hard": {
+    "text": "Dura",
+    "description": "Dificulte nivelo etiketo indikanta dura recepto."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nomo di la Tonkotsu Ramen recepto."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rika porko osta brodo kun mol chashu, soft-boilita ovo, e freŝa nudli.",
+    "description": "Deskription di la Tonkotsu Ramen recepto."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizo",
+    "description": "Nomo di la Margherita Pizo recepto."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasika Neapolitan pizo kun San Marzano tomatoj, freŝa mozzarela, e bazilo.",
+    "description": "Deskription di la Margherita Pizo recepto."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Takoj al Pastor",
+    "description": "Nomo di la Takoj al Pastor recepto."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinita porko tako kun ananaso, cilantro, e cepo sur maiza tortiljo.",
+    "description": "Deskription di la Takoj al Pastor recepto."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butera Kokino",
+    "description": "Nomo di la Butera Kokino recepto."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mola kokino en krimosa tomato e butera soso kun aromatika spicoj.",
+    "description": "Deskription di la Butera Kokino recepto."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nomo di la Pad Thai recepto."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Stir-frita rizo nudli kun ŝrimp, tofu, nuksoj, e tamarinda soso.",
+    "description": "Deskription di la Pad Thai recepto."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franca Krepes",
+    "description": "Nomo di la Franca Krepes recepto."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Malpeza, delikata krepes plenita kun Nutella, freŝa fragoj, e pufita kremu.",
+    "description": "Deskription di la Franca Krepes recepto."
+  },
+  "locale_switcher_label": {
+    "text": "Lengo",
+    "description": "Acesebla etiketo por la lengo ŝanĝanto dropdown en la kapo."
+  },
+  "locale_switcher_en": {
+    "text": "Angla",
+    "description": "Angla lengo opcio en la locale ŝanĝanto."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japana lengo opcio en la locale ŝanĝanto."
+  },
+  "locale_switcher_es": {
+    "text": "Hispana",
+    "description": "Hispana lengo opcio en la locale ŝanĝanto."
   }
 }

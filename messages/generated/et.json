@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Maailma Köök",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Avasta retsepte üle kogu maailma",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Maailma Köök",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Avasta globaalsed maitsed",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Sirvi autentseid retsepte köökidest üle maailma",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Esiletõstetud retseptid",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Avasta retsepte üle kogu maailma",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Raskusaste",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Lihtne",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Keskmine",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Raske",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Name of the Tonkotsu Ramen recipe."
-    },
-    "ramenDescription": {
-      "text": "Rikkalik sealiha luude puljong koos pehme chashu, pehmelt keedetud munaga ja värskete nuudlitega.",
-      "description": "Description of the Tonkotsu Ramen recipe."
-    },
-    "margheritaName": {
-      "text": "Margherita Pitsa",
-      "description": "Name of the Margherita Pizza recipe."
-    },
-    "margheritaDescription": {
-      "text": "Klassikaline Napoli pitsa San Marzano tomatite, värske mozzarelli ja basiilikuga.",
-      "description": "Description of the Margherita Pizza recipe."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Name of the Tacos al Pastor recipe."
-    },
-    "tacosDescription": {
-      "text": "Marineeritud sealiha tacos ananassi, koriandri ja sibulaga maisitortilladel.",
-      "description": "Description of the Tacos al Pastor recipe."
-    },
-    "butterChickenName": {
-      "text": "Võikana",
-      "description": "Name of the Butter Chicken recipe."
-    },
-    "butterChickenDescription": {
-      "text": "Pehme kana kreemjas tomati- ja võikastmes aromaatsete vürtsidega.",
-      "description": "Description of the Butter Chicken recipe."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Name of the Pad Thai recipe."
-    },
-    "padThaiDescription": {
-      "text": "Praetud riisinuudlid krevettide, tofuga, maapähklite ja tamariinikastmega.",
-      "description": "Description of the Pad Thai recipe."
-    },
-    "crepesName": {
-      "text": "Prantsuse pannkoogid",
-      "description": "Name of the French Crepes recipe."
-    },
-    "crepesDescription": {
-      "text": "Õhukesed, delikaatsed pannkoogid täidetud Nutella, värskete maasikate ja vahukoorega.",
-      "description": "Description of the French Crepes recipe."
-    }
+  "home_page_hero_title": {
+    "text": "Avasta globaalsed maitsed",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Keel",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Inglise",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Hispaania",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Sirvi autentseid retsepte köökidest üle maailma",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Esiletõstetud retseptid",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Raskusaste",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Lihtne",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Keskmine",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Raske",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Name of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rikkalik sealiha luude puljong koos pehme chashu, pehmelt keedetud munaga ja värskete nuudlitega.",
+    "description": "Description of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pitsa",
+    "description": "Name of the Margherita Pizza recipe."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassikaline Napoli pitsa San Marzano tomatite, värske mozzarelli ja basiilikuga.",
+    "description": "Description of the Margherita Pizza recipe."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Name of the Tacos al Pastor recipe."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marineeritud sealiha tacos ananassi, koriandri ja sibulaga maisitortilladel.",
+    "description": "Description of the Tacos al Pastor recipe."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Võikana",
+    "description": "Name of the Butter Chicken recipe."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pehme kana kreemjas tomati- ja võikastmes aromaatsete vürtsidega.",
+    "description": "Description of the Butter Chicken recipe."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Name of the Pad Thai recipe."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Praetud riisinuudlid krevettide, tofuga, maapähklite ja tamariinikastmega.",
+    "description": "Description of the Pad Thai recipe."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Prantsuse pannkoogid",
+    "description": "Name of the French Crepes recipe."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Õhukesed, delikaatsed pannkoogid täidetud Nutella, värskete maasikate ja vahukoorega.",
+    "description": "Description of the French Crepes recipe."
+  },
+  "locale_switcher_label": {
+    "text": "Keel",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Inglise",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Hispaania",
+    "description": "Spanish language option in the locale switcher."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kwizin Mondyal",
-      "description": "Non aplikasyon ki parèt nan tèt paj la. Yon aplikasyon dekouvèt resèt pou kwizin mondyal."
-    },
-    "subtitle": {
-      "text": "Dekouvri resèt soti atravè lemond",
-      "description": "Slogan ki parèt anba non aplikasyon an nan tèt paj la."
-    }
+  "header_title": {
+    "text": "Kwizin Mondyal",
+    "description": "Non aplikasyon ki parèt nan tèt paj la. Yon aplikasyon dekouvèt resèt pou kwizin mondyal."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Eksplore Gou Global",
-      "description": "Tit prensipal nan seksyon ewo paj dakèy la."
-    },
-    "heroSubtitle": {
-      "text": "Navige resèt otantik soti nan kwizin atravè lemond",
-      "description": "Tèks sou-tit ki parèt anba tit ewo a nan paj dakèy la."
-    },
-    "featuredTitle": {
-      "text": "Resèt Chwazi",
-      "description": "Tit seksyon ki parèt anlè kad resèt yo."
-    }
+  "header_subtitle": {
+    "text": "Dekouvri resèt soti atravè lemond",
+    "description": "Slogan ki parèt anba non aplikasyon an nan tèt paj la."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etikèt tan kwit manje sou yon kat resèt. {minutes} ranplase pa kantite minit yo."
-    },
-    "difficulty": {
-      "text": "Difikilte",
-      "description": "Etikèt ki parèt anvan nivo difikilte sou yon kat resèt."
-    },
-    "easy": {
-      "text": "Fasil",
-      "description": "Etikèt nivo difikilte ki endike yon resèt fasil."
-    },
-    "medium": {
-      "text": "Mwayen",
-      "description": "Etikèt nivo difikilte ki endike yon resèt ki gen difikilte mwayèn."
-    },
-    "hard": {
-      "text": "Difisil",
-      "description": "Etikèt nivo difikilte ki endike yon resèt ki difisil."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Non resèt Tonkotsu Ramen an."
-    },
-    "ramenDescription": {
-      "text": "Bouyon zo kochon rich ak chashu tenn, ze bouyi mou, ak nouy fre.",
-      "description": "Deskripsyon resèt Tonkotsu Ramen an."
-    },
-    "margheritaName": {
-      "text": "Piza Margherita",
-      "description": "Non resèt Piza Margherita a."
-    },
-    "margheritaDescription": {
-      "text": "Piza klasik Napolitèn ak tomat San Marzano, mozzarella fre, ak bazilik.",
-      "description": "Deskripsyon resèt Piza Margherita a."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Non resèt Tacos al Pastor la."
-    },
-    "tacosDescription": {
-      "text": "Tacos kochon marinen ak anana, koriandè, ak zonyon sou tòti mayi.",
-      "description": "Deskripsyon resèt Tacos al Pastor la."
-    },
-    "butterChickenName": {
-      "text": "Poul ak Bè",
-      "description": "Non resèt Poul ak Bè a."
-    },
-    "butterChickenDescription": {
-      "text": "Poul tenn nan yon sòs tomat krèm ak bè ak epis aromatizan.",
-      "description": "Deskripsyon resèt Poul ak Bè a."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Non resèt Pad Thai a."
-    },
-    "padThaiDescription": {
-      "text": "Nouy diri fri ak krevèt, tofu, nwa pikan, ak sòs tamarin.",
-      "description": "Deskripsyon resèt Pad Thai a."
-    },
-    "crepesName": {
-      "text": "Krèp Franse",
-      "description": "Non resèt Krèp Franse yo."
-    },
-    "crepesDescription": {
-      "text": "Krèp mens, delika plen ak Nutella, franbwaz fre, ak krèm chantilly.",
-      "description": "Deskripsyon resèt Krèp Franse yo."
-    }
+  "home_page_hero_title": {
+    "text": "Eksplore Gou Global",
+    "description": "Tit prensipal nan seksyon ewo paj dakèy la."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lang",
-      "description": "Etikèt aksè pou meni chwa lang nan tèt paj la."
-    },
-    "en": {
-      "text": "Angle",
-      "description": "Opsyon lang Angle nan meni chwa lang nan."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opsyon lang Japonè nan meni chwa lang nan."
-    },
-    "es": {
-      "text": "Panyòl",
-      "description": "Opsyon lang Panyòl nan meni chwa lang nan."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navige resèt otantik soti nan kwizin atravè lemond",
+    "description": "Tèks sou-tit ki parèt anba tit ewo a nan paj dakèy la."
+  },
+  "home_page_featured_title": {
+    "text": "Resèt Chwazi",
+    "description": "Tit seksyon ki parèt anlè kad resèt yo."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etikèt tan kwit manje sou yon kat resèt. {minutes} ranplase pa kantite minit yo."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difikilte",
+    "description": "Etikèt ki parèt anvan nivo difikilte sou yon kat resèt."
+  },
+  "recipe_card_easy": {
+    "text": "Fasil",
+    "description": "Etikèt nivo difikilte ki endike yon resèt fasil."
+  },
+  "recipe_card_medium": {
+    "text": "Mwayen",
+    "description": "Etikèt nivo difikilte ki endike yon resèt ki gen difikilte mwayèn."
+  },
+  "recipe_card_hard": {
+    "text": "Difisil",
+    "description": "Etikèt nivo difikilte ki endike yon resèt ki difisil."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Non resèt Tonkotsu Ramen an."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bouyon zo kochon rich ak chashu tenn, ze bouyi mou, ak nouy fre.",
+    "description": "Deskripsyon resèt Tonkotsu Ramen an."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Piza Margherita",
+    "description": "Non resèt Piza Margherita a."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Piza klasik Napolitèn ak tomat San Marzano, mozzarella fre, ak bazilik.",
+    "description": "Deskripsyon resèt Piza Margherita a."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Non resèt Tacos al Pastor la."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos kochon marinen ak anana, koriandè, ak zonyon sou tòti mayi.",
+    "description": "Deskripsyon resèt Tacos al Pastor la."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Poul ak Bè",
+    "description": "Non resèt Poul ak Bè a."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Poul tenn nan yon sòs tomat krèm ak bè ak epis aromatizan.",
+    "description": "Deskripsyon resèt Poul ak Bè a."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Non resèt Pad Thai a."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nouy diri fri ak krevèt, tofu, nwa pikan, ak sòs tamarin.",
+    "description": "Deskripsyon resèt Pad Thai a."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Krèp Franse",
+    "description": "Non resèt Krèp Franse yo."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Krèp mens, delika plen ak Nutella, franbwaz fre, ak krèm chantilly.",
+    "description": "Deskripsyon resèt Krèp Franse yo."
+  },
+  "locale_switcher_label": {
+    "text": "Lang",
+    "description": "Etikèt aksè pou meni chwa lang nan tèt paj la."
+  },
+  "locale_switcher_en": {
+    "text": "Angle",
+    "description": "Opsyon lang Angle nan meni chwa lang nan."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opsyon lang Japonè nan meni chwa lang nan."
+  },
+  "locale_switcher_es": {
+    "text": "Panyòl",
+    "description": "Opsyon lang Panyòl nan meni chwa lang nan."
   }
 }

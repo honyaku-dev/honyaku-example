@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kuka o le Lalolagi",
-      "description": "Igoa o le polokalama o lo'o fa'aalia i le ulutala. O se polokalama su'esu'e fua o kuka mai i atunuu eseese o le lalolagi."
-    },
-    "subtitle": {
-      "text": "Su'e fua mai atunuu uma o le lalolagi",
-      "description": "Fa'ailoga o lo'o fa'aalia i lalo o le igoa o le polokalama i le ulutala."
-    }
+  "header_title": {
+    "text": "Kuka o le Lalolagi",
+    "description": "Igoa o le polokalama o lo'o fa'aalia i le ulutala. O se polokalama su'esu'e fua o kuka mai i atunuu eseese o le lalolagi."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Su'esu'e Suāga Faavaomalo",
-      "description": "Ulutala autu i le vaega pito i luga o le itulau autu."
-    },
-    "heroSubtitle": {
-      "text": "Siaki fua moni mai umukuka o le lalolagi atoa",
-      "description": "Tusitusiga i lalo o le ulutala pito i luga i le itulau autu."
-    },
-    "featuredTitle": {
-      "text": "Fua Fa'aalia",
-      "description": "Ulutala o le vaega i luga atu o le fa'afanua kata fua."
-    }
+  "header_subtitle": {
+    "text": "Su'e fua mai atunuu uma o le lalolagi",
+    "description": "Fa'ailoga o lo'o fa'aalia i lalo o le igoa o le polokalama i le ulutala."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Fa'ailoga o le taimi kuka i luga o le kata fua. O le {minutes} o lo'o suia i le numera o minute."
-    },
-    "difficulty": {
-      "text": "Lavelave",
-      "description": "Fa'ailoga o lo'o fa'aalia i luma o le tulaga o le lavelave i luga o le kata fua."
-    },
-    "easy": {
-      "text": "Faigofie",
-      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigofie."
-    },
-    "medium": {
-      "text": "Feololo",
-      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua e feololo le lavelave."
-    },
-    "hard": {
-      "text": "Lavelave",
-      "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigatā."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Igoa o le fua Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Suāu'u a'au pua'a mauoa ma chashu mālūlū, fuamoa mālūlū, ma fettu pasta fou.",
-      "description": "Fa'amatalaga o le fua Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pīsā Margherita",
-      "description": "Igoa o le fua Pīsā Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pīsā Neapolitan masani ma tamato San Marzano, mozzarella fou, ma basil.",
-      "description": "Fa'amatalaga o le fua Pīsā Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Igoa o le fua Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos pua'a marinated ma pineapple, cilantro, ma aniani i luga o tortilla corn.",
-      "description": "Fa'amatalaga o le fua Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pua'a Pata",
-      "description": "Igoa o le fua Pua'a Pata."
-    },
-    "butterChickenDescription": {
-      "text": "Pua'a mālūlū i se sosi tomato ma pata mālūlū ma sua manogi.",
-      "description": "Fa'amatalaga o le fua Pua'a Pata."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Igoa o le fua Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Fettu pasta fa'afefiloi ma shrimp, tofu, pi, ma sosi tamarind.",
-      "description": "Fa'amatalaga o le fua Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Faranisi",
-      "description": "Igoa o le fua Crepes Faranisi."
-    },
-    "crepesDescription": {
-      "text": "Crepes manifinifi ma mālūlū ua tumu i Nutella, tua'i fou, ma sua mamago.",
-      "description": "Fa'amatalaga o le fua Crepes Faranisi."
-    }
+  "home_page_hero_title": {
+    "text": "Su'esu'e Suāga Faavaomalo",
+    "description": "Ulutala autu i le vaega pito i luga o le itulau autu."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Gagana",
-      "description": "Fa'ailoga maua mo le lisi liliu gagana i le ulutala."
-    },
-    "en": {
-      "text": "Igilisi",
-      "description": "Filifiliga o le gagana Igilisi i le lisi liliu gagana."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Filifiliga o le gagana Iapani i le lisi liliu gagana."
-    },
-    "es": {
-      "text": "Sipaniolo",
-      "description": "Filifiliga o le gagana Sipaniolo i le lisi liliu gagana."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Siaki fua moni mai umukuka o le lalolagi atoa",
+    "description": "Tusitusiga i lalo o le ulutala pito i luga i le itulau autu."
+  },
+  "home_page_featured_title": {
+    "text": "Fua Fa'aalia",
+    "description": "Ulutala o le vaega i luga atu o le fa'afanua kata fua."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Fa'ailoga o le taimi kuka i luga o le kata fua. O le {minutes} o lo'o suia i le numera o minute."
+  },
+  "recipe_card_difficulty": {
+    "text": "Lavelave",
+    "description": "Fa'ailoga o lo'o fa'aalia i luma o le tulaga o le lavelave i luga o le kata fua."
+  },
+  "recipe_card_easy": {
+    "text": "Faigofie",
+    "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigofie."
+  },
+  "recipe_card_medium": {
+    "text": "Feololo",
+    "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua e feololo le lavelave."
+  },
+  "recipe_card_hard": {
+    "text": "Lavelave",
+    "description": "Fa'ailoga o le tulaga lavelave e fa'ailoa ai se fua faigatā."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Igoa o le fua Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Suāu'u a'au pua'a mauoa ma chashu mālūlū, fuamoa mālūlū, ma fettu pasta fou.",
+    "description": "Fa'amatalaga o le fua Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pīsā Margherita",
+    "description": "Igoa o le fua Pīsā Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pīsā Neapolitan masani ma tamato San Marzano, mozzarella fou, ma basil.",
+    "description": "Fa'amatalaga o le fua Pīsā Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Igoa o le fua Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos pua'a marinated ma pineapple, cilantro, ma aniani i luga o tortilla corn.",
+    "description": "Fa'amatalaga o le fua Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pua'a Pata",
+    "description": "Igoa o le fua Pua'a Pata."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pua'a mālūlū i se sosi tomato ma pata mālūlū ma sua manogi.",
+    "description": "Fa'amatalaga o le fua Pua'a Pata."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Igoa o le fua Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Fettu pasta fa'afefiloi ma shrimp, tofu, pi, ma sosi tamarind.",
+    "description": "Fa'amatalaga o le fua Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Faranisi",
+    "description": "Igoa o le fua Crepes Faranisi."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes manifinifi ma mālūlū ua tumu i Nutella, tua'i fou, ma sua mamago.",
+    "description": "Fa'amatalaga o le fua Crepes Faranisi."
+  },
+  "locale_switcher_label": {
+    "text": "Gagana",
+    "description": "Fa'ailoga maua mo le lisi liliu gagana i le ulutala."
+  },
+  "locale_switcher_en": {
+    "text": "Igilisi",
+    "description": "Filifiliga o le gagana Igilisi i le lisi liliu gagana."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Filifiliga o le gagana Iapani i le lisi liliu gagana."
+  },
+  "locale_switcher_es": {
+    "text": "Sipaniolo",
+    "description": "Filifiliga o le gagana Sipaniolo i le lisi liliu gagana."
   }
 }

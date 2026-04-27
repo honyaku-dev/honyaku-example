@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dünýä Aşhanasy",
-      "description": "Baş sahypadaky programma ady. Dünýä aşhanalarynyň reseptleriniň gözleg programmasy."
-    },
-    "subtitle": {
-      "text": "Dünýäniň dürli künjeklerinden reseptleri açyň",
-      "description": "Baş sahypadaky programma adynyň aşagynda görkezilýän şygyr."
-    }
+  "header_title": {
+    "text": "Dünýä Aşhanasy",
+    "description": "Baş sahypadaky programma ady. Dünýä aşhanalarynyň reseptleriniň gözleg programmasy."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Dünýä Taamlaryny Gözläň",
-      "description": "Baş sahypanyň esasy bölümindäki esasy ýazgy."
-    },
-    "heroSubtitle": {
-      "text": "Dünýäniň dürli aşhanalaryndan hakyky reseptlere göz gezdiriň",
-      "description": "Baş sahypanyň esasy ýazgysynyň aşagynda görkezilýän alty ýazgy."
-    },
-    "featuredTitle": {
-      "text": "Üstünlikli Reseptler",
-      "description": "Resept kartlarynyň torunyň ýokarsynda görkezilýän bölüm başlygy."
-    }
+  "header_subtitle": {
+    "text": "Dünýäniň dürli künjeklerinden reseptleri açyň",
+    "description": "Baş sahypadaky programma adynyň aşagynda görkezilýän şygyr."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Resept kartyndaky bişirme wagtynyň belligi. {minutes} minutlaryň sany bilen çalşyrylýar."
-    },
-    "difficulty": {
-      "text": "Kynçylyk",
-      "description": "Resept kartyndaky kynçylyk derejesiniň öňünde görkezilen bellik."
-    },
-    "easy": {
-      "text": "Aňaýy",
-      "description": "Aňaýy resepti görkezýän kynçylyk derejesiniň belligi."
-    },
-    "medium": {
-      "text": "Orta",
-      "description": "Orta derejede kyn resepti görkezýän kynçylyk derejesiniň belligi."
-    },
-    "hard": {
-      "text": "Kyn",
-      "description": "Kyn resepti görkezýän kynçylyk derejesiniň belligi."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen reseptiniň ady."
-    },
-    "ramenDescription": {
-      "text": "Ýumşak chashu, ýumşak bişirilýän ýumurtga we täze noodle bilen baý aýak süýji çorbasynyň.",
-      "description": "Tonkotsu Ramen reseptiniň beýany."
-    },
-    "margheritaName": {
-      "text": "Margherita Pitsa",
-      "description": "Margherita Pitsa reseptiniň ady."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano pomidorlary, täze mozarella we reyhan bilen klassik Neapolitan pitsa.",
-      "description": "Margherita Pitsa reseptiniň beýany."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor reseptiniň ady."
-    },
-    "tacosDescription": {
-      "text": "Ananas, kişniş we sogan bilen marinadalanan guş eti tacosy, makkajoş tortillasynda.",
-      "description": "Tacos al Pastor reseptiniň beýany."
-    },
-    "butterChickenName": {
-      "text": "Sary ýagly towuk",
-      "description": "Sary ýagly towuk reseptiniň ady."
-    },
-    "butterChickenDescription": {
-      "text": "Atrap iýmitler bilen ýumşak towuk, pomidor we sary ýagly kremli sousda.",
-      "description": "Sary ýagly towuk reseptiniň beýany."
-    },
-    "padThaiName": {
-      "text": "Pad Tai",
-      "description": "Pad Thai reseptiniň ady."
-    },
-    "padThaiDescription": {
-      "text": "Tüwi noodle, garnel, tofu, ýer ýagy we tamarind sousy bilen gyzardylan.",
-      "description": "Pad Thai reseptiniň beýany."
-    },
-    "crepesName": {
-      "text": "Fransuz krepleri",
-      "description": "Fransuz krepleri reseptiniň ady."
-    },
-    "crepesDescription": {
-      "text": "Nutella, täze gaýnatylan ýerkökresi we köpürtkilen krem bilen doldurylan inçe we ýumşak krepler.",
-      "description": "Fransuz krepleri reseptiniň beýany."
-    }
+  "home_page_hero_title": {
+    "text": "Dünýä Taamlaryny Gözläň",
+    "description": "Baş sahypanyň esasy bölümindäki esasy ýazgy."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Dil",
-      "description": "Baş sahypadaky dil üýtgediji düşürilýän sanaw üçin elýeterli bellik."
-    },
-    "en": {
-      "text": "Iňlisçe",
-      "description": "Dil üýtgedijisindäki iňlis dili opsiýasy."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Dil üýtgedijisindäki ýapon dili opsiýasy."
-    },
-    "es": {
-      "text": "Ispança",
-      "description": "Dil üýtgedijisindäki ispan dili opsiýasy."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Dünýäniň dürli aşhanalaryndan hakyky reseptlere göz gezdiriň",
+    "description": "Baş sahypanyň esasy ýazgysynyň aşagynda görkezilýän alty ýazgy."
+  },
+  "home_page_featured_title": {
+    "text": "Üstünlikli Reseptler",
+    "description": "Resept kartlarynyň torunyň ýokarsynda görkezilýän bölüm başlygy."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Resept kartyndaky bişirme wagtynyň belligi. {minutes} minutlaryň sany bilen çalşyrylýar."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kynçylyk",
+    "description": "Resept kartyndaky kynçylyk derejesiniň öňünde görkezilen bellik."
+  },
+  "recipe_card_easy": {
+    "text": "Aňaýy",
+    "description": "Aňaýy resepti görkezýän kynçylyk derejesiniň belligi."
+  },
+  "recipe_card_medium": {
+    "text": "Orta",
+    "description": "Orta derejede kyn resepti görkezýän kynçylyk derejesiniň belligi."
+  },
+  "recipe_card_hard": {
+    "text": "Kyn",
+    "description": "Kyn resepti görkezýän kynçylyk derejesiniň belligi."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen reseptiniň ady."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ýumşak chashu, ýumşak bişirilýän ýumurtga we täze noodle bilen baý aýak süýji çorbasynyň.",
+    "description": "Tonkotsu Ramen reseptiniň beýany."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pitsa",
+    "description": "Margherita Pitsa reseptiniň ady."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano pomidorlary, täze mozarella we reyhan bilen klassik Neapolitan pitsa.",
+    "description": "Margherita Pitsa reseptiniň beýany."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor reseptiniň ady."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ananas, kişniş we sogan bilen marinadalanan guş eti tacosy, makkajoş tortillasynda.",
+    "description": "Tacos al Pastor reseptiniň beýany."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Sary ýagly towuk",
+    "description": "Sary ýagly towuk reseptiniň ady."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Atrap iýmitler bilen ýumşak towuk, pomidor we sary ýagly kremli sousda.",
+    "description": "Sary ýagly towuk reseptiniň beýany."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Tai",
+    "description": "Pad Thai reseptiniň ady."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Tüwi noodle, garnel, tofu, ýer ýagy we tamarind sousy bilen gyzardylan.",
+    "description": "Pad Thai reseptiniň beýany."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Fransuz krepleri",
+    "description": "Fransuz krepleri reseptiniň ady."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Nutella, täze gaýnatylan ýerkökresi we köpürtkilen krem bilen doldurylan inçe we ýumşak krepler.",
+    "description": "Fransuz krepleri reseptiniň beýany."
+  },
+  "locale_switcher_label": {
+    "text": "Dil",
+    "description": "Baş sahypadaky dil üýtgediji düşürilýän sanaw üçin elýeterli bellik."
+  },
+  "locale_switcher_en": {
+    "text": "Iňlisçe",
+    "description": "Dil üýtgedijisindäki iňlis dili opsiýasy."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Dil üýtgedijisindäki ýapon dili opsiýasy."
+  },
+  "locale_switcher_es": {
+    "text": "Ispança",
+    "description": "Dil üýtgedijisindäki ispan dili opsiýasy."
   }
 }

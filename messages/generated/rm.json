@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cuschina Mundiala",
-      "description": "Num da l'app mussà en l'entira. Ina app per scuvrir retschas da cusinas mundialas."
-    },
-    "subtitle": {
-      "text": "Descuvrir retschas da tut il mund",
-      "description": "Slogan mussà sut il num da l'app en l'entira."
-    }
+  "header_title": {
+    "text": "Cuschina Mundiala",
+    "description": "Num da l'app mussà en l'entira. Ina app per scuvrir retschas da cusinas mundialas."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explorar gusts globals",
-      "description": "Titul principal en la part hero da la pagina d'entschatta."
-    },
-    "heroSubtitle": {
-      "text": "Navigar tras retschas autenticas da cuschinas da tut il mund",
-      "description": "Text da sutitul mussà sut il titul hero en la pagina d'entschatta."
-    },
-    "featuredTitle": {
-      "text": "Retschas en evidenza",
-      "description": "Titul da la secziun mussà sur la griglia da cartas da retschas."
-    }
+  "header_subtitle": {
+    "text": "Descuvrir retschas da tut il mund",
+    "description": "Slogan mussà sut il num da l'app en l'entira."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Label per il temp da cuschinar sin ina carta da retscha. {minutes} vegn remplazzà cun il dumber da minutas."
-    },
-    "difficulty": {
-      "text": "Difficultad",
-      "description": "Label mussà avant il nivel da difficultad sin ina carta da retscha."
-    },
-    "easy": {
-      "text": "Facil",
-      "description": "Label dal nivel da difficultad che inditgescha ina retscha simpla."
-    },
-    "medium": {
-      "text": "Mesaun",
-      "description": "Label dal nivel da difficultad che inditgescha ina retscha d'ina difficultad mesauna."
-    },
-    "hard": {
-      "text": "Difficult",
-      "description": "Label dal nivel da difficultad che inditgescha ina retscha difficila."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Num da la retscha Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Broda da oss da purtga ric cun chashu tener, ovetta mez dura e nouilles frescas.",
-      "description": "Descriziun da la retscha Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Num da la retscha Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza neapolitana classica cun tomatas San Marzano, mozzarella fresca e basilic.",
-      "description": "Descriziun da la retscha Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Num da la retscha Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos da purtga maridada cun ananas, coriandru e utschella sin tortillas da maiz.",
-      "description": "Descriziun da la retscha Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Num da la retscha Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Pulaster tener en ina salsa cremusa da tomatas e buttier cun spezias aromaticas.",
-      "description": "Descriziun da la retscha Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Num da la retscha Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nouilles da ris saltadas cun gamberets, tofu, cugn e salsa da tamarind.",
-      "description": "Descriziun da la retscha Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crêpes franzosas",
-      "description": "Num da la retscha Crêpes franzosas."
-    },
-    "crepesDescription": {
-      "text": "Crêpes finas e delicatas emplenidas cun Nutella, fraidas freschas e panna battida.",
-      "description": "Descriziun da la retscha Crêpes franzosas."
-    }
+  "home_page_hero_title": {
+    "text": "Explorar gusts globals",
+    "description": "Titul principal en la part hero da la pagina d'entschatta."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingua",
-      "description": "Label accessibel per la glisadressa da lingua en l'entira."
-    },
-    "en": {
-      "text": "Englais",
-      "description": "Opziun per la lingua englaisa en la glisadressa da lingua."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opziun per la lingua giapunaisa en la glisadressa da lingua."
-    },
-    "es": {
-      "text": "Spagnol",
-      "description": "Opziun per la lingua spagnola en la glisadressa da lingua."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navigar tras retschas autenticas da cuschinas da tut il mund",
+    "description": "Text da sutitul mussà sut il titul hero en la pagina d'entschatta."
+  },
+  "home_page_featured_title": {
+    "text": "Retschas en evidenza",
+    "description": "Titul da la secziun mussà sur la griglia da cartas da retschas."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Label per il temp da cuschinar sin ina carta da retscha. {minutes} vegn remplazzà cun il dumber da minutas."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difficultad",
+    "description": "Label mussà avant il nivel da difficultad sin ina carta da retscha."
+  },
+  "recipe_card_easy": {
+    "text": "Facil",
+    "description": "Label dal nivel da difficultad che inditgescha ina retscha simpla."
+  },
+  "recipe_card_medium": {
+    "text": "Mesaun",
+    "description": "Label dal nivel da difficultad che inditgescha ina retscha d'ina difficultad mesauna."
+  },
+  "recipe_card_hard": {
+    "text": "Difficult",
+    "description": "Label dal nivel da difficultad che inditgescha ina retscha difficila."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Num da la retscha Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Broda da oss da purtga ric cun chashu tener, ovetta mez dura e nouilles frescas.",
+    "description": "Descriziun da la retscha Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Num da la retscha Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza neapolitana classica cun tomatas San Marzano, mozzarella fresca e basilic.",
+    "description": "Descriziun da la retscha Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Num da la retscha Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos da purtga maridada cun ananas, coriandru e utschella sin tortillas da maiz.",
+    "description": "Descriziun da la retscha Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Num da la retscha Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pulaster tener en ina salsa cremusa da tomatas e buttier cun spezias aromaticas.",
+    "description": "Descriziun da la retscha Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Num da la retscha Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nouilles da ris saltadas cun gamberets, tofu, cugn e salsa da tamarind.",
+    "description": "Descriziun da la retscha Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crêpes franzosas",
+    "description": "Num da la retscha Crêpes franzosas."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crêpes finas e delicatas emplenidas cun Nutella, fraidas freschas e panna battida.",
+    "description": "Descriziun da la retscha Crêpes franzosas."
+  },
+  "locale_switcher_label": {
+    "text": "Lingua",
+    "description": "Label accessibel per la glisadressa da lingua en l'entira."
+  },
+  "locale_switcher_en": {
+    "text": "Englais",
+    "description": "Opziun per la lingua englaisa en la glisadressa da lingua."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opziun per la lingua giapunaisa en la glisadressa da lingua."
+  },
+  "locale_switcher_es": {
+    "text": "Spagnol",
+    "description": "Opziun per la lingua spagnola en la glisadressa da lingua."
   }
 }

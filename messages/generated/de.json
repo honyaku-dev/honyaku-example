@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "World Kitchen",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Entdecken Sie Rezepte aus aller Welt",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "World Kitchen",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Entdecken Sie globale Aromen",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Durchstöbern Sie authentische Rezepte aus Küchen weltweit",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Ausgewählte Rezepte",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Entdecken Sie Rezepte aus aller Welt",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} Min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Schwierigkeitsgrad",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Einfach",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Mittel",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Schwierig",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Name of the Tonkotsu Ramen recipe."
-    },
-    "ramenDescription": {
-      "text": "Reiche Schweineknochenbrühe mit zartem Chashu, weich gekochtem Ei und frischen Nudeln.",
-      "description": "Description of the Tonkotsu Ramen recipe."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Name of the Margherita Pizza recipe."
-    },
-    "margheritaDescription": {
-      "text": "Klassische neapolitanische Pizza mit San Marzano Tomaten, frischem Mozzarella und Basilikum.",
-      "description": "Description of the Margherita Pizza recipe."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Name of the Tacos al Pastor recipe."
-    },
-    "tacosDescription": {
-      "text": "Marinierte Schweinefleisch-Tacos mit Ananas, Koriander und Zwiebel auf Maistortillas.",
-      "description": "Description of the Tacos al Pastor recipe."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Name of the Butter Chicken recipe."
-    },
-    "butterChickenDescription": {
-      "text": "Zartes Hähnchen in einer cremigen Tomaten-Butter-Sauce mit aromatischen Gewürzen.",
-      "description": "Description of the Butter Chicken recipe."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Name of the Pad Thai recipe."
-    },
-    "padThaiDescription": {
-      "text": "Gebratene Reisnudeln mit Garnelen, Tofu, Erdnüssen und Tamarindensauce.",
-      "description": "Description of the Pad Thai recipe."
-    },
-    "crepesName": {
-      "text": "Französische Crêpes",
-      "description": "Name of the French Crepes recipe."
-    },
-    "crepesDescription": {
-      "text": "Dünne, zarte Crêpes gefüllt mit Nutella, frischen Erdbeeren und Schlagsahne.",
-      "description": "Description of the French Crepes recipe."
-    }
+  "home_page_hero_title": {
+    "text": "Entdecken Sie globale Aromen",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Sprache",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Englisch",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Spanisch",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Durchstöbern Sie authentische Rezepte aus Küchen weltweit",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Ausgewählte Rezepte",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} Min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Schwierigkeitsgrad",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Einfach",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Mittel",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Schwierig",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Name of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Reiche Schweineknochenbrühe mit zartem Chashu, weich gekochtem Ei und frischen Nudeln.",
+    "description": "Description of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Name of the Margherita Pizza recipe."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassische neapolitanische Pizza mit San Marzano Tomaten, frischem Mozzarella und Basilikum.",
+    "description": "Description of the Margherita Pizza recipe."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Name of the Tacos al Pastor recipe."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinierte Schweinefleisch-Tacos mit Ananas, Koriander und Zwiebel auf Maistortillas.",
+    "description": "Description of the Tacos al Pastor recipe."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Name of the Butter Chicken recipe."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Zartes Hähnchen in einer cremigen Tomaten-Butter-Sauce mit aromatischen Gewürzen.",
+    "description": "Description of the Butter Chicken recipe."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Name of the Pad Thai recipe."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Gebratene Reisnudeln mit Garnelen, Tofu, Erdnüssen und Tamarindensauce.",
+    "description": "Description of the Pad Thai recipe."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Französische Crêpes",
+    "description": "Name of the French Crepes recipe."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Dünne, zarte Crêpes gefüllt mit Nutella, frischen Erdbeeren und Schlagsahne.",
+    "description": "Description of the French Crepes recipe."
+  },
+  "locale_switcher_label": {
+    "text": "Sprache",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Englisch",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Spanisch",
+    "description": "Spanish language option in the locale switcher."
   }
 }

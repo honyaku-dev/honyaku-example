@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Seih Gvicanj",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Dohgyah seih gvicanj bae gwn",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Seih Gvicanj",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Lajloh Seih Gvicanj",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Gwn seih gvicanj daih yiengh gvicanj gyangq daengq seih",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Dohgyah Gvicanj",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Dohgyah seih gvicanj bae gwn",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} fwen",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Fwn",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Raeuj",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Bouxbouj",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Ndaw",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Name of the Tonkotsu Ramen recipe."
-    },
-    "ramenDescription": {
-      "text": "Roengz raemx mbouj mbouj gwn daih daengz yiengh chashu, nyenj raemx roengz giet, caeuq mbouj mbouj roengz.",
-      "description": "Description of the Tonkotsu Ramen recipe."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Name of the Margherita Pizza recipe."
-    },
-    "margheritaDescription": {
-      "text": "Neapolitan Pizza gyangq daengq San Marzano daengq, Mozzarella gyangq roengz, caeuq basil.",
-      "description": "Description of the Margherita Pizza recipe."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Name of the Tacos al Pastor recipe."
-    },
-    "tacosDescription": {
-      "text": "Tacos raemx daengq mbouj mbouj gyangq nyenj ananae, cilantro, caeuq ceb onh goj mbouj maenh.",
-      "description": "Description of the Tacos al Pastor recipe."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Name of the Butter Chicken recipe."
-    },
-    "butterChickenDescription": {
-      "text": "Gai roengz mbouj mbouj gyangq nyenj daengq dwg tomato caeuq butter haenq gyangq hmbwnh.",
-      "description": "Description of the Butter Chicken recipe."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Name of the Pad Thai recipe."
-    },
-    "padThaiDescription": {
-      "text": "Boux mbouj mbouj gyangq nyenj, tofu, mbouj mbouj, caeuq tamarind haenq.",
-      "description": "Description of the Pad Thai recipe."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Name of the French Crepes recipe."
-    },
-    "crepesDescription": {
-      "text": "Crepes mbouj mbouj gyangq Nutella, nyenj boux, caeuq whipped cream.",
-      "description": "Description of the French Crepes recipe."
-    }
+  "home_page_hero_title": {
+    "text": "Lajloh Seih Gvicanj",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Guhbwnj",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Englih",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Gwn seih gvicanj daih yiengh gvicanj gyangq daengq seih",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Dohgyah Gvicanj",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} fwen",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Fwn",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Raeuj",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Bouxbouj",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Ndaw",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Name of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Roengz raemx mbouj mbouj gwn daih daengz yiengh chashu, nyenj raemx roengz giet, caeuq mbouj mbouj roengz.",
+    "description": "Description of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Name of the Margherita Pizza recipe."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Neapolitan Pizza gyangq daengq San Marzano daengq, Mozzarella gyangq roengz, caeuq basil.",
+    "description": "Description of the Margherita Pizza recipe."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Name of the Tacos al Pastor recipe."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos raemx daengq mbouj mbouj gyangq nyenj ananae, cilantro, caeuq ceb onh goj mbouj maenh.",
+    "description": "Description of the Tacos al Pastor recipe."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Name of the Butter Chicken recipe."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Gai roengz mbouj mbouj gyangq nyenj daengq dwg tomato caeuq butter haenq gyangq hmbwnh.",
+    "description": "Description of the Butter Chicken recipe."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Name of the Pad Thai recipe."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Boux mbouj mbouj gyangq nyenj, tofu, mbouj mbouj, caeuq tamarind haenq.",
+    "description": "Description of the Pad Thai recipe."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Name of the French Crepes recipe."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes mbouj mbouj gyangq Nutella, nyenj boux, caeuq whipped cream.",
+    "description": "Description of the French Crepes recipe."
+  },
+  "locale_switcher_label": {
+    "text": "Guhbwnj",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Englih",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

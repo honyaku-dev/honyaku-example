@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Likhishi LeMhlaba",
-      "description": "Ligama le-app leboniswa ekhanda. I-app yokutfola tincwadzi tekupheka temakhandlela emhlabeni wonke."
-    },
-    "subtitle": {
-      "text": "Tfolani tincwadzi tekupheka tema emhlabeni wonke",
-      "description": "Iteksti lenesihloko leniboniswa ngaphansi kwegama le-app ekhanda."
-    }
+  "header_title": {
+    "text": "Likhishi LeMhlaba",
+    "description": "Ligama le-app leboniswa ekhanda. I-app yokutfola tincwadzi tekupheka temakhandlela emhlabeni wonke."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Hlola Tintfo Letimnandzi Tema Mhlaba Wonkhe",
-      "description": "Isihloko lesikhulu esigabeni se-hero ekhasini lasekhaya."
-    },
-    "heroSubtitle": {
-      "text": "Buka tincwadzi letitfutfukisiwe letivela emakhishini emhlabeni wonke",
-      "description": "Iteksti lenesihloko leniboniswa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
-    },
-    "featuredTitle": {
-      "text": "Tincwadzi Tekupheka Letiveziwe",
-      "description": "Isihloko sesigaba lesiboniswa phezulu kwegridi yekhadikhadi lelipheka."
-    }
+  "header_subtitle": {
+    "text": "Tfolani tincwadzi tekupheka tema emhlabeni wonke",
+    "description": "Iteksti lenesihloko leniboniswa ngaphansi kwegama le-app ekhanda."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} imizuzu",
-      "description": "Ligama lesikhatsi sekupheka ekhadikhadini lelipheka. {minutes} futsi lifakwa nenombolo yemizuzu."
-    },
-    "difficulty": {
-      "text": "Kubucayi",
-      "description": "Ligama lebekwe ngaphambi kweleveli yekubucayi ekhadikhadini lelipheka."
-    },
-    "easy": {
-      "text": "Kulula",
-      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka kulula."
-    },
-    "medium": {
-      "text": "Phakathi",
-      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lesiphakathi."
-    },
-    "hard": {
-      "text": "Linzima",
-      "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lenzima."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Ligama lekunyatsela kweTonksu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Umhluzi lomtfutfukile wemathambo enkukhu nenhloko lenemphilo, iqanda lelitsoftiwe kahle, kanye nematilosi lamasha.",
-      "description": "Incazelo yekunyatsela kweTonksu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pitsa yeMargherita",
-      "description": "Ligama lekunyatsela kwePitsa yeMargherita."
-    },
-    "margheritaDescription": {
-      "text": "Pitsa yekwakha yeNeapolitan ngeletamatisi leSan Marzano, i-mozzarella lemasha, kanye nebasil.",
-      "description": "Incazelo yekunyatsela kwePitsa yeMargherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Ligama lekunyatsela kweTacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos lenyanyisiwe lenziwe ngepork, iphayinaphu, i-cilantro, kanye nelionji ematortilla e-corn.",
-      "description": "Incazelo yekunyatsela kweTacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Inkukhu ngebhotela",
-      "description": "Ligama lekunyatsela kweInkukhu ngebhotela."
-    },
-    "butterChickenDescription": {
-      "text": "Inkukhu lenzima lephakanyisiwe esosini yetamatisi nebhotela lelinemafutha kanye neminongo lenuka kahle.",
-      "description": "Incazelo yekunyatsela kweInkukhu ngebhotela."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Ligama lekunyatsela kwePad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Imatilosi etiwashiwe ngekushisa ngeletshrimps, tofu, amakinati, kanye nesosisi yetamarind.",
-      "description": "Incazelo yekunyatsela kwePad Thai."
-    },
-    "crepesName": {
-      "text": "Amakrepi aseFrance",
-      "description": "Ligama lekunyatsela kweAmakrepi aseFrance."
-    },
-    "crepesDescription": {
-      "text": "Amakrepi lamatsandza, agcwele iNutella, amatamatisi lamasha, kanye nekhrimu lephukile.",
-      "description": "Incazelo yekunyatsela kweAmakrepi aseFrance."
-    }
+  "home_page_hero_title": {
+    "text": "Hlola Tintfo Letimnandzi Tema Mhlaba Wonkhe",
+    "description": "Isihloko lesikhulu esigabeni se-hero ekhasini lasekhaya."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lulwimi",
-      "description": "Ligama lekwenta kube lula kutsi utfole lulwimi lwekushintja ekhanda."
-    },
-    "en": {
-      "text": "IsiNgisi",
-      "description": "Inkhetfo yelulwimi lwesiNgisi ekushintjweni kwelulwimi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Inkhetfo yelulwimi lwesiJapan ekushintjweni kwelulwimi."
-    },
-    "es": {
-      "text": "IsiSpanishi",
-      "description": "Inkhetfo yelulwimi lwesiSpanishi ekushintjweni kwelulwimi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Buka tincwadzi letitfutfukisiwe letivela emakhishini emhlabeni wonke",
+    "description": "Iteksti lenesihloko leniboniswa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
+  },
+  "home_page_featured_title": {
+    "text": "Tincwadzi Tekupheka Letiveziwe",
+    "description": "Isihloko sesigaba lesiboniswa phezulu kwegridi yekhadikhadi lelipheka."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} imizuzu",
+    "description": "Ligama lesikhatsi sekupheka ekhadikhadini lelipheka. {minutes} futsi lifakwa nenombolo yemizuzu."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kubucayi",
+    "description": "Ligama lebekwe ngaphambi kweleveli yekubucayi ekhadikhadini lelipheka."
+  },
+  "recipe_card_easy": {
+    "text": "Kulula",
+    "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka kulula."
+  },
+  "recipe_card_medium": {
+    "text": "Phakathi",
+    "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lesiphakathi."
+  },
+  "recipe_card_hard": {
+    "text": "Linzima",
+    "description": "Ligama leleveli yekubucayi lekukhombisa incwadzi yekupheka lenzima."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Ligama lekunyatsela kweTonksu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Umhluzi lomtfutfukile wemathambo enkukhu nenhloko lenemphilo, iqanda lelitsoftiwe kahle, kanye nematilosi lamasha.",
+    "description": "Incazelo yekunyatsela kweTonksu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pitsa yeMargherita",
+    "description": "Ligama lekunyatsela kwePitsa yeMargherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pitsa yekwakha yeNeapolitan ngeletamatisi leSan Marzano, i-mozzarella lemasha, kanye nebasil.",
+    "description": "Incazelo yekunyatsela kwePitsa yeMargherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Ligama lekunyatsela kweTacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos lenyanyisiwe lenziwe ngepork, iphayinaphu, i-cilantro, kanye nelionji ematortilla e-corn.",
+    "description": "Incazelo yekunyatsela kweTacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Inkukhu ngebhotela",
+    "description": "Ligama lekunyatsela kweInkukhu ngebhotela."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Inkukhu lenzima lephakanyisiwe esosini yetamatisi nebhotela lelinemafutha kanye neminongo lenuka kahle.",
+    "description": "Incazelo yekunyatsela kweInkukhu ngebhotela."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Ligama lekunyatsela kwePad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Imatilosi etiwashiwe ngekushisa ngeletshrimps, tofu, amakinati, kanye nesosisi yetamarind.",
+    "description": "Incazelo yekunyatsela kwePad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Amakrepi aseFrance",
+    "description": "Ligama lekunyatsela kweAmakrepi aseFrance."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Amakrepi lamatsandza, agcwele iNutella, amatamatisi lamasha, kanye nekhrimu lephukile.",
+    "description": "Incazelo yekunyatsela kweAmakrepi aseFrance."
+  },
+  "locale_switcher_label": {
+    "text": "Lulwimi",
+    "description": "Ligama lekwenta kube lula kutsi utfole lulwimi lwekushintja ekhanda."
+  },
+  "locale_switcher_en": {
+    "text": "IsiNgisi",
+    "description": "Inkhetfo yelulwimi lwesiNgisi ekushintjweni kwelulwimi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Inkhetfo yelulwimi lwesiJapan ekushintjweni kwelulwimi."
+  },
+  "locale_switcher_es": {
+    "text": "IsiSpanishi",
+    "description": "Inkhetfo yelulwimi lwesiSpanishi ekushintjweni kwelulwimi."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dunyo Oshxonasi",
-      "description": "Sarlavhada ko'rsatiladigan ilova nomi. Dunyo taomlari uchun retseptlarni topish ilovasi."
-    },
-    "subtitle": {
-      "text": "Dunyo bo'ylab retseptlarni kashf eting",
-      "description": "Sarlavha ostida ilova nomi yonida ko'rsatiladigan shior."
-    }
+  "header_title": {
+    "text": "Dunyo Oshxonasi",
+    "description": "Sarlavhada ko'rsatiladigan ilova nomi. Dunyo taomlari uchun retseptlarni topish ilovasi."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Global Ta'mlarni Kashf Qiling",
-      "description": "Uy sahifasining asosiy sarlavhasi."
-    },
-    "heroSubtitle": {
-      "text": "Dunyo oshxonalaridan haqiqiy retseptlarni ko'rib chiqing",
-      "description": "Uy sahifasidagi asosiy sarlavha ostida ko'rsatiladigan kichik sarlavha."
-    },
-    "featuredTitle": {
-      "text": "Tavsiya etilgan retseptlar",
-      "description": "Retsept kartalari jadvali ustida ko'rsatiladigan bo'lim sarlavhasi."
-    }
+  "header_subtitle": {
+    "text": "Dunyo bo'ylab retseptlarni kashf eting",
+    "description": "Sarlavha ostida ilova nomi yonida ko'rsatiladigan shior."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} daq",
-      "description": "Retsept kartasidagi pishirish vaqti yorlig'i. {minutes} daqiqalar soni bilan almashtiriladi."
-    },
-    "difficulty": {
-      "text": "Qiyinchilik darajasi",
-      "description": "Retsept kartasida qiyinchilik darajasi oldidan ko'rsatiladigan yorliq."
-    },
-    "easy": {
-      "text": "Oson",
-      "description": "Oson retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
-    },
-    "medium": {
-      "text": "O'rtacha",
-      "description": "O'rtacha qiyinchilikdagi retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
-    },
-    "hard": {
-      "text": "Qiyin",
-      "description": "Qiyin retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen retsepti nomi."
-    },
-    "ramenDescription": {
-      "text": "Yumshoq chashu, yumshoq qaynatilgan tuxum va yangi noodle bilan boy cho'chqa suyak sho'rvasi.",
-      "description": "Tonkotsu Ramen retsepti ta'rifi."
-    },
-    "margheritaName": {
-      "text": "Margherita Pitsasi",
-      "description": "Margherita Pitsasi retsepti nomi."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano pomidorlari, yangi mozzarella va reyhan bilan klassik Neapolitan pizza.",
-      "description": "Margherita Pitsasi retsepti ta'rifi."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor retsepti nomi."
-    },
-    "tacosDescription": {
-      "text": "Ananas, ko'katlar va piyoz bilan marinadlangan cho'chqa go'shti tacoslari, makkajo'xori tortilla ustida.",
-      "description": "Tacos al Pastor retsepti ta'rifi."
-    },
-    "butterChickenName": {
-      "text": "Sariyog'li Tovuq",
-      "description": "Sariyog'li Tovuq retsepti nomi."
-    },
-    "butterChickenDescription": {
-      "text": "Aromatik ziravorlar bilan kremli pomidor va sariyog' sousida pishirilgan yumshoq tovuq.",
-      "description": "Sariyog'li Tovuq retsepti ta'rifi."
-    },
-    "padThaiName": {
-      "text": "Pad Tay",
-      "description": "Pad Tay retsepti nomi."
-    },
-    "padThaiDescription": {
-      "text": "Qovurilgan guruch noodle, qisqichbaqa, tofu, yer yong'og'i va tamarind sousi bilan.",
-      "description": "Pad Tay retsepti ta'rifi."
-    },
-    "crepesName": {
-      "text": "Fransuz Kreplari",
-      "description": "Fransuz Kreplari retsepti nomi."
-    },
-    "crepesDescription": {
-      "text": "Nozik, nozik kreplar Nutella, yangi qulupnay va qaymoq bilan to'ldirilgan.",
-      "description": "Fransuz Kreplari retsepti ta'rifi."
-    }
+  "home_page_hero_title": {
+    "text": "Global Ta'mlarni Kashf Qiling",
+    "description": "Uy sahifasining asosiy sarlavhasi."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Til",
-      "description": "Sarlavhadagi til almashgich uchun kirish yorlig'i."
-    },
-    "en": {
-      "text": "Inglizcha",
-      "description": "Til almashgichdagi ingliz tili varianti."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Til almashgichdagi yapon tili varianti."
-    },
-    "es": {
-      "text": "Ispancha",
-      "description": "Til almashgichdagi ispan tili varianti."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Dunyo oshxonalaridan haqiqiy retseptlarni ko'rib chiqing",
+    "description": "Uy sahifasidagi asosiy sarlavha ostida ko'rsatiladigan kichik sarlavha."
+  },
+  "home_page_featured_title": {
+    "text": "Tavsiya etilgan retseptlar",
+    "description": "Retsept kartalari jadvali ustida ko'rsatiladigan bo'lim sarlavhasi."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} daq",
+    "description": "Retsept kartasidagi pishirish vaqti yorlig'i. {minutes} daqiqalar soni bilan almashtiriladi."
+  },
+  "recipe_card_difficulty": {
+    "text": "Qiyinchilik darajasi",
+    "description": "Retsept kartasida qiyinchilik darajasi oldidan ko'rsatiladigan yorliq."
+  },
+  "recipe_card_easy": {
+    "text": "Oson",
+    "description": "Oson retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+  },
+  "recipe_card_medium": {
+    "text": "O'rtacha",
+    "description": "O'rtacha qiyinchilikdagi retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+  },
+  "recipe_card_hard": {
+    "text": "Qiyin",
+    "description": "Qiyin retseptni ko'rsatadigan qiyinchilik darajasi yorlig'i."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen retsepti nomi."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Yumshoq chashu, yumshoq qaynatilgan tuxum va yangi noodle bilan boy cho'chqa suyak sho'rvasi.",
+    "description": "Tonkotsu Ramen retsepti ta'rifi."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pitsasi",
+    "description": "Margherita Pitsasi retsepti nomi."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano pomidorlari, yangi mozzarella va reyhan bilan klassik Neapolitan pizza.",
+    "description": "Margherita Pitsasi retsepti ta'rifi."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor retsepti nomi."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ananas, ko'katlar va piyoz bilan marinadlangan cho'chqa go'shti tacoslari, makkajo'xori tortilla ustida.",
+    "description": "Tacos al Pastor retsepti ta'rifi."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Sariyog'li Tovuq",
+    "description": "Sariyog'li Tovuq retsepti nomi."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Aromatik ziravorlar bilan kremli pomidor va sariyog' sousida pishirilgan yumshoq tovuq.",
+    "description": "Sariyog'li Tovuq retsepti ta'rifi."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Tay",
+    "description": "Pad Tay retsepti nomi."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Qovurilgan guruch noodle, qisqichbaqa, tofu, yer yong'og'i va tamarind sousi bilan.",
+    "description": "Pad Tay retsepti ta'rifi."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Fransuz Kreplari",
+    "description": "Fransuz Kreplari retsepti nomi."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Nozik, nozik kreplar Nutella, yangi qulupnay va qaymoq bilan to'ldirilgan.",
+    "description": "Fransuz Kreplari retsepti ta'rifi."
+  },
+  "locale_switcher_label": {
+    "text": "Til",
+    "description": "Sarlavhadagi til almashgich uchun kirish yorlig'i."
+  },
+  "locale_switcher_en": {
+    "text": "Inglizcha",
+    "description": "Til almashgichdagi ingliz tili varianti."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Til almashgichdagi yapon tili varianti."
+  },
+  "locale_switcher_es": {
+    "text": "Ispancha",
+    "description": "Til almashgichdagi ispan tili varianti."
   }
 }

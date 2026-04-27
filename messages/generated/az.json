@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dünya Mətbəxi",
-      "description": "Başlıqda göstərilən tətbiq adı. Dünya mətbəxləri üçün resept kəşfiyyatı tətbiqi."
-    },
-    "subtitle": {
-      "text": "Dünyanın müxtəlif yerlərindən reseptlər kəşf edin",
-      "description": "Başlıqda tətbiq adının altında göstərilən şüar."
-    }
+  "header_title": {
+    "text": "Dünya Mətbəxi",
+    "description": "Başlıqda göstərilən tətbiq adı. Dünya mətbəxləri üçün resept kəşfiyyatı tətbiqi."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Qlobal Dadları Kəşf Edin",
-      "description": "Ana səhifənin hero bölümündə əsas başlıq."
-    },
-    "heroSubtitle": {
-      "text": "Dünyanın müxtəlif mətbəxlərindən orijinal reseptlərə baxın",
-      "description": "Ana səhifənin hero başlığının altında göstərilən alt başlıq."
-    },
-    "featuredTitle": {
-      "text": "Seçilmiş Reseptlər",
-      "description": "Resept kart şəbəkəsinin üstündə göstərilən bölmə başlığı."
-    }
+  "header_subtitle": {
+    "text": "Dünyanın müxtəlif yerlərindən reseptlər kəşf edin",
+    "description": "Başlıqda tətbiq adının altında göstərilən şüar."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} dəq",
-      "description": "Resept kartında bişirmə vaxtı etiketidir. {minutes} dəqiqə sayısı ilə əvəz olunur."
-    },
-    "difficulty": {
-      "text": "Çətinlik",
-      "description": "Resept kartında çətinlik səviyyəsinin önündə göstərilən etiket."
-    },
-    "easy": {
-      "text": "Asan",
-      "description": "Asan resepti göstərən çətinlik səviyyəsi etiketi."
-    },
-    "medium": {
-      "text": "Orta",
-      "description": "Orta çətinlik səviyyəsini göstərən etiket."
-    },
-    "hard": {
-      "text": "Çətin",
-      "description": "Çətin resepti göstərən çətinlik səviyyəsi etiketi."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen reseptinin adı."
-    },
-    "ramenDescription": {
-      "text": "Zəngin donuz sümüyü bulyonu, yumşaq chashu, yumşaq qaynadılmış yumurta və təzə əriştələrlə.",
-      "description": "Tonkotsu Ramen reseptinin təsviri."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizzası",
-      "description": "Margherita Pizza reseptinin adı."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano pomidorları, təzə mozzarella və reyhan ilə klassik Neapolitan pizza.",
-      "description": "Margherita Pizza reseptinin təsviri."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor reseptinin adı."
-    },
-    "tacosDescription": {
-      "text": "Ananas, keşniş və soğanla marinatlanmış donuz ətindən hazırlanmış tacos, qarğıdalı tortillalarında.",
-      "description": "Tacos al Pastor reseptinin təsviri."
-    },
-    "butterChickenName": {
-      "text": "Kərə Yağlı Toyuq",
-      "description": "Butter Chicken reseptinin adı."
-    },
-    "butterChickenDescription": {
-      "text": "Ətirli ədviyyatlarla kremli pomidor və kərə yağı sousunda yumşaq toyuq.",
-      "description": "Butter Chicken reseptinin təsviri."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai reseptinin adı."
-    },
-    "padThaiDescription": {
-      "text": "Çörəkli düyü əriştələri, krevetka, tofu, yer fıstığı və tamarind sousu ilə qızardılmış.",
-      "description": "Pad Thai reseptinin təsviri."
-    },
-    "crepesName": {
-      "text": "Fransız Krepələri",
-      "description": "French Crepes reseptinin adı."
-    },
-    "crepesDescription": {
-      "text": "Nutella, təzə çiyələk və şirin qaymaqla doldurulmuş nazik, incə kreplər.",
-      "description": "French Crepes reseptinin təsviri."
-    }
+  "home_page_hero_title": {
+    "text": "Qlobal Dadları Kəşf Edin",
+    "description": "Ana səhifənin hero bölümündə əsas başlıq."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Dil",
-      "description": "Başlıqdakı dil dəyişdirici açılan menyu üçün əlçatanlıq etiketi."
-    },
-    "en": {
-      "text": "İngilis",
-      "description": "Dil dəyişdiricidə ingilis dili seçimi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Dil dəyişdiricidə yapon dili seçimi."
-    },
-    "es": {
-      "text": "İspan",
-      "description": "Dil dəyişdiricidə ispan dili seçimi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Dünyanın müxtəlif mətbəxlərindən orijinal reseptlərə baxın",
+    "description": "Ana səhifənin hero başlığının altında göstərilən alt başlıq."
+  },
+  "home_page_featured_title": {
+    "text": "Seçilmiş Reseptlər",
+    "description": "Resept kart şəbəkəsinin üstündə göstərilən bölmə başlığı."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} dəq",
+    "description": "Resept kartında bişirmə vaxtı etiketidir. {minutes} dəqiqə sayısı ilə əvəz olunur."
+  },
+  "recipe_card_difficulty": {
+    "text": "Çətinlik",
+    "description": "Resept kartında çətinlik səviyyəsinin önündə göstərilən etiket."
+  },
+  "recipe_card_easy": {
+    "text": "Asan",
+    "description": "Asan resepti göstərən çətinlik səviyyəsi etiketi."
+  },
+  "recipe_card_medium": {
+    "text": "Orta",
+    "description": "Orta çətinlik səviyyəsini göstərən etiket."
+  },
+  "recipe_card_hard": {
+    "text": "Çətin",
+    "description": "Çətin resepti göstərən çətinlik səviyyəsi etiketi."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen reseptinin adı."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Zəngin donuz sümüyü bulyonu, yumşaq chashu, yumşaq qaynadılmış yumurta və təzə əriştələrlə.",
+    "description": "Tonkotsu Ramen reseptinin təsviri."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizzası",
+    "description": "Margherita Pizza reseptinin adı."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano pomidorları, təzə mozzarella və reyhan ilə klassik Neapolitan pizza.",
+    "description": "Margherita Pizza reseptinin təsviri."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor reseptinin adı."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ananas, keşniş və soğanla marinatlanmış donuz ətindən hazırlanmış tacos, qarğıdalı tortillalarında.",
+    "description": "Tacos al Pastor reseptinin təsviri."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Kərə Yağlı Toyuq",
+    "description": "Butter Chicken reseptinin adı."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ətirli ədviyyatlarla kremli pomidor və kərə yağı sousunda yumşaq toyuq.",
+    "description": "Butter Chicken reseptinin təsviri."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai reseptinin adı."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Çörəkli düyü əriştələri, krevetka, tofu, yer fıstığı və tamarind sousu ilə qızardılmış.",
+    "description": "Pad Thai reseptinin təsviri."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Fransız Krepələri",
+    "description": "French Crepes reseptinin adı."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Nutella, təzə çiyələk və şirin qaymaqla doldurulmuş nazik, incə kreplər.",
+    "description": "French Crepes reseptinin təsviri."
+  },
+  "locale_switcher_label": {
+    "text": "Dil",
+    "description": "Başlıqdakı dil dəyişdirici açılan menyu üçün əlçatanlıq etiketi."
+  },
+  "locale_switcher_en": {
+    "text": "İngilis",
+    "description": "Dil dəyişdiricidə ingilis dili seçimi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Dil dəyişdiricidə yapon dili seçimi."
+  },
+  "locale_switcher_es": {
+    "text": "İspan",
+    "description": "Dil dəyişdiricidə ispan dili seçimi."
   }
 }

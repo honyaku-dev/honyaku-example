@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dabbunde Leñol",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Nana heɓɓude leñol e binndi",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Dabbunde Leñol",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Huutora ɗiɗi leñol e leydi ɗiɗi",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Nana heɓɓude leñol e binndi ɗiɗi e dabbunde leñol e leydi ɗiɗi",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Leñol ɗiɗi waɗiima",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Nana heɓɓude leñol e binndi",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Hakkilɗe",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Naange",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Jonta",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Kammu",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Name of the Tonkotsu Ramen recipe."
-    },
-    "ramenDescription": {
-      "text": "Ñaari woyde ngesaaji ndiyam goɗɗo e chashu maa, ndiyam ngaddu, e noodels ɓe kaɗɗi.",
-      "description": "Description of the Tonkotsu Ramen recipe."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Name of the Margherita Pizza recipe."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan ngam San Marzano tomatoes, mozzarella ngam mboddi, e basil.",
-      "description": "Description of the Margherita Pizza recipe."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Name of the Tacos al Pastor recipe."
-    },
-    "tacosDescription": {
-      "text": "Tacos ngesaaji ngesa e ñaamu, cilantro, e cebolla e tortillas ngaari.",
-      "description": "Description of the Tacos al Pastor recipe."
-    },
-    "butterChickenName": {
-      "text": "Chicken Butter",
-      "description": "Name of the Butter Chicken recipe."
-    },
-    "butterChickenDescription": {
-      "text": "Ngesaaji ngeɗɗo e sauce tomate e butter ngol e ceedeere aromatique.",
-      "description": "Description of the Butter Chicken recipe."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Name of the Pad Thai recipe."
-    },
-    "padThaiDescription": {
-      "text": "Noodles ngesaaji e shrimp, tofu, peanuts, e sauce tamarind.",
-      "description": "Description of the Pad Thai recipe."
-    },
-    "crepesName": {
-      "text": "Crepes Faransiis",
-      "description": "Name of the French Crepes recipe."
-    },
-    "crepesDescription": {
-      "text": "Crepes ndiyam, finaa, e Nutella, strawberries ngesa, e cream ngol.",
-      "description": "Description of the French Crepes recipe."
-    }
+  "home_page_hero_title": {
+    "text": "Huutora ɗiɗi leñol e leydi ɗiɗi",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Luggere",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "English",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Nana heɓɓude leñol e binndi ɗiɗi e dabbunde leñol e leydi ɗiɗi",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Leñol ɗiɗi waɗiima",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Hakkilɗe",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Naange",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Jonta",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Kammu",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Name of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ñaari woyde ngesaaji ndiyam goɗɗo e chashu maa, ndiyam ngaddu, e noodels ɓe kaɗɗi.",
+    "description": "Description of the Tonkotsu Ramen recipe."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Name of the Margherita Pizza recipe."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan ngam San Marzano tomatoes, mozzarella ngam mboddi, e basil.",
+    "description": "Description of the Margherita Pizza recipe."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Name of the Tacos al Pastor recipe."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos ngesaaji ngesa e ñaamu, cilantro, e cebolla e tortillas ngaari.",
+    "description": "Description of the Tacos al Pastor recipe."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Chicken Butter",
+    "description": "Name of the Butter Chicken recipe."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ngesaaji ngeɗɗo e sauce tomate e butter ngol e ceedeere aromatique.",
+    "description": "Description of the Butter Chicken recipe."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Name of the Pad Thai recipe."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles ngesaaji e shrimp, tofu, peanuts, e sauce tamarind.",
+    "description": "Description of the Pad Thai recipe."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Faransiis",
+    "description": "Name of the French Crepes recipe."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes ndiyam, finaa, e Nutella, strawberries ngesa, e cream ngol.",
+    "description": "Description of the French Crepes recipe."
+  },
+  "locale_switcher_label": {
+    "text": "Luggere",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

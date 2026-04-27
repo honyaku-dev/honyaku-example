@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐅᖃᐅᓯᖃᑦᑕᖅᑐᖅ ᐃᓪᓗᒍ",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "ᐊᒻᒪᓗ ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐊᑕᓇᓕᒃᑯᑦ ᐊᑎᓕᐅᖃᑎᒌᓐᓂᖅ",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐅᖃᐅᓯᖃᑦᑕᖅᓯᒪᔪᖅ ᐃᓪᓗᒍ ᐅᓇᔭᐅᔪᒥ ᑲᑎᒪᔭᐅᔪᖅ",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "ᐊᒻᒪᓗ ᐃᓕᓴᐃᑦ",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐅᖃᐅᓯᖃᑦᑕᖅᑐᖅ ᐃᓪᓗᒍ",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} ᐊᓘᓐᓂᐊᕐᓂᖅ",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "ᐊᔪᙱᓚᖅᑐᖅ",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "ᐊᔪᙱᓚᖅᑐᖅ",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "ᐊᔪᙱᓚᖅᑐᖅ ᐅᖃᐅᓯᖓᓂᖅ",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "ᐊᔪᙱᓚᖅᑐᖅ ᐊᓂᔭᐅᔪᖅ",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ",
-      "description": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "ramenDescription": {
-      "text": "ᐱᐅᔪᖅ ᐱᖏᖅ ᐊᕐᕌᒍᑎᑦ ᐊᒻᒪ ᕿᑭᖅᑭᑦ ᓴᓂᖏᑦ, ᓴᔭᓐ ᐃᒡᓗᓕᒃ, ᓴᕐᓂᖅ ᐱᒋᔭᖅᑎᑦ, ᐅᓇᓕᐊᒃᓴᓂ ᓇᐅᔭᕐᓗᐊᖅ.",
-      "description": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    },
-    "margheritaName": {
-      "text": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ",
-      "description": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "margheritaDescription": {
-      "text": "ᓄᓇᕐᓂᖅ ᓯᐊᓐ ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐊᕐᕌᒍᑎᑦ San Marzano ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ, ᓴᕐᓂᖅ ᒪᖏᓐᓂᖅ, ᐊᕐᕌᒍᑎᑦ ᐳᓯ ᐊᔾᔨᒪᕈᑎᖃᑦᑕᕐᓂᖅ.",
-      "description": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    },
-    "tacosName": {
-      "text": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ",
-      "description": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "tacosDescription": {
-      "text": "ᐱᐅᔪᖅ ᐱᖏᖅ ᑕᑯᐱᐅᓯᒪᔭᐅᑎᖓ ᐅᖃᐅᓯ ᐸᓐᐊᐊᕐ, ᓯᓚᓐᑕᕐᓂᖅ, ᐊᖏᖅ, ᐅᔭᕋᑦ ᑯᕐᓂᓕᐅᕙᒃᑐᒥᓂ ᒥᑦᑐᒥᓂ ᑐᓴᕐᕕᒃ.",
-      "description": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    },
-    "butterChickenName": {
-      "text": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ",
-      "description": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "butterChickenDescription": {
-      "text": "ᐊርᕌᒍᑎᑦ ᐱᒋᐊᕐ ᐊᐅᓚᑦᑕᕐᓂᖅ ᓴᓂᖏᑦ ᐊᕐᕌᒍᑎᑦ ᐊᕐᕌᒍᑎᑦ ᑭᓇᐅᔭᖅ ᐊᔪᙱᓚᖅᑐᖅ ᐊᓯᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᖅ.",
-      "description": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    },
-    "padThaiName": {
-      "text": "ᐸᑎ ᖁᔭᓕ",
-      "description": "ᐸᑎ ᖁᔭᓕ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "padThaiDescription": {
-      "text": "ᐊᓐᖏᓂᖅ ᐊᐅᓚᑦᑕᕐᓂ ᕿᑭᒥᓂᖅ ᐱᐅᕆᔭᐅᔪᖅ, ᑐᑎᐅ, ᐱᓄᑐᖅ, ᐊᖏᖅ ᐊᕐᕌᒍᑎᑦ ᑕᒪᕆᓐᑎᑦ ᐊᐅᓚᑦᑕᕐᓂᖅ.",
-      "description": "ᐸᑎ ᖁᔭᓕ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    },
-    "crepesName": {
-      "text": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ",
-      "description": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
-    },
-    "crepesDescription": {
-      "text": "ᐋᓴᓐᓇᖅᑐᖅ, ᐊᓘᓐᓂ ᓴᕐᓂᖅ ᐊᕐᕌᒍᑎᑦ Nutella, ᐋᐅᓯᖅ ᓴᕐᓂᖅ, ᐊᔾᔨᒪᓇᖅ ᐊᖏᖅ ᐃᓚᐅᕐᓂᖅ.",
-      "description": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
-    }
+  "home_page_hero_title": {
+    "text": "ᐊᒻᒪᓗ ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐊᑕᓇᓕᒃᑯᑦ ᐊᑎᓕᐅᖃᑎᒌᓐᓂᖅ",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ᐊᓯᐅᕙᓪᓕᐊᔪᖅ",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "ᐃᓕᓴᓂᒃ",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "ᐃᓄᖕᒥ ᐃᓕᓴᐃᑦ ᐅᖃᐅᓯᖃᑦᑕᖅᓯᒪᔪᖅ ᐃᓪᓗᒍ ᐅᓇᔭᐅᔪᒥ ᑲᑎᒪᔭᐅᔪᖅ",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "ᐊᒻᒪᓗ ᐃᓕᓴᐃᑦ",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} ᐊᓘᓐᓂᐊᕐᓂᖅ",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "ᐊᔪᙱᓚᖅᑐᖅ",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "ᐊᔪᙱᓚᖅᑐᖅ",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "ᐊᔪᙱᓚᖅᑐᖅ ᐅᖃᐅᓯᖓᓂᖅ",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "ᐊᔪᙱᓚᖅᑐᖅ ᐊᓂᔭᐅᔪᖅ",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ",
+    "description": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_ramen_description": {
+    "text": "ᐱᐅᔪᖅ ᐱᖏᖅ ᐊᕐᕌᒍᑎᑦ ᐊᒻᒪ ᕿᑭᖅᑭᑦ ᓴᓂᖏᑦ, ᓴᔭᓐ ᐃᒡᓗᓕᒃ, ᓴᕐᓂᖅ ᐱᒋᔭᖅᑎᑦ, ᐅᓇᓕᐊᒃᓴᓂ ᓇᐅᔭᕐᓗᐊᖅ.",
+    "description": "ᑐᓐᑯᑦᓱ ᕋᒥᓐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "recipe_card_margherita_name": {
+    "text": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ",
+    "description": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_margherita_description": {
+    "text": "ᓄᓇᕐᓂᖅ ᓯᐊᓐ ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐊᕐᕌᒍᑎᑦ San Marzano ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ, ᓴᕐᓂᖅ ᒪᖏᓐᓂᖅ, ᐊᕐᕌᒍᑎᑦ ᐳᓯ ᐊᔾᔨᒪᕈᑎᖃᑦᑕᕐᓂᖅ.",
+    "description": "ᒪᕐᒡᓯᕆᑕ ᐱᓯᙳᐊ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "recipe_card_tacos_name": {
+    "text": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ",
+    "description": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_tacos_description": {
+    "text": "ᐱᐅᔪᖅ ᐱᖏᖅ ᑕᑯᐱᐅᓯᒪᔭᐅᑎᖓ ᐅᖃᐅᓯ ᐸᓐᐊᐊᕐ, ᓯᓚᓐᑕᕐᓂᖅ, ᐊᖏᖅ, ᐅᔭᕋᑦ ᑯᕐᓂᓕᐅᕙᒃᑐᒥᓂ ᒥᑦᑐᒥᓂ ᑐᓴᕐᕕᒃ.",
+    "description": "ᑕᑯᐱᐅᓯ ᐊᓪ ᐸᓐᐊᐊᕐ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ",
+    "description": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "ᐊርᕌᒍᑎᑦ ᐱᒋᐊᕐ ᐊᐅᓚᑦᑕᕐᓂᖅ ᓴᓂᖏᑦ ᐊᕐᕌᒍᑎᑦ ᐊᕐᕌᒍᑎᑦ ᑭᓇᐅᔭᖅ ᐊᔪᙱᓚᖅᑐᖅ ᐊᓯᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᖅ.",
+    "description": "ᐊᕐᕌᒍᑎᑦ ᐱᒋᐊᕐᓗᖕᒥᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "ᐸᑎ ᖁᔭᓕ",
+    "description": "ᐸᑎ ᖁᔭᓕ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "ᐊᓐᖏᓂᖅ ᐊᐅᓚᑦᑕᕐᓂ ᕿᑭᒥᓂᖅ ᐱᐅᕆᔭᐅᔪᖅ, ᑐᑎᐅ, ᐱᓄᑐᖅ, ᐊᖏᖅ ᐊᕐᕌᒍᑎᑦ ᑕᒪᕆᓐᑎᑦ ᐊᐅᓚᑦᑕᕐᓂᖅ.",
+    "description": "ᐸᑎ ᖁᔭᓕ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "recipe_card_crepes_name": {
+    "text": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ",
+    "description": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᓯᓚᒥᓂᖅ."
+  },
+  "recipe_card_crepes_description": {
+    "text": "ᐋᓴᓐᓇᖅᑐᖅ, ᐊᓘᓐᓂ ᓴᕐᓂᖅ ᐊᕐᕌᒍᑎᑦ Nutella, ᐋᐅᓯᖅ ᓴᕐᓂᖅ, ᐊᔾᔨᒪᓇᖅ ᐊᖏᖅ ᐃᓚᐅᕐᓂᖅ.",
+    "description": "ᓕᓐᓂᖅ ᑯᒻᒥᐊᒃ ᐅᑭᐅᖅᑕᐅᓯᒪᔭᐅᑎᖓ ᐃᓚᒋᔭᖅ."
+  },
+  "locale_switcher_label": {
+    "text": "ᐊᓯᐅᕙᓪᓕᐊᔪᖅ",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "ᐃᓕᓴᓂᒃ",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

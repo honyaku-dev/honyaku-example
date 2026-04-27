@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "ワールドキッチン",
-      "description": "ヘッダーに表示されるアプリ名。世界の料理のレシピ発見アプリ。"
-    },
-    "subtitle": {
-      "text": "世界中のレシピを発見しよう",
-      "description": "ヘッダーのアプリ名の下に表示されるキャッチフレーズ。"
-    }
+  "header_title": {
+    "text": "ワールドキッチン",
+    "description": "ヘッダーに表示されるアプリ名。世界の料理のレシピ発見アプリ。"
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "世界の味を探検しよう",
-      "description": "ホームページのヒーローセクションのメイン見出し。"
-    },
-    "heroSubtitle": {
-      "text": "世界中の本格的なレシピを閲覧しよう",
-      "description": "ホームページのヒーロー見出しの下に表示されるサブタイトルテキスト。"
-    },
-    "featuredTitle": {
-      "text": "注目のレシピ",
-      "description": "レシピカードのグリッドの上に表示されるセクション見出し。"
-    }
+  "header_subtitle": {
+    "text": "世界中のレシピを発見しよう",
+    "description": "ヘッダーのアプリ名の下に表示されるキャッチフレーズ。"
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} 分",
-      "description": "レシピカードの調理時間ラベル。{minutes}は分数に置き換えられる。"
-    },
-    "difficulty": {
-      "text": "難易度",
-      "description": "レシピカードの難易度の前に表示されるラベル。"
-    },
-    "easy": {
-      "text": "簡単",
-      "description": "簡単なレシピを示す難易度ラベル。"
-    },
-    "medium": {
-      "text": "中級",
-      "description": "やや難しいレシピを示す難易度ラベル。"
-    },
-    "hard": {
-      "text": "難しい",
-      "description": "難しいレシピを示す難易度ラベル。"
-    },
-    "ramenName": {
-      "text": "豚骨ラーメン",
-      "description": "豚骨ラーメンのレシピ名。"
-    },
-    "ramenDescription": {
-      "text": "濃厚な豚骨スープに柔らかいチャーシュー、半熟卵、新鮮な麺が入ったラーメン。",
-      "description": "豚骨ラーメンのレシピの説明。"
-    },
-    "margheritaName": {
-      "text": "マルゲリータピザ",
-      "description": "マルゲリータピザのレシピ名。"
-    },
-    "margheritaDescription": {
-      "text": "サンマルツァーノトマト、新鮮なモッツァレラ、バジルを使ったクラシックなナポリピザ。",
-      "description": "マルゲリータピザのレシピの説明。"
-    },
-    "tacosName": {
-      "text": "タコス・アル・パストール",
-      "description": "タコス・アル・パストールのレシピ名。"
-    },
-    "tacosDescription": {
-      "text": "マリネした豚肉のタコスにパイナップル、シラントロ、玉ねぎをトウモロコシのトルティーヤで包んだ一品。",
-      "description": "タコス・アル・パストールのレシピの説明。"
-    },
-    "butterChickenName": {
-      "text": "バターチキン",
-      "description": "バターチキンのレシピ名。"
-    },
-    "butterChickenDescription": {
-      "text": "クリーミーなトマトとバターソースに香り高いスパイスを加えた柔らかいチキン料理。",
-      "description": "バターチキンのレシピの説明。"
-    },
-    "padThaiName": {
-      "text": "パッタイ",
-      "description": "パッタイのレシピ名。"
-    },
-    "padThaiDescription": {
-      "text": "エビ、豆腐、ピーナッツ、タマリンドソースで炒めた米麺料理。",
-      "description": "パッタイのレシピの説明。"
-    },
-    "crepesName": {
-      "text": "フレンチクレープ",
-      "description": "フレンチクレープのレシピ名。"
-    },
-    "crepesDescription": {
-      "text": "薄く繊細なクレープにヌテラ、新鮮なイチゴ、生クリームを詰めたデザート。",
-      "description": "フレンチクレープのレシピの説明。"
-    }
+  "home_page_hero_title": {
+    "text": "世界の味を探検しよう",
+    "description": "ホームページのヒーローセクションのメイン見出し。"
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "言語",
-      "description": "ヘッダーの言語切替ドロップダウンのアクセシブルラベル。"
-    },
-    "en": {
-      "text": "英語",
-      "description": "ロケールスイッチャーの英語オプション。"
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "ロケールスイッチャーの日本語オプション。"
-    },
-    "es": {
-      "text": "スペイン語",
-      "description": "ロケールスイッチャーのスペイン語オプション。"
-    }
+  "home_page_hero_subtitle": {
+    "text": "世界中の本格的なレシピを閲覧しよう",
+    "description": "ホームページのヒーロー見出しの下に表示されるサブタイトルテキスト。"
+  },
+  "home_page_featured_title": {
+    "text": "注目のレシピ",
+    "description": "レシピカードのグリッドの上に表示されるセクション見出し。"
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} 分",
+    "description": "レシピカードの調理時間ラベル。{minutes}は分数に置き換えられる。"
+  },
+  "recipe_card_difficulty": {
+    "text": "難易度",
+    "description": "レシピカードの難易度の前に表示されるラベル。"
+  },
+  "recipe_card_easy": {
+    "text": "簡単",
+    "description": "簡単なレシピを示す難易度ラベル。"
+  },
+  "recipe_card_medium": {
+    "text": "中級",
+    "description": "やや難しいレシピを示す難易度ラベル。"
+  },
+  "recipe_card_hard": {
+    "text": "難しい",
+    "description": "難しいレシピを示す難易度ラベル。"
+  },
+  "recipe_card_ramen_name": {
+    "text": "豚骨ラーメン",
+    "description": "豚骨ラーメンのレシピ名。"
+  },
+  "recipe_card_ramen_description": {
+    "text": "濃厚な豚骨スープに柔らかいチャーシュー、半熟卵、新鮮な麺が入ったラーメン。",
+    "description": "豚骨ラーメンのレシピの説明。"
+  },
+  "recipe_card_margherita_name": {
+    "text": "マルゲリータピザ",
+    "description": "マルゲリータピザのレシピ名。"
+  },
+  "recipe_card_margherita_description": {
+    "text": "サンマルツァーノトマト、新鮮なモッツァレラ、バジルを使ったクラシックなナポリピザ。",
+    "description": "マルゲリータピザのレシピの説明。"
+  },
+  "recipe_card_tacos_name": {
+    "text": "タコス・アル・パストール",
+    "description": "タコス・アル・パストールのレシピ名。"
+  },
+  "recipe_card_tacos_description": {
+    "text": "マリネした豚肉のタコスにパイナップル、シラントロ、玉ねぎをトウモロコシのトルティーヤで包んだ一品。",
+    "description": "タコス・アル・パストールのレシピの説明。"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "バターチキン",
+    "description": "バターチキンのレシピ名。"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "クリーミーなトマトとバターソースに香り高いスパイスを加えた柔らかいチキン料理。",
+    "description": "バターチキンのレシピの説明。"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "パッタイ",
+    "description": "パッタイのレシピ名。"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "エビ、豆腐、ピーナッツ、タマリンドソースで炒めた米麺料理。",
+    "description": "パッタイのレシピの説明。"
+  },
+  "recipe_card_crepes_name": {
+    "text": "フレンチクレープ",
+    "description": "フレンチクレープのレシピ名。"
+  },
+  "recipe_card_crepes_description": {
+    "text": "薄く繊細なクレープにヌテラ、新鮮なイチゴ、生クリームを詰めたデザート。",
+    "description": "フレンチクレープのレシピの説明。"
+  },
+  "locale_switcher_label": {
+    "text": "言語",
+    "description": "ヘッダーの言語切替ドロップダウンのアクセシブルラベル。"
+  },
+  "locale_switcher_en": {
+    "text": "英語",
+    "description": "ロケールスイッチャーの英語オプション。"
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "ロケールスイッチャーの日本語オプション。"
+  },
+  "locale_switcher_es": {
+    "text": "スペイン語",
+    "description": "ロケールスイッチャーのスペイン語オプション。"
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Ikhitshi yeHlabathi",
-      "description": "Igama lohlelo eliboniswa kwindawo ephezulu. Uhlelo lokufumana iiresiphi zeenkcubeko zokutya zehlabathi."
-    },
-    "subtitle": {
-      "text": "Fumanisa iiresiphi ezivela kwiindawo ezahlukeneyo zehlabathi",
-      "description": "Isihloko esincinci esiboniswa phantsi kwegama lohlelo kwindawo ephezulu."
-    }
+  "header_title": {
+    "text": "Ikhitshi yeHlabathi",
+    "description": "Igama lohlelo eliboniswa kwindawo ephezulu. Uhlelo lokufumana iiresiphi zeenkcubeko zokutya zehlabathi."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Phanda Iincasa zeHlabathi",
-      "description": "Isihloko esiphambili kwicandelo lehero ekhasini lasekhaya."
-    },
-    "heroSubtitle": {
-      "text": "Khangela iiresiphi zangempela ezivela kwiikhitshi zehlabathi lonke",
-      "description": "Umbhalo wesihloko esincinci oboniswa phantsi kwesihloko sehero ekhasini lasekhaya."
-    },
-    "featuredTitle": {
-      "text": "Iiresiphi Ezivelele",
-      "description": "Isihloko secandelo esiboniswa ngaphezulu kwegridi yekhadi leeresiphi."
-    }
+  "header_subtitle": {
+    "text": "Fumanisa iiresiphi ezivela kwiindawo ezahlukeneyo zehlabathi",
+    "description": "Isihloko esincinci esiboniswa phantsi kwegama lohlelo kwindawo ephezulu."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} imiz",
-      "description": "Ilabheli lixesha lokupheka kwikhadi leeresiphi. {minutes} litshintshwa ngenani leminithi."
-    },
-    "difficulty": {
-      "text": "Ubunzima",
-      "description": "Ilabheli eboniswa phambi komgangatho wobunzima kwikhadi leeresiphi."
-    },
-    "easy": {
-      "text": "Kulula",
-      "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi elula."
-    },
-    "medium": {
-      "text": "Phakathi",
-      "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi enobunzima obuphakathi."
-    },
-    "hard": {
-      "text": "Kunzima",
-      "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi enzima."
-    },
-    "ramenName": {
-      "text": "ITonkotsu Ramen",
-      "description": "Igama leresiphi yeTonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Isuphu eqinileyo yamathambo enkomo enenyama ethambileyo ye-chashu, iqanda elithambileyo eliphekwe kakuhle, kunye neenoodle ezintsha.",
-      "description": "Inkcazo yeresiphi yeTonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "IPizza yeMargherita",
-      "description": "Igama leresiphi yePizza yeMargherita."
-    },
-    "margheritaDescription": {
-      "text": "IPizza yesiNnapolitan eqhelekileyo eneetumato zeSan Marzano, imozarela entsha, kunye ne-basil.",
-      "description": "Inkcazo yeresiphi yePizza yeMargherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Igama leresiphi yeTacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Ii-tacos zenkukhu ezi-marinated kunye neepayinapile, i-cilantro, kunye no-anyanisi kwi-tortilla yerhasi.",
-      "description": "Inkcazo yeresiphi yeTacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Inkukhu yeBhata",
-      "description": "Igama leresiphi yeButter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Inkukhu ethambileyo kwisosi yetumato enebhotela enevumba elimnandi lesipuni.",
-      "description": "Inkcazo yeresiphi yeButter Chicken."
-    },
-    "padThaiName": {
-      "text": "IPad Thai",
-      "description": "Igama leresiphi yePad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Iinoodle zeryisi ezitshisiweyo kunye neeshrimps, itofu, iipeanut, kunye nesosi yetamarind.",
-      "description": "Inkcazo yeresiphi yePad Thai."
-    },
-    "crepesName": {
-      "text": "Iikrepi zaseFransi",
-      "description": "Igama leresiphi yeFrench Crepes."
-    },
-    "crepesDescription": {
-      "text": "Iikrepi ezincinci nezithambileyo ezigcwele iNutella, iistrawberry ezitsha, kunye nekhrimu eqhwetyiweyo.",
-      "description": "Inkcazo yeresiphi yeFrench Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Phanda Iincasa zeHlabathi",
+    "description": "Isihloko esiphambili kwicandelo lehero ekhasini lasekhaya."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Ulwimi",
-      "description": "Ilabheli efikelelelekayo yokutshintsha ulwimi kumphenduli wendawo ephezulu."
-    },
-    "en": {
-      "text": "IsiNgesi",
-      "description": "Ukhetho lolwimi lwesiNgesi kumphenduli wolwimi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Ukhetho lolwimi lwesiJapan kumphenduli wolwimi."
-    },
-    "es": {
-      "text": "IsiSpanish",
-      "description": "Ukhetho lolwimi lwesiSpanish kumphenduli wolwimi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Khangela iiresiphi zangempela ezivela kwiikhitshi zehlabathi lonke",
+    "description": "Umbhalo wesihloko esincinci oboniswa phantsi kwesihloko sehero ekhasini lasekhaya."
+  },
+  "home_page_featured_title": {
+    "text": "Iiresiphi Ezivelele",
+    "description": "Isihloko secandelo esiboniswa ngaphezulu kwegridi yekhadi leeresiphi."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} imiz",
+    "description": "Ilabheli lixesha lokupheka kwikhadi leeresiphi. {minutes} litshintshwa ngenani leminithi."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ubunzima",
+    "description": "Ilabheli eboniswa phambi komgangatho wobunzima kwikhadi leeresiphi."
+  },
+  "recipe_card_easy": {
+    "text": "Kulula",
+    "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi elula."
+  },
+  "recipe_card_medium": {
+    "text": "Phakathi",
+    "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi enobunzima obuphakathi."
+  },
+  "recipe_card_hard": {
+    "text": "Kunzima",
+    "description": "Ilabheli yomgangatho wobunzima ebhekisela kuresiphi enzima."
+  },
+  "recipe_card_ramen_name": {
+    "text": "ITonkotsu Ramen",
+    "description": "Igama leresiphi yeTonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Isuphu eqinileyo yamathambo enkomo enenyama ethambileyo ye-chashu, iqanda elithambileyo eliphekwe kakuhle, kunye neenoodle ezintsha.",
+    "description": "Inkcazo yeresiphi yeTonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "IPizza yeMargherita",
+    "description": "Igama leresiphi yePizza yeMargherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "IPizza yesiNnapolitan eqhelekileyo eneetumato zeSan Marzano, imozarela entsha, kunye ne-basil.",
+    "description": "Inkcazo yeresiphi yePizza yeMargherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Igama leresiphi yeTacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ii-tacos zenkukhu ezi-marinated kunye neepayinapile, i-cilantro, kunye no-anyanisi kwi-tortilla yerhasi.",
+    "description": "Inkcazo yeresiphi yeTacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Inkukhu yeBhata",
+    "description": "Igama leresiphi yeButter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Inkukhu ethambileyo kwisosi yetumato enebhotela enevumba elimnandi lesipuni.",
+    "description": "Inkcazo yeresiphi yeButter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "IPad Thai",
+    "description": "Igama leresiphi yePad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Iinoodle zeryisi ezitshisiweyo kunye neeshrimps, itofu, iipeanut, kunye nesosi yetamarind.",
+    "description": "Inkcazo yeresiphi yePad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Iikrepi zaseFransi",
+    "description": "Igama leresiphi yeFrench Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Iikrepi ezincinci nezithambileyo ezigcwele iNutella, iistrawberry ezitsha, kunye nekhrimu eqhwetyiweyo.",
+    "description": "Inkcazo yeresiphi yeFrench Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Ulwimi",
+    "description": "Ilabheli efikelelelekayo yokutshintsha ulwimi kumphenduli wendawo ephezulu."
+  },
+  "locale_switcher_en": {
+    "text": "IsiNgesi",
+    "description": "Ukhetho lolwimi lwesiNgesi kumphenduli wolwimi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Ukhetho lolwimi lwesiJapan kumphenduli wolwimi."
+  },
+  "locale_switcher_es": {
+    "text": "IsiSpanish",
+    "description": "Ukhetho lolwimi lwesiSpanish kumphenduli wolwimi."
   }
 }

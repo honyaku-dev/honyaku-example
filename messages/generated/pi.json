@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Loka Pākakāma",
-      "description": "App nāma yassa sirase paṭimaṇḍale paṭipajjati. Loka bhojanasaṅkhāra paricchinnāni pariggahā app."
-    },
-    "subtitle": {
-      "text": "Lokaṭṭhānaṃ paṭipannāni pākakāmaṃ pariggahatha",
-      "description": "App nāmena anuvattamāna sirase paṭimaṇḍalaṭṭhena paṭipajjati."
-    }
+  "header_title": {
+    "text": "Loka Pākakāma",
+    "description": "App nāma yassa sirase paṭimaṇḍale paṭipajjati. Loka bhojanasaṅkhāra paricchinnāni pariggahā app."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Loka Rucīsu Paṭipajjatha",
-      "description": "Gharapāṭhaṃ sirase mukhya upasaṃhāro."
-    },
-    "heroSubtitle": {
-      "text": "Loka pākagharānaṃ saddhammapākakāmani pariggahatha",
-      "description": "Gharapāṭhe sirase upasaṃhāro vākyato."
-    },
-    "featuredTitle": {
-      "text": "Pākatthāni Paṭipajjitāni",
-      "description": "Pākakāma patikāmaṇḍalassa uparipāṭhaṃ."
-    }
+  "header_subtitle": {
+    "text": "Lokaṭṭhānaṃ paṭipannāni pākakāmaṃ pariggahatha",
+    "description": "App nāmena anuvattamāna sirase paṭimaṇḍalaṭṭhena paṭipajjati."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} nimaṃ",
-      "description": "Pākatthassa kālaṃ paṭikāya. {minutes} nimittaṃ nimittakālo."
-    },
-    "difficulty": {
-      "text": "Dukkhatā",
-      "description": "Pākatthassa dukkhatāṃ purimāya paṭikāya."
-    },
-    "easy": {
-      "text": "Sukhaṃ",
-      "description": "Sukhena pākakāmaṃ nītatā."
-    },
-    "medium": {
-      "text": "Majjhimaṃ",
-      "description": "Majjhima dukkhatā pākakāmaṃ nītatā."
-    },
-    "hard": {
-      "text": "Dukkaṭaṃ",
-      "description": "Dukkaṭena pākakāmaṃ nītatā."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen pākatthassa nāma."
-    },
-    "ramenDescription": {
-      "text": "Maddanena pātālassa honti mūṣaka hatthe pākaṃ, mrduṃ andaṃ, navaṃ nāḷikaṃ ca.",
-      "description": "Tonkotsu Ramen pākatthassa paribhāṣā."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza pākatthassa nāma."
-    },
-    "margheritaDescription": {
-      "text": "Paramparikaṃ Neapolitan pizza San Marzano ṭomāṭo, nava mozzarella, basilīka ca.",
-      "description": "Margherita Pizza pākatthassa paribhāṣā."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor pākatthassa nāma."
-    },
-    "tacosDescription": {
-      "text": "Māricassa amūḷhaṃ tacos ananasena, dhānyapattena, pyājaṃ ca corn tortillas uppajīvā.",
-      "description": "Tacos al Pastor pākatthassa paribhāṣā."
-    },
-    "butterChickenName": {
-      "text": "Navaneḍaka Kukkuṭa",
-      "description": "Navaneḍaka Kukkuṭa pākatthassa nāma."
-    },
-    "butterChickenDescription": {
-      "text": "Mrdu kukkuṭa tomāṭo mañca navaneḍaka saṭṭhi ca gandhita masālāhi sahita.",
-      "description": "Navaneḍaka Kukkuṭa pākatthassa paribhāṣā."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai pākatthassa nāma."
-    },
-    "padThaiDescription": {
-      "text": "Udaka nāḷikāya saha cūḷhā, tuṭo, mūṣaka, tamarindasaṭṭhiyā ca paṭipāṭita.",
-      "description": "Pad Thai pākatthassa paribhāṣā."
-    },
-    "crepesName": {
-      "text": "Phālañca Crepes",
-      "description": "Phālañca Crepes pākatthassa nāma."
-    },
-    "crepesDescription": {
-      "text": "Sūkṣma, mrdu crepes Nutella, nava strāubērī, piṇḍita sītehi pūrita.",
-      "description": "Phālañca Crepes pākatthassa paribhāṣā."
-    }
+  "home_page_hero_title": {
+    "text": "Loka Rucīsu Paṭipajjatha",
+    "description": "Gharapāṭhaṃ sirase mukhya upasaṃhāro."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Vācā",
-      "description": "Sirase vācā badhakoṭṭhāsaṃ paricchindati."
-    },
-    "en": {
-      "text": "Aṅgālīsa",
-      "description": "Vācā badhakoṭṭhāse aṅgālīsa vācā."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Vācā badhakoṭṭhāse japonīsa vācā."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Vācā badhakoṭṭhāse espāṇiyā vācā."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Loka pākagharānaṃ saddhammapākakāmani pariggahatha",
+    "description": "Gharapāṭhe sirase upasaṃhāro vākyato."
+  },
+  "home_page_featured_title": {
+    "text": "Pākatthāni Paṭipajjitāni",
+    "description": "Pākakāma patikāmaṇḍalassa uparipāṭhaṃ."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} nimaṃ",
+    "description": "Pākatthassa kālaṃ paṭikāya. {minutes} nimittaṃ nimittakālo."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dukkhatā",
+    "description": "Pākatthassa dukkhatāṃ purimāya paṭikāya."
+  },
+  "recipe_card_easy": {
+    "text": "Sukhaṃ",
+    "description": "Sukhena pākakāmaṃ nītatā."
+  },
+  "recipe_card_medium": {
+    "text": "Majjhimaṃ",
+    "description": "Majjhima dukkhatā pākakāmaṃ nītatā."
+  },
+  "recipe_card_hard": {
+    "text": "Dukkaṭaṃ",
+    "description": "Dukkaṭena pākakāmaṃ nītatā."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen pākatthassa nāma."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Maddanena pātālassa honti mūṣaka hatthe pākaṃ, mrduṃ andaṃ, navaṃ nāḷikaṃ ca.",
+    "description": "Tonkotsu Ramen pākatthassa paribhāṣā."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza pākatthassa nāma."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Paramparikaṃ Neapolitan pizza San Marzano ṭomāṭo, nava mozzarella, basilīka ca.",
+    "description": "Margherita Pizza pākatthassa paribhāṣā."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor pākatthassa nāma."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Māricassa amūḷhaṃ tacos ananasena, dhānyapattena, pyājaṃ ca corn tortillas uppajīvā.",
+    "description": "Tacos al Pastor pākatthassa paribhāṣā."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Navaneḍaka Kukkuṭa",
+    "description": "Navaneḍaka Kukkuṭa pākatthassa nāma."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mrdu kukkuṭa tomāṭo mañca navaneḍaka saṭṭhi ca gandhita masālāhi sahita.",
+    "description": "Navaneḍaka Kukkuṭa pākatthassa paribhāṣā."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai pākatthassa nāma."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Udaka nāḷikāya saha cūḷhā, tuṭo, mūṣaka, tamarindasaṭṭhiyā ca paṭipāṭita.",
+    "description": "Pad Thai pākatthassa paribhāṣā."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Phālañca Crepes",
+    "description": "Phālañca Crepes pākatthassa nāma."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Sūkṣma, mrdu crepes Nutella, nava strāubērī, piṇḍita sītehi pūrita.",
+    "description": "Phālañca Crepes pākatthassa paribhāṣā."
+  },
+  "locale_switcher_label": {
+    "text": "Vācā",
+    "description": "Sirase vācā badhakoṭṭhāsaṃ paricchindati."
+  },
+  "locale_switcher_en": {
+    "text": "Aṅgālīsa",
+    "description": "Vācā badhakoṭṭhāse aṅgālīsa vācā."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Vācā badhakoṭṭhāse japonīsa vācā."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Vācā badhakoṭṭhāse espāṇiyā vācā."
   }
 }

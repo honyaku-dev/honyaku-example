@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dapur Donya",
-      "description": "Jeneng app sing ditampilake ing header. App nemokake resep kanggo masakan donya."
-    },
-    "subtitle": {
-      "text": "Temokake resep saka saindenging donya",
-      "description": "Tagline sing ditampilake ing ngisor jeneng app ing header."
-    }
+  "header_title": {
+    "text": "Dapur Donya",
+    "description": "Jeneng app sing ditampilake ing header. App nemokake resep kanggo masakan donya."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Jelajah Rasa Global",
-      "description": "Judhul utama ing bagean hero kaca ngarep."
-    },
-    "heroSubtitle": {
-      "text": "Nggoleki resep asli saka pawon-pawon ing saindenging donya",
-      "description": "Teks subtitle sing ditampilake ing ngisor judhul hero ing kaca ngarep."
-    },
-    "featuredTitle": {
-      "text": "Resep Pilihan",
-      "description": "Judhul bagean sing ditampilake ing ndhuwur grid kertu resep."
-    }
+  "header_subtitle": {
+    "text": "Temokake resep saka saindenging donya",
+    "description": "Tagline sing ditampilake ing ngisor jeneng app ing header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} menit",
-      "description": "Label wektu masak ing kertu resep. {minutes} diganti karo jumlah menit."
-    },
-    "difficulty": {
-      "text": "Kasulitan",
-      "description": "Label sing ditampilake sadurunge tingkat kasulitan ing kertu resep."
-    },
-    "easy": {
-      "text": "Gampang",
-      "description": "Label tingkat kasulitan sing nuduhake resep gampang."
-    },
-    "medium": {
-      "text": "Sedheng",
-      "description": "Label tingkat kasulitan sing nuduhake resep kanthi tingkat kasulitan sedang."
-    },
-    "hard": {
-      "text": "Angel",
-      "description": "Label tingkat kasulitan sing nuduhake resep angel."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Jeneng resep Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Kaldu balung babi sing kandel karo chashu empuk, endhog setengah mateng, lan mie seger.",
-      "description": "Deskripsi resep Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Jeneng resep Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan klasik nganggo tomat San Marzano, mozzarella seger, lan kemangi.",
-      "description": "Deskripsi resep Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Jeneng resep Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos babi sing dimarinasi karo nanas, cilantro, lan bawang ing tortilla jagung.",
-      "description": "Deskripsi resep Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Jeneng resep Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Ayam empuk ing saos tomat lan mentega sing krim karo rempah aromatik.",
-      "description": "Deskripsi resep Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Jeneng resep Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Mie beras goreng karo udang, tahu, kacang, lan saos asam jawa.",
-      "description": "Deskripsi resep Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crêpe Prancis",
-      "description": "Jeneng resep Crêpe Prancis."
-    },
-    "crepesDescription": {
-      "text": "Crêpe tipis lan alus diisi Nutella, stroberi seger, lan krim kocok.",
-      "description": "Deskripsi resep Crêpe Prancis."
-    }
+  "home_page_hero_title": {
+    "text": "Jelajah Rasa Global",
+    "description": "Judhul utama ing bagean hero kaca ngarep."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Basa",
-      "description": "Label aksesibel kanggo dropdown ganti basa ing header."
-    },
-    "en": {
-      "text": "Basa Inggris",
-      "description": "Pilihan basa Inggris ing ganti basa."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Pilihan basa Jepang ing ganti basa."
-    },
-    "es": {
-      "text": "Basa Spanyol",
-      "description": "Pilihan basa Spanyol ing ganti basa."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Nggoleki resep asli saka pawon-pawon ing saindenging donya",
+    "description": "Teks subtitle sing ditampilake ing ngisor judhul hero ing kaca ngarep."
+  },
+  "home_page_featured_title": {
+    "text": "Resep Pilihan",
+    "description": "Judhul bagean sing ditampilake ing ndhuwur grid kertu resep."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} menit",
+    "description": "Label wektu masak ing kertu resep. {minutes} diganti karo jumlah menit."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kasulitan",
+    "description": "Label sing ditampilake sadurunge tingkat kasulitan ing kertu resep."
+  },
+  "recipe_card_easy": {
+    "text": "Gampang",
+    "description": "Label tingkat kasulitan sing nuduhake resep gampang."
+  },
+  "recipe_card_medium": {
+    "text": "Sedheng",
+    "description": "Label tingkat kasulitan sing nuduhake resep kanthi tingkat kasulitan sedang."
+  },
+  "recipe_card_hard": {
+    "text": "Angel",
+    "description": "Label tingkat kasulitan sing nuduhake resep angel."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Jeneng resep Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Kaldu balung babi sing kandel karo chashu empuk, endhog setengah mateng, lan mie seger.",
+    "description": "Deskripsi resep Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Jeneng resep Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan klasik nganggo tomat San Marzano, mozzarella seger, lan kemangi.",
+    "description": "Deskripsi resep Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Jeneng resep Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos babi sing dimarinasi karo nanas, cilantro, lan bawang ing tortilla jagung.",
+    "description": "Deskripsi resep Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Jeneng resep Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ayam empuk ing saos tomat lan mentega sing krim karo rempah aromatik.",
+    "description": "Deskripsi resep Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Jeneng resep Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Mie beras goreng karo udang, tahu, kacang, lan saos asam jawa.",
+    "description": "Deskripsi resep Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crêpe Prancis",
+    "description": "Jeneng resep Crêpe Prancis."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crêpe tipis lan alus diisi Nutella, stroberi seger, lan krim kocok.",
+    "description": "Deskripsi resep Crêpe Prancis."
+  },
+  "locale_switcher_label": {
+    "text": "Basa",
+    "description": "Label aksesibel kanggo dropdown ganti basa ing header."
+  },
+  "locale_switcher_en": {
+    "text": "Basa Inggris",
+    "description": "Pilihan basa Inggris ing ganti basa."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Pilihan basa Jepang ing ganti basa."
+  },
+  "locale_switcher_es": {
+    "text": "Basa Spanyol",
+    "description": "Pilihan basa Spanyol ing ganti basa."
   }
 }

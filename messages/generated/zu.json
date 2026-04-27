@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Ikhishi Lomhlaba",
-      "description": "Igama lohlelo eliboniswa esihlokweni. Uhlelo lokuthola izindlela zokupheka zama-cuisine zomhlaba wonke."
-    },
-    "subtitle": {
-      "text": "Thola izindlela zokupheka ezivela emhlabeni wonke",
-      "description": "Itagline eboniswa ngaphansi kwegama lohlelo esihlokweni."
-    }
+  "header_title": {
+    "text": "Ikhishi Lomhlaba",
+    "description": "Igama lohlelo eliboniswa esihlokweni. Uhlelo lokuthola izindlela zokupheka zama-cuisine zomhlaba wonke."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Hlola Izimnandi Zomhlaba Wonke",
-      "description": "Isihloko esiyinhloko esigabeni se-hero ekhasini lasekhaya."
-    },
-    "heroSubtitle": {
-      "text": "Bheka izindlela zokupheka eziyiqiniso ezivela emakishini emhlabeni wonke",
-      "description": "Umbhalo wesihlokwana ovezwa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
-    },
-    "featuredTitle": {
-      "text": "Izindlela Zokupheka Ezivelele",
-      "description": "Isihloko sesigaba esivezwe ngaphezu kwegridi yekhadi lezindlela zokupheka."
-    }
+  "header_subtitle": {
+    "text": "Thola izindlela zokupheka ezivela emhlabeni wonke",
+    "description": "Itagline eboniswa ngaphansi kwegama lohlelo esihlokweni."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} imiz",
-      "description": "Ilebula lesikhathi sokupheka ekhadini lenqubo yokupheka. {minutes} lifakwa ngenani lemizuzu."
-    },
-    "difficulty": {
-      "text": "Ubunzima",
-      "description": "Ilebula eboniswa ngaphambi kwezinga lobunzima ekhadini lenqubo yokupheka."
-    },
-    "easy": {
-      "text": "Kulula",
-      "description": "Ilebula lezinga lobunzima elikhombisa indlela elula yokupheka."
-    },
-    "medium": {
-      "text": "Phakathi",
-      "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enobunzima obulinganiselwe."
-    },
-    "hard": {
-      "text": "Kunzima",
-      "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enzima."
-    },
-    "ramenName": {
-      "text": "I-Tonkotsu Ramen",
-      "description": "Igama lenqubo yokupheka i-Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Ukubhaka okunothile kwemathambo enkukhu okuqukethe i-chashu ethambile, iqanda eliphekiwe kahle, kanye nama-noodle amasha.",
-      "description": "Incazelo yenqubo yokupheka i-Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "I-Pizza ye-Margherita",
-      "description": "Igama lenqubo yokupheka i-Pizza ye-Margherita."
-    },
-    "margheritaDescription": {
-      "text": "I-pizza ye-Neapolitan yendabuko enotamatisi be-San Marzano, i-mozzarella entsha, kanye nebhesil.",
-      "description": "Incazelo yenqubo yokupheka i-Pizza ye-Margherita."
-    },
-    "tacosName": {
-      "text": "Ama-Tacos al Pastor",
-      "description": "Igama lenqubo yokupheka i-Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Ama-tacos enyama yengulube ehlanganiswe nopinephu, i-cilantro, no-anyanisi phezu kwama-tortilla ekhukhamba.",
-      "description": "Incazelo yenqubo yokupheka i-Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Inkukhu Ebisiweyo",
-      "description": "Igama lenqubo yokupheka i-Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Inkukhu ethambile esosi yetamatisi enobisi kanye namafutha anamakha anuka kahle.",
-      "description": "Incazelo yenqubo yokupheka i-Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "I-Pad Thai",
-      "description": "Igama lenqubo yokupheka i-Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Ama-noodle erayisi aphekiwe kanye ne-shrimp, tofu, ama-peanut, kanye nesosi ye-tamarind.",
-      "description": "Incazelo yenqubo yokupheka i-Pad Thai."
-    },
-    "crepesName": {
-      "text": "Ama-Crepes aseFrance",
-      "description": "Igama lenqubo yokupheka ama-Crepes aseFrance."
-    },
-    "crepesDescription": {
-      "text": "Ama-crepes amancane, acwebile agcwele i-Nutella, ama-strawberry amasha, kanye nokhilimu oshaywe.",
-      "description": "Incazelo yenqubo yokupheka ama-Crepes aseFrance."
-    }
+  "home_page_hero_title": {
+    "text": "Hlola Izimnandi Zomhlaba Wonke",
+    "description": "Isihloko esiyinhloko esigabeni se-hero ekhasini lasekhaya."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Ulimi",
-      "description": "Ilebula elitholakalayo le-dropdown yokushintsha ulimi esihlokweni."
-    },
-    "en": {
-      "text": "IsiNgisi",
-      "description": "Inketho yolimi lwesiNgisi ku-switcher wolimi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Inketho yolimi lwesiJapane ku-switcher wolimi."
-    },
-    "es": {
-      "text": "IsiSpanishi",
-      "description": "Inketho yolimi lwesiSpanishi ku-switcher wolimi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Bheka izindlela zokupheka eziyiqiniso ezivela emakishini emhlabeni wonke",
+    "description": "Umbhalo wesihlokwana ovezwa ngaphansi kwesihloko se-hero ekhasini lasekhaya."
+  },
+  "home_page_featured_title": {
+    "text": "Izindlela Zokupheka Ezivelele",
+    "description": "Isihloko sesigaba esivezwe ngaphezu kwegridi yekhadi lezindlela zokupheka."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} imiz",
+    "description": "Ilebula lesikhathi sokupheka ekhadini lenqubo yokupheka. {minutes} lifakwa ngenani lemizuzu."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ubunzima",
+    "description": "Ilebula eboniswa ngaphambi kwezinga lobunzima ekhadini lenqubo yokupheka."
+  },
+  "recipe_card_easy": {
+    "text": "Kulula",
+    "description": "Ilebula lezinga lobunzima elikhombisa indlela elula yokupheka."
+  },
+  "recipe_card_medium": {
+    "text": "Phakathi",
+    "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enobunzima obulinganiselwe."
+  },
+  "recipe_card_hard": {
+    "text": "Kunzima",
+    "description": "Ilebula lezinga lobunzima elikhombisa indlela yokupheka enzima."
+  },
+  "recipe_card_ramen_name": {
+    "text": "I-Tonkotsu Ramen",
+    "description": "Igama lenqubo yokupheka i-Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ukubhaka okunothile kwemathambo enkukhu okuqukethe i-chashu ethambile, iqanda eliphekiwe kahle, kanye nama-noodle amasha.",
+    "description": "Incazelo yenqubo yokupheka i-Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "I-Pizza ye-Margherita",
+    "description": "Igama lenqubo yokupheka i-Pizza ye-Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "I-pizza ye-Neapolitan yendabuko enotamatisi be-San Marzano, i-mozzarella entsha, kanye nebhesil.",
+    "description": "Incazelo yenqubo yokupheka i-Pizza ye-Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Ama-Tacos al Pastor",
+    "description": "Igama lenqubo yokupheka i-Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ama-tacos enyama yengulube ehlanganiswe nopinephu, i-cilantro, no-anyanisi phezu kwama-tortilla ekhukhamba.",
+    "description": "Incazelo yenqubo yokupheka i-Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Inkukhu Ebisiweyo",
+    "description": "Igama lenqubo yokupheka i-Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Inkukhu ethambile esosi yetamatisi enobisi kanye namafutha anamakha anuka kahle.",
+    "description": "Incazelo yenqubo yokupheka i-Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "I-Pad Thai",
+    "description": "Igama lenqubo yokupheka i-Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ama-noodle erayisi aphekiwe kanye ne-shrimp, tofu, ama-peanut, kanye nesosi ye-tamarind.",
+    "description": "Incazelo yenqubo yokupheka i-Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Ama-Crepes aseFrance",
+    "description": "Igama lenqubo yokupheka ama-Crepes aseFrance."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Ama-crepes amancane, acwebile agcwele i-Nutella, ama-strawberry amasha, kanye nokhilimu oshaywe.",
+    "description": "Incazelo yenqubo yokupheka ama-Crepes aseFrance."
+  },
+  "locale_switcher_label": {
+    "text": "Ulimi",
+    "description": "Ilebula elitholakalayo le-dropdown yokushintsha ulimi esihlokweni."
+  },
+  "locale_switcher_en": {
+    "text": "IsiNgisi",
+    "description": "Inketho yolimi lwesiNgisi ku-switcher wolimi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Inketho yolimi lwesiJapane ku-switcher wolimi."
+  },
+  "locale_switcher_es": {
+    "text": "IsiSpanishi",
+    "description": "Inketho yolimi lwesiSpanishi ku-switcher wolimi."
   }
 }

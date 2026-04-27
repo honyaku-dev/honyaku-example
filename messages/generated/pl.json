@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kuchnia Świata",
-      "description": "Nazwa aplikacji wyświetlana w nagłówku. Aplikacja do odkrywania przepisów kuchni świata."
-    },
-    "subtitle": {
-      "text": "Odkrywaj przepisy z całego świata",
-      "description": "Hasło wyświetlane pod nazwą aplikacji w nagłówku."
-    }
+  "header_title": {
+    "text": "Kuchnia Świata",
+    "description": "Nazwa aplikacji wyświetlana w nagłówku. Aplikacja do odkrywania przepisów kuchni świata."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Odkrywaj Globalne Smaki",
-      "description": "Główny nagłówek w sekcji hero strony głównej."
-    },
-    "heroSubtitle": {
-      "text": "Przeglądaj autentyczne przepisy z kuchni całego świata",
-      "description": "Tekst podtytułu wyświetlany pod nagłówkiem hero na stronie głównej."
-    },
-    "featuredTitle": {
-      "text": "Polecane Przepisy",
-      "description": "Nagłówek sekcji wyświetlany nad siatką kart przepisów."
-    }
+  "header_subtitle": {
+    "text": "Odkrywaj przepisy z całego świata",
+    "description": "Hasło wyświetlane pod nazwą aplikacji w nagłówku."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etykieta czasu gotowania na karcie przepisu. {minutes} jest zastępowane liczbą minut."
-    },
-    "difficulty": {
-      "text": "Trudność",
-      "description": "Etykieta wyświetlana przed poziomem trudności na karcie przepisu."
-    },
-    "easy": {
-      "text": "Łatwy",
-      "description": "Etykieta poziomu trudności oznaczająca łatwy przepis."
-    },
-    "medium": {
-      "text": "Średni",
-      "description": "Etykieta poziomu trudności oznaczająca umiarkowanie trudny przepis."
-    },
-    "hard": {
-      "text": "Trudny",
-      "description": "Etykieta poziomu trudności oznaczająca trudny przepis."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nazwa przepisu Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bogaty bulion z kości wieprzowych z delikatnym chashu, miękkim jajkiem i świeżym makaronem.",
-      "description": "Opis przepisu Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nazwa przepisu na pizzę Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Klasyczna neapolitańska pizza z pomidorami San Marzano, świeżą mozzarellą i bazylią.",
-      "description": "Opis przepisu na pizzę Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nazwa przepisu na Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marynowane tacos z wieprzowiną z ananasem, kolendrą i cebulą na kukurydzianych tortillach.",
-      "description": "Opis przepisu na Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Nazwa przepisu na Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Delikatny kurczak w kremowym sosie pomidorowo-maślanym z aromatycznymi przyprawami.",
-      "description": "Opis przepisu na Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nazwa przepisu na Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Smażony makaron ryżowy z krewetkami, tofu, orzeszkami ziemnymi i sosem tamaryndowym.",
-      "description": "Opis przepisu na Pad Thai."
-    },
-    "crepesName": {
-      "text": "Francuskie Naleśniki",
-      "description": "Nazwa przepisu na francuskie naleśniki."
-    },
-    "crepesDescription": {
-      "text": "Cienkie, delikatne naleśniki nadziewane Nutellą, świeżymi truskawkami i bitą śmietaną.",
-      "description": "Opis przepisu na francuskie naleśniki."
-    }
+  "home_page_hero_title": {
+    "text": "Odkrywaj Globalne Smaki",
+    "description": "Główny nagłówek w sekcji hero strony głównej."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Język",
-      "description": "Etykieta dostępności dla rozwijanego przełącznika języka w nagłówku."
-    },
-    "en": {
-      "text": "Angielski",
-      "description": "Opcja języka angielskiego w przełączniku języków."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opcja języka japońskiego w przełączniku języków."
-    },
-    "es": {
-      "text": "Hiszpański",
-      "description": "Opcja języka hiszpańskiego w przełączniku języków."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Przeglądaj autentyczne przepisy z kuchni całego świata",
+    "description": "Tekst podtytułu wyświetlany pod nagłówkiem hero na stronie głównej."
+  },
+  "home_page_featured_title": {
+    "text": "Polecane Przepisy",
+    "description": "Nagłówek sekcji wyświetlany nad siatką kart przepisów."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etykieta czasu gotowania na karcie przepisu. {minutes} jest zastępowane liczbą minut."
+  },
+  "recipe_card_difficulty": {
+    "text": "Trudność",
+    "description": "Etykieta wyświetlana przed poziomem trudności na karcie przepisu."
+  },
+  "recipe_card_easy": {
+    "text": "Łatwy",
+    "description": "Etykieta poziomu trudności oznaczająca łatwy przepis."
+  },
+  "recipe_card_medium": {
+    "text": "Średni",
+    "description": "Etykieta poziomu trudności oznaczająca umiarkowanie trudny przepis."
+  },
+  "recipe_card_hard": {
+    "text": "Trudny",
+    "description": "Etykieta poziomu trudności oznaczająca trudny przepis."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nazwa przepisu Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bogaty bulion z kości wieprzowych z delikatnym chashu, miękkim jajkiem i świeżym makaronem.",
+    "description": "Opis przepisu Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nazwa przepisu na pizzę Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasyczna neapolitańska pizza z pomidorami San Marzano, świeżą mozzarellą i bazylią.",
+    "description": "Opis przepisu na pizzę Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nazwa przepisu na Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marynowane tacos z wieprzowiną z ananasem, kolendrą i cebulą na kukurydzianych tortillach.",
+    "description": "Opis przepisu na Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Nazwa przepisu na Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Delikatny kurczak w kremowym sosie pomidorowo-maślanym z aromatycznymi przyprawami.",
+    "description": "Opis przepisu na Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nazwa przepisu na Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Smażony makaron ryżowy z krewetkami, tofu, orzeszkami ziemnymi i sosem tamaryndowym.",
+    "description": "Opis przepisu na Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francuskie Naleśniki",
+    "description": "Nazwa przepisu na francuskie naleśniki."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Cienkie, delikatne naleśniki nadziewane Nutellą, świeżymi truskawkami i bitą śmietaną.",
+    "description": "Opis przepisu na francuskie naleśniki."
+  },
+  "locale_switcher_label": {
+    "text": "Język",
+    "description": "Etykieta dostępności dla rozwijanego przełącznika języka w nagłówku."
+  },
+  "locale_switcher_en": {
+    "text": "Angielski",
+    "description": "Opcja języka angielskiego w przełączniku języków."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opcja języka japońskiego w przełączniku języków."
+  },
+  "locale_switcher_es": {
+    "text": "Hiszpański",
+    "description": "Opcja języka hiszpańskiego w przełączniku języków."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Maailman Keittiö",
-      "description": "Sovelluksen nimi, joka näkyy otsikossa. Maailman keittiöiden reseptien löytämiseen tarkoitettu sovellus."
-    },
-    "subtitle": {
-      "text": "Löydä reseptejä ympäri maailmaa",
-      "description": "Iskulause, joka näkyy sovelluksen nimen alla otsikossa."
-    }
+  "header_title": {
+    "text": "Maailman Keittiö",
+    "description": "Sovelluksen nimi, joka näkyy otsikossa. Maailman keittiöiden reseptien löytämiseen tarkoitettu sovellus."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Tutustu Maailman Makuisiin",
-      "description": "Päänosto kotisivun hero-osiossa."
-    },
-    "heroSubtitle": {
-      "text": "Selaa aitoja reseptejä keittiöistä ympäri maailmaa",
-      "description": "Alaotsikko, joka näkyy hero-otsikon alla kotisivulla."
-    },
-    "featuredTitle": {
-      "text": "Esitellyt Reseptit",
-      "description": "Osion otsikko, joka näkyy reseptikorttien ruudukon yläpuolella."
-    }
+  "header_subtitle": {
+    "text": "Löydä reseptejä ympäri maailmaa",
+    "description": "Iskulause, joka näkyy sovelluksen nimen alla otsikossa."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Kypsennysaika reseptikortissa. {minutes} korvataan minuuttien määrällä."
-    },
-    "difficulty": {
-      "text": "Vaikeustaso",
-      "description": "Teksti, joka näkyy ennen vaikeustason ilmoitusta reseptikortissa."
-    },
-    "easy": {
-      "text": "Helppo",
-      "description": "Vaikeustason merkintä, joka osoittaa helpon reseptin."
-    },
-    "medium": {
-      "text": "Keskitaso",
-      "description": "Vaikeustason merkintä, joka osoittaa keskivaikean reseptin."
-    },
-    "hard": {
-      "text": "Vaikea",
-      "description": "Vaikeustason merkintä, joka osoittaa vaikean reseptin."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen -reseptin nimi."
-    },
-    "ramenDescription": {
-      "text": "Rikas sianluuliemi, jossa on mureaa chashua, pehmeäkeitetty kananmuna ja tuoreita nuudeleita.",
-      "description": "Tonkotsu Ramen -reseptin kuvaus."
-    },
-    "margheritaName": {
-      "text": "Margherita-pizza",
-      "description": "Margherita-pizza reseptin nimi."
-    },
-    "margheritaDescription": {
-      "text": "Perinteinen neapolilainen pizza San Marzano -tomaateilla, tuoreella mozzarellalla ja basilikalla.",
-      "description": "Margherita-pizza reseptin kuvaus."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor -reseptin nimi."
-    },
-    "tacosDescription": {
-      "text": "Marinoidut possutacot ananaksella, korianterilla ja sipulilla maissitortilloilla.",
-      "description": "Tacos al Pastor -reseptin kuvaus."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken -reseptin nimi."
-    },
-    "butterChickenDescription": {
-      "text": "Mureaa kanaa kermainen tomaatti-voikastikkeessa aromaattisilla mausteilla.",
-      "description": "Butter Chicken -reseptin kuvaus."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai -reseptin nimi."
-    },
-    "padThaiDescription": {
-      "text": "Paistetut riisinuudelit katkaravuilla, tofulla, maapähkinöillä ja tamarindikastikkeella.",
-      "description": "Pad Thai -reseptin kuvaus."
-    },
-    "crepesName": {
-      "text": "Ranskalaiset vohvelit",
-      "description": "Ranskalaiset vohvelit -reseptin nimi."
-    },
-    "crepesDescription": {
-      "text": "Ohuet, herkät vohvelit, jotka on täytetty Nutellalla, tuoreilla mansikoilla ja kermavaahdolla.",
-      "description": "Ranskalaiset vohvelit -reseptin kuvaus."
-    }
+  "home_page_hero_title": {
+    "text": "Tutustu Maailman Makuisiin",
+    "description": "Päänosto kotisivun hero-osiossa."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Kieli",
-      "description": "Esteetön tunniste kielivalitsimelle otsikossa."
-    },
-    "en": {
-      "text": "Englanti",
-      "description": "Englannin kielen valinta kielivalitsimessa."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanin kielen valinta kielivalitsimessa."
-    },
-    "es": {
-      "text": "Espanja",
-      "description": "Espanjan kielen valinta kielivalitsimessa."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Selaa aitoja reseptejä keittiöistä ympäri maailmaa",
+    "description": "Alaotsikko, joka näkyy hero-otsikon alla kotisivulla."
+  },
+  "home_page_featured_title": {
+    "text": "Esitellyt Reseptit",
+    "description": "Osion otsikko, joka näkyy reseptikorttien ruudukon yläpuolella."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Kypsennysaika reseptikortissa. {minutes} korvataan minuuttien määrällä."
+  },
+  "recipe_card_difficulty": {
+    "text": "Vaikeustaso",
+    "description": "Teksti, joka näkyy ennen vaikeustason ilmoitusta reseptikortissa."
+  },
+  "recipe_card_easy": {
+    "text": "Helppo",
+    "description": "Vaikeustason merkintä, joka osoittaa helpon reseptin."
+  },
+  "recipe_card_medium": {
+    "text": "Keskitaso",
+    "description": "Vaikeustason merkintä, joka osoittaa keskivaikean reseptin."
+  },
+  "recipe_card_hard": {
+    "text": "Vaikea",
+    "description": "Vaikeustason merkintä, joka osoittaa vaikean reseptin."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen -reseptin nimi."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rikas sianluuliemi, jossa on mureaa chashua, pehmeäkeitetty kananmuna ja tuoreita nuudeleita.",
+    "description": "Tonkotsu Ramen -reseptin kuvaus."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita-pizza",
+    "description": "Margherita-pizza reseptin nimi."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Perinteinen neapolilainen pizza San Marzano -tomaateilla, tuoreella mozzarellalla ja basilikalla.",
+    "description": "Margherita-pizza reseptin kuvaus."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor -reseptin nimi."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinoidut possutacot ananaksella, korianterilla ja sipulilla maissitortilloilla.",
+    "description": "Tacos al Pastor -reseptin kuvaus."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken -reseptin nimi."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mureaa kanaa kermainen tomaatti-voikastikkeessa aromaattisilla mausteilla.",
+    "description": "Butter Chicken -reseptin kuvaus."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai -reseptin nimi."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Paistetut riisinuudelit katkaravuilla, tofulla, maapähkinöillä ja tamarindikastikkeella.",
+    "description": "Pad Thai -reseptin kuvaus."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Ranskalaiset vohvelit",
+    "description": "Ranskalaiset vohvelit -reseptin nimi."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Ohuet, herkät vohvelit, jotka on täytetty Nutellalla, tuoreilla mansikoilla ja kermavaahdolla.",
+    "description": "Ranskalaiset vohvelit -reseptin kuvaus."
+  },
+  "locale_switcher_label": {
+    "text": "Kieli",
+    "description": "Esteetön tunniste kielivalitsimelle otsikossa."
+  },
+  "locale_switcher_en": {
+    "text": "Englanti",
+    "description": "Englannin kielen valinta kielivalitsimessa."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanin kielen valinta kielivalitsimessa."
+  },
+  "locale_switcher_es": {
+    "text": "Espanja",
+    "description": "Espanjan kielen valinta kielivalitsimessa."
   }
 }

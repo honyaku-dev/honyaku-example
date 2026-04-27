@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Duniya Kunbɛn",
-      "description": "App kan ka tile ye header fila. Kunbɛn bɛɛ ta ka fɛ ka taa fɔlɔw ka taa duniyaya kunbɛn."
-    },
-    "subtitle": {
-      "text": "Kunbɛn bɛɛ ta duniyaya fɛ",
-      "description": "Tagline kan ka tile app tile fila kɔrɔ ka header fila."
-    }
+  "header_title": {
+    "text": "Duniya Kunbɛn",
+    "description": "App kan ka tile ye header fila. Kunbɛn bɛɛ ta ka fɛ ka taa fɔlɔw ka taa duniyaya kunbɛn."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Duniyaya Sigilen Kunbɛn Yɔrɔ",
-      "description": "Fɔlɔw fila ka home page hero section fila."
-    },
-    "heroSubtitle": {
-      "text": "Duniyaya kunbɛn kɛnɛ bɛɛ ta sigilen kunbɛn bɛɛ fɔlɔw",
-      "description": "Subtitle kan ka tile hero heading fila ka home page fila."
-    },
-    "featuredTitle": {
-      "text": "Kunbɛn Fɔlɔw",
-      "description": "Section fila ka tile recipe card grid fila."
-    }
+  "header_subtitle": {
+    "text": "Kunbɛn bɛɛ ta duniyaya fɛ",
+    "description": "Tagline kan ka tile app tile fila kɔrɔ ka header fila."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Kunbɛn kɔrɔ fila ka recipe card fila. {minutes} bɛ tile minitɛ kɔrɔ."
-    },
-    "difficulty": {
-      "text": "Kunbɛn Kɔnɔ",
-      "description": "Label kan ka tile recipe card fila kunbɛn kɔnɔ kɛla fila."
-    },
-    "easy": {
-      "text": "Kɔnɔ",
-      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw ye."
-    },
-    "medium": {
-      "text": "Kɔnɔ Kuru",
-      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw kɛnɛya kɔnɔ ye."
-    },
-    "hard": {
-      "text": "Kɔnɔ Dugu",
-      "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw duguba ye."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen recipe minɛ."
-    },
-    "ramenDescription": {
-      "text": "Kɛnɛya furu fɛrɛ kelen chashu ye, sigi nyɛlen furu, ni sigi kun bɛɛ ye.",
-      "description": "Tonkotsu Ramen recipe minɛ ka kɔrɔ."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza recipe minɛ."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano tomati, sigi mozzarella, ni basil bɛɛ la Neapolitan pizza kɛra.",
-      "description": "Margherita Pizza recipe minɛ ka kɔrɔ."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor recipe minɛ."
-    },
-    "tacosDescription": {
-      "text": "Anana, cilantro, ni onion kɛla ma sigi pork tacos bɛɛ la corn tortillas kɛra.",
-      "description": "Tacos al Pastor recipe minɛ ka kɔrɔ."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken recipe minɛ."
-    },
-    "butterChickenDescription": {
-      "text": "Lafiyɛ furu kɛla ni tomati ni butter sauce kɛra, ni sigi mankɛman kɛra.",
-      "description": "Butter Chicken recipe minɛ ka kɔrɔ."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai recipe minɛ."
-    },
-    "padThaiDescription": {
-      "text": "Sigi nyɛlen furu kɛra, shrimp, tofu, peanuts, ni tamarind sauce bɛɛ la.",
-      "description": "Pad Thai recipe minɛ ka kɔrɔ."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "French Crepes recipe minɛ."
-    },
-    "crepesDescription": {
-      "text": "Thin, sigi yera crepes bɛɛ la Nutella, sigi strawberries, ni whipped cream bɛɛ ye.",
-      "description": "French Crepes recipe minɛ ka kɔrɔ."
-    }
+  "home_page_hero_title": {
+    "text": "Duniyaya Sigilen Kunbɛn Yɔrɔ",
+    "description": "Fɔlɔw fila ka home page hero section fila."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Kɛnɛya",
-      "description": "Accessible label kan ka language switcher dropdown fila header fila."
-    },
-    "en": {
-      "text": "Angilɛ",
-      "description": "Angilɛ kɛnɛya fila ka locale switcher fila."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japani kɛnɛya fila ka locale switcher fila."
-    },
-    "es": {
-      "text": "Sipanyɔlɛ",
-      "description": "Sipanyɔlɛ kɛnɛya fila ka locale switcher fila."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Duniyaya kunbɛn kɛnɛ bɛɛ ta sigilen kunbɛn bɛɛ fɔlɔw",
+    "description": "Subtitle kan ka tile hero heading fila ka home page fila."
+  },
+  "home_page_featured_title": {
+    "text": "Kunbɛn Fɔlɔw",
+    "description": "Section fila ka tile recipe card grid fila."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Kunbɛn kɔrɔ fila ka recipe card fila. {minutes} bɛ tile minitɛ kɔrɔ."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kunbɛn Kɔnɔ",
+    "description": "Label kan ka tile recipe card fila kunbɛn kɔnɔ kɛla fila."
+  },
+  "recipe_card_easy": {
+    "text": "Kɔnɔ",
+    "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw ye."
+  },
+  "recipe_card_medium": {
+    "text": "Kɔnɔ Kuru",
+    "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw kɛnɛya kɔnɔ ye."
+  },
+  "recipe_card_hard": {
+    "text": "Kɔnɔ Dugu",
+    "description": "Kunbɛn kɔnɔ kan ka tile kunbɛn bɛɛ fɔlɔw duguba ye."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen recipe minɛ."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Kɛnɛya furu fɛrɛ kelen chashu ye, sigi nyɛlen furu, ni sigi kun bɛɛ ye.",
+    "description": "Tonkotsu Ramen recipe minɛ ka kɔrɔ."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza recipe minɛ."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano tomati, sigi mozzarella, ni basil bɛɛ la Neapolitan pizza kɛra.",
+    "description": "Margherita Pizza recipe minɛ ka kɔrɔ."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor recipe minɛ."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Anana, cilantro, ni onion kɛla ma sigi pork tacos bɛɛ la corn tortillas kɛra.",
+    "description": "Tacos al Pastor recipe minɛ ka kɔrɔ."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken recipe minɛ."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Lafiyɛ furu kɛla ni tomati ni butter sauce kɛra, ni sigi mankɛman kɛra.",
+    "description": "Butter Chicken recipe minɛ ka kɔrɔ."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai recipe minɛ."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Sigi nyɛlen furu kɛra, shrimp, tofu, peanuts, ni tamarind sauce bɛɛ la.",
+    "description": "Pad Thai recipe minɛ ka kɔrɔ."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "French Crepes recipe minɛ."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Thin, sigi yera crepes bɛɛ la Nutella, sigi strawberries, ni whipped cream bɛɛ ye.",
+    "description": "French Crepes recipe minɛ ka kɔrɔ."
+  },
+  "locale_switcher_label": {
+    "text": "Kɛnɛya",
+    "description": "Accessible label kan ka language switcher dropdown fila header fila."
+  },
+  "locale_switcher_en": {
+    "text": "Angilɛ",
+    "description": "Angilɛ kɛnɛya fila ka locale switcher fila."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japani kɛnɛya fila ka locale switcher fila."
+  },
+  "locale_switcher_es": {
+    "text": "Sipanyɔlɛ",
+    "description": "Sipanyɔlɛ kɛnɛya fila ka locale switcher fila."
   }
 }

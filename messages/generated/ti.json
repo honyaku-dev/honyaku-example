@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "ዓለም ኩኪን",
-      "description": "በራስ ክፍል የሚታይ የመተግበሪያ ስም። ለዓለም ምግቦች የምግብ አሳያ መተግበሪያ።"
-    },
-    "subtitle": {
-      "text": "ከዓለም አቀፍ ቦታዎች ውስጥ ምግብ ያግኙ",
-      "description": "በራስ ክፍል በመተግበሪያ ስም በታች የሚታይ አርእስት።"
-    }
+  "header_title": {
+    "text": "ዓለም ኩኪን",
+    "description": "በራስ ክፍል የሚታይ የመተግበሪያ ስም። ለዓለም ምግቦች የምግብ አሳያ መተግበሪያ።"
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "ዓለም አቀፍ ጣዕሞችን ያስሱ",
-      "description": "በመነሻ ገጽ ዋና ርዕስ በሂሮ ክፍል።"
-    },
-    "heroSubtitle": {
-      "text": "ከዓለም አቀፍ ኩኪኖች የተለያዩ እውነተኛ የምግብ አሰራሮችን ያስዉሱ",
-      "description": "በመነሻ ገጽ ሂሮ ርዕስ በታች የሚታይ ንዑስ ርዕስ።"
-    },
-    "featuredTitle": {
-      "text": "ተለዋዋጭ የምግብ አሰራሮች",
-      "description": "ከምግብ ካርድ መስቀል ከፍ የሚታይ ክፍል ርዕስ።"
-    }
+  "header_subtitle": {
+    "text": "ከዓለም አቀፍ ቦታዎች ውስጥ ምግብ ያግኙ",
+    "description": "በራስ ክፍል በመተግበሪያ ስም በታች የሚታይ አርእስት።"
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} ደቂቃ",
-      "description": "በምግብ ካርድ ላይ የምግብ ማብሰል ሰዓት። {minutes} በደቂቃ ቁጥር ይተካል።"
-    },
-    "difficulty": {
-      "text": "ከባድነት",
-      "description": "በምግብ ካርድ ላይ ከባድነት ደረጃ በፊት የሚታይ መለያ።"
-    },
-    "easy": {
-      "text": "ቀላል",
-      "description": "ቀላል የሆነ የምግብ አሰራር ከባድነት መለያ።"
-    },
-    "medium": {
-      "text": "መካከለኛ",
-      "description": "መካከለኛ ከባድነት ያለው የምግብ አሰራር መለያ።"
-    },
-    "hard": {
-      "text": "ከባድ",
-      "description": "ከባድ የሆነ የምግብ አሰራር መለያ።"
-    },
-    "ramenName": {
-      "text": "ቶንኮቱስ ራሜን",
-      "description": "ስም ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
-    },
-    "ramenDescription": {
-      "text": "ባህርያዊ ድንች ኣንባሳይ ጭራሽ ሻሹ፣ ሰላማዊ እንቁላል እና ናይ ናይነት ኖድልስ ዝተሰራሕ ማይጨርር ስርዓት።",
-      "description": "መግለጺ ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
-    },
-    "margheritaName": {
-      "text": "ማርገሪታ ፒዛ",
-      "description": "ስም ናይ ማርገሪታ ፒዛ ክረፍቲ።"
-    },
-    "margheritaDescription": {
-      "text": "ክላሲክ ኒያፖሊታን ፒዛ ከም ሳን ማርዛኖ ቶማቶች፣ ናይ ናይነት ሞዝየራላ እና ባዚል።",
-      "description": "መግለጺ ናይ ማርገሪታ ፒዛ ክረፍቲ።"
-    },
-    "tacosName": {
-      "text": "ታኮስ ኣል ፓስተር",
-      "description": "ስም ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
-    },
-    "tacosDescription": {
-      "text": "ዝተሰማማቱ ድንች ታኮሶች ከም ፓይናፕል፣ ሲላንትሮ፣ እና ሽንኩርት ብኮርን ቶርቲላስ።",
-      "description": "መግለጺ ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
-    },
-    "butterChickenName": {
-      "text": "ባተር ቺክን",
-      "description": "ስም ናይ ባተር ቺክን ክረፍቲ።"
-    },
-    "butterChickenDescription": {
-      "text": "በግ ስጋ ብርታዕ ቶማቶ እና ባተር ሳስ ኣብ ንመንጋታዊ ቅመምታት ዝተሰራሕ።",
-      "description": "መግለጺ ናይ ባተር ቺክን ክረፍቲ።"
-    },
-    "padThaiName": {
-      "text": "ፓድ ታይ",
-      "description": "ስም ናይ ፓድ ታይ ክረፍቲ።"
-    },
-    "padThaiDescription": {
-      "text": "በዝግ እንቁላል ኖድልስ ኣብ ዝተሰራሕ ሽሪም፣ ቶፉ፣ አንቄሊን እና ታማሪንድ ሳስ።",
-      "description": "መግለጺ ናይ ፓድ ታይ ክረፍቲ።"
-    },
-    "crepesName": {
-      "text": "ፈረንሳይ ክሬፕስ",
-      "description": "ስም ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
-    },
-    "crepesDescription": {
-      "text": "አርከትና ዝኾነ ክሬፕስ ብኑተላ፣ ናይነት ስትራበሪዎች እና ዝተፈነጠ ክሬም ዝተሞላ።",
-      "description": "መግለጺ ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
-    }
+  "home_page_hero_title": {
+    "text": "ዓለም አቀፍ ጣዕሞችን ያስሱ",
+    "description": "በመነሻ ገጽ ዋና ርዕስ በሂሮ ክፍል።"
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ቋንቋ",
-      "description": "በራስ ክፍል የቋንቋ ለውጥ ዝርዝር ለማሳያ ተደላላፊ መለያ።"
-    },
-    "en": {
-      "text": "እንግሊዝኛ",
-      "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የእንግሊዝኛ አማራጭ።"
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የጃፓንኛ አማራጭ።"
-    },
-    "es": {
-      "text": "ስፓኒሽ",
-      "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የስፓኒሽ አማራጭ።"
-    }
+  "home_page_hero_subtitle": {
+    "text": "ከዓለም አቀፍ ኩኪኖች የተለያዩ እውነተኛ የምግብ አሰራሮችን ያስዉሱ",
+    "description": "በመነሻ ገጽ ሂሮ ርዕስ በታች የሚታይ ንዑስ ርዕስ።"
+  },
+  "home_page_featured_title": {
+    "text": "ተለዋዋጭ የምግብ አሰራሮች",
+    "description": "ከምግብ ካርድ መስቀል ከፍ የሚታይ ክፍል ርዕስ።"
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} ደቂቃ",
+    "description": "በምግብ ካርድ ላይ የምግብ ማብሰል ሰዓት። {minutes} በደቂቃ ቁጥር ይተካል።"
+  },
+  "recipe_card_difficulty": {
+    "text": "ከባድነት",
+    "description": "በምግብ ካርድ ላይ ከባድነት ደረጃ በፊት የሚታይ መለያ።"
+  },
+  "recipe_card_easy": {
+    "text": "ቀላል",
+    "description": "ቀላል የሆነ የምግብ አሰራር ከባድነት መለያ።"
+  },
+  "recipe_card_medium": {
+    "text": "መካከለኛ",
+    "description": "መካከለኛ ከባድነት ያለው የምግብ አሰራር መለያ።"
+  },
+  "recipe_card_hard": {
+    "text": "ከባድ",
+    "description": "ከባድ የሆነ የምግብ አሰራር መለያ።"
+  },
+  "recipe_card_ramen_name": {
+    "text": "ቶንኮቱስ ራሜን",
+    "description": "ስም ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
+  },
+  "recipe_card_ramen_description": {
+    "text": "ባህርያዊ ድንች ኣንባሳይ ጭራሽ ሻሹ፣ ሰላማዊ እንቁላል እና ናይ ናይነት ኖድልስ ዝተሰራሕ ማይጨርር ስርዓት።",
+    "description": "መግለጺ ናይ ቶንኮቱስ ራሜን ክረፍቲ።"
+  },
+  "recipe_card_margherita_name": {
+    "text": "ማርገሪታ ፒዛ",
+    "description": "ስም ናይ ማርገሪታ ፒዛ ክረፍቲ።"
+  },
+  "recipe_card_margherita_description": {
+    "text": "ክላሲክ ኒያፖሊታን ፒዛ ከም ሳን ማርዛኖ ቶማቶች፣ ናይ ናይነት ሞዝየራላ እና ባዚል።",
+    "description": "መግለጺ ናይ ማርገሪታ ፒዛ ክረፍቲ።"
+  },
+  "recipe_card_tacos_name": {
+    "text": "ታኮስ ኣል ፓስተር",
+    "description": "ስም ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
+  },
+  "recipe_card_tacos_description": {
+    "text": "ዝተሰማማቱ ድንች ታኮሶች ከም ፓይናፕል፣ ሲላንትሮ፣ እና ሽንኩርት ብኮርን ቶርቲላስ።",
+    "description": "መግለጺ ናይ ታኮስ ኣል ፓስተር ክረፍቲ።"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "ባተር ቺክን",
+    "description": "ስም ናይ ባተር ቺክን ክረፍቲ።"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "በግ ስጋ ብርታዕ ቶማቶ እና ባተር ሳስ ኣብ ንመንጋታዊ ቅመምታት ዝተሰራሕ።",
+    "description": "መግለጺ ናይ ባተር ቺክን ክረፍቲ።"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "ፓድ ታይ",
+    "description": "ስም ናይ ፓድ ታይ ክረፍቲ።"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "በዝግ እንቁላል ኖድልስ ኣብ ዝተሰራሕ ሽሪም፣ ቶፉ፣ አንቄሊን እና ታማሪንድ ሳስ።",
+    "description": "መግለጺ ናይ ፓድ ታይ ክረፍቲ።"
+  },
+  "recipe_card_crepes_name": {
+    "text": "ፈረንሳይ ክሬፕስ",
+    "description": "ስም ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
+  },
+  "recipe_card_crepes_description": {
+    "text": "አርከትና ዝኾነ ክሬፕስ ብኑተላ፣ ናይነት ስትራበሪዎች እና ዝተፈነጠ ክሬም ዝተሞላ።",
+    "description": "መግለጺ ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
+  },
+  "locale_switcher_label": {
+    "text": "ቋንቋ",
+    "description": "በራስ ክፍል የቋንቋ ለውጥ ዝርዝር ለማሳያ ተደላላፊ መለያ።"
+  },
+  "locale_switcher_en": {
+    "text": "እንግሊዝኛ",
+    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የእንግሊዝኛ አማራጭ።"
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የጃፓንኛ አማራጭ።"
+  },
+  "locale_switcher_es": {
+    "text": "ስፓኒሽ",
+    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የስፓኒሽ አማራጭ።"
   }
 }

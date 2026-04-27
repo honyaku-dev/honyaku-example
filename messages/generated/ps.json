@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "نړۍ پخلنځی",
-      "description": "د اپلیکیشن نوم چې په سرلیک کې ښودل شوی. د نړۍ د خوړو ترکیب موندلو اپلیکیشن."
-    },
-    "subtitle": {
-      "text": "د نړۍ له ګوټ ګوټ څخه ترکیبونه ومومئ",
-      "description": "ټګ لاین چې د اپلیکیشن نوم لاندې په سرلیک کې ښودل شوی."
-    }
+  "header_title": {
+    "text": "نړۍ پخلنځی",
+    "description": "د اپلیکیشن نوم چې په سرلیک کې ښودل شوی. د نړۍ د خوړو ترکیب موندلو اپلیکیشن."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "نړیوال خوندونه وپلټئ",
-      "description": "د کور پاڼې په هیرو برخه کې اصلي سرلیک."
-    },
-    "heroSubtitle": {
-      "text": "د نړۍ له پخلنځیو څخه ریښتیني ترکیبونه وګورئ",
-      "description": "د کور پاڼې په هیرو سرلیک لاندې ښودل شوی فرعي سرلیک متن."
-    },
-    "featuredTitle": {
-      "text": "ځلانده ترکیبونه",
-      "description": "د ترکیب کارت ګریډ څخه پورته ښودل شوی د برخې سرلیک."
-    }
+  "header_subtitle": {
+    "text": "د نړۍ له ګوټ ګوټ څخه ترکیبونه ومومئ",
+    "description": "ټګ لاین چې د اپلیکیشن نوم لاندې په سرلیک کې ښودل شوی."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} دقیقې",
-      "description": "د ترکیب کارت کې د پخلي وخت لیبل. {minutes} د دقیقو شمېر سره ځای ناستی کیږي."
-    },
-    "difficulty": {
-      "text": "سختي",
-      "description": "د ترکیب کارت کې د سختۍ کچه وړاندې کولو لپاره لیبل."
-    },
-    "easy": {
-      "text": "اسانه",
-      "description": "د اسانه ترکیب د سختۍ کچه لیبل."
-    },
-    "medium": {
-      "text": "منځنی",
-      "description": "د منځنۍ سختۍ کچه د ترکیب لیبل."
-    },
-    "hard": {
-      "text": "سخت",
-      "description": "د سخت ترکیب د سختۍ کچه لیبل."
-    },
-    "ramenName": {
-      "text": "ټونکوتسو رامین",
-      "description": "د ټونکوتسو رامین ترکیب نوم."
-    },
-    "ramenDescription": {
-      "text": "د خوږو خوسکي هډوکو شتمن یخنی د نرم چاشو، نرم پخلي هګۍ، او تازه نوډلز سره.",
-      "description": "د ټونکوتسو رامین ترکیب تشریح."
-    },
-    "margheritaName": {
-      "text": "مارګریټا پیزا",
-      "description": "د مارګریټا پیزا ترکیب نوم."
-    },
-    "margheritaDescription": {
-      "text": "کلاسیک نیپولیټان پیزا د سان مارزانو ټماټرو، تازه موزریلا، او تلسی سره.",
-      "description": "د مارګریټا پیزا ترکیب تشریح."
-    },
-    "tacosName": {
-      "text": "ټاکوس ال پاسټر",
-      "description": "د ټاکوس ال پاسټر ترکیب نوم."
-    },
-    "tacosDescription": {
-      "text": "مرین شوی خوسکي ټاکوس د اناناس، دانی، او پیاز سره په جوار ټورټیلا کې.",
-      "description": "د ټاکوس ال پاسټر ترکیب تشریح."
-    },
-    "butterChickenName": {
-      "text": "مکھن چرګ",
-      "description": "د مکھن چرګ ترکیب نوم."
-    },
-    "butterChickenDescription": {
-      "text": "نرم چرګ په کریمي ټماټر او مکھن ساس کې د خوشبويي مصالحو سره.",
-      "description": "د مکھن چرګ ترکیب تشریح."
-    },
-    "padThaiName": {
-      "text": "پډ ټای",
-      "description": "د پډ ټای ترکیب نوم."
-    },
-    "padThaiDescription": {
-      "text": "سره شوي وريژې نوډلز د جلبک، توفو، بادامو، او تمر هند ساس سره.",
-      "description": "د پډ ټای ترکیب تشریح."
-    },
-    "crepesName": {
-      "text": "فرانسوي کریپس",
-      "description": "د فرانسوي کریپس ترکیب نوم."
-    },
-    "crepesDescription": {
-      "text": "نرم، نازک کریپس چې د نوتیلا، تازه سټرابریو، او خټکي کریم سره ډک شوي دي.",
-      "description": "د فرانسوي کریپس ترکیب تشریح."
-    }
+  "home_page_hero_title": {
+    "text": "نړیوال خوندونه وپلټئ",
+    "description": "د کور پاڼې په هیرو برخه کې اصلي سرلیک."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ژبه",
-      "description": "د ژبې بدلولو ډراپډاون لپاره د لاسرسي وړ لیبل په سرلیک کې."
-    },
-    "en": {
-      "text": "انګلیسي",
-      "description": "په ژبې بدلولو کې د انګلیسي ژبې انتخاب."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "په ژبې بدلولو کې د جاپاني ژبې انتخاب."
-    },
-    "es": {
-      "text": "هسپانوي",
-      "description": "په ژبې بدلولو کې د هسپانوي ژبې انتخاب."
-    }
+  "home_page_hero_subtitle": {
+    "text": "د نړۍ له پخلنځیو څخه ریښتیني ترکیبونه وګورئ",
+    "description": "د کور پاڼې په هیرو سرلیک لاندې ښودل شوی فرعي سرلیک متن."
+  },
+  "home_page_featured_title": {
+    "text": "ځلانده ترکیبونه",
+    "description": "د ترکیب کارت ګریډ څخه پورته ښودل شوی د برخې سرلیک."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} دقیقې",
+    "description": "د ترکیب کارت کې د پخلي وخت لیبل. {minutes} د دقیقو شمېر سره ځای ناستی کیږي."
+  },
+  "recipe_card_difficulty": {
+    "text": "سختي",
+    "description": "د ترکیب کارت کې د سختۍ کچه وړاندې کولو لپاره لیبل."
+  },
+  "recipe_card_easy": {
+    "text": "اسانه",
+    "description": "د اسانه ترکیب د سختۍ کچه لیبل."
+  },
+  "recipe_card_medium": {
+    "text": "منځنی",
+    "description": "د منځنۍ سختۍ کچه د ترکیب لیبل."
+  },
+  "recipe_card_hard": {
+    "text": "سخت",
+    "description": "د سخت ترکیب د سختۍ کچه لیبل."
+  },
+  "recipe_card_ramen_name": {
+    "text": "ټونکوتسو رامین",
+    "description": "د ټونکوتسو رامین ترکیب نوم."
+  },
+  "recipe_card_ramen_description": {
+    "text": "د خوږو خوسکي هډوکو شتمن یخنی د نرم چاشو، نرم پخلي هګۍ، او تازه نوډلز سره.",
+    "description": "د ټونکوتسو رامین ترکیب تشریح."
+  },
+  "recipe_card_margherita_name": {
+    "text": "مارګریټا پیزا",
+    "description": "د مارګریټا پیزا ترکیب نوم."
+  },
+  "recipe_card_margherita_description": {
+    "text": "کلاسیک نیپولیټان پیزا د سان مارزانو ټماټرو، تازه موزریلا، او تلسی سره.",
+    "description": "د مارګریټا پیزا ترکیب تشریح."
+  },
+  "recipe_card_tacos_name": {
+    "text": "ټاکوس ال پاسټر",
+    "description": "د ټاکوس ال پاسټر ترکیب نوم."
+  },
+  "recipe_card_tacos_description": {
+    "text": "مرین شوی خوسکي ټاکوس د اناناس، دانی، او پیاز سره په جوار ټورټیلا کې.",
+    "description": "د ټاکوس ال پاسټر ترکیب تشریح."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "مکھن چرګ",
+    "description": "د مکھن چرګ ترکیب نوم."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "نرم چرګ په کریمي ټماټر او مکھن ساس کې د خوشبويي مصالحو سره.",
+    "description": "د مکھن چرګ ترکیب تشریح."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "پډ ټای",
+    "description": "د پډ ټای ترکیب نوم."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "سره شوي وريژې نوډلز د جلبک، توفو، بادامو، او تمر هند ساس سره.",
+    "description": "د پډ ټای ترکیب تشریح."
+  },
+  "recipe_card_crepes_name": {
+    "text": "فرانسوي کریپس",
+    "description": "د فرانسوي کریپس ترکیب نوم."
+  },
+  "recipe_card_crepes_description": {
+    "text": "نرم، نازک کریپس چې د نوتیلا، تازه سټرابریو، او خټکي کریم سره ډک شوي دي.",
+    "description": "د فرانسوي کریپس ترکیب تشریح."
+  },
+  "locale_switcher_label": {
+    "text": "ژبه",
+    "description": "د ژبې بدلولو ډراپډاون لپاره د لاسرسي وړ لیبل په سرلیک کې."
+  },
+  "locale_switcher_en": {
+    "text": "انګلیسي",
+    "description": "په ژبې بدلولو کې د انګلیسي ژبې انتخاب."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "په ژبې بدلولو کې د جاپاني ژبې انتخاب."
+  },
+  "locale_switcher_es": {
+    "text": "هسپانوي",
+    "description": "په ژبې بدلولو کې د هسپانوي ژبې انتخاب."
   }
 }

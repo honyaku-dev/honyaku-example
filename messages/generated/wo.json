@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dëkkandoo Aduna",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Jàngalekat yu am solo jëm ci aduna",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Dëkkandoo Aduna",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Sàmm mbind mi ci aduna",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Tànnal jàngalekat yu am solo ci dëkkandoo yu aduna",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Jàngalekat yu am solo",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Jàngalekat yu am solo jëm ci aduna",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Sàkk",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Yagg",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Benn benn",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Jàmm ci njàmm",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tur gi ci Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Foñi biir bu rafet bu lekk ngelaw chashu bu rafet, ndoxu mburu, ak ñuul yu rafet.",
-      "description": "Tàmbali Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Tur gi ci Margherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan bu jàmm ak tomate San Marzano, mozzarella bu rafet, ak basil.",
-      "description": "Tàmbali Margherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tur gi ci Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos yu lekk ngelaw yu mariné ak pineappl, cilantro, ak onions ci tortillas bu mburu.",
-      "description": "Tàmbali Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Tur gi ci Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Ngelaw bu rafet ci sauce bu tomate ak beurre bu rafet ak épices yu rafet.",
-      "description": "Tàmbali Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Tur gi ci Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles yu lekk ci sauce ak shrimp, tofu, peanuts, ak tamarind.",
-      "description": "Tàmbali Pad Thai."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Tur gi ci French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes yu neex, yu lekk ci Nutella, strawberries yu rafet, ak cream bu xam xam.",
-      "description": "Tàmbali French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Sàmm mbind mi ci aduna",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lëngu",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "English",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Tànnal jàngalekat yu am solo ci dëkkandoo yu aduna",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Jàngalekat yu am solo",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Sàkk",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Yagg",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Benn benn",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Jàmm ci njàmm",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tur gi ci Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Foñi biir bu rafet bu lekk ngelaw chashu bu rafet, ndoxu mburu, ak ñuul yu rafet.",
+    "description": "Tàmbali Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Tur gi ci Margherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan bu jàmm ak tomate San Marzano, mozzarella bu rafet, ak basil.",
+    "description": "Tàmbali Margherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tur gi ci Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos yu lekk ngelaw yu mariné ak pineappl, cilantro, ak onions ci tortillas bu mburu.",
+    "description": "Tàmbali Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Tur gi ci Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ngelaw bu rafet ci sauce bu tomate ak beurre bu rafet ak épices yu rafet.",
+    "description": "Tàmbali Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Tur gi ci Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles yu lekk ci sauce ak shrimp, tofu, peanuts, ak tamarind.",
+    "description": "Tàmbali Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Tur gi ci French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes yu neex, yu lekk ci Nutella, strawberries yu rafet, ak cream bu xam xam.",
+    "description": "Tàmbali French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Lëngu",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

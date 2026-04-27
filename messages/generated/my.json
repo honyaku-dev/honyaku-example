@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "ကမ္ဘာအစားအစာမီးဖိုချောင်",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "ကမ္ဘာတစ်ဝှမ်းမှချက်ပြုတ်နည်းများကို ရှာဖွေကြပါစို့",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "ကမ္ဘာအစားအစာမီးဖိုချောင်",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "ကမ္ဘာလုံးဆိုင်ရာအရသာများကို ရှာဖွေပါ",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "ကမ္ဘာပတ်လုံးရှိ မူရင်းချက်ပြုတ်နည်းများကို ကြည့်ရှုပါ",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "အထူးဖော်ပြချက်ချက်ပြုတ်နည်းများ",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "ကမ္ဘာတစ်ဝှမ်းမှချက်ပြုတ်နည်းများကို ရှာဖွေကြပါစို့",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} မိနစ်",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "ခက်ခဲမှုပမာဏ",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "လွယ်ကူသည်",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "အလယ်အလတ်",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "ခက်ခဲသည်",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "တုံကော့ဆူ ရာမင်",
-      "description": "တုံကော့ဆူ ရာမင် ချက်ပြုတ်နည်းအမည်။"
-    },
-    "ramenDescription": {
-      "text": "အသားနူးတဲ့ချာရှူး၊ နူးညံ့တဲ့မြစ်ဥနဲ့ အသားနံ့ကောင်းတဲ့ ဝက်အရိုးရည်စပ်တောင့်၊ ပြောင်းလဲသွားတဲ့ နူဒယ်များပါသော ကြွယ်ဝသော ဝက်အရိုးရည်။",
-      "description": "တုံကော့ဆူ ရာမင် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    },
-    "margheritaName": {
-      "text": "မာဂျီရီတာ ပီဇာ",
-      "description": "မာဂျီရီတာ ပီဇာ ချက်ပြုတ်နည်းအမည်။"
-    },
-    "margheritaDescription": {
-      "text": "စန်းမာဇာနို ခရမ်းချဥ်သီး၊ အသစ်ပြုတ် မိုဇာရေးလာ ချိစ်နဲ့ ဘာဆီလ်ပါသည့် နီအပိုလီတန် ပီဇာရိုးရာ။",
-      "description": "မာဂျီရီတာ ပီဇာ ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    },
-    "tacosName": {
-      "text": "တာကို အယ်လ် ပါစတာ",
-      "description": "တာကို အယ်လ် ပါစတာ ချက်ပြုတ်နည်းအမည်။"
-    },
-    "tacosDescription": {
-      "text": "ဖရဲသီး၊ ဆီလန်ထရွ်၊ ကြက်သွန်ဖြူများဖြင့် ချက်ဆီထည့်ထားသော ဝက်သား တာကိုများကို ကော်န်းသရေစာပေါ်တွင် ထည့်ထားသည်။",
-      "description": "တာကို အယ်လ် ပါစတာ ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    },
-    "butterChickenName": {
-      "text": "ပျားရည်ကြက်သား",
-      "description": "ပျားရည်ကြက်သား ချက်ပြုတ်နည်းအမည်။"
-    },
-    "butterChickenDescription": {
-      "text": "နူးညံ့သော ကြက်သားကို ချဉ်စပ်သော ခရမ်းချဉ်သီး၊ ပျားရည်ရောစပ်ထားသည့် အရသာပြင်းသော အခွံရည်နှင့် ဖျော်ရည်အရသာစပ်သည်။",
-      "description": "ပျားရည်ကြက်သား ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    },
-    "padThaiName": {
-      "text": "ပါဒ် ထိုင်",
-      "description": "ပါဒ် ထိုင် ချက်ပြုတ်နည်းအမည်။"
-    },
-    "padThaiDescription": {
-      "text": "ပုစွန်၊ တို့ဖူး၊ ကြာဇံပဲနဲ့ သံပရာရည်ကို အသုံးပြုပြီး ကြော်ထားသော ထိုင်းနူဒယ်များ။",
-      "description": "ပါဒ် ထိုင် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    },
-    "crepesName": {
-      "text": "ပြင်သစ် ခရက်ပ်",
-      "description": "ပြင်သစ် ခရက်ပ် ချက်ပြုတ်နည်းအမည်။"
-    },
-    "crepesDescription": {
-      "text": "နူးညံ့ပါးလွှာသော ခရက်ပ်များကို နူတဲလာ၊ အသစ်ပြုတ် စတော်ဘယ်ရီနဲ့ ဂျွပ်ထွက်ထားသော အရည်ဖြင့် ပြည့်စုံစွာ ပြုလုပ်ထားသည်။",
-      "description": "ပြင်သစ် ခရက်ပ် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-    }
+  "home_page_hero_title": {
+    "text": "ကမ္ဘာလုံးဆိုင်ရာအရသာများကို ရှာဖွေပါ",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ဘာသာစကား",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "အင်္ဂလိပ်",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "စပိန်",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "ကမ္ဘာပတ်လုံးရှိ မူရင်းချက်ပြုတ်နည်းများကို ကြည့်ရှုပါ",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "အထူးဖော်ပြချက်ချက်ပြုတ်နည်းများ",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} မိနစ်",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "ခက်ခဲမှုပမာဏ",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "လွယ်ကူသည်",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "အလယ်အလတ်",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "ခက်ခဲသည်",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "တုံကော့ဆူ ရာမင်",
+    "description": "တုံကော့ဆူ ရာမင် ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_ramen_description": {
+    "text": "အသားနူးတဲ့ချာရှူး၊ နူးညံ့တဲ့မြစ်ဥနဲ့ အသားနံ့ကောင်းတဲ့ ဝက်အရိုးရည်စပ်တောင့်၊ ပြောင်းလဲသွားတဲ့ နူဒယ်များပါသော ကြွယ်ဝသော ဝက်အရိုးရည်။",
+    "description": "တုံကော့ဆူ ရာမင် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "recipe_card_margherita_name": {
+    "text": "မာဂျီရီတာ ပီဇာ",
+    "description": "မာဂျီရီတာ ပီဇာ ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_margherita_description": {
+    "text": "စန်းမာဇာနို ခရမ်းချဥ်သီး၊ အသစ်ပြုတ် မိုဇာရေးလာ ချိစ်နဲ့ ဘာဆီလ်ပါသည့် နီအပိုလီတန် ပီဇာရိုးရာ။",
+    "description": "မာဂျီရီတာ ပီဇာ ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "recipe_card_tacos_name": {
+    "text": "တာကို အယ်လ် ပါစတာ",
+    "description": "တာကို အယ်လ် ပါစတာ ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_tacos_description": {
+    "text": "ဖရဲသီး၊ ဆီလန်ထရွ်၊ ကြက်သွန်ဖြူများဖြင့် ချက်ဆီထည့်ထားသော ဝက်သား တာကိုများကို ကော်န်းသရေစာပေါ်တွင် ထည့်ထားသည်။",
+    "description": "တာကို အယ်လ် ပါစတာ ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "ပျားရည်ကြက်သား",
+    "description": "ပျားရည်ကြက်သား ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "နူးညံ့သော ကြက်သားကို ချဉ်စပ်သော ခရမ်းချဉ်သီး၊ ပျားရည်ရောစပ်ထားသည့် အရသာပြင်းသော အခွံရည်နှင့် ဖျော်ရည်အရသာစပ်သည်။",
+    "description": "ပျားရည်ကြက်သား ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "ပါဒ် ထိုင်",
+    "description": "ပါဒ် ထိုင် ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "ပုစွန်၊ တို့ဖူး၊ ကြာဇံပဲနဲ့ သံပရာရည်ကို အသုံးပြုပြီး ကြော်ထားသော ထိုင်းနူဒယ်များ။",
+    "description": "ပါဒ် ထိုင် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "recipe_card_crepes_name": {
+    "text": "ပြင်သစ် ခရက်ပ်",
+    "description": "ပြင်သစ် ခရက်ပ် ချက်ပြုတ်နည်းအမည်။"
+  },
+  "recipe_card_crepes_description": {
+    "text": "နူးညံ့ပါးလွှာသော ခရက်ပ်များကို နူတဲလာ၊ အသစ်ပြုတ် စတော်ဘယ်ရီနဲ့ ဂျွပ်ထွက်ထားသော အရည်ဖြင့် ပြည့်စုံစွာ ပြုလုပ်ထားသည်။",
+    "description": "ပြင်သစ် ခရက်ပ် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
+  },
+  "locale_switcher_label": {
+    "text": "ဘာသာစကား",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "အင်္ဂလိပ်",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "စပိန်",
+    "description": "Spanish language option in the locale switcher."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Wiase Mmaadwo",
-      "description": "App din a ɛda header no so. Adidibea a wɔhwehwɛ aduan a ɛfiri wiase nyinaa."
-    },
-    "subtitle": {
-      "text": "Hwehwɛ aduan fi wiase nyinaa mu",
-      "description": "Tagline a ɛda app din ase wɔ header no mu."
-    }
+  "header_title": {
+    "text": "Wiase Mmaadwo",
+    "description": "App din a ɛda header no so. Adidibea a wɔhwehwɛ aduan a ɛfiri wiase nyinaa."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Hwehwɛ Wiase Mmaadwo Nkyene",
-      "description": "Titire kɛse a ɛda home page hero beae no so."
-    },
-    "heroSubtitle": {
-      "text": "Hwɛ nokware aduan a ɛfiri wiase mmaadwo mu",
-      "description": "Subtitle a ɛda hero titire ase wɔ home page no so."
-    },
-    "featuredTitle": {
-      "text": "Aduan a Wɔahyɛ Mu",
-      "description": "Beae titire a ɛda aduan kɔd no so wɔ grid no anim."
-    }
+  "header_subtitle": {
+    "text": "Hwehwɛ aduan fi wiase nyinaa mu",
+    "description": "Tagline a ɛda app din ase wɔ header no mu."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Bere a wɔfa so yɛ aduan no wɔ aduan kɔd no so. {minutes} de bɛkyerɛ bere no a ɛda mu."
-    },
-    "difficulty": {
-      "text": "Ɛyɛ den",
-      "description": "Label a ɛda aduan ho den a ɛwɔ aduan kɔd no so anim."
-    },
-    "easy": {
-      "text": "Mɛyɛ mmerɛ",
-      "description": "Den a ɛkyerɛ sɛ aduan no yɛ mmerɛ."
-    },
-    "medium": {
-      "text": "Mfinimfini",
-      "description": "Den a ɛkyerɛ sɛ aduan no yɛ mfinimfini den."
-    },
-    "hard": {
-      "text": "Dɛn",
-      "description": "Den a ɛkyerɛ sɛ aduan no yɛ dɛn paa."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen nkyerɛase din."
-    },
-    "ramenDescription": {
-      "text": "Nnuaba a wɔde pork bone broth a ɛdɔɔso yɛ, chashu a ɛyɛ mmerɛ, kosua a wɔbɔ wɔn mu hyɛ no, ne nnuaba foforo.",
-      "description": "Tonkotsu Ramen nkyerɛase."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza nkyerɛase din."
-    },
-    "margheritaDescription": {
-      "text": "Neapolitan pizza a ɛyɛ dɛ a wɔde San Marzano nkyene, mozzarella foforo, ne basil.",
-      "description": "Margherita Pizza nkyerɛase."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor nkyerɛase din."
-    },
-    "tacosDescription": {
-      "text": "Pork a wɔde ankaa, cilantro, ne ankaa nkyene wɔ corn tortillas so.",
-      "description": "Tacos al Pastor nkyerɛase."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken nkyerɛase din."
-    },
-    "butterChickenDescription": {
-      "text": "Akokɔ a ɛyɛ mmerɛ wɔ tomato ne nkuto a ɛyɛ creamy mu a wɔde nsɛm a ɛyɛ fɛfɛɛfɛ ka ho.",
-      "description": "Butter Chicken nkyerɛase."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai nkyerɛase din."
-    },
-    "padThaiDescription": {
-      "text": "Rice noodles a wɔde shrimp, tofu, nkateɛ, ne tamarind sauce bɔ mu.",
-      "description": "Pad Thai nkyerɛase."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "French Crepes nkyerɛase din."
-    },
-    "crepesDescription": {
-      "text": "Crepes a ɛyɛ fine na ɛyɛ fɛfɛɛfɛ a wɔde Nutella, strawberries foforo, ne whipped cream hyɛ mu.",
-      "description": "French Crepes nkyerɛase."
-    }
+  "home_page_hero_title": {
+    "text": "Hwehwɛ Wiase Mmaadwo Nkyene",
+    "description": "Titire kɛse a ɛda home page hero beae no so."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Kasa",
-      "description": "Label a ɛda kasa a wɔbɛsesaw no anim wɔ header no mu."
-    },
-    "en": {
-      "text": "Borɔfo",
-      "description": "Borɔfo kasa a ɛda kasa a wɔbɛsesaw no mu."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japan kasa a ɛda kasa a wɔbɛsesaw no mu."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish kasa a ɛda kasa a wɔbɛsesaw no mu."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Hwɛ nokware aduan a ɛfiri wiase mmaadwo mu",
+    "description": "Subtitle a ɛda hero titire ase wɔ home page no so."
+  },
+  "home_page_featured_title": {
+    "text": "Aduan a Wɔahyɛ Mu",
+    "description": "Beae titire a ɛda aduan kɔd no so wɔ grid no anim."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Bere a wɔfa so yɛ aduan no wɔ aduan kɔd no so. {minutes} de bɛkyerɛ bere no a ɛda mu."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ɛyɛ den",
+    "description": "Label a ɛda aduan ho den a ɛwɔ aduan kɔd no so anim."
+  },
+  "recipe_card_easy": {
+    "text": "Mɛyɛ mmerɛ",
+    "description": "Den a ɛkyerɛ sɛ aduan no yɛ mmerɛ."
+  },
+  "recipe_card_medium": {
+    "text": "Mfinimfini",
+    "description": "Den a ɛkyerɛ sɛ aduan no yɛ mfinimfini den."
+  },
+  "recipe_card_hard": {
+    "text": "Dɛn",
+    "description": "Den a ɛkyerɛ sɛ aduan no yɛ dɛn paa."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen nkyerɛase din."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Nnuaba a wɔde pork bone broth a ɛdɔɔso yɛ, chashu a ɛyɛ mmerɛ, kosua a wɔbɔ wɔn mu hyɛ no, ne nnuaba foforo.",
+    "description": "Tonkotsu Ramen nkyerɛase."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza nkyerɛase din."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Neapolitan pizza a ɛyɛ dɛ a wɔde San Marzano nkyene, mozzarella foforo, ne basil.",
+    "description": "Margherita Pizza nkyerɛase."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor nkyerɛase din."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Pork a wɔde ankaa, cilantro, ne ankaa nkyene wɔ corn tortillas so.",
+    "description": "Tacos al Pastor nkyerɛase."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken nkyerɛase din."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Akokɔ a ɛyɛ mmerɛ wɔ tomato ne nkuto a ɛyɛ creamy mu a wɔde nsɛm a ɛyɛ fɛfɛɛfɛ ka ho.",
+    "description": "Butter Chicken nkyerɛase."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai nkyerɛase din."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Rice noodles a wɔde shrimp, tofu, nkateɛ, ne tamarind sauce bɔ mu.",
+    "description": "Pad Thai nkyerɛase."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "French Crepes nkyerɛase din."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes a ɛyɛ fine na ɛyɛ fɛfɛɛfɛ a wɔde Nutella, strawberries foforo, ne whipped cream hyɛ mu.",
+    "description": "French Crepes nkyerɛase."
+  },
+  "locale_switcher_label": {
+    "text": "Kasa",
+    "description": "Label a ɛda kasa a wɔbɛsesaw no anim wɔ header no mu."
+  },
+  "locale_switcher_en": {
+    "text": "Borɔfo",
+    "description": "Borɔfo kasa a ɛda kasa a wɔbɛsesaw no mu."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japan kasa a ɛda kasa a wɔbɛsesaw no mu."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish kasa a ɛda kasa a wɔbɛsesaw no mu."
   }
 }

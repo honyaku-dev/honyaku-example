@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Munduko Sukaldea",
-      "description": "Goiburuan agertzen den aplikazioaren izena. Munduko sukaldaritzetarako errezeta aurkikuntza aplikazioa."
-    },
-    "subtitle": {
-      "text": "Errezetak mundu osotik aurkitu",
-      "description": "Goiburuko aplikazioaren izenaren azpian agertzen den eslogan edo leloa."
-    }
+  "header_title": {
+    "text": "Munduko Sukaldea",
+    "description": "Goiburuan agertzen den aplikazioaren izena. Munduko sukaldaritzetarako errezeta aurkikuntza aplikazioa."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Ezagutu Mundu Osoko Zaporeak",
-      "description": "Hasierako orriaren sekzio nagusiko goiburua."
-    },
-    "heroSubtitle": {
-      "text": "Arakatu mundu osoko sukaldeetatik datozen errezeta autentikoak",
-      "description": "Hasierako orriko goiburua azpian agertzen den azpititulua."
-    },
-    "featuredTitle": {
-      "text": "Errezeta Nabarmenduak",
-      "description": "Errezeta kartelen sarearen goialdean agertzen den atalaren izenburua."
-    }
+  "header_subtitle": {
+    "text": "Errezetak mundu osotik aurkitu",
+    "description": "Goiburuko aplikazioaren izenaren azpian agertzen den eslogan edo leloa."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Errezeta kartel batean sukalde denboraren etiketa. {minutes} minutuen kopuruarekin ordezkatzen da."
-    },
-    "difficulty": {
-      "text": "Zailtasuna",
-      "description": "Errezeta kartel batean zailtasun mailaren aurretik agertzen den etiketa."
-    },
-    "easy": {
-      "text": "Erraza",
-      "description": "Errezeta erraz baten zailtasun mailaren etiketa."
-    },
-    "medium": {
-      "text": "Ertaina",
-      "description": "Zailtasun ertaina duen errezetaren etiketa."
-    },
-    "hard": {
-      "text": "Zaila",
-      "description": "Zailtasun handiko errezetaren etiketa."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen errezetaren izena."
-    },
-    "ramenDescription": {
-      "text": "Txerriki hezunen salda aberatsa, chashu leunarekin, arrautza bigunarekin eta noiz freskoekin.",
-      "description": "Tonkotsu Ramen errezetaren deskribapena."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza errezetaren izena."
-    },
-    "margheritaDescription": {
-      "text": "Neapolitan klasiko pizza San Marzano tomatea, mozzarella freskoa eta basilikoa.",
-      "description": "Margherita Pizza errezetaren deskribapena."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor errezetaren izena."
-    },
-    "tacosDescription": {
-      "text": "Txerri marinatuzko tacosak anana, koriandro eta tipulinarekin, arto tortilla gainean.",
-      "description": "Tacos al Pastor errezetaren deskribapena."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken errezetaren izena."
-    },
-    "butterChickenDescription": {
-      "text": "Ongi leundutako oilasko krematsu bat tomate eta gurin saltsan, espezi aromatikoekin.",
-      "description": "Butter Chicken errezetaren deskribapena."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai errezetaren izena."
-    },
-    "padThaiDescription": {
-      "text": "Arroz noizak txirlak, tofu, intxaurrak eta tamarindo saltsarekin egositakoak.",
-      "description": "Pad Thai errezetaren deskribapena."
-    },
-    "crepesName": {
-      "text": "Frantziar Krepeak",
-      "description": "Frantziar Krepeak errezetaren izena."
-    },
-    "crepesDescription": {
-      "text": "Lodi, delikatuak diren krepeak Nutella, freskako marrubiak eta krema irina beteta.",
-      "description": "Frantziar Krepeak errezetaren deskribapena."
-    }
+  "home_page_hero_title": {
+    "text": "Ezagutu Mundu Osoko Zaporeak",
+    "description": "Hasierako orriaren sekzio nagusiko goiburua."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Hizkuntza",
-      "description": "Goiburuko hizkuntza aldatzeko hautapenaren irisgarria den etiketa."
-    },
-    "en": {
-      "text": "Ingelesa",
-      "description": "Hizkuntza aldaketako ingeles aukeraren etiketa."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Hizkuntza aldaketako japoniar aukeraren etiketa."
-    },
-    "es": {
-      "text": "Espainiera",
-      "description": "Hizkuntza aldaketako gaztelania aukeraren etiketa."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Arakatu mundu osoko sukaldeetatik datozen errezeta autentikoak",
+    "description": "Hasierako orriko goiburua azpian agertzen den azpititulua."
+  },
+  "home_page_featured_title": {
+    "text": "Errezeta Nabarmenduak",
+    "description": "Errezeta kartelen sarearen goialdean agertzen den atalaren izenburua."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Errezeta kartel batean sukalde denboraren etiketa. {minutes} minutuen kopuruarekin ordezkatzen da."
+  },
+  "recipe_card_difficulty": {
+    "text": "Zailtasuna",
+    "description": "Errezeta kartel batean zailtasun mailaren aurretik agertzen den etiketa."
+  },
+  "recipe_card_easy": {
+    "text": "Erraza",
+    "description": "Errezeta erraz baten zailtasun mailaren etiketa."
+  },
+  "recipe_card_medium": {
+    "text": "Ertaina",
+    "description": "Zailtasun ertaina duen errezetaren etiketa."
+  },
+  "recipe_card_hard": {
+    "text": "Zaila",
+    "description": "Zailtasun handiko errezetaren etiketa."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen errezetaren izena."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Txerriki hezunen salda aberatsa, chashu leunarekin, arrautza bigunarekin eta noiz freskoekin.",
+    "description": "Tonkotsu Ramen errezetaren deskribapena."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza errezetaren izena."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Neapolitan klasiko pizza San Marzano tomatea, mozzarella freskoa eta basilikoa.",
+    "description": "Margherita Pizza errezetaren deskribapena."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor errezetaren izena."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Txerri marinatuzko tacosak anana, koriandro eta tipulinarekin, arto tortilla gainean.",
+    "description": "Tacos al Pastor errezetaren deskribapena."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken errezetaren izena."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ongi leundutako oilasko krematsu bat tomate eta gurin saltsan, espezi aromatikoekin.",
+    "description": "Butter Chicken errezetaren deskribapena."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai errezetaren izena."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Arroz noizak txirlak, tofu, intxaurrak eta tamarindo saltsarekin egositakoak.",
+    "description": "Pad Thai errezetaren deskribapena."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Frantziar Krepeak",
+    "description": "Frantziar Krepeak errezetaren izena."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Lodi, delikatuak diren krepeak Nutella, freskako marrubiak eta krema irina beteta.",
+    "description": "Frantziar Krepeak errezetaren deskribapena."
+  },
+  "locale_switcher_label": {
+    "text": "Hizkuntza",
+    "description": "Goiburuko hizkuntza aldatzeko hautapenaren irisgarria den etiketa."
+  },
+  "locale_switcher_en": {
+    "text": "Ingelesa",
+    "description": "Hizkuntza aldaketako ingeles aukeraren etiketa."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Hizkuntza aldaketako japoniar aukeraren etiketa."
+  },
+  "locale_switcher_es": {
+    "text": "Espainiera",
+    "description": "Hizkuntza aldaketako gaztelania aukeraren etiketa."
   }
 }

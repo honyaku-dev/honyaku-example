@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kisuka ya Mokili",
-      "description": "Kombo ya porogaramu epesami na likolo. Porogaramu ya koyekola biloko ya kolya ya bitumba ya mokili mobimba."
-    },
-    "subtitle": {
-      "text": "Zwa biloko ya kolya uta na bitumba ya mokili mobimba",
-      "description": "Liloba ya pasi ya kombo ya porogaramu na likolo."
-    }
+  "header_title": {
+    "text": "Kisuka ya Mokili",
+    "description": "Kombo ya porogaramu epesami na likolo. Porogaramu ya koyekola biloko ya kolya ya bitumba ya mokili mobimba."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Kende na Boyebi ya Biloko ya Mokili",
-      "description": "Liloba ya liboso na esika ya liboso ya paji ya liboso."
-    },
-    "heroSubtitle": {
-      "text": "Luka biloko ya solo ya kolya uta na bisika ya kolya ya mokili mobimba",
-      "description": "Liloba ya pasi epesami na nse ya liloba ya liboso na esika ya liboso ya paji ya liboso."
-    },
-    "featuredTitle": {
-      "text": "Biloko ya Kolya Ebimami",
-      "description": "Liloba ya esika epesami na likolo ya karte ya biloko ya kolya."
-    }
+  "header_subtitle": {
+    "text": "Zwa biloko ya kolya uta na bitumba ya mokili mobimba",
+    "description": "Liloba ya pasi ya kombo ya porogaramu na likolo."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Liloba ya ntango ya kosala na karte ya biloko ya kolya. {minutes} ekokani na miniti."
-    },
-    "difficulty": {
-      "text": "Etepeli",
-      "description": "Liloba epesami liboso ya etepeli na karte ya biloko ya kolya."
-    },
-    "easy": {
-      "text": "Mpasi te",
-      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ekosalama na mpasi te."
-    },
-    "medium": {
-      "text": "Etepeli ya kati",
-      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na etepeli ya kati."
-    },
-    "hard": {
-      "text": "Mpasi",
-      "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na mpasi."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Kombo ya resipi ya Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Madesu ya nyama ya ngulu ya porki oyo ezali na mabele ya malamu, chashu oyo ezali malamu, mayi ya mbisi ya kokoba, mpe biloko ya bilei ya sika.",
-      "description": "Nkombo ya resipi ya Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Kombo ya resipi ya Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan ya kala na tomates San Marzano, mozzarella ya sika, mpe basil.",
-      "description": "Nkombo ya resipi ya Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Kombo ya resipi ya Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos ya nyama ya porki oyo esalemi na marinade na anana, cilantro, mpe oyo ya lolo na biloko ya corn.",
-      "description": "Nkombo ya resipi ya Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Kombo ya resipi ya Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Nani ya ngulu oyo ezali malamu na sauce ya tomate mpe beurre ya malamu na biloko ya monene ya mabele.",
-      "description": "Nkombo ya resipi ya Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Kombo ya resipi ya Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Biloko ya bilei ya rice noodles oyo esalemaki na shrimp, tofu, peanuts, mpe sauce ya tamarind.",
-      "description": "Nkombo ya resipi ya Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes ya Bufransi",
-      "description": "Kombo ya resipi ya Crepes ya Bufransi."
-    },
-    "crepesDescription": {
-      "text": "Crepes ya petele, ya malamu oyo ebomamaki na Nutella, fraises ya sika, mpe crème ya kokoba.",
-      "description": "Nkombo ya resipi ya Crepes ya Bufransi."
-    }
+  "home_page_hero_title": {
+    "text": "Kende na Boyebi ya Biloko ya Mokili",
+    "description": "Liloba ya liboso na esika ya liboso ya paji ya liboso."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Likalombo",
-      "description": "Liloba ya kosalela mpo na kobongisa likalombo na likolo."
-    },
-    "en": {
-      "text": "Lingelesi",
-      "description": "Likambo ya likalombo ya Lingelesi na kokanisa likalombo."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Likambo ya likalombo ya Japonɛzɛ na kokanisa likalombo."
-    },
-    "es": {
-      "text": "Esipanye",
-      "description": "Likambo ya likalombo ya Esipanye na kokanisa likalombo."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Luka biloko ya solo ya kolya uta na bisika ya kolya ya mokili mobimba",
+    "description": "Liloba ya pasi epesami na nse ya liloba ya liboso na esika ya liboso ya paji ya liboso."
+  },
+  "home_page_featured_title": {
+    "text": "Biloko ya Kolya Ebimami",
+    "description": "Liloba ya esika epesami na likolo ya karte ya biloko ya kolya."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Liloba ya ntango ya kosala na karte ya biloko ya kolya. {minutes} ekokani na miniti."
+  },
+  "recipe_card_difficulty": {
+    "text": "Etepeli",
+    "description": "Liloba epesami liboso ya etepeli na karte ya biloko ya kolya."
+  },
+  "recipe_card_easy": {
+    "text": "Mpasi te",
+    "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ekosalama na mpasi te."
+  },
+  "recipe_card_medium": {
+    "text": "Etepeli ya kati",
+    "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na etepeli ya kati."
+  },
+  "recipe_card_hard": {
+    "text": "Mpasi",
+    "description": "Liloba ya etepeli elakisi biloko ya kolya oyo ezali na mpasi."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Kombo ya resipi ya Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Madesu ya nyama ya ngulu ya porki oyo ezali na mabele ya malamu, chashu oyo ezali malamu, mayi ya mbisi ya kokoba, mpe biloko ya bilei ya sika.",
+    "description": "Nkombo ya resipi ya Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Kombo ya resipi ya Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan ya kala na tomates San Marzano, mozzarella ya sika, mpe basil.",
+    "description": "Nkombo ya resipi ya Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Kombo ya resipi ya Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos ya nyama ya porki oyo esalemi na marinade na anana, cilantro, mpe oyo ya lolo na biloko ya corn.",
+    "description": "Nkombo ya resipi ya Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Kombo ya resipi ya Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Nani ya ngulu oyo ezali malamu na sauce ya tomate mpe beurre ya malamu na biloko ya monene ya mabele.",
+    "description": "Nkombo ya resipi ya Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Kombo ya resipi ya Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Biloko ya bilei ya rice noodles oyo esalemaki na shrimp, tofu, peanuts, mpe sauce ya tamarind.",
+    "description": "Nkombo ya resipi ya Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes ya Bufransi",
+    "description": "Kombo ya resipi ya Crepes ya Bufransi."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes ya petele, ya malamu oyo ebomamaki na Nutella, fraises ya sika, mpe crème ya kokoba.",
+    "description": "Nkombo ya resipi ya Crepes ya Bufransi."
+  },
+  "locale_switcher_label": {
+    "text": "Likalombo",
+    "description": "Liloba ya kosalela mpo na kobongisa likalombo na likolo."
+  },
+  "locale_switcher_en": {
+    "text": "Lingelesi",
+    "description": "Likambo ya likalombo ya Lingelesi na kokanisa likalombo."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Likambo ya likalombo ya Japonɛzɛ na kokanisa likalombo."
+  },
+  "locale_switcher_es": {
+    "text": "Esipanye",
+    "description": "Likambo ya likalombo ya Esipanye na kokanisa likalombo."
   }
 }

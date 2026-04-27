@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dzikani dza shango",
-      "description": "Dzina la app ḽi khou ṱalutshedzwa kha header. App ya u wana zwiḽiwa zwa shango ḽoṱhe."
-    },
-    "subtitle": {
-      "text": "Wana zwiḽiwa zwa shango ḽoṱhe",
-      "description": "Tagline ḽi khou ṱalutshedzwa hezwi ho ḓaho dzina la app kha header."
-    }
+  "header_title": {
+    "text": "Dzikani dza shango",
+    "description": "Dzina la app ḽi khou ṱalutshedzwa kha header. App ya u wana zwiḽiwa zwa shango ḽoṱhe."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Fhufhudza mavhonele a shango ḽoṱhe",
-      "description": "Tshifhinga tsha u thoma kha hero ya home page."
-    },
-    "heroSubtitle": {
-      "text": "Vhudzisa zwiḽiwa zwa vhukuma zwa dzi kitchen dzine dza vha shango ḽoṱhe",
-      "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho hero ya home page."
-    },
-    "featuredTitle": {
-      "text": "Zwiḽiwa zwi khou ṱaluswa",
-      "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Wana zwiḽiwa zwa shango ḽoṱhe",
+    "description": "Tagline ḽi khou ṱalutshedzwa hezwi ho ḓaho dzina la app kha header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Nḓila ya u phepha kha recipe card. {minutes} i vhuya ya shandukiwa nga nḓila ya mineti."
-    },
-    "difficulty": {
-      "text": "Vhulamukanyi",
-      "description": "Dzina ḽi khou ṱalutshedzwa u bva kha vhulamukanyi kha recipe card."
-    },
-    "easy": {
-      "text": "Vhuḓi",
-      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi a pfala."
-    },
-    "medium": {
-      "text": "Vhulamukanyi",
-      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi na vhulamukanyi ha pakati."
-    },
-    "hard": {
-      "text": "Vhulamukanyi Vhukati",
-      "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi khou vha zwa u ṱuṱuwedza."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Dzina ḽa recipe ya Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Nḓila ya mavu a ngwedi ya pork ine ya vha hone na chashu yo vhuya, dzi egg dza u tanga nga u nyanya, na noodles dza mutshelo.",
-      "description": "Ṱhalutshedzo ya recipe ya Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Dzina ḽa recipe ya Margherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan ya tshivhumbeo ine ya vha na tomato dza San Marzano, mozzarella ya mutshelo, na basil.",
-      "description": "Ṱhalutshedzo ya recipe ya Margherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Dzina ḽa recipe ya Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos dza pork dzi khou swikiswa nga pineapple, cilantro, na onion kha corn tortillas.",
-      "description": "Ṱhalutshedzo ya recipe ya Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Dzina ḽa recipe ya Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Kuku yo vhuya kha sauce ya tomato na butter ine ya vha na zwilamulo zwa mivhili.",
-      "description": "Ṱhalutshedzo ya recipe ya Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Dzina ḽa recipe ya Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles dza rice dzi khou tshimbidzwa na shrimp, tofu, peanuts, na sauce ya tamarind.",
-      "description": "Ṱhalutshedzo ya recipe ya Pad Thai."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Dzina ḽa recipe ya French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes dza u fhulufhela dza u lulama dzi khou bveledzwa na Nutella, strawberries dza mutshelo, na whipped cream.",
-      "description": "Ṱhalutshedzo ya recipe ya French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Fhufhudza mavhonele a shango ḽoṱhe",
+    "description": "Tshifhinga tsha u thoma kha hero ya home page."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lugha",
-      "description": "Dzina ḽi wanala kha language switcher dropdown kha header."
-    },
-    "en": {
-      "text": "English",
-      "description": "Lugha ya English kha locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Lugha ya Japanese kha locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Lugha ya Spanish kha locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Vhudzisa zwiḽiwa zwa vhukuma zwa dzi kitchen dzine dza vha shango ḽoṱhe",
+    "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho hero ya home page."
+  },
+  "home_page_featured_title": {
+    "text": "Zwiḽiwa zwi khou ṱaluswa",
+    "description": "Tshifhinga tsha u thoma tshi khou ṱalutshedzwa hezwi ho ḓaho recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Nḓila ya u phepha kha recipe card. {minutes} i vhuya ya shandukiwa nga nḓila ya mineti."
+  },
+  "recipe_card_difficulty": {
+    "text": "Vhulamukanyi",
+    "description": "Dzina ḽi khou ṱalutshedzwa u bva kha vhulamukanyi kha recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Vhuḓi",
+    "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi a pfala."
+  },
+  "recipe_card_medium": {
+    "text": "Vhulamukanyi",
+    "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi na vhulamukanyi ha pakati."
+  },
+  "recipe_card_hard": {
+    "text": "Vhulamukanyi Vhukati",
+    "description": "Vhulamukanyi ha u sumbedza uri zwiḽiwa zwi khou vha zwa u ṱuṱuwedza."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Dzina ḽa recipe ya Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Nḓila ya mavu a ngwedi ya pork ine ya vha hone na chashu yo vhuya, dzi egg dza u tanga nga u nyanya, na noodles dza mutshelo.",
+    "description": "Ṱhalutshedzo ya recipe ya Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Dzina ḽa recipe ya Margherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan ya tshivhumbeo ine ya vha na tomato dza San Marzano, mozzarella ya mutshelo, na basil.",
+    "description": "Ṱhalutshedzo ya recipe ya Margherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Dzina ḽa recipe ya Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos dza pork dzi khou swikiswa nga pineapple, cilantro, na onion kha corn tortillas.",
+    "description": "Ṱhalutshedzo ya recipe ya Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Dzina ḽa recipe ya Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Kuku yo vhuya kha sauce ya tomato na butter ine ya vha na zwilamulo zwa mivhili.",
+    "description": "Ṱhalutshedzo ya recipe ya Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Dzina ḽa recipe ya Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles dza rice dzi khou tshimbidzwa na shrimp, tofu, peanuts, na sauce ya tamarind.",
+    "description": "Ṱhalutshedzo ya recipe ya Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Dzina ḽa recipe ya French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes dza u fhulufhela dza u lulama dzi khou bveledzwa na Nutella, strawberries dza mutshelo, na whipped cream.",
+    "description": "Ṱhalutshedzo ya recipe ya French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Lugha",
+    "description": "Dzina ḽi wanala kha language switcher dropdown kha header."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "Lugha ya English kha locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Lugha ya Japanese kha locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Lugha ya Spanish kha locale switcher."
   }
 }

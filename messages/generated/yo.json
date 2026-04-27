@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Ìdáná Ayé",
-      "description": "Orúkọ app tí a fi hàn ní orí ìlà. App àwárí àdídùn fún onjẹ lágbàáyé."
-    },
-    "subtitle": {
-      "text": "Ṣàwárí àwọn ohun ìjẹun lágbàáyé",
-      "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn labẹ orúkọ app ní orí ìlà."
-    }
+  "header_title": {
+    "text": "Ìdáná Ayé",
+    "description": "Orúkọ app tí a fi hàn ní orí ìlà. App àwárí àdídùn fún onjẹ lágbàáyé."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Ṣàwárí Àdídùn Àgbáyé",
-      "description": "Àkọlé pàtàkì lórí apá akíkanjú ojúlé ilé."
-    },
-    "heroSubtitle": {
-      "text": "Ṣàbẹwò àwọn àdídùn gidi láti inú àwọn ìdáná káàkiri ayé",
-      "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn lábé àkọlé akíkanjú lórí ojúlé ilé."
-    },
-    "featuredTitle": {
-      "text": "Àwọn Àdídùn Tó Ṣàfihàn",
-      "description": "Àkọlé apá tí a fi hàn lókè àtẹ̀jáde àdídùn ní ọkọ̀ọ̀kan."
-    }
+  "header_subtitle": {
+    "text": "Ṣàwárí àwọn ohun ìjẹun lágbàáyé",
+    "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn labẹ orúkọ app ní orí ìlà."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} ìṣẹ́jú",
-      "description": "Àpamọ́ àkókò ìdáná lórí kaadi àdídùn. {minutes} ni a rọ́pò pẹ̀lú iye ìṣẹ́jú."
-    },
-    "difficulty": {
-      "text": "Ìṣòro",
-      "description": "Àpamọ́ tí a fi hàn ṣáájú ìpele ìṣòro lórí kaadi àdídùn."
-    },
-    "easy": {
-      "text": "Rọrùn",
-      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò ṣòro."
-    },
-    "medium": {
-      "text": "Aárín",
-      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò rọrùn bẹ́ẹ̀ gẹ́gẹ́ bí àárín."
-    },
-    "hard": {
-      "text": "Lágbára",
-      "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí ó ṣòro."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Orúkọ àdídùn Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Omi ẹ̀dá èékánná ewurẹ tó ní ọlọ́rọ̀ pẹ̀lú chashu tó rọrùn, ẹyin tó jinna díẹ̀, àti ìṣúra tuntun.",
-      "description": "Àpejuwe àdídùn Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Písà Margherita",
-      "description": "Orúkọ àdídùn Písà Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Písà Neapolitan àtọkànwá pẹ̀lú tomati San Marzano, mozzarella tuntun, àti bàsílì.",
-      "description": "Àpejuwe àdídùn Písà Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Orúkọ àdídùn Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos ewurẹ tí a fi ọ̀tí ṣoṣo ṣe pẹ̀lú ọ̀pẹ̀, cilantro, àti alubosa lórí tortilla agbado.",
-      "description": "Àpejuwe àdídùn Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Adìẹ Butter",
-      "description": "Orúkọ àdídùn Adìẹ Butter."
-    },
-    "butterChickenDescription": {
-      "text": "Adìẹ tó rọrùn nínú obe tomati àti bọ́tá pẹ̀lú àwọn ìrun tó ń tú ẹ̀fọ́.",
-      "description": "Àpejuwe àdídùn Adìẹ Butter."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Orúkọ àdídùn Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Ìṣúra iresi tí a fẹ́ sẹ́ pẹ̀lú ẹ̀fọ́ omi, tofu, pínútì, àti obe tamarind.",
-      "description": "Àpejuwe àdídùn Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Faranse",
-      "description": "Orúkọ àdídùn Crepes Faranse."
-    },
-    "crepesDescription": {
-      "text": "Crepes tinútinú, pẹ̀lú Nutella, stoberi tuntun, àti kírímù tí a fi fẹ́ràn sí i.",
-      "description": "Àpejuwe àdídùn Crepes Faranse."
-    }
+  "home_page_hero_title": {
+    "text": "Ṣàwárí Àdídùn Àgbáyé",
+    "description": "Àkọlé pàtàkì lórí apá akíkanjú ojúlé ilé."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Èdè",
-      "description": "Àpamọ́ tó wúlò fún yíyàn èdè nínú àtùpale èdè ní orí ìlà."
-    },
-    "en": {
-      "text": "Gẹ̀ẹ́sì",
-      "description": "Àṣàyàn èdè Gẹ̀ẹ́sì nínú àtùpale èdè."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Àṣàyàn èdè Japanese nínú àtùpale èdè."
-    },
-    "es": {
-      "text": "Èdè Sípáníìṣì",
-      "description": "Àṣàyàn èdè Sípáníìṣì nínú àtùpale èdè."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Ṣàbẹwò àwọn àdídùn gidi láti inú àwọn ìdáná káàkiri ayé",
+    "description": "Ọ̀rọ̀ àtẹ̀jáde tí a fi hàn lábé àkọlé akíkanjú lórí ojúlé ilé."
+  },
+  "home_page_featured_title": {
+    "text": "Àwọn Àdídùn Tó Ṣàfihàn",
+    "description": "Àkọlé apá tí a fi hàn lókè àtẹ̀jáde àdídùn ní ọkọ̀ọ̀kan."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} ìṣẹ́jú",
+    "description": "Àpamọ́ àkókò ìdáná lórí kaadi àdídùn. {minutes} ni a rọ́pò pẹ̀lú iye ìṣẹ́jú."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ìṣòro",
+    "description": "Àpamọ́ tí a fi hàn ṣáájú ìpele ìṣòro lórí kaadi àdídùn."
+  },
+  "recipe_card_easy": {
+    "text": "Rọrùn",
+    "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò ṣòro."
+  },
+  "recipe_card_medium": {
+    "text": "Aárín",
+    "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí kò rọrùn bẹ́ẹ̀ gẹ́gẹ́ bí àárín."
+  },
+  "recipe_card_hard": {
+    "text": "Lágbára",
+    "description": "Àpamọ́ ìpele ìṣòro tó túmọ̀ sí àdídùn tí ó ṣòro."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Orúkọ àdídùn Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Omi ẹ̀dá èékánná ewurẹ tó ní ọlọ́rọ̀ pẹ̀lú chashu tó rọrùn, ẹyin tó jinna díẹ̀, àti ìṣúra tuntun.",
+    "description": "Àpejuwe àdídùn Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Písà Margherita",
+    "description": "Orúkọ àdídùn Písà Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Písà Neapolitan àtọkànwá pẹ̀lú tomati San Marzano, mozzarella tuntun, àti bàsílì.",
+    "description": "Àpejuwe àdídùn Písà Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Orúkọ àdídùn Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos ewurẹ tí a fi ọ̀tí ṣoṣo ṣe pẹ̀lú ọ̀pẹ̀, cilantro, àti alubosa lórí tortilla agbado.",
+    "description": "Àpejuwe àdídùn Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Adìẹ Butter",
+    "description": "Orúkọ àdídùn Adìẹ Butter."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Adìẹ tó rọrùn nínú obe tomati àti bọ́tá pẹ̀lú àwọn ìrun tó ń tú ẹ̀fọ́.",
+    "description": "Àpejuwe àdídùn Adìẹ Butter."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Orúkọ àdídùn Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ìṣúra iresi tí a fẹ́ sẹ́ pẹ̀lú ẹ̀fọ́ omi, tofu, pínútì, àti obe tamarind.",
+    "description": "Àpejuwe àdídùn Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Faranse",
+    "description": "Orúkọ àdídùn Crepes Faranse."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes tinútinú, pẹ̀lú Nutella, stoberi tuntun, àti kírímù tí a fi fẹ́ràn sí i.",
+    "description": "Àpejuwe àdídùn Crepes Faranse."
+  },
+  "locale_switcher_label": {
+    "text": "Èdè",
+    "description": "Àpamọ́ tó wúlò fún yíyàn èdè nínú àtùpale èdè ní orí ìlà."
+  },
+  "locale_switcher_en": {
+    "text": "Gẹ̀ẹ́sì",
+    "description": "Àṣàyàn èdè Gẹ̀ẹ́sì nínú àtùpale èdè."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Àṣàyàn èdè Japanese nínú àtùpale èdè."
+  },
+  "locale_switcher_es": {
+    "text": "Èdè Sípáníìṣì",
+    "description": "Àṣàyàn èdè Sípáníìṣì nínú àtùpale èdè."
   }
 }

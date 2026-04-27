@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "የዓለም ምግብ ቤት",
-      "description": "በራስጌ የታየ የመተግበሪያ ስም። ለዓለም ምግቦች የምግብ አሰባሰብ መተግበሪያ።"
-    },
-    "subtitle": {
-      "text": "ከዓለም አቀፍ ቦታዎች የተለያዩ አሰራሮችን ያግኙ",
-      "description": "በመተግበሪያው ስም በታች የታየ ማስታወቂያ ሐረግ።"
-    }
+  "header_title": {
+    "text": "የዓለም ምግብ ቤት",
+    "description": "በራስጌ የታየ የመተግበሪያ ስም። ለዓለም ምግቦች የምግብ አሰባሰብ መተግበሪያ።"
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "ዓለም አቀፍ ጣዕሞችን ያሳልፉ",
-      "description": "የመነሻ ገፅ ዋና ርዕስ በጀርባ ክፍል።"
-    },
-    "heroSubtitle": {
-      "text": "ከዓለም አቀፍ ምግብ ቤቶች ቅን አሰራሮችን ይመልከቱ",
-      "description": "በመነሻ ገፅ ላይ በጀርባ ርዕስ በታች የታየ ማስታወቂያ ጽሑፍ።"
-    },
-    "featuredTitle": {
-      "text": "ተለዋዋጭ አሰራሮች",
-      "description": "በምግብ ካርድ አውታረ መስቀል ላይ የታየ ክፍል ርዕስ።"
-    }
+  "header_subtitle": {
+    "text": "ከዓለም አቀፍ ቦታዎች የተለያዩ አሰራሮችን ያግኙ",
+    "description": "በመተግበሪያው ስም በታች የታየ ማስታወቂያ ሐረግ።"
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} ደቂቃ",
-      "description": "በምግብ ካርድ ላይ የምግብ ማብሰል ጊዜ ምልክት። {minutes} በደቂቃ ቁጥር ይተካል።"
-    },
-    "difficulty": {
-      "text": "ከባድነት",
-      "description": "በምግብ ካርድ ላይ ከባድነት ደረጃ ከሚቀደም ምልክት።"
-    },
-    "easy": {
-      "text": "ቀላል",
-      "description": "አሰራር ቀላል መሆኑን የሚገልጽ የከባድነት ደረጃ ምልክት።"
-    },
-    "medium": {
-      "text": "መካከለኛ",
-      "description": "አሰራር መካከለኛ ከባድነት ያለውን የከባድነት ደረጃ ምልክት።"
-    },
-    "hard": {
-      "text": "ከባድ",
-      "description": "አሰራር ከባድ መሆኑን የሚገልጽ የከባድነት ደረጃ ምልክት።"
-    },
-    "ramenName": {
-      "text": "ቶንኮቱስ ራመን",
-      "description": "የቶንኮቱስ ራመን አሰራር ስም።"
-    },
-    "ramenDescription": {
-      "text": "በቀላል ቻሹ፣ ርጥቅ የተቀቀለ እንቁላል እና አዲስ ነውል የተሞላ ባለብቃ የአሳም ጡት ወተት ቁርጥ ሾርባ።",
-      "description": "የቶንኮቱስ ራመን አሰራር መግለጫ።"
-    },
-    "margheritaName": {
-      "text": "ማርጄሪታ ፒዛ",
-      "description": "የማርጄሪታ ፒዛ አሰራር ስም።"
-    },
-    "margheritaDescription": {
-      "text": "ክላሲክ ኔፓሊታን ፒዛ ከሳን ማርዛኖ ቲማቲሞች፣ አዲስ ሞዛሬላ እና ባዚል ጋር።",
-      "description": "የማርጄሪታ ፒዛ አሰራር መግለጫ።"
-    },
-    "tacosName": {
-      "text": "ታኮስ አል ፓስቶር",
-      "description": "የታኮስ አል ፓስቶር አሰራር ስም።"
-    },
-    "tacosDescription": {
-      "text": "የተጠጣጠሙ እንቁላል በፓይናፕል፣ ሲላንትሮ እና ሽንኩርት በበርጭ ቶርቲላዎች ላይ።",
-      "description": "የታኮስ አል ፓስቶር አሰራር መግለጫ።"
-    },
-    "butterChickenName": {
-      "text": "በተር ዶሮ",
-      "description": "የበተር ዶሮ አሰራር ስም።"
-    },
-    "butterChickenDescription": {
-      "text": "በሚሽተው ቲማቲም እና በተር ሶስ ውስጥ በርበሬ በሙሉ የተቀቀለ ርጥቅ ዶሮ።",
-      "description": "የበተር ዶሮ አሰራር መግለጫ።"
-    },
-    "padThaiName": {
-      "text": "ፓድ ታይ",
-      "description": "የፓድ ታይ አሰራር ስም።"
-    },
-    "padThaiDescription": {
-      "text": "ከሽርምፕ፣ ቶፉ፣ ድንች እና ታማሪንድ ሶስ ጋር የተቀደሰ የእንቁላል ሩዝ ነውል።",
-      "description": "የፓድ ታይ አሰራር መግለጫ።"
-    },
-    "crepesName": {
-      "text": "የፈረንሳይ ክሬፕስ",
-      "description": "የፈረንሳይ ክሬፕስ አሰራር ስም።"
-    },
-    "crepesDescription": {
-      "text": "ሚና ያለውና የተሰራ ክሬፕስ ከኑቴላ፣ አዲስ ፈረንጅ ፍራንድስ እና ተንቀሳቃሽ ክሬም ጋር የተሞላ።",
-      "description": "የፈረንሳይ ክሬፕስ አሰራር መግለጫ።"
-    }
+  "home_page_hero_title": {
+    "text": "ዓለም አቀፍ ጣዕሞችን ያሳልፉ",
+    "description": "የመነሻ ገፅ ዋና ርዕስ በጀርባ ክፍል።"
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ቋንቋ",
-      "description": "በራስጌ ያለው የቋንቋ ለውጥ አማራጭ የሚጠቀሙበት አሰራር።"
-    },
-    "en": {
-      "text": "እንግሊዝኛ",
-      "description": "በቋንቋ ለውጥ ውስጥ ያለው የእንግሊዝኛ አማራጭ።"
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "በቋንቋ ለውጥ ውስጥ ያለው የጃፓንኛ አማራጭ።"
-    },
-    "es": {
-      "text": "ስፓኒሽ",
-      "description": "በቋንቋ ለውጥ ውስጥ ያለው የስፓንኛ አማራጭ።"
-    }
+  "home_page_hero_subtitle": {
+    "text": "ከዓለም አቀፍ ምግብ ቤቶች ቅን አሰራሮችን ይመልከቱ",
+    "description": "በመነሻ ገፅ ላይ በጀርባ ርዕስ በታች የታየ ማስታወቂያ ጽሑፍ።"
+  },
+  "home_page_featured_title": {
+    "text": "ተለዋዋጭ አሰራሮች",
+    "description": "በምግብ ካርድ አውታረ መስቀል ላይ የታየ ክፍል ርዕስ።"
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} ደቂቃ",
+    "description": "በምግብ ካርድ ላይ የምግብ ማብሰል ጊዜ ምልክት። {minutes} በደቂቃ ቁጥር ይተካል።"
+  },
+  "recipe_card_difficulty": {
+    "text": "ከባድነት",
+    "description": "በምግብ ካርድ ላይ ከባድነት ደረጃ ከሚቀደም ምልክት።"
+  },
+  "recipe_card_easy": {
+    "text": "ቀላል",
+    "description": "አሰራር ቀላል መሆኑን የሚገልጽ የከባድነት ደረጃ ምልክት።"
+  },
+  "recipe_card_medium": {
+    "text": "መካከለኛ",
+    "description": "አሰራር መካከለኛ ከባድነት ያለውን የከባድነት ደረጃ ምልክት።"
+  },
+  "recipe_card_hard": {
+    "text": "ከባድ",
+    "description": "አሰራር ከባድ መሆኑን የሚገልጽ የከባድነት ደረጃ ምልክት።"
+  },
+  "recipe_card_ramen_name": {
+    "text": "ቶንኮቱስ ራመን",
+    "description": "የቶንኮቱስ ራመን አሰራር ስም።"
+  },
+  "recipe_card_ramen_description": {
+    "text": "በቀላል ቻሹ፣ ርጥቅ የተቀቀለ እንቁላል እና አዲስ ነውል የተሞላ ባለብቃ የአሳም ጡት ወተት ቁርጥ ሾርባ።",
+    "description": "የቶንኮቱስ ራመን አሰራር መግለጫ።"
+  },
+  "recipe_card_margherita_name": {
+    "text": "ማርጄሪታ ፒዛ",
+    "description": "የማርጄሪታ ፒዛ አሰራር ስም።"
+  },
+  "recipe_card_margherita_description": {
+    "text": "ክላሲክ ኔፓሊታን ፒዛ ከሳን ማርዛኖ ቲማቲሞች፣ አዲስ ሞዛሬላ እና ባዚል ጋር።",
+    "description": "የማርጄሪታ ፒዛ አሰራር መግለጫ።"
+  },
+  "recipe_card_tacos_name": {
+    "text": "ታኮስ አል ፓስቶር",
+    "description": "የታኮስ አል ፓስቶር አሰራር ስም።"
+  },
+  "recipe_card_tacos_description": {
+    "text": "የተጠጣጠሙ እንቁላል በፓይናፕል፣ ሲላንትሮ እና ሽንኩርት በበርጭ ቶርቲላዎች ላይ።",
+    "description": "የታኮስ አል ፓስቶር አሰራር መግለጫ።"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "በተር ዶሮ",
+    "description": "የበተር ዶሮ አሰራር ስም።"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "በሚሽተው ቲማቲም እና በተር ሶስ ውስጥ በርበሬ በሙሉ የተቀቀለ ርጥቅ ዶሮ።",
+    "description": "የበተር ዶሮ አሰራር መግለጫ።"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "ፓድ ታይ",
+    "description": "የፓድ ታይ አሰራር ስም።"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "ከሽርምፕ፣ ቶፉ፣ ድንች እና ታማሪንድ ሶስ ጋር የተቀደሰ የእንቁላል ሩዝ ነውል።",
+    "description": "የፓድ ታይ አሰራር መግለጫ።"
+  },
+  "recipe_card_crepes_name": {
+    "text": "የፈረንሳይ ክሬፕስ",
+    "description": "የፈረንሳይ ክሬፕስ አሰራር ስም።"
+  },
+  "recipe_card_crepes_description": {
+    "text": "ሚና ያለውና የተሰራ ክሬፕስ ከኑቴላ፣ አዲስ ፈረንጅ ፍራንድስ እና ተንቀሳቃሽ ክሬም ጋር የተሞላ።",
+    "description": "የፈረንሳይ ክሬፕስ አሰራር መግለጫ።"
+  },
+  "locale_switcher_label": {
+    "text": "ቋንቋ",
+    "description": "በራስጌ ያለው የቋንቋ ለውጥ አማራጭ የሚጠቀሙበት አሰራር።"
+  },
+  "locale_switcher_en": {
+    "text": "እንግሊዝኛ",
+    "description": "በቋንቋ ለውጥ ውስጥ ያለው የእንግሊዝኛ አማራጭ።"
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "በቋንቋ ለውጥ ውስጥ ያለው የጃፓንኛ አማራጭ።"
+  },
+  "locale_switcher_es": {
+    "text": "ስፓኒሽ",
+    "description": "በቋንቋ ለውጥ ውስጥ ያለው የስፓንኛ አማራጭ።"
   }
 }

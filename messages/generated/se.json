@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Máilmmi Biebmu",
-      "description": "Appnamma mii galgá buktit headeris. Recepta dárkilvuohta-appa máilmmi biebmuid gaskkas."
-    },
-    "subtitle": {
-      "text": "Dárkilvvu receptaid máilmmi gaskkas",
-      "description": "Tagline mii galgá buktit appnamma jienain headeris."
-    }
+  "header_title": {
+    "text": "Máilmmi Biebmu",
+    "description": "Appnamma mii galgá buktit headeris. Recepta dárkilvuohta-appa máilmmi biebmuid gaskkas."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Dárkilvvu Máilmmi Máttuid",
-      "description": "Ovddidit gávpogis hero-osassa."
-    },
-    "heroSubtitle": {
-      "text": "Válddejuvvot autenttalaš receptaid biebmuid gaskkas",
-      "description": "Subtitle galbmahero ovddidit gávpogis."
-    },
-    "featuredTitle": {
-      "text": "Njuolgga receptaid",
-      "description": "Osahuvvon galbma recepta kortta ruovttoluotta."
-    }
+  "header_subtitle": {
+    "text": "Dárkilvvu receptaid máilmmi gaskkas",
+    "description": "Tagline mii galgá buktit appnamma jienain headeris."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Biebmuid áiggái recepta kortta. {minutes} lea vaihtejuvvon minuttain nuorra."
-    },
-    "difficulty": {
-      "text": "Váldit",
-      "description": "Galbma recepta korttas válddi luhtteheapmi."
-    },
-    "easy": {
-      "text": "Luhtte",
-      "description": "Válddi luhtteheahtta recepta."
-    },
-    "medium": {
-      "text": "Meahcci",
-      "description": "Válddi meahcci luhtteheahtta recepta."
-    },
-    "hard": {
-      "text": "Heittolaš",
-      "description": "Válddi heittolaš recepta."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen recepta namma."
-    },
-    "ramenDescription": {
-      "text": "Ránnán buorre biebmuid luopmušan chashu, láhka boagán, ja ođđa njálmmis.",
-      "description": "Tonkotsu Ramen recepta máŋggaid."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza recepta namma."
-    },
-    "margheritaDescription": {
-      "text": "Klassalaš Neapolitan pizza San Marzano njálmmis, ođđa mozzarella ja basil.",
-      "description": "Margherita Pizza recepta máŋggaid."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor recepta namma."
-    },
-    "tacosDescription": {
-      "text": "Marinerte biebmui tacos ananas, cilantro ja čuovgga veahkkin.",
-      "description": "Tacos al Pastor recepta máŋggaid."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken recepta namma."
-    },
-    "butterChickenDescription": {
-      "text": "Láhka guovssahas juvvon tomáhtta ja muorjjesáhka soassi aromtaš spisis.",
-      "description": "Butter Chicken recepta máŋggaid."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai recepta namma."
-    },
-    "padThaiDescription": {
-      "text": "Bierggadaga njálmmis barggá, tofu, maŋŋebáhkis ja tamarind soassi.",
-      "description": "Pad Thai recepta máŋggaid."
-    },
-    "crepesName": {
-      "text": "Fránska Crepes",
-      "description": "Fránska Crepes recepta namma."
-    },
-    "crepesDescription": {
-      "text": "Vuolgit, ruoššat crepes šaddat Nutella, ođđa máhttu ja vahkkuš.",
-      "description": "Fránska Crepes recepta máŋggaid."
-    }
+  "home_page_hero_title": {
+    "text": "Dárkilvvu Máilmmi Máttuid",
+    "description": "Ovddidit gávpogis hero-osassa."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Giella",
-      "description": "Giella válddolaš dropdown headeris."
-    },
-    "en": {
-      "text": "Englannagiella",
-      "description": "Englannagiella váldde locale switcheris."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japála giella váldde locale switcheris."
-    },
-    "es": {
-      "text": "Spánskka",
-      "description": "Spánskka giella váldde locale switcheris."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Válddejuvvot autenttalaš receptaid biebmuid gaskkas",
+    "description": "Subtitle galbmahero ovddidit gávpogis."
+  },
+  "home_page_featured_title": {
+    "text": "Njuolgga receptaid",
+    "description": "Osahuvvon galbma recepta kortta ruovttoluotta."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Biebmuid áiggái recepta kortta. {minutes} lea vaihtejuvvon minuttain nuorra."
+  },
+  "recipe_card_difficulty": {
+    "text": "Váldit",
+    "description": "Galbma recepta korttas válddi luhtteheapmi."
+  },
+  "recipe_card_easy": {
+    "text": "Luhtte",
+    "description": "Válddi luhtteheahtta recepta."
+  },
+  "recipe_card_medium": {
+    "text": "Meahcci",
+    "description": "Válddi meahcci luhtteheahtta recepta."
+  },
+  "recipe_card_hard": {
+    "text": "Heittolaš",
+    "description": "Válddi heittolaš recepta."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen recepta namma."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ránnán buorre biebmuid luopmušan chashu, láhka boagán, ja ođđa njálmmis.",
+    "description": "Tonkotsu Ramen recepta máŋggaid."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza recepta namma."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassalaš Neapolitan pizza San Marzano njálmmis, ođđa mozzarella ja basil.",
+    "description": "Margherita Pizza recepta máŋggaid."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor recepta namma."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinerte biebmui tacos ananas, cilantro ja čuovgga veahkkin.",
+    "description": "Tacos al Pastor recepta máŋggaid."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken recepta namma."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Láhka guovssahas juvvon tomáhtta ja muorjjesáhka soassi aromtaš spisis.",
+    "description": "Butter Chicken recepta máŋggaid."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai recepta namma."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Bierggadaga njálmmis barggá, tofu, maŋŋebáhkis ja tamarind soassi.",
+    "description": "Pad Thai recepta máŋggaid."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Fránska Crepes",
+    "description": "Fránska Crepes recepta namma."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Vuolgit, ruoššat crepes šaddat Nutella, ođđa máhttu ja vahkkuš.",
+    "description": "Fránska Crepes recepta máŋggaid."
+  },
+  "locale_switcher_label": {
+    "text": "Giella",
+    "description": "Giella válddolaš dropdown headeris."
+  },
+  "locale_switcher_en": {
+    "text": "Englannagiella",
+    "description": "Englannagiella váldde locale switcheris."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japála giella váldde locale switcheris."
+  },
+  "locale_switcher_es": {
+    "text": "Spánskka",
+    "description": "Spánskka giella váldde locale switcheris."
   }
 }

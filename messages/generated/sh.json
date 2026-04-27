@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Svetska Kuhinja",
-      "description": "Ime aplikacije prikazano u zaglavlju. Aplikacija za otkrivanje recepata iz svetskih kuhinja."
-    },
-    "subtitle": {
-      "text": "Otkrijte recepte iz celog sveta",
-      "description": "Slogan prikazan ispod imena aplikacije u zaglavlju."
-    }
+  "header_title": {
+    "text": "Svetska Kuhinja",
+    "description": "Ime aplikacije prikazano u zaglavlju. Aplikacija za otkrivanje recepata iz svetskih kuhinja."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Istražite globalne ukuse",
-      "description": "Glavni naslov u hero sekciji početne stranice."
-    },
-    "heroSubtitle": {
-      "text": "Pregledajte autentične recepte iz kuhinja širom sveta",
-      "description": "Podnaslov prikazan ispod hero naslova na početnoj stranici."
-    },
-    "featuredTitle": {
-      "text": "Istaknuti recepti",
-      "description": "Naslov sekcije prikazan iznad mreže kartica sa receptima."
-    }
+  "header_subtitle": {
+    "text": "Otkrijte recepte iz celog sveta",
+    "description": "Slogan prikazan ispod imena aplikacije u zaglavlju."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Oznaka vremena kuvanja na kartici recepta. {minutes} se zamenjuje brojem minuta."
-    },
-    "difficulty": {
-      "text": "Težina",
-      "description": "Oznaka prikazana pre nivoa težine na kartici recepta."
-    },
-    "easy": {
-      "text": "Lako",
-      "description": "Oznaka nivoa težine koja označava lak recept."
-    },
-    "medium": {
-      "text": "Srednje",
-      "description": "Oznaka nivoa težine koja označava umereno težak recept."
-    },
-    "hard": {
-      "text": "Teško",
-      "description": "Oznaka nivoa težine koja označava težak recept."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Ime recepta za Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bogati bujon od svinjskih kostiju sa nežnim čašu, mekanim jajetom i svežim nudlama.",
-      "description": "Opis recepta za Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Ime recepta za Margherita pitu."
-    },
-    "margheritaDescription": {
-      "text": "Klasična neapolitanska pizza sa San Marzano paradajzom, svežom mocarelom i bosiljkom.",
-      "description": "Opis recepta za Margherita pitu."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Ime recepta za Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marinirani svinjski tacos sa ananasom, korijanderom i lukom na kukuruznim tortiljama.",
-      "description": "Opis recepta za Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Maslac Piletina",
-      "description": "Ime recepta za Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Nežna piletina u kremastom sosu od paradajza i putera sa aromatičnim začinima.",
-      "description": "Opis recepta za Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Ime recepta za Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Prženi pirinčani rezanci sa škampima, tofujem, kikirikijem i tamarind sosom.",
-      "description": "Opis recepta za Pad Thai."
-    },
-    "crepesName": {
-      "text": "Francuski Krepi",
-      "description": "Ime recepta za Francuske krepove."
-    },
-    "crepesDescription": {
-      "text": "Tanki, delikatni krepi punjeni Nutellom, svežim jagodama i šlagom.",
-      "description": "Opis recepta za Francuske krepove."
-    }
+  "home_page_hero_title": {
+    "text": "Istražite globalne ukuse",
+    "description": "Glavni naslov u hero sekciji početne stranice."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Jezik",
-      "description": "Pristupačna oznaka za padajući meni za izbor jezika u zaglavlju."
-    },
-    "en": {
-      "text": "Engleski",
-      "description": "Opcija za engleski jezik u menjaču jezika."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opcija za japanski jezik u menjaču jezika."
-    },
-    "es": {
-      "text": "Španski",
-      "description": "Opcija za španski jezik u menjaču jezika."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Pregledajte autentične recepte iz kuhinja širom sveta",
+    "description": "Podnaslov prikazan ispod hero naslova na početnoj stranici."
+  },
+  "home_page_featured_title": {
+    "text": "Istaknuti recepti",
+    "description": "Naslov sekcije prikazan iznad mreže kartica sa receptima."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Oznaka vremena kuvanja na kartici recepta. {minutes} se zamenjuje brojem minuta."
+  },
+  "recipe_card_difficulty": {
+    "text": "Težina",
+    "description": "Oznaka prikazana pre nivoa težine na kartici recepta."
+  },
+  "recipe_card_easy": {
+    "text": "Lako",
+    "description": "Oznaka nivoa težine koja označava lak recept."
+  },
+  "recipe_card_medium": {
+    "text": "Srednje",
+    "description": "Oznaka nivoa težine koja označava umereno težak recept."
+  },
+  "recipe_card_hard": {
+    "text": "Teško",
+    "description": "Oznaka nivoa težine koja označava težak recept."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Ime recepta za Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bogati bujon od svinjskih kostiju sa nežnim čašu, mekanim jajetom i svežim nudlama.",
+    "description": "Opis recepta za Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Ime recepta za Margherita pitu."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasična neapolitanska pizza sa San Marzano paradajzom, svežom mocarelom i bosiljkom.",
+    "description": "Opis recepta za Margherita pitu."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Ime recepta za Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinirani svinjski tacos sa ananasom, korijanderom i lukom na kukuruznim tortiljama.",
+    "description": "Opis recepta za Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Maslac Piletina",
+    "description": "Ime recepta za Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Nežna piletina u kremastom sosu od paradajza i putera sa aromatičnim začinima.",
+    "description": "Opis recepta za Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Ime recepta za Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Prženi pirinčani rezanci sa škampima, tofujem, kikirikijem i tamarind sosom.",
+    "description": "Opis recepta za Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francuski Krepi",
+    "description": "Ime recepta za Francuske krepove."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tanki, delikatni krepi punjeni Nutellom, svežim jagodama i šlagom.",
+    "description": "Opis recepta za Francuske krepove."
+  },
+  "locale_switcher_label": {
+    "text": "Jezik",
+    "description": "Pristupačna oznaka za padajući meni za izbor jezika u zaglavlju."
+  },
+  "locale_switcher_en": {
+    "text": "Engleski",
+    "description": "Opcija za engleski jezik u menjaču jezika."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opcija za japanski jezik u menjaču jezika."
+  },
+  "locale_switcher_es": {
+    "text": "Španski",
+    "description": "Opcija za španski jezik u menjaču jezika."
   }
 }

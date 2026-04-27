@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kċina tad-Dinja",
-      "description": "Isem tal-app murija fil-header. App ta' skoperta ta' riċetti għal kċini madwar id-dinja."
-    },
-    "subtitle": {
-      "text": "Ikkopri riċetti minn madwar id-dinja",
-      "description": "Tagline murija taħt l-isem tal-app fil-header."
-    }
+  "header_title": {
+    "text": "Kċina tad-Dinja",
+    "description": "Isem tal-app murija fil-header. App ta' skoperta ta' riċetti għal kċini madwar id-dinja."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Esplora Toġġi Globali",
-      "description": "Titolu prinċipali fuq is-sezzjoni eroj tal-paġna ewlenija."
-    },
-    "heroSubtitle": {
-      "text": "Ħares riċetti awtentiċi mill-kċini madwar id-dinja",
-      "description": "Test tal-isottotlu murija taħt it-titolu eroj fuq il-paġna ewlenija."
-    },
-    "featuredTitle": {
-      "text": "Riċetti Mistenni",
-      "description": "Titolu tas-sezzjoni murija fuq il-karta tar-riċetta."
-    }
+  "header_subtitle": {
+    "text": "Ikkopri riċetti minn madwar id-dinja",
+    "description": "Tagline murija taħt l-isem tal-app fil-header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "It-tikketta taż-żmien tal-kċina fuq karta tar-riċetta. {minutes} tinbidel b'numeru ta' minuti."
-    },
-    "difficulty": {
-      "text": "Diffikultà",
-      "description": "Tikketta murija qabel il-livell ta' diffikultà fuq karta tar-riċetta."
-    },
-    "easy": {
-      "text": "Faċli",
-      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta faċli."
-    },
-    "medium": {
-      "text": "Medju",
-      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta ta' diffikultà medja."
-    },
-    "hard": {
-      "text": "Diffiċli",
-      "description": "Tikketta tal-livell ta' diffikultà li turi riċetta diffiċli."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Isem tar-riċetta Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Broth rikk ta' għadam tal-majjal b'ċashu tener, bajda mgħollija ħafifa, u noodles friski.",
-      "description": "Deskrizzjoni tar-riċetta Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Isem tar-riċetta Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan klassika b'tomates San Marzano, mozzarella friski, u basiliku.",
-      "description": "Deskrizzjoni tar-riċetta Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Isem tar-riċetta Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos tal-majjal marinat b'pineapple, cilantro, u basal fuq tortillas ta' qamħ.",
-      "description": "Deskrizzjoni tar-riċetta Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Isem tar-riċetta Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Tiġieġ tener f'saġra kremuża ta' tomate u butir b'togħmiet aromatiċi.",
-      "description": "Deskrizzjoni tar-riċetta Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Isem tar-riċetta Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles ta' ross imsajjar b'ħut qargħi, tofu, fażola taż-żebbuġ, u saġra tamarind.",
-      "description": "Deskrizzjoni tar-riċetta Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Franċiżi",
-      "description": "Isem tar-riċetta Crepes Franċiżi."
-    },
-    "crepesDescription": {
-      "text": "Crepes irqaq u delikati mimlija b'Nutella, freski ta' strawberries, u krema mħawra.",
-      "description": "Deskrizzjoni tar-riċetta Crepes Franċiżi."
-    }
+  "home_page_hero_title": {
+    "text": "Esplora Toġġi Globali",
+    "description": "Titolu prinċipali fuq is-sezzjoni eroj tal-paġna ewlenija."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingwa",
-      "description": "Tikketta aċċessibbli għad-dropdown tal-bidla tal-lingwa fil-header."
-    },
-    "en": {
-      "text": "Ingliż",
-      "description": "Għażla tal-lingwa Ingliża fil-bidla tal-lokalità."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Għażla tal-lingwa Ġappuniża fil-bidla tal-lokalità."
-    },
-    "es": {
-      "text": "Spanjol",
-      "description": "Għażla tal-lingwa Spanjola fil-bidla tal-lokalità."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Ħares riċetti awtentiċi mill-kċini madwar id-dinja",
+    "description": "Test tal-isottotlu murija taħt it-titolu eroj fuq il-paġna ewlenija."
+  },
+  "home_page_featured_title": {
+    "text": "Riċetti Mistenni",
+    "description": "Titolu tas-sezzjoni murija fuq il-karta tar-riċetta."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "It-tikketta taż-żmien tal-kċina fuq karta tar-riċetta. {minutes} tinbidel b'numeru ta' minuti."
+  },
+  "recipe_card_difficulty": {
+    "text": "Diffikultà",
+    "description": "Tikketta murija qabel il-livell ta' diffikultà fuq karta tar-riċetta."
+  },
+  "recipe_card_easy": {
+    "text": "Faċli",
+    "description": "Tikketta tal-livell ta' diffikultà li turi riċetta faċli."
+  },
+  "recipe_card_medium": {
+    "text": "Medju",
+    "description": "Tikketta tal-livell ta' diffikultà li turi riċetta ta' diffikultà medja."
+  },
+  "recipe_card_hard": {
+    "text": "Diffiċli",
+    "description": "Tikketta tal-livell ta' diffikultà li turi riċetta diffiċli."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Isem tar-riċetta Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Broth rikk ta' għadam tal-majjal b'ċashu tener, bajda mgħollija ħafifa, u noodles friski.",
+    "description": "Deskrizzjoni tar-riċetta Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Isem tar-riċetta Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan klassika b'tomates San Marzano, mozzarella friski, u basiliku.",
+    "description": "Deskrizzjoni tar-riċetta Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Isem tar-riċetta Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos tal-majjal marinat b'pineapple, cilantro, u basal fuq tortillas ta' qamħ.",
+    "description": "Deskrizzjoni tar-riċetta Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Isem tar-riċetta Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Tiġieġ tener f'saġra kremuża ta' tomate u butir b'togħmiet aromatiċi.",
+    "description": "Deskrizzjoni tar-riċetta Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Isem tar-riċetta Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles ta' ross imsajjar b'ħut qargħi, tofu, fażola taż-żebbuġ, u saġra tamarind.",
+    "description": "Deskrizzjoni tar-riċetta Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Franċiżi",
+    "description": "Isem tar-riċetta Crepes Franċiżi."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes irqaq u delikati mimlija b'Nutella, freski ta' strawberries, u krema mħawra.",
+    "description": "Deskrizzjoni tar-riċetta Crepes Franċiżi."
+  },
+  "locale_switcher_label": {
+    "text": "Lingwa",
+    "description": "Tikketta aċċessibbli għad-dropdown tal-bidla tal-lingwa fil-header."
+  },
+  "locale_switcher_en": {
+    "text": "Ingliż",
+    "description": "Għażla tal-lingwa Ingliża fil-bidla tal-lokalità."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Għażla tal-lingwa Ġappuniża fil-bidla tal-lokalità."
+  },
+  "locale_switcher_es": {
+    "text": "Spanjol",
+    "description": "Għażla tal-lingwa Spanjola fil-bidla tal-lokalità."
   }
 }

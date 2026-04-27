@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Wrâldkeuken",
-      "description": "Namme fan de app werjûn yn de koptekst. In resept ûntdekkingsapp foar wrâldkeukens."
-    },
-    "subtitle": {
-      "text": "Untdek resepten fan oer de hiele wrâld",
-      "description": "Slogan ûnder de appnamme yn de koptekst."
-    }
+  "header_title": {
+    "text": "Wrâldkeuken",
+    "description": "Namme fan de app werjûn yn de koptekst. In resept ûntdekkingsapp foar wrâldkeukens."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Untdek wrâldsmaken",
-      "description": "Haadkop yn it haadôfbyldingsgebiet fan de thússide."
-    },
-    "heroSubtitle": {
-      "text": "Blêdzje troch autentike resepten út keukens fan oer de hiele wrâld",
-      "description": "Ûndertitel dy't ûnder de haadkop yn it haadôfbyldingsgebiet fan de thússide wurdt werjûn."
-    },
-    "featuredTitle": {
-      "text": "Útlicht resepten",
-      "description": "Sekseartitel dy't boppe it reseptkaartroaster wurdt werjûn."
-    }
+  "header_subtitle": {
+    "text": "Untdek resepten fan oer de hiele wrâld",
+    "description": "Slogan ûnder de appnamme yn de koptekst."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Tiid foar it koken op in reseptkaart. {minutes} wurdt ferfongen troch it tal minuten."
-    },
-    "difficulty": {
-      "text": "Moeilijkheid",
-      "description": "Label dat foar de mooglikheidsnivo op in reseptkaart wurdt werjûn."
-    },
-    "easy": {
-      "text": "Makke",
-      "description": "Label foar in maklik resept."
-    },
-    "medium": {
-      "text": "Middel",
-      "description": "Label foar in middelmooglik resept."
-    },
-    "hard": {
-      "text": "Moeilijk",
-      "description": "Label foar in dreech resept."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Namme fan it Tonkotsu Ramen-resept."
-    },
-    "ramenDescription": {
-      "text": "Rike pork bonensoep mei sêfte chashu, sêft-koke aaien, en farske noedels.",
-      "description": "Beskriuwing fan it Tonkotsu Ramen-resept."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Namme fan it Margherita Pizza-resept."
-    },
-    "margheritaDescription": {
-      "text": "Klasike Napolitaanske pizza mei San Marzano tomaten, farske mozzarella, en basilicum.",
-      "description": "Beskriuwing fan it Margherita Pizza-resept."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Namme fan it Tacos al Pastor-resept."
-    },
-    "tacosDescription": {
-      "text": "Gemarinearre pork tacos mei ananas, koriander, en sipel op maïstortilla's.",
-      "description": "Beskriuwing fan it Tacos al Pastor-resept."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Namme fan it Butter Chicken-resept."
-    },
-    "butterChickenDescription": {
-      "text": "Sêfte hin mei in romige tomaat- en bûtersaus mei aromatyske krûden.",
-      "description": "Beskriuwing fan it Butter Chicken-resept."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Namme fan it Pad Thai-resept."
-    },
-    "padThaiDescription": {
-      "text": "Roerbakke rysnoedels mei garnalen, tofu, pinda's, en tamaryndsaus.",
-      "description": "Beskriuwing fan it Pad Thai-resept."
-    },
-    "crepesName": {
-      "text": "Franse Crêpes",
-      "description": "Namme fan it Franse Crêpes-resept."
-    },
-    "crepesDescription": {
-      "text": "Tin, delikate crêpes fol mei Nutella, farske aarbeien, en slachroom.",
-      "description": "Beskriuwing fan it Franse Crêpes-resept."
-    }
+  "home_page_hero_title": {
+    "text": "Untdek wrâldsmaken",
+    "description": "Haadkop yn it haadôfbyldingsgebiet fan de thússide."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Taal",
-      "description": "Tagonklik label foar de taalwikselaar dropdown yn de koptekst."
-    },
-    "en": {
-      "text": "Ingelsk",
-      "description": "Ingelske taalopsje yn de taalwikselaar."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanske taalopsje yn de taalwikselaar."
-    },
-    "es": {
-      "text": "Spaansk",
-      "description": "Spaanske taalopsje yn de taalwikselaar."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Blêdzje troch autentike resepten út keukens fan oer de hiele wrâld",
+    "description": "Ûndertitel dy't ûnder de haadkop yn it haadôfbyldingsgebiet fan de thússide wurdt werjûn."
+  },
+  "home_page_featured_title": {
+    "text": "Útlicht resepten",
+    "description": "Sekseartitel dy't boppe it reseptkaartroaster wurdt werjûn."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Tiid foar it koken op in reseptkaart. {minutes} wurdt ferfongen troch it tal minuten."
+  },
+  "recipe_card_difficulty": {
+    "text": "Moeilijkheid",
+    "description": "Label dat foar de mooglikheidsnivo op in reseptkaart wurdt werjûn."
+  },
+  "recipe_card_easy": {
+    "text": "Makke",
+    "description": "Label foar in maklik resept."
+  },
+  "recipe_card_medium": {
+    "text": "Middel",
+    "description": "Label foar in middelmooglik resept."
+  },
+  "recipe_card_hard": {
+    "text": "Moeilijk",
+    "description": "Label foar in dreech resept."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Namme fan it Tonkotsu Ramen-resept."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rike pork bonensoep mei sêfte chashu, sêft-koke aaien, en farske noedels.",
+    "description": "Beskriuwing fan it Tonkotsu Ramen-resept."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Namme fan it Margherita Pizza-resept."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasike Napolitaanske pizza mei San Marzano tomaten, farske mozzarella, en basilicum.",
+    "description": "Beskriuwing fan it Margherita Pizza-resept."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Namme fan it Tacos al Pastor-resept."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Gemarinearre pork tacos mei ananas, koriander, en sipel op maïstortilla's.",
+    "description": "Beskriuwing fan it Tacos al Pastor-resept."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Namme fan it Butter Chicken-resept."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Sêfte hin mei in romige tomaat- en bûtersaus mei aromatyske krûden.",
+    "description": "Beskriuwing fan it Butter Chicken-resept."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Namme fan it Pad Thai-resept."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Roerbakke rysnoedels mei garnalen, tofu, pinda's, en tamaryndsaus.",
+    "description": "Beskriuwing fan it Pad Thai-resept."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franse Crêpes",
+    "description": "Namme fan it Franse Crêpes-resept."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tin, delikate crêpes fol mei Nutella, farske aarbeien, en slachroom.",
+    "description": "Beskriuwing fan it Franse Crêpes-resept."
+  },
+  "locale_switcher_label": {
+    "text": "Taal",
+    "description": "Tagonklik label foar de taalwikselaar dropdown yn de koptekst."
+  },
+  "locale_switcher_en": {
+    "text": "Ingelsk",
+    "description": "Ingelske taalopsje yn de taalwikselaar."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanske taalopsje yn de taalwikselaar."
+  },
+  "locale_switcher_es": {
+    "text": "Spaansk",
+    "description": "Spaanske taalopsje yn de taalwikselaar."
   }
 }

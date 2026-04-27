@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kuzhîya Cîhanê",
-      "description": "Navê sepana ku di ser sernavê de xuya dibe. Sepanekî dîtina xwarinên cîhanê ye."
-    },
-    "subtitle": {
-      "text": "Dîtina xwarinên ji her derveyî cîhanê",
-      "description": "Xeteya binavkirî ya ku jêr navê sepana di ser sernavê de xuya dibe."
-    }
+  "header_title": {
+    "text": "Kuzhîya Cîhanê",
+    "description": "Navê sepana ku di ser sernavê de xuya dibe. Sepanekî dîtina xwarinên cîhanê ye."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Lazimandiyên Cîhanê lêkolîn bikin",
-      "description": "Sernavê sereke li beşê pêşeroja malê."
-    },
-    "heroSubtitle": {
-      "text": "Xwarinên rastîn ji xwarinxaneyên cîhanê lêgerîn",
-      "description": "Nivîsa binsernavê ku jêr sernavê pêşeroja malê xuya dibe."
-    },
-    "featuredTitle": {
-      "text": "Xwarinên Taybet",
-      "description": "Sernavê beşê ku li ser rêza karta xwarinê xuya dibe."
-    }
+  "header_subtitle": {
+    "text": "Dîtina xwarinên ji her derveyî cîhanê",
+    "description": "Xeteya binavkirî ya ku jêr navê sepana di ser sernavê de xuya dibe."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} xulek",
-      "description": "Nîşana demê xwarinê li ser karta xwarinê. {minutes} bi hejmarek xulek tê guhertin."
-    },
-    "difficulty": {
-      "text": "Zêdeyî",
-      "description": "Nîşana ku berî asta zêdeyî li ser karta xwarinê xuya dibe."
-    },
-    "easy": {
-      "text": "Hêsan",
-      "description": "Nîşana asta zêdeyî ku xwarinek hêsan nîşan dide."
-    },
-    "medium": {
-      "text": "Navîn",
-      "description": "Nîşana asta zêdeyî ku xwarinek navîn nîşan dide."
-    },
-    "hard": {
-      "text": "Zor",
-      "description": "Nîşana asta zêdeyî ku xwarinek zor nîşan dide."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Navê reseptê Tonkotsu Ramenê."
-    },
-    "ramenDescription": {
-      "text": "Şorba tûrê qelibê porkê bi chashuya nerm, hêkê zîv, û nimêjên tazeyên.",
-      "description": "Danasîna reseptê Tonkotsu Ramenê."
-    },
-    "margheritaName": {
-      "text": "Pîza Margherita",
-      "description": "Navê reseptê Pîza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pîza klasîk a Neapolitan bi tomatan San Marzano, mozzarella tazeyê, û fesleğen.",
-      "description": "Danasîna reseptê Pîza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Navê reseptê Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacosên porkê marînkirî bi ananas, cilantro, û pîvaz li ser tortilla yên gândî.",
-      "description": "Danasîna reseptê Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Mirîşkê Bêra",
-      "description": "Navê reseptê Mirîşkê Bêra."
-    },
-    "butterChickenDescription": {
-      "text": "Mirîşkê nerm di sosê xwêzayî ya tomat û bêra bi herîkên hûr dikeve.",
-      "description": "Danasîna reseptê Mirîşkê Bêra."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Navê reseptê Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nimêjên birincî yên qevî bi shrimp, tofu, qeseyên fistik, û sosê tamarind.",
-      "description": "Danasîna reseptê Pad Thai."
-    },
-    "crepesName": {
-      "text": "Krepsên Fransî",
-      "description": "Navê reseptê Krepsên Fransî."
-    },
-    "crepesDescription": {
-      "text": "Krepsên nerm û nazik tije kirî bi Nutella, tûşeya tazeyê, û kremê şîrîn.",
-      "description": "Danasîna reseptê Krepsên Fransî."
-    }
+  "home_page_hero_title": {
+    "text": "Lazimandiyên Cîhanê lêkolîn bikin",
+    "description": "Sernavê sereke li beşê pêşeroja malê."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Ziman",
-      "description": "Nîşana gihîştinê ya bo hilbijartina zimanê di dropdownê ser sernavê de."
-    },
-    "en": {
-      "text": "Îngilîzî",
-      "description": "Vebijarka zimanê Îngilîzî di hilbijartina zimanê de."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Vebijarka zimanê Japonî di hilbijartina zimanê de."
-    },
-    "es": {
-      "text": "Îspanyolî",
-      "description": "Vebijarka zimanê Îspanyolî di hilbijartina zimanê de."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Xwarinên rastîn ji xwarinxaneyên cîhanê lêgerîn",
+    "description": "Nivîsa binsernavê ku jêr sernavê pêşeroja malê xuya dibe."
+  },
+  "home_page_featured_title": {
+    "text": "Xwarinên Taybet",
+    "description": "Sernavê beşê ku li ser rêza karta xwarinê xuya dibe."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} xulek",
+    "description": "Nîşana demê xwarinê li ser karta xwarinê. {minutes} bi hejmarek xulek tê guhertin."
+  },
+  "recipe_card_difficulty": {
+    "text": "Zêdeyî",
+    "description": "Nîşana ku berî asta zêdeyî li ser karta xwarinê xuya dibe."
+  },
+  "recipe_card_easy": {
+    "text": "Hêsan",
+    "description": "Nîşana asta zêdeyî ku xwarinek hêsan nîşan dide."
+  },
+  "recipe_card_medium": {
+    "text": "Navîn",
+    "description": "Nîşana asta zêdeyî ku xwarinek navîn nîşan dide."
+  },
+  "recipe_card_hard": {
+    "text": "Zor",
+    "description": "Nîşana asta zêdeyî ku xwarinek zor nîşan dide."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Navê reseptê Tonkotsu Ramenê."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Şorba tûrê qelibê porkê bi chashuya nerm, hêkê zîv, û nimêjên tazeyên.",
+    "description": "Danasîna reseptê Tonkotsu Ramenê."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pîza Margherita",
+    "description": "Navê reseptê Pîza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pîza klasîk a Neapolitan bi tomatan San Marzano, mozzarella tazeyê, û fesleğen.",
+    "description": "Danasîna reseptê Pîza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Navê reseptê Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacosên porkê marînkirî bi ananas, cilantro, û pîvaz li ser tortilla yên gândî.",
+    "description": "Danasîna reseptê Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Mirîşkê Bêra",
+    "description": "Navê reseptê Mirîşkê Bêra."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mirîşkê nerm di sosê xwêzayî ya tomat û bêra bi herîkên hûr dikeve.",
+    "description": "Danasîna reseptê Mirîşkê Bêra."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Navê reseptê Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nimêjên birincî yên qevî bi shrimp, tofu, qeseyên fistik, û sosê tamarind.",
+    "description": "Danasîna reseptê Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Krepsên Fransî",
+    "description": "Navê reseptê Krepsên Fransî."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Krepsên nerm û nazik tije kirî bi Nutella, tûşeya tazeyê, û kremê şîrîn.",
+    "description": "Danasîna reseptê Krepsên Fransî."
+  },
+  "locale_switcher_label": {
+    "text": "Ziman",
+    "description": "Nîşana gihîştinê ya bo hilbijartina zimanê di dropdownê ser sernavê de."
+  },
+  "locale_switcher_en": {
+    "text": "Îngilîzî",
+    "description": "Vebijarka zimanê Îngilîzî di hilbijartina zimanê de."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Vebijarka zimanê Japonî di hilbijartina zimanê de."
+  },
+  "locale_switcher_es": {
+    "text": "Îspanyolî",
+    "description": "Vebijarka zimanê Îspanyolî di hilbijartina zimanê de."
   }
 }

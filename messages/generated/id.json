@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dapur Dunia",
-      "description": "Nama aplikasi yang ditampilkan di header. Aplikasi penemuan resep untuk masakan dunia."
-    },
-    "subtitle": {
-      "text": "Temukan resep dari seluruh dunia",
-      "description": "Tagline yang ditampilkan di bawah nama aplikasi di header."
-    }
+  "header_title": {
+    "text": "Dapur Dunia",
+    "description": "Nama aplikasi yang ditampilkan di header. Aplikasi penemuan resep untuk masakan dunia."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Jelajahi Rasa Global",
-      "description": "Judul utama di bagian hero halaman utama."
-    },
-    "heroSubtitle": {
-      "text": "Telusuri resep autentik dari dapur di seluruh dunia",
-      "description": "Teks subjudul yang ditampilkan di bawah judul hero di halaman utama."
-    },
-    "featuredTitle": {
-      "text": "Resep Unggulan",
-      "description": "Judul bagian yang ditampilkan di atas grid kartu resep."
-    }
+  "header_subtitle": {
+    "text": "Temukan resep dari seluruh dunia",
+    "description": "Tagline yang ditampilkan di bawah nama aplikasi di header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} menit",
-      "description": "Label waktu memasak pada kartu resep. {minutes} diganti dengan jumlah menit."
-    },
-    "difficulty": {
-      "text": "Kesulitan",
-      "description": "Label yang ditampilkan sebelum tingkat kesulitan pada kartu resep."
-    },
-    "easy": {
-      "text": "Mudah",
-      "description": "Label tingkat kesulitan yang menunjukkan resep mudah."
-    },
-    "medium": {
-      "text": "Sedang",
-      "description": "Label tingkat kesulitan yang menunjukkan resep dengan tingkat kesulitan sedang."
-    },
-    "hard": {
-      "text": "Sulit",
-      "description": "Label tingkat kesulitan yang menunjukkan resep sulit."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nama resep Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Kaldu tulang babi kaya dengan chashu lembut, telur setengah matang, dan mie segar.",
-      "description": "Deskripsi resep Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nama resep Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan klasik dengan tomat San Marzano, mozzarella segar, dan basil.",
-      "description": "Deskripsi resep Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nama resep Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos daging babi yang dimarinasi dengan nanas, ketumbar, dan bawang di atas tortilla jagung.",
-      "description": "Deskripsi resep Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Nama resep Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Ayam lembut dalam saus tomat dan mentega yang creamy dengan rempah aromatik.",
-      "description": "Deskripsi resep Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nama resep Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Mie beras tumis dengan udang, tahu, kacang tanah, dan saus asam jawa.",
-      "description": "Deskripsi resep Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Perancis",
-      "description": "Nama resep Crepes Perancis."
-    },
-    "crepesDescription": {
-      "text": "Crepes tipis dan lembut diisi dengan Nutella, stroberi segar, dan krim kocok.",
-      "description": "Deskripsi resep Crepes Perancis."
-    }
+  "home_page_hero_title": {
+    "text": "Jelajahi Rasa Global",
+    "description": "Judul utama di bagian hero halaman utama."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Bahasa",
-      "description": "Label aksesibel untuk dropdown pengalih bahasa di header."
-    },
-    "en": {
-      "text": "Inggris",
-      "description": "Opsi bahasa Inggris dalam pengalih lokal."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opsi bahasa Jepang dalam pengalih lokal."
-    },
-    "es": {
-      "text": "Spanyol",
-      "description": "Opsi bahasa Spanyol dalam pengalih lokal."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Telusuri resep autentik dari dapur di seluruh dunia",
+    "description": "Teks subjudul yang ditampilkan di bawah judul hero di halaman utama."
+  },
+  "home_page_featured_title": {
+    "text": "Resep Unggulan",
+    "description": "Judul bagian yang ditampilkan di atas grid kartu resep."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} menit",
+    "description": "Label waktu memasak pada kartu resep. {minutes} diganti dengan jumlah menit."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kesulitan",
+    "description": "Label yang ditampilkan sebelum tingkat kesulitan pada kartu resep."
+  },
+  "recipe_card_easy": {
+    "text": "Mudah",
+    "description": "Label tingkat kesulitan yang menunjukkan resep mudah."
+  },
+  "recipe_card_medium": {
+    "text": "Sedang",
+    "description": "Label tingkat kesulitan yang menunjukkan resep dengan tingkat kesulitan sedang."
+  },
+  "recipe_card_hard": {
+    "text": "Sulit",
+    "description": "Label tingkat kesulitan yang menunjukkan resep sulit."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nama resep Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Kaldu tulang babi kaya dengan chashu lembut, telur setengah matang, dan mie segar.",
+    "description": "Deskripsi resep Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nama resep Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan klasik dengan tomat San Marzano, mozzarella segar, dan basil.",
+    "description": "Deskripsi resep Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nama resep Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos daging babi yang dimarinasi dengan nanas, ketumbar, dan bawang di atas tortilla jagung.",
+    "description": "Deskripsi resep Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Nama resep Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ayam lembut dalam saus tomat dan mentega yang creamy dengan rempah aromatik.",
+    "description": "Deskripsi resep Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nama resep Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Mie beras tumis dengan udang, tahu, kacang tanah, dan saus asam jawa.",
+    "description": "Deskripsi resep Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Perancis",
+    "description": "Nama resep Crepes Perancis."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes tipis dan lembut diisi dengan Nutella, stroberi segar, dan krim kocok.",
+    "description": "Deskripsi resep Crepes Perancis."
+  },
+  "locale_switcher_label": {
+    "text": "Bahasa",
+    "description": "Label aksesibel untuk dropdown pengalih bahasa di header."
+  },
+  "locale_switcher_en": {
+    "text": "Inggris",
+    "description": "Opsi bahasa Inggris dalam pengalih lokal."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opsi bahasa Jepang dalam pengalih lokal."
+  },
+  "locale_switcher_es": {
+    "text": "Spanyol",
+    "description": "Opsi bahasa Spanyol dalam pengalih lokal."
   }
 }

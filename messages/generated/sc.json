@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cucina Mondiale",
-      "description": "App nome mostradu in su testu de su testu. Un'app po scoprire ricettas de is cucinas mundialis."
-    },
-    "subtitle": {
-      "text": "Scopri ricettas dae totu su mundu",
-      "description": "Slogan mostradu subra su nomine de s'app in su testu."
-    }
+  "header_title": {
+    "text": "Cucina Mondiale",
+    "description": "App nome mostradu in su testu de su testu. Un'app po scoprire ricettas de is cucinas mundialis."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Esplora Is Sapores Mundialis",
-      "description": "Titulu principali in sa sección hero de sa pàgina iniziale."
-    },
-    "heroSubtitle": {
-      "text": "Navega ricettas autenticas dae is cucinas de totu su mundu",
-      "description": "Testu de su sottotìtulu mostradu inoghe de su titulu hero in sa pàgina iniziale."
-    },
-    "featuredTitle": {
-      "text": "Ricettas In Evidèntzia",
-      "description": "Titulu de sa sección mostradu inoghe de sa griglia de is tarjetas de ricetta."
-    }
+  "header_subtitle": {
+    "text": "Scopri ricettas dae totu su mundu",
+    "description": "Slogan mostradu subra su nomine de s'app in su testu."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etichetta de su tempus de cottura in una tarjeta de ricetta. {minutes} est substituitu cun su numeru de minutos."
-    },
-    "difficulty": {
-      "text": "Difficultade",
-      "description": "Etichetta mostrada prima de su liveddu de difficultade in una tarjeta de ricetta."
-    },
-    "easy": {
-      "text": "Facile",
-      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta fàcile."
-    },
-    "medium": {
-      "text": "Medio",
-      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta de difficultade meda."
-    },
-    "hard": {
-      "text": "Difficile",
-      "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta difficile."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nòmine de sa ricetta Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Brodo riccu de ossos de porcu cun chashu tenneru, ou bollidu molle, e noodles friscu.",
-      "description": "Descritzione de sa ricetta Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pitzza Margherita",
-      "description": "Nòmine de sa ricetta Pitzza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pitzza napulitana classica cun tomàtigas San Marzano, mozzarella fresca, e basilicu.",
-      "description": "Descritzione de sa ricetta Pitzza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nòmine de sa ricetta Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porcu marinadu cun ananas, cilantro, e cebolla in tortillas de frumentu.",
-      "description": "Descritzione de sa ricetta Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pollu cun Butiru",
-      "description": "Nòmine de sa ricetta Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Pollu tenneru in una salsa cremosa de tomàtiga e butiru cun spezzias aromàticas.",
-      "description": "Descritzione de sa ricetta Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nòmine de sa ricetta Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles de arròs saltados cun gambas, tofu, anacardus, e salsa de tamarindu.",
-      "description": "Descritzione de sa ricetta Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Frantzesas",
-      "description": "Nòmine de sa ricetta Crepes Frantzesas."
-    },
-    "crepesDescription": {
-      "text": "Crepes finas e delicadas imbottidas cun Nutella, fragolas frescas, e crema montada.",
-      "description": "Descritzione de sa ricetta Crepes Frantzesas."
-    }
+  "home_page_hero_title": {
+    "text": "Esplora Is Sapores Mundialis",
+    "description": "Titulu principali in sa sección hero de sa pàgina iniziale."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Limba",
-      "description": "Etichetta accessìbile po su menu a cascada de su cambiador de limba in su testu."
-    },
-    "en": {
-      "text": "Inglese",
-      "description": "Opzione de limba inglese in su cambiador de limba."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opzione de limba giapponese in su cambiador de limba."
-    },
-    "es": {
-      "text": "Spagnolu",
-      "description": "Opzione de limba spagnola in su cambiador de limba."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navega ricettas autenticas dae is cucinas de totu su mundu",
+    "description": "Testu de su sottotìtulu mostradu inoghe de su titulu hero in sa pàgina iniziale."
+  },
+  "home_page_featured_title": {
+    "text": "Ricettas In Evidèntzia",
+    "description": "Titulu de sa sección mostradu inoghe de sa griglia de is tarjetas de ricetta."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etichetta de su tempus de cottura in una tarjeta de ricetta. {minutes} est substituitu cun su numeru de minutos."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difficultade",
+    "description": "Etichetta mostrada prima de su liveddu de difficultade in una tarjeta de ricetta."
+  },
+  "recipe_card_easy": {
+    "text": "Facile",
+    "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta fàcile."
+  },
+  "recipe_card_medium": {
+    "text": "Medio",
+    "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta de difficultade meda."
+  },
+  "recipe_card_hard": {
+    "text": "Difficile",
+    "description": "Etichetta de liveddu de difficultade chi indìcat una ricetta difficile."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nòmine de sa ricetta Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Brodo riccu de ossos de porcu cun chashu tenneru, ou bollidu molle, e noodles friscu.",
+    "description": "Descritzione de sa ricetta Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pitzza Margherita",
+    "description": "Nòmine de sa ricetta Pitzza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pitzza napulitana classica cun tomàtigas San Marzano, mozzarella fresca, e basilicu.",
+    "description": "Descritzione de sa ricetta Pitzza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nòmine de sa ricetta Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porcu marinadu cun ananas, cilantro, e cebolla in tortillas de frumentu.",
+    "description": "Descritzione de sa ricetta Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pollu cun Butiru",
+    "description": "Nòmine de sa ricetta Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pollu tenneru in una salsa cremosa de tomàtiga e butiru cun spezzias aromàticas.",
+    "description": "Descritzione de sa ricetta Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nòmine de sa ricetta Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles de arròs saltados cun gambas, tofu, anacardus, e salsa de tamarindu.",
+    "description": "Descritzione de sa ricetta Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Frantzesas",
+    "description": "Nòmine de sa ricetta Crepes Frantzesas."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes finas e delicadas imbottidas cun Nutella, fragolas frescas, e crema montada.",
+    "description": "Descritzione de sa ricetta Crepes Frantzesas."
+  },
+  "locale_switcher_label": {
+    "text": "Limba",
+    "description": "Etichetta accessìbile po su menu a cascada de su cambiador de limba in su testu."
+  },
+  "locale_switcher_en": {
+    "text": "Inglese",
+    "description": "Opzione de limba inglese in su cambiador de limba."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opzione de limba giapponese in su cambiador de limba."
+  },
+  "locale_switcher_es": {
+    "text": "Spagnolu",
+    "description": "Opzione de limba spagnola in su cambiador de limba."
   }
 }

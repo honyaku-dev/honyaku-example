@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Jikoni la Dunia",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Gundua mapishi kutoka duniani kote",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Jikoni la Dunia",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Chunguza Ladha za Ulimwengu",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Vinakili mapishi halisi kutoka jikoni za duniani kote",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Mapishi Yaliyoangaziwa",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Gundua mapishi kutoka duniani kote",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Ugumu",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Rahisi",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Wastani",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Gumu",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Jina la mapishi ya Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Mchuzi tajiri wa mfupa wa nguruwe wenye chashu laini, yai lililopikwa kwa upole, na tambi safi.",
-      "description": "Maelezo ya mapishi ya Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Piza ya Margherita",
-      "description": "Jina la mapishi ya Piza ya Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Piza ya Neapolitan ya jadi yenye nyanya za San Marzano, mozzarella safi, na basil.",
-      "description": "Maelezo ya mapishi ya Piza ya Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Jina la mapishi ya Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos za nguruwe zilizochochewa na nanasi, cilantro, na kitunguu kwenye tortillas za mahindi.",
-      "description": "Maelezo ya mapishi ya Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Kuku wa Siagi",
-      "description": "Jina la mapishi ya Kuku wa Siagi."
-    },
-    "butterChickenDescription": {
-      "text": "Kuku laini katika mchuzi wa nyanya na siagi wenye viungo vyenye harufu nzuri.",
-      "description": "Maelezo ya mapishi ya Kuku wa Siagi."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Jina la mapishi ya Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Tambi za mchele zilizokaangwa na kamba, tofu, karanga, na mchuzi wa tamarind.",
-      "description": "Maelezo ya mapishi ya Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes za Kifaransa",
-      "description": "Jina la mapishi ya Crepes za Kifaransa."
-    },
-    "crepesDescription": {
-      "text": "Crepes nyembamba, nyororo zilizojaa Nutella, jordgubbar safi, na krimu iliyopigwa.",
-      "description": "Maelezo ya mapishi ya Crepes za Kifaransa."
-    }
+  "home_page_hero_title": {
+    "text": "Chunguza Ladha za Ulimwengu",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lugha",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Kiingereza",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Kihispania",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Vinakili mapishi halisi kutoka jikoni za duniani kote",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Mapishi Yaliyoangaziwa",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ugumu",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Rahisi",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Wastani",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Gumu",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Jina la mapishi ya Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Mchuzi tajiri wa mfupa wa nguruwe wenye chashu laini, yai lililopikwa kwa upole, na tambi safi.",
+    "description": "Maelezo ya mapishi ya Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Piza ya Margherita",
+    "description": "Jina la mapishi ya Piza ya Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Piza ya Neapolitan ya jadi yenye nyanya za San Marzano, mozzarella safi, na basil.",
+    "description": "Maelezo ya mapishi ya Piza ya Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Jina la mapishi ya Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos za nguruwe zilizochochewa na nanasi, cilantro, na kitunguu kwenye tortillas za mahindi.",
+    "description": "Maelezo ya mapishi ya Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Kuku wa Siagi",
+    "description": "Jina la mapishi ya Kuku wa Siagi."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Kuku laini katika mchuzi wa nyanya na siagi wenye viungo vyenye harufu nzuri.",
+    "description": "Maelezo ya mapishi ya Kuku wa Siagi."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Jina la mapishi ya Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Tambi za mchele zilizokaangwa na kamba, tofu, karanga, na mchuzi wa tamarind.",
+    "description": "Maelezo ya mapishi ya Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes za Kifaransa",
+    "description": "Jina la mapishi ya Crepes za Kifaransa."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes nyembamba, nyororo zilizojaa Nutella, jordgubbar safi, na krimu iliyopigwa.",
+    "description": "Maelezo ya mapishi ya Crepes za Kifaransa."
+  },
+  "locale_switcher_label": {
+    "text": "Lugha",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Kiingereza",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Kihispania",
+    "description": "Spanish language option in the locale switcher."
   }
 }

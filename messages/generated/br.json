@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Gouel Douar",
-      "description": "Anv ar raktres gwelet e penn-kentañ. Ur raktres dizoleiñ resisadurioù evit pladennoù etrebroadel."
-    },
-    "subtitle": {
-      "text": "Dizoloiñ resisadurioù eus an holl ledanv",
-      "description": "Lodenn islinenn diskouezet dindan anv ar raktres e penn-kentañ."
-    }
+  "header_title": {
+    "text": "Gouel Douar",
+    "description": "Anv ar raktres gwelet e penn-kentañ. Ur raktres dizoleiñ resisadurioù evit pladennoù etrebroadel."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Klask taolioù blaz bedel",
-      "description": "Pajenn penn kentañ e live ar c'hentañ pennad bras."
-    },
-    "heroSubtitle": {
-      "text": "Hag a rae resisadurioù gwirion eus kichennoù an holl bed",
-      "description": "Islinenn diskouezet dindan pennad bras ar pajenn gentañ."
-    },
-    "featuredTitle": {
-      "text": "Resisadurioù Dibabet",
-      "description": "Pennad evit ar rann war dachenn ar gartenn resisad."
-    }
+  "header_subtitle": {
+    "text": "Dizoloiñ resisadurioù eus an holl ledanv",
+    "description": "Lodenn islinenn diskouezet dindan anv ar raktres e penn-kentañ."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Lezel amzer kegin war ur gartenn resisad. {minutes} a vo evezhiet gant niver ar munutennoù."
-    },
-    "difficulty": {
-      "text": "Dreistder",
-      "description": "Lezel a-raok live dreistder war ur gartenn resisad."
-    },
-    "easy": {
-      "text": "Simpel",
-      "description": "Lezel live dreistder a zispleg ur resisad aes."
-    },
-    "medium": {
-      "text": "Keuz",
-      "description": "Lezel live dreistder a zispleg ur resisad keuzus e-keñver dreistder."
-    },
-    "hard": {
-      "text": "Krenn",
-      "description": "Lezel live dreistder a zispleg ur resisad kreñv."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Anv ar resisad Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Brozhig gwad-toull eus gwad porc pinvidik gant chashu gouez, viñv-boest, ha noed fresk.",
-      "description": "Deskrivadur ar resisad Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pitsa Margherita",
-      "description": "Anv ar resisad Pitsa Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pitsa klasel neapolitanek gant tomataoù San Marzano, mozzarella fresk, ha basil.",
-      "description": "Deskrivadur ar resisad Pitsa Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Anv ar resisad Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos porc marinat gant ananas, cilantro, ha oignon war tortilla korn.",
-      "description": "Deskrivadur ar resisad Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Poulet a-boutonenn",
-      "description": "Anv ar resisad Poulet a-boutonenn."
-    },
-    "butterChickenDescription": {
-      "text": "Poulet gouez e sous kremañs tomata ha beurre gant spizioù aromatek.",
-      "description": "Deskrivadur ar resisad Poulet a-boutonenn."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Anv ar resisad Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nodelloù ruz stourmet gant crevetenn, tofu, anvein, ha sous tamarind.",
-      "description": "Deskrivadur ar resisad Pad Thai."
-    },
-    "crepesName": {
-      "text": "Krampouezh Frañs",
-      "description": "Anv ar resisad Krampouezh Frañs."
-    },
-    "crepesDescription": {
-      "text": "Krampouezh sklaer ha delik gant Nutella, fraezhenn fresk, ha krem gwisket.",
-      "description": "Deskrivadur ar resisad Krampouezh Frañs."
-    }
+  "home_page_hero_title": {
+    "text": "Klask taolioù blaz bedel",
+    "description": "Pajenn penn kentañ e live ar c'hentañ pennad bras."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Yezh",
-      "description": "Lezel aes da gavout evit dibab yezh e-barzh an droad-kentañ."
-    },
-    "en": {
-      "text": "Saezh",
-      "description": "Dibab yezh saezh e-barzh an emzalc'h yezhoù."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Dibab yezh japaneg e-barzh an emzalc'h yezhoù."
-    },
-    "es": {
-      "text": "Spagnoleg",
-      "description": "Dibab yezh spagnoleg e-barzh an emzalc'h yezhoù."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Hag a rae resisadurioù gwirion eus kichennoù an holl bed",
+    "description": "Islinenn diskouezet dindan pennad bras ar pajenn gentañ."
+  },
+  "home_page_featured_title": {
+    "text": "Resisadurioù Dibabet",
+    "description": "Pennad evit ar rann war dachenn ar gartenn resisad."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Lezel amzer kegin war ur gartenn resisad. {minutes} a vo evezhiet gant niver ar munutennoù."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dreistder",
+    "description": "Lezel a-raok live dreistder war ur gartenn resisad."
+  },
+  "recipe_card_easy": {
+    "text": "Simpel",
+    "description": "Lezel live dreistder a zispleg ur resisad aes."
+  },
+  "recipe_card_medium": {
+    "text": "Keuz",
+    "description": "Lezel live dreistder a zispleg ur resisad keuzus e-keñver dreistder."
+  },
+  "recipe_card_hard": {
+    "text": "Krenn",
+    "description": "Lezel live dreistder a zispleg ur resisad kreñv."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Anv ar resisad Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Brozhig gwad-toull eus gwad porc pinvidik gant chashu gouez, viñv-boest, ha noed fresk.",
+    "description": "Deskrivadur ar resisad Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pitsa Margherita",
+    "description": "Anv ar resisad Pitsa Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pitsa klasel neapolitanek gant tomataoù San Marzano, mozzarella fresk, ha basil.",
+    "description": "Deskrivadur ar resisad Pitsa Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Anv ar resisad Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos porc marinat gant ananas, cilantro, ha oignon war tortilla korn.",
+    "description": "Deskrivadur ar resisad Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Poulet a-boutonenn",
+    "description": "Anv ar resisad Poulet a-boutonenn."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Poulet gouez e sous kremañs tomata ha beurre gant spizioù aromatek.",
+    "description": "Deskrivadur ar resisad Poulet a-boutonenn."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Anv ar resisad Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nodelloù ruz stourmet gant crevetenn, tofu, anvein, ha sous tamarind.",
+    "description": "Deskrivadur ar resisad Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Krampouezh Frañs",
+    "description": "Anv ar resisad Krampouezh Frañs."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Krampouezh sklaer ha delik gant Nutella, fraezhenn fresk, ha krem gwisket.",
+    "description": "Deskrivadur ar resisad Krampouezh Frañs."
+  },
+  "locale_switcher_label": {
+    "text": "Yezh",
+    "description": "Lezel aes da gavout evit dibab yezh e-barzh an droad-kentañ."
+  },
+  "locale_switcher_en": {
+    "text": "Saezh",
+    "description": "Dibab yezh saezh e-barzh an emzalc'h yezhoù."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Dibab yezh japaneg e-barzh an emzalc'h yezhoù."
+  },
+  "locale_switcher_es": {
+    "text": "Spagnoleg",
+    "description": "Dibab yezh spagnoleg e-barzh an emzalc'h yezhoù."
   }
 }

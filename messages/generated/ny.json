@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Mphepo wa Dziko",
-      "description": "Dzina la pulogalamu likuwonetsedwa pa mutu. Pulogalamu ya kupeza mapangidwe a chakudya cha dziko lonse."
-    },
-    "subtitle": {
-      "text": "Pezani mapangidwe a chakudya kuchokera padziko lonse",
-      "description": "Malemba omwe amawonetsedwa pansi pa dzina la pulogalamu pa mutu."
-    }
+  "header_title": {
+    "text": "Mphepo wa Dziko",
+    "description": "Dzina la pulogalamu likuwonetsedwa pa mutu. Pulogalamu ya kupeza mapangidwe a chakudya cha dziko lonse."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Sankhani Zosiyanasiyana za Padziko Lonse",
-      "description": "Mutu waukulu pa gawo la tsamba loyamba."
-    },
-    "heroSubtitle": {
-      "text": "Sankhani mapangidwe enieni kuchokera m'nyumba zosiyanasiyana padziko lonse",
-      "description": "Malemba owerengera oonekera pansi pa mutu waukulu pa tsamba loyamba."
-    },
-    "featuredTitle": {
-      "text": "Mapangidwe Otchuka",
-      "description": "Mutu wa gawo likuwonetsedwa pamwamba pa grid ya makadi a mapangidwe."
-    }
+  "header_subtitle": {
+    "text": "Pezani mapangidwe a chakudya kuchokera padziko lonse",
+    "description": "Malemba omwe amawonetsedwa pansi pa dzina la pulogalamu pa mutu."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} mphindi",
-      "description": "Malemba a nthawi yophikira pa kadikadi ka mapangidwe. {minutes} imasinthidwa ndi chiwerengero cha mphindi."
-    },
-    "difficulty": {
-      "text": "Zovuta",
-      "description": "Malemba omwe amawonetsedwa pamaso pa mulingo wa zovuta pa kadikadi ka mapangidwe."
-    },
-    "easy": {
-      "text": "Zosavuta",
-      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe osavuta."
-    },
-    "medium": {
-      "text": "Pakati",
-      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta pang'ono."
-    },
-    "hard": {
-      "text": "Ovuta",
-      "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Dzina la mapangidwe a Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Msuzi wa mkaka wa mafupa a ng'ombe wokhala ndi chashu yofewa, dzira lofewa, ndi mtedza watsopano.",
-      "description": "Kufotokozera kwa mapangidwe a Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza ya Margherita",
-      "description": "Dzina la mapangidwe a Pizza ya Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan yakale yokhala ndi ma tomati a San Marzano, mozzarella watsopano, ndi basil.",
-      "description": "Kufotokozera kwa mapangidwe a Pizza ya Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Dzina la mapangidwe a Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos a nyama ya nkhumba yophika ndi maapulo a pineapple, cilantro, ndi anyezi pa mkate wa chimanga.",
-      "description": "Kufotokozera kwa mapangidwe a Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Dzina la mapangidwe a Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Nkhuku yofewa mu msuzi wa tomato ndi batala wokhala ndi zonunkhira zokoma.",
-      "description": "Kufotokozera kwa mapangidwe a Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Dzina la mapangidwe a Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Mtedza wa mpunga wokazinga wokhala ndi nsomba, tofu, ma peanut, ndi msuzi wa tamarind.",
-      "description": "Kufotokozera kwa mapangidwe a Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes za ku France",
-      "description": "Dzina la mapangidwe a Crepes za ku France."
-    },
-    "crepesDescription": {
-      "text": "Crepes ochepa, ofewa okhala ndi Nutella, strawberi watsopano, ndi kirimu wopukutidwa.",
-      "description": "Kufotokozera kwa mapangidwe a Crepes za ku France."
-    }
+  "home_page_hero_title": {
+    "text": "Sankhani Zosiyanasiyana za Padziko Lonse",
+    "description": "Mutu waukulu pa gawo la tsamba loyamba."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Chilankhulo",
-      "description": "Dzina lopezeka kwa wosankha chilankhulo mu chikwatu cha mutu."
-    },
-    "en": {
-      "text": "Chingerezi",
-      "description": "Kusankha chilankhulo cha Chingerezi mu wosankha chilankhulo."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Kusankha chilankhulo cha Chijapani mu wosankha chilankhulo."
-    },
-    "es": {
-      "text": "Chisipanishi",
-      "description": "Kusankha chilankhulo cha Chisipanishi mu wosankha chilankhulo."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Sankhani mapangidwe enieni kuchokera m'nyumba zosiyanasiyana padziko lonse",
+    "description": "Malemba owerengera oonekera pansi pa mutu waukulu pa tsamba loyamba."
+  },
+  "home_page_featured_title": {
+    "text": "Mapangidwe Otchuka",
+    "description": "Mutu wa gawo likuwonetsedwa pamwamba pa grid ya makadi a mapangidwe."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} mphindi",
+    "description": "Malemba a nthawi yophikira pa kadikadi ka mapangidwe. {minutes} imasinthidwa ndi chiwerengero cha mphindi."
+  },
+  "recipe_card_difficulty": {
+    "text": "Zovuta",
+    "description": "Malemba omwe amawonetsedwa pamaso pa mulingo wa zovuta pa kadikadi ka mapangidwe."
+  },
+  "recipe_card_easy": {
+    "text": "Zosavuta",
+    "description": "Mulingo wa zovuta ukuwonetsa mapangidwe osavuta."
+  },
+  "recipe_card_medium": {
+    "text": "Pakati",
+    "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta pang'ono."
+  },
+  "recipe_card_hard": {
+    "text": "Ovuta",
+    "description": "Mulingo wa zovuta ukuwonetsa mapangidwe ovuta."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Dzina la mapangidwe a Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Msuzi wa mkaka wa mafupa a ng'ombe wokhala ndi chashu yofewa, dzira lofewa, ndi mtedza watsopano.",
+    "description": "Kufotokozera kwa mapangidwe a Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza ya Margherita",
+    "description": "Dzina la mapangidwe a Pizza ya Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan yakale yokhala ndi ma tomati a San Marzano, mozzarella watsopano, ndi basil.",
+    "description": "Kufotokozera kwa mapangidwe a Pizza ya Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Dzina la mapangidwe a Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos a nyama ya nkhumba yophika ndi maapulo a pineapple, cilantro, ndi anyezi pa mkate wa chimanga.",
+    "description": "Kufotokozera kwa mapangidwe a Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Dzina la mapangidwe a Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Nkhuku yofewa mu msuzi wa tomato ndi batala wokhala ndi zonunkhira zokoma.",
+    "description": "Kufotokozera kwa mapangidwe a Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Dzina la mapangidwe a Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Mtedza wa mpunga wokazinga wokhala ndi nsomba, tofu, ma peanut, ndi msuzi wa tamarind.",
+    "description": "Kufotokozera kwa mapangidwe a Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes za ku France",
+    "description": "Dzina la mapangidwe a Crepes za ku France."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes ochepa, ofewa okhala ndi Nutella, strawberi watsopano, ndi kirimu wopukutidwa.",
+    "description": "Kufotokozera kwa mapangidwe a Crepes za ku France."
+  },
+  "locale_switcher_label": {
+    "text": "Chilankhulo",
+    "description": "Dzina lopezeka kwa wosankha chilankhulo mu chikwatu cha mutu."
+  },
+  "locale_switcher_en": {
+    "text": "Chingerezi",
+    "description": "Kusankha chilankhulo cha Chingerezi mu wosankha chilankhulo."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Kusankha chilankhulo cha Chijapani mu wosankha chilankhulo."
+  },
+  "locale_switcher_es": {
+    "text": "Chisipanishi",
+    "description": "Kusankha chilankhulo cha Chisipanishi mu wosankha chilankhulo."
   }
 }

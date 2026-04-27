@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cucina Mundial",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Descoperi receptas ex tot li mundi",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Cucina Mundial",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explora Sapores Global",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Naviga receptas authentic ex cuisine mundiali",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Receptas Preferet",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Descoperi receptas ex tot li mundi",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Dificultá",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Facil",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Medi",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Dure",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nomine del recet Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Ric brod de ossos de porco con chashu tender, ov soft-cuit, e noodles fresc.",
-      "description": "Description del recet Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pitza Margherita",
-      "description": "Nomine del recet Pitza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pitza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilic.",
-      "description": "Description del recet Pitza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nomine del recet Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porco marinat con ananas, coriandro, e cepe sur tortillas de gran.",
-      "description": "Description del recet Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pollo al Buter",
-      "description": "Nomine del recet Pollo al Buter."
-    },
-    "butterChickenDescription": {
-      "text": "Pollo tender in un salsa cremose de tomate e buter con spices aromatic.",
-      "description": "Description del recet Pollo al Buter."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nomine del recet Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles de rice saltat con crevettes, tofu, arachides, e salsa de tamarindo.",
-      "description": "Description del recet Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Francese",
-      "description": "Nomine del recet Crepes Francese."
-    },
-    "crepesDescription": {
-      "text": "Crepes fin e delicat plenat con Nutella, fragoles fresc, e crema frapat.",
-      "description": "Description del recet Crepes Francese."
-    }
+  "home_page_hero_title": {
+    "text": "Explora Sapores Global",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingue",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Angles",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Naviga receptas authentic ex cuisine mundiali",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Receptas Preferet",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dificultá",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Facil",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Medi",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Dure",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nomine del recet Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ric brod de ossos de porco con chashu tender, ov soft-cuit, e noodles fresc.",
+    "description": "Description del recet Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pitza Margherita",
+    "description": "Nomine del recet Pitza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pitza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilic.",
+    "description": "Description del recet Pitza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nomine del recet Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porco marinat con ananas, coriandro, e cepe sur tortillas de gran.",
+    "description": "Description del recet Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pollo al Buter",
+    "description": "Nomine del recet Pollo al Buter."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pollo tender in un salsa cremose de tomate e buter con spices aromatic.",
+    "description": "Description del recet Pollo al Buter."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nomine del recet Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles de rice saltat con crevettes, tofu, arachides, e salsa de tamarindo.",
+    "description": "Description del recet Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Francese",
+    "description": "Nomine del recet Crepes Francese."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes fin e delicat plenat con Nutella, fragoles fresc, e crema frapat.",
+    "description": "Description del recet Crepes Francese."
+  },
+  "locale_switcher_label": {
+    "text": "Lingue",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Angles",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

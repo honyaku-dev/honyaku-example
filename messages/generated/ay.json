@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Jach'a Uta",
-      "description": "App sutiy jach'a uta uñt'ayatawa. Jach'a markanakan manq'atak utjkaspawa."
-    },
-    "subtitle": {
-      "text": "Jach'a markanakampi manq'atak uñt'añani",
-      "description": "App sutiy uñt'ayatawa jach'a uta q'ipir ukan."
-    }
+  "header_title": {
+    "text": "Jach'a Uta",
+    "description": "App sutiy jach'a uta uñt'ayatawa. Jach'a markanakan manq'atak utjkaspawa."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Jach'a Markanakan Manq'atak Uñt'añani",
-      "description": "Jach'a uta q'ipir ukan jach'a sutinak."
-    },
-    "heroSubtitle": {
-      "text": "Jach'a markanakan manq'atak utjkaspawa",
-      "description": "Jach'a uta q'ipir ukan jach'a sutinakar uñt'ayata."
-    },
-    "featuredTitle": {
-      "text": "Manq'atak Uñt'ayasiñatak Uñt'ayasiñani",
-      "description": "Manq'atak q'ipirinakan uñt'ayatawa ukhamaraki manq'atak uñt'ayasiñatak."
-    }
+  "header_subtitle": {
+    "text": "Jach'a markanakampi manq'atak uñt'añani",
+    "description": "App sutiy uñt'ayatawa jach'a uta q'ipir ukan."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} minutu",
-      "description": "Manq'atak utjkaspawa q'ipirinakan uñt'ayata. {minutes} minutu qillqt'añani."
-    },
-    "difficulty": {
-      "text": "Sutichäwi",
-      "description": "Manq'atak utjkaspawa q'ipirinak uñt'ayasiñapataki."
-    },
-    "easy": {
-      "text": "Suti",
-      "description": "Sutichäwi jach'a amuyt'äwi manq'atak."
-    },
-    "medium": {
-      "text": "Ch'axwäwi",
-      "description": "Sutichäwi ch'axwäwi manq'atak."
-    },
-    "hard": {
-      "text": "Jach'a ch'axwäwi",
-      "description": "Sutichäwi jach'a ch'axwäwi manq'atak."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen manq'at aruskipañani."
-    },
-    "ramenDescription": {
-      "text": "Jach'a ch'aki wayna k'iwru chashu, suman utji manq'a, ukhamaraki phisqa wayllutaki.",
-      "description": "Tonkotsu Ramen manq'at aruskipañani."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza manq'at aruskipañani."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano ch'arki, jach'a mozzarella, ukhamaraki basil ukhamarak Neapolitan pizza clásico.",
-      "description": "Margherita Pizza manq'at aruskipañani."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor manq'at aruskipañani."
-    },
-    "tacosDescription": {
-      "text": "Q'ipi wayna marinado tacos, ananá, qullu, ukhamaraki q'illu ch'uñu tortilla jach'a.",
-      "description": "Tacos al Pastor manq'at aruskipañani."
-    },
-    "butterChickenName": {
-      "text": "Manteka Wayna",
-      "description": "Butter Chicken manq'at aruskipañani."
-    },
-    "butterChickenDescription": {
-      "text": "Sum uñtawi wayna, tomate manteka ukhamaraki aroma especia sauce.",
-      "description": "Butter Chicken manq'at aruskipañani."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai manq'at aruskipañani."
-    },
-    "padThaiDescription": {
-      "text": "T'ika phisqa wayllutu q'ipiri shrimp, tofu, mani, ukhamaraki tamarindo sauce.",
-      "description": "Pad Thai manq'at aruskipañani."
-    },
-    "crepesName": {
-      "text": "Frantsesa Crepes",
-      "description": "French Crepes manq'at aruskipañani."
-    },
-    "crepesDescription": {
-      "text": "Phisqa, suman crepes Nutella, phisqa frutilla, ukhamaraki whip cream.",
-      "description": "French Crepes manq'at aruskipañani."
-    }
+  "home_page_hero_title": {
+    "text": "Jach'a Markanakan Manq'atak Uñt'añani",
+    "description": "Jach'a uta q'ipir ukan jach'a sutinak."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Aruskipawi",
-      "description": "Aruskipawi qillqt'awinak uñt'ayasiñapataki."
-    },
-    "en": {
-      "text": "Inglés",
-      "description": "Inglés aruskipawi qillqt'awi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japón aruskipawi qillqt'awi."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Español aruskipawi qillqt'awi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Jach'a markanakan manq'atak utjkaspawa",
+    "description": "Jach'a uta q'ipir ukan jach'a sutinakar uñt'ayata."
+  },
+  "home_page_featured_title": {
+    "text": "Manq'atak Uñt'ayasiñatak Uñt'ayasiñani",
+    "description": "Manq'atak q'ipirinakan uñt'ayatawa ukhamaraki manq'atak uñt'ayasiñatak."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} minutu",
+    "description": "Manq'atak utjkaspawa q'ipirinakan uñt'ayata. {minutes} minutu qillqt'añani."
+  },
+  "recipe_card_difficulty": {
+    "text": "Sutichäwi",
+    "description": "Manq'atak utjkaspawa q'ipirinak uñt'ayasiñapataki."
+  },
+  "recipe_card_easy": {
+    "text": "Suti",
+    "description": "Sutichäwi jach'a amuyt'äwi manq'atak."
+  },
+  "recipe_card_medium": {
+    "text": "Ch'axwäwi",
+    "description": "Sutichäwi ch'axwäwi manq'atak."
+  },
+  "recipe_card_hard": {
+    "text": "Jach'a ch'axwäwi",
+    "description": "Sutichäwi jach'a ch'axwäwi manq'atak."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen manq'at aruskipañani."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Jach'a ch'aki wayna k'iwru chashu, suman utji manq'a, ukhamaraki phisqa wayllutaki.",
+    "description": "Tonkotsu Ramen manq'at aruskipañani."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza manq'at aruskipañani."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano ch'arki, jach'a mozzarella, ukhamaraki basil ukhamarak Neapolitan pizza clásico.",
+    "description": "Margherita Pizza manq'at aruskipañani."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor manq'at aruskipañani."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Q'ipi wayna marinado tacos, ananá, qullu, ukhamaraki q'illu ch'uñu tortilla jach'a.",
+    "description": "Tacos al Pastor manq'at aruskipañani."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Manteka Wayna",
+    "description": "Butter Chicken manq'at aruskipañani."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Sum uñtawi wayna, tomate manteka ukhamaraki aroma especia sauce.",
+    "description": "Butter Chicken manq'at aruskipañani."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai manq'at aruskipañani."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "T'ika phisqa wayllutu q'ipiri shrimp, tofu, mani, ukhamaraki tamarindo sauce.",
+    "description": "Pad Thai manq'at aruskipañani."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Frantsesa Crepes",
+    "description": "French Crepes manq'at aruskipañani."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Phisqa, suman crepes Nutella, phisqa frutilla, ukhamaraki whip cream.",
+    "description": "French Crepes manq'at aruskipañani."
+  },
+  "locale_switcher_label": {
+    "text": "Aruskipawi",
+    "description": "Aruskipawi qillqt'awinak uñt'ayasiñapataki."
+  },
+  "locale_switcher_en": {
+    "text": "Inglés",
+    "description": "Inglés aruskipawi qillqt'awi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japón aruskipawi qillqt'awi."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Español aruskipawi qillqt'awi."
   }
 }

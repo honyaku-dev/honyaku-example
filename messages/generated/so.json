@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Jikada Adduunka",
-      "description": "Magaca app-ka oo lagu muujiyey madaxa. App-ka helitaanka cuntooyinka dhaqamada adduunka."
-    },
-    "subtitle": {
-      "text": "Soo hel cuntooyin ka kala socda adduunka oo dhan",
-      "description": "Qoraalka hoos yimaada magaca app-ka ee madaxa."
-    }
+  "header_title": {
+    "text": "Jikada Adduunka",
+    "description": "Magaca app-ka oo lagu muujiyey madaxa. App-ka helitaanka cuntooyinka dhaqamada adduunka."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Baadh Dhadhanka Caalamiga ah",
-      "description": "Cinwaanka ugu weyn ee qeybta hero-ga bogga hore."
-    },
-    "heroSubtitle": {
-      "text": "Kusoo dhex soco cuntooyin dhab ah oo ka yimid jikada adduunka oo dhan",
-      "description": "Qoraalka hoos yimaada cinwaanka hero-ga ee bogga hore."
-    },
-    "featuredTitle": {
-      "text": "Cuntooyinka La Soo Bandhigay",
-      "description": "Cinwaanka qeybta oo ka sarreeya shabakadda kaararka cuntada."
-    }
+  "header_subtitle": {
+    "text": "Soo hel cuntooyin ka kala socda adduunka oo dhan",
+    "description": "Qoraalka hoos yimaada magaca app-ka ee madaxa."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} daqiiqo",
-      "description": "Summada waqtiga karinta ee kaarka cuntada. {minutes} waxa lagu beddelaa tirada daqiiqadaha."
-    },
-    "difficulty": {
-      "text": "Adkaanta",
-      "description": "Summada ka hor heerka adkaanta ee kaarka cuntada."
-    },
-    "easy": {
-      "text": "Fudud",
-      "description": "Summada heerka adkaanta oo muujinaysa cunto fudud."
-    },
-    "medium": {
-      "text": "Dhexdhexaad",
-      "description": "Summada heerka adkaanta oo muujinaysa cunto dhexdhexaad adag."
-    },
-    "hard": {
-      "text": "Adag",
-      "description": "Summada heerka adkaanta oo muujinaysa cunto adag."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Magaca cunto karinta Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Maraq lafaha doofaarka hodan ah oo leh chashu jilicsan, ukun si fiican loo kariyey, iyo baasto cusub.",
-      "description": "Sharaxaadda cunto karinta Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Magaca cunto karinta Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan classic ah oo leh yaanyo San Marzano, mozzarella cusub, iyo basil.",
-      "description": "Sharaxaadda cunto karinta Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Magaca cunto karinta Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos doofaar marinad leh oo leh canab, cilantro, iyo basal ku yaal tortillas galleyda.",
-      "description": "Sharaxaadda cunto karinta Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Digaag Subag leh",
-      "description": "Magaca cunto karinta Digaag Subag leh."
-    },
-    "butterChickenDescription": {
-      "text": "Digaag jilicsan oo ku jira maraq yaanyo iyo subag leh oo leh dhir udgoon.",
-      "description": "Sharaxaadda cunto karinta Digaag Subag leh."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Magaca cunto karinta Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Baasto bariis shiilan oo leh shrimp, tofu, laws, iyo maraq tamarind ah.",
-      "description": "Sharaxaadda cunto karinta Pad Thai."
-    },
-    "crepesName": {
-      "text": "Krebs Faransiis",
-      "description": "Magaca cunto karinta Krebs Faransiis."
-    },
-    "crepesDescription": {
-      "text": "Krebs khafiif ah oo jilicsan oo buuxda leh Nutella, strawberries cusub, iyo kareem la garaacay.",
-      "description": "Sharaxaadda cunto karinta Krebs Faransiis."
-    }
+  "home_page_hero_title": {
+    "text": "Baadh Dhadhanka Caalamiga ah",
+    "description": "Cinwaanka ugu weyn ee qeybta hero-ga bogga hore."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Luqadda",
-      "description": "Summad la heli karo oo loogu talagalay doorashada luqadda ee madaxa."
-    },
-    "en": {
-      "text": "Ingiriisi",
-      "description": "Ikhtiyaarka luqadda Ingiriiska ee beddelaha luqadda."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Ikhtiyaarka luqadda Jabaan ee beddelaha luqadda."
-    },
-    "es": {
-      "text": "Isbaanish",
-      "description": "Ikhtiyaarka luqadda Isbaanishka ee beddelaha luqadda."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Kusoo dhex soco cuntooyin dhab ah oo ka yimid jikada adduunka oo dhan",
+    "description": "Qoraalka hoos yimaada cinwaanka hero-ga ee bogga hore."
+  },
+  "home_page_featured_title": {
+    "text": "Cuntooyinka La Soo Bandhigay",
+    "description": "Cinwaanka qeybta oo ka sarreeya shabakadda kaararka cuntada."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} daqiiqo",
+    "description": "Summada waqtiga karinta ee kaarka cuntada. {minutes} waxa lagu beddelaa tirada daqiiqadaha."
+  },
+  "recipe_card_difficulty": {
+    "text": "Adkaanta",
+    "description": "Summada ka hor heerka adkaanta ee kaarka cuntada."
+  },
+  "recipe_card_easy": {
+    "text": "Fudud",
+    "description": "Summada heerka adkaanta oo muujinaysa cunto fudud."
+  },
+  "recipe_card_medium": {
+    "text": "Dhexdhexaad",
+    "description": "Summada heerka adkaanta oo muujinaysa cunto dhexdhexaad adag."
+  },
+  "recipe_card_hard": {
+    "text": "Adag",
+    "description": "Summada heerka adkaanta oo muujinaysa cunto adag."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Magaca cunto karinta Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Maraq lafaha doofaarka hodan ah oo leh chashu jilicsan, ukun si fiican loo kariyey, iyo baasto cusub.",
+    "description": "Sharaxaadda cunto karinta Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Magaca cunto karinta Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan classic ah oo leh yaanyo San Marzano, mozzarella cusub, iyo basil.",
+    "description": "Sharaxaadda cunto karinta Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Magaca cunto karinta Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos doofaar marinad leh oo leh canab, cilantro, iyo basal ku yaal tortillas galleyda.",
+    "description": "Sharaxaadda cunto karinta Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Digaag Subag leh",
+    "description": "Magaca cunto karinta Digaag Subag leh."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Digaag jilicsan oo ku jira maraq yaanyo iyo subag leh oo leh dhir udgoon.",
+    "description": "Sharaxaadda cunto karinta Digaag Subag leh."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Magaca cunto karinta Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Baasto bariis shiilan oo leh shrimp, tofu, laws, iyo maraq tamarind ah.",
+    "description": "Sharaxaadda cunto karinta Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Krebs Faransiis",
+    "description": "Magaca cunto karinta Krebs Faransiis."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Krebs khafiif ah oo jilicsan oo buuxda leh Nutella, strawberries cusub, iyo kareem la garaacay.",
+    "description": "Sharaxaadda cunto karinta Krebs Faransiis."
+  },
+  "locale_switcher_label": {
+    "text": "Luqadda",
+    "description": "Summad la heli karo oo loogu talagalay doorashada luqadda ee madaxa."
+  },
+  "locale_switcher_en": {
+    "text": "Ingiriisi",
+    "description": "Ikhtiyaarka luqadda Ingiriiska ee beddelaha luqadda."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Ikhtiyaarka luqadda Jabaan ee beddelaha luqadda."
+  },
+  "locale_switcher_es": {
+    "text": "Isbaanish",
+    "description": "Ikhtiyaarka luqadda Isbaanishka ee beddelaha luqadda."
   }
 }

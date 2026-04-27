@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cuisine du Monde",
-      "description": "Nom de l'application affiché dans l'en-tête. Une application de découverte de recettes pour les cuisines du monde."
-    },
-    "subtitle": {
-      "text": "Découvrez des recettes du monde entier",
-      "description": "Slogan affiché sous le nom de l'application dans l'en-tête."
-    }
+  "header_title": {
+    "text": "Cuisine du Monde",
+    "description": "Nom de l'application affiché dans l'en-tête. Une application de découverte de recettes pour les cuisines du monde."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explorez les Saveurs du Monde",
-      "description": "Titre principal dans la section héros de la page d'accueil."
-    },
-    "heroSubtitle": {
-      "text": "Parcourez des recettes authentiques des cuisines du monde entier",
-      "description": "Texte du sous-titre affiché sous le titre héros sur la page d'accueil."
-    },
-    "featuredTitle": {
-      "text": "Recettes en Vedette",
-      "description": "Titre de section affiché au-dessus de la grille de cartes de recettes."
-    }
+  "header_subtitle": {
+    "text": "Découvrez des recettes du monde entier",
+    "description": "Slogan affiché sous le nom de l'application dans l'en-tête."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Étiquette du temps de cuisson sur une carte de recette. {minutes} est remplacé par le nombre de minutes."
-    },
-    "difficulty": {
-      "text": "Difficulté",
-      "description": "Étiquette affichée avant le niveau de difficulté sur une carte de recette."
-    },
-    "easy": {
-      "text": "Facile",
-      "description": "Étiquette du niveau de difficulté indiquant une recette facile."
-    },
-    "medium": {
-      "text": "Moyen",
-      "description": "Étiquette du niveau de difficulté indiquant une recette modérément difficile."
-    },
-    "hard": {
-      "text": "Difficile",
-      "description": "Étiquette du niveau de difficulté indiquant une recette difficile."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nom de la recette Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bouillon riche d'os de porc avec chashu tendre, œuf mollet et nouilles fraîches.",
-      "description": "Description de la recette Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nom de la recette Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza napolitaine classique avec tomates San Marzano, mozzarella fraîche et basilic.",
-      "description": "Description de la recette Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nom de la recette Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porc marinés avec ananas, coriandre et oignon sur tortillas de maïs.",
-      "description": "Description de la recette Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Poulet au Beurre",
-      "description": "Nom de la recette Poulet au Beurre."
-    },
-    "butterChickenDescription": {
-      "text": "Poulet tendre dans une sauce crémeuse à la tomate et au beurre avec des épices aromatiques.",
-      "description": "Description de la recette Poulet au Beurre."
-    },
-    "padThaiName": {
-      "text": "Pad Thaï",
-      "description": "Nom de la recette Pad Thaï."
-    },
-    "padThaiDescription": {
-      "text": "Nouilles de riz sautées avec crevettes, tofu, cacahuètes et sauce tamarin.",
-      "description": "Description de la recette Pad Thaï."
-    },
-    "crepesName": {
-      "text": "Crêpes Françaises",
-      "description": "Nom de la recette Crêpes Françaises."
-    },
-    "crepesDescription": {
-      "text": "Crêpes fines et délicates garnies de Nutella, fraises fraîches et crème fouettée.",
-      "description": "Description de la recette Crêpes Françaises."
-    }
+  "home_page_hero_title": {
+    "text": "Explorez les Saveurs du Monde",
+    "description": "Titre principal dans la section héros de la page d'accueil."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Langue",
-      "description": "Étiquette accessible pour le menu déroulant de sélection de langue dans l'en-tête."
-    },
-    "en": {
-      "text": "Anglais",
-      "description": "Option de langue anglaise dans le sélecteur de langue."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Option de langue japonaise dans le sélecteur de langue."
-    },
-    "es": {
-      "text": "Espagnol",
-      "description": "Option de langue espagnole dans le sélecteur de langue."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Parcourez des recettes authentiques des cuisines du monde entier",
+    "description": "Texte du sous-titre affiché sous le titre héros sur la page d'accueil."
+  },
+  "home_page_featured_title": {
+    "text": "Recettes en Vedette",
+    "description": "Titre de section affiché au-dessus de la grille de cartes de recettes."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Étiquette du temps de cuisson sur une carte de recette. {minutes} est remplacé par le nombre de minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difficulté",
+    "description": "Étiquette affichée avant le niveau de difficulté sur une carte de recette."
+  },
+  "recipe_card_easy": {
+    "text": "Facile",
+    "description": "Étiquette du niveau de difficulté indiquant une recette facile."
+  },
+  "recipe_card_medium": {
+    "text": "Moyen",
+    "description": "Étiquette du niveau de difficulté indiquant une recette modérément difficile."
+  },
+  "recipe_card_hard": {
+    "text": "Difficile",
+    "description": "Étiquette du niveau de difficulté indiquant une recette difficile."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nom de la recette Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bouillon riche d'os de porc avec chashu tendre, œuf mollet et nouilles fraîches.",
+    "description": "Description de la recette Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nom de la recette Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza napolitaine classique avec tomates San Marzano, mozzarella fraîche et basilic.",
+    "description": "Description de la recette Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nom de la recette Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porc marinés avec ananas, coriandre et oignon sur tortillas de maïs.",
+    "description": "Description de la recette Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Poulet au Beurre",
+    "description": "Nom de la recette Poulet au Beurre."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Poulet tendre dans une sauce crémeuse à la tomate et au beurre avec des épices aromatiques.",
+    "description": "Description de la recette Poulet au Beurre."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thaï",
+    "description": "Nom de la recette Pad Thaï."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nouilles de riz sautées avec crevettes, tofu, cacahuètes et sauce tamarin.",
+    "description": "Description de la recette Pad Thaï."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crêpes Françaises",
+    "description": "Nom de la recette Crêpes Françaises."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crêpes fines et délicates garnies de Nutella, fraises fraîches et crème fouettée.",
+    "description": "Description de la recette Crêpes Françaises."
+  },
+  "locale_switcher_label": {
+    "text": "Langue",
+    "description": "Étiquette accessible pour le menu déroulant de sélection de langue dans l'en-tête."
+  },
+  "locale_switcher_en": {
+    "text": "Anglais",
+    "description": "Option de langue anglaise dans le sélecteur de langue."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Option de langue japonaise dans le sélecteur de langue."
+  },
+  "locale_switcher_es": {
+    "text": "Espagnol",
+    "description": "Option de langue espagnole dans le sélecteur de langue."
   }
 }

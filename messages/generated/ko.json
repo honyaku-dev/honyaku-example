@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "월드 키친",
-      "description": "헤더에 표시되는 앱 이름. 세계 각국의 요리법을 발견하는 앱입니다."
-    },
-    "subtitle": {
-      "text": "전 세계의 레시피를 발견하세요",
-      "description": "헤더에서 앱 이름 아래에 표시되는 태그라인입니다."
-    }
+  "header_title": {
+    "text": "월드 키친",
+    "description": "헤더에 표시되는 앱 이름. 세계 각국의 요리법을 발견하는 앱입니다."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "글로벌 맛 탐험",
-      "description": "홈 페이지 히어로 섹션의 주요 제목입니다."
-    },
-    "heroSubtitle": {
-      "text": "전 세계 주방의 진정한 레시피를 둘러보세요",
-      "description": "홈 페이지 히어로 제목 아래에 표시되는 부제목 텍스트입니다."
-    },
-    "featuredTitle": {
-      "text": "추천 레시피",
-      "description": "레시피 카드 그리드 위에 표시되는 섹션 제목입니다."
-    }
+  "header_subtitle": {
+    "text": "전 세계의 레시피를 발견하세요",
+    "description": "헤더에서 앱 이름 아래에 표시되는 태그라인입니다."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes}분",
-      "description": "레시피 카드의 조리 시간 라벨입니다. {minutes}는 분 수로 대체됩니다."
-    },
-    "difficulty": {
-      "text": "난이도",
-      "description": "레시피 카드에서 난이도 수준 앞에 표시되는 라벨입니다."
-    },
-    "easy": {
-      "text": "쉬움",
-      "description": "쉬운 레시피임을 나타내는 난이도 수준 라벨입니다."
-    },
-    "medium": {
-      "text": "중간",
-      "description": "보통 난이도의 레시피임을 나타내는 난이도 수준 라벨입니다."
-    },
-    "hard": {
-      "text": "어려움",
-      "description": "어려운 레시피임을 나타내는 난이도 수준 라벨입니다."
-    },
-    "ramenName": {
-      "text": "돈코츠 라면",
-      "description": "돈코츠 라면 레시피의 이름입니다."
-    },
-    "ramenDescription": {
-      "text": "부드러운 차슈, 반숙 계란, 신선한 면과 함께 진한 돼지 뼈 육수.",
-      "description": "돈코츠 라면 레시피의 설명입니다."
-    },
-    "margheritaName": {
-      "text": "마르게리타 피자",
-      "description": "마르게리타 피자 레시피의 이름입니다."
-    },
-    "margheritaDescription": {
-      "text": "산 마르자노 토마토, 신선한 모짜렐라, 바질을 사용한 고전적인 나폴리 피자.",
-      "description": "마르게리타 피자 레시피의 설명입니다."
-    },
-    "tacosName": {
-      "text": "타코스 알 파스토르",
-      "description": "타코스 알 파스토르 레시피의 이름입니다."
-    },
-    "tacosDescription": {
-      "text": "파인애플, 고수, 양파를 곁들인 양념 돼지고기 타코스, 옥수수 토르티야 위에 제공.",
-      "description": "타코스 알 파스토르 레시피의 설명입니다."
-    },
-    "butterChickenName": {
-      "text": "버터 치킨",
-      "description": "버터 치킨 레시피의 이름입니다."
-    },
-    "butterChickenDescription": {
-      "text": "향신료가 가미된 크리미한 토마토와 버터 소스에 부드러운 닭고기.",
-      "description": "버터 치킨 레시피의 설명입니다."
-    },
-    "padThaiName": {
-      "text": "팟타이",
-      "description": "팟타이 레시피의 이름입니다."
-    },
-    "padThaiDescription": {
-      "text": "새우, 두부, 땅콩, 타마린드 소스를 곁들인 볶음 쌀국수.",
-      "description": "팟타이 레시피의 설명입니다."
-    },
-    "crepesName": {
-      "text": "프렌치 크레페",
-      "description": "프렌치 크레페 레시피의 이름입니다."
-    },
-    "crepesDescription": {
-      "text": "누텔라, 신선한 딸기, 휘핑 크림을 채운 얇고 섬세한 크레페.",
-      "description": "프렌치 크레페 레시피의 설명입니다."
-    }
+  "home_page_hero_title": {
+    "text": "글로벌 맛 탐험",
+    "description": "홈 페이지 히어로 섹션의 주요 제목입니다."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "언어",
-      "description": "헤더의 언어 전환 드롭다운에 대한 접근 가능한 라벨입니다."
-    },
-    "en": {
-      "text": "영어",
-      "description": "로케일 스위처에서 영어 옵션입니다."
-    },
-    "ja": {
-      "text": "일본어",
-      "description": "로케일 스위처에서 일본어 옵션입니다."
-    },
-    "es": {
-      "text": "스페인어",
-      "description": "로케일 스위처에서 스페인어 옵션입니다."
-    }
+  "home_page_hero_subtitle": {
+    "text": "전 세계 주방의 진정한 레시피를 둘러보세요",
+    "description": "홈 페이지 히어로 제목 아래에 표시되는 부제목 텍스트입니다."
+  },
+  "home_page_featured_title": {
+    "text": "추천 레시피",
+    "description": "레시피 카드 그리드 위에 표시되는 섹션 제목입니다."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes}분",
+    "description": "레시피 카드의 조리 시간 라벨입니다. {minutes}는 분 수로 대체됩니다."
+  },
+  "recipe_card_difficulty": {
+    "text": "난이도",
+    "description": "레시피 카드에서 난이도 수준 앞에 표시되는 라벨입니다."
+  },
+  "recipe_card_easy": {
+    "text": "쉬움",
+    "description": "쉬운 레시피임을 나타내는 난이도 수준 라벨입니다."
+  },
+  "recipe_card_medium": {
+    "text": "중간",
+    "description": "보통 난이도의 레시피임을 나타내는 난이도 수준 라벨입니다."
+  },
+  "recipe_card_hard": {
+    "text": "어려움",
+    "description": "어려운 레시피임을 나타내는 난이도 수준 라벨입니다."
+  },
+  "recipe_card_ramen_name": {
+    "text": "돈코츠 라면",
+    "description": "돈코츠 라면 레시피의 이름입니다."
+  },
+  "recipe_card_ramen_description": {
+    "text": "부드러운 차슈, 반숙 계란, 신선한 면과 함께 진한 돼지 뼈 육수.",
+    "description": "돈코츠 라면 레시피의 설명입니다."
+  },
+  "recipe_card_margherita_name": {
+    "text": "마르게리타 피자",
+    "description": "마르게리타 피자 레시피의 이름입니다."
+  },
+  "recipe_card_margherita_description": {
+    "text": "산 마르자노 토마토, 신선한 모짜렐라, 바질을 사용한 고전적인 나폴리 피자.",
+    "description": "마르게리타 피자 레시피의 설명입니다."
+  },
+  "recipe_card_tacos_name": {
+    "text": "타코스 알 파스토르",
+    "description": "타코스 알 파스토르 레시피의 이름입니다."
+  },
+  "recipe_card_tacos_description": {
+    "text": "파인애플, 고수, 양파를 곁들인 양념 돼지고기 타코스, 옥수수 토르티야 위에 제공.",
+    "description": "타코스 알 파스토르 레시피의 설명입니다."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "버터 치킨",
+    "description": "버터 치킨 레시피의 이름입니다."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "향신료가 가미된 크리미한 토마토와 버터 소스에 부드러운 닭고기.",
+    "description": "버터 치킨 레시피의 설명입니다."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "팟타이",
+    "description": "팟타이 레시피의 이름입니다."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "새우, 두부, 땅콩, 타마린드 소스를 곁들인 볶음 쌀국수.",
+    "description": "팟타이 레시피의 설명입니다."
+  },
+  "recipe_card_crepes_name": {
+    "text": "프렌치 크레페",
+    "description": "프렌치 크레페 레시피의 이름입니다."
+  },
+  "recipe_card_crepes_description": {
+    "text": "누텔라, 신선한 딸기, 휘핑 크림을 채운 얇고 섬세한 크레페.",
+    "description": "프렌치 크레페 레시피의 설명입니다."
+  },
+  "locale_switcher_label": {
+    "text": "언어",
+    "description": "헤더의 언어 전환 드롭다운에 대한 접근 가능한 라벨입니다."
+  },
+  "locale_switcher_en": {
+    "text": "영어",
+    "description": "로케일 스위처에서 영어 옵션입니다."
+  },
+  "locale_switcher_ja": {
+    "text": "일본어",
+    "description": "로케일 스위처에서 일본어 옵션입니다."
+  },
+  "locale_switcher_es": {
+    "text": "스페인어",
+    "description": "로케일 스위처에서 스페인어 옵션입니다."
   }
 }

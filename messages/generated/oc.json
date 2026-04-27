@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cocina Mondiala",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Descobrir de recèptas del torn del mond",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Cocina Mondiala",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explorar de sabors globals",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Navigar per de recèptas autenticas de cosinas del torn del mond",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Recèptas destacadas",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Descobrir de recèptas del torn del mond",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Dificultat",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Facil",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Mijana",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Dificil",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nom de la recepta Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Brou ric de òsses de porc amb chashu tendre, òu passat a l'aiga doça, e nòdas frescas.",
-      "description": "Descripción de la recepta Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Piza Margherita",
-      "description": "Nom de la recepta Piza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Piza napolitana classica amb tomatas San Marzano, mozzarella fresca, e basilic.",
-      "description": "Descripción de la recepta Piza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nom de la recepta Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porc marinats amb pina, coriandre e cebas sus tortillas de milh.",
-      "description": "Descripción de la recepta Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pollastre al Burre",
-      "description": "Nom de la recepta Pollastre al Burre."
-    },
-    "butterChickenDescription": {
-      "text": "Pollastre tendre dins una salsa cremosa de tomata e burre amb espècias aromàticas.",
-      "description": "Descripción de la recepta Pollastre al Burre."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nom de la recepta Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nòdas de ris saltejadas amb camarons, tofù, cacahuètes e salsa de tamarind.",
-      "description": "Descripción de la recepta Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crèpas Francesas",
-      "description": "Nom de la recepta Crèpas Francesas."
-    },
-    "crepesDescription": {
-      "text": "Crèpas finas e delicadas emplenadas amb Nutella, fragoletas frescas e crema batuda.",
-      "description": "Descripción de la recepta Crèpas Francesas."
-    }
+  "home_page_hero_title": {
+    "text": "Explorar de sabors globals",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lenga",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "English",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navigar per de recèptas autenticas de cosinas del torn del mond",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Recèptas destacadas",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dificultat",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Facil",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Mijana",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Dificil",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nom de la recepta Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Brou ric de òsses de porc amb chashu tendre, òu passat a l'aiga doça, e nòdas frescas.",
+    "description": "Descripción de la recepta Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Piza Margherita",
+    "description": "Nom de la recepta Piza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Piza napolitana classica amb tomatas San Marzano, mozzarella fresca, e basilic.",
+    "description": "Descripción de la recepta Piza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nom de la recepta Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porc marinats amb pina, coriandre e cebas sus tortillas de milh.",
+    "description": "Descripción de la recepta Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pollastre al Burre",
+    "description": "Nom de la recepta Pollastre al Burre."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pollastre tendre dins una salsa cremosa de tomata e burre amb espècias aromàticas.",
+    "description": "Descripción de la recepta Pollastre al Burre."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nom de la recepta Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nòdas de ris saltejadas amb camarons, tofù, cacahuètes e salsa de tamarind.",
+    "description": "Descripción de la recepta Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crèpas Francesas",
+    "description": "Nom de la recepta Crèpas Francesas."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crèpas finas e delicadas emplenadas amb Nutella, fragoletas frescas e crema batuda.",
+    "description": "Descripción de la recepta Crèpas Francesas."
+  },
+  "locale_switcher_label": {
+    "text": "Lenga",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

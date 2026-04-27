@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Wereldkeuken",
-      "description": "App-naam weergegeven in de koptekst. Een app voor het ontdekken van recepten uit wereldkeukens."
-    },
-    "subtitle": {
-      "text": "Ontdek recepten van over de hele wereld",
-      "description": "Slogan weergegeven onder de app-naam in de koptekst."
-    }
+  "header_title": {
+    "text": "Wereldkeuken",
+    "description": "App-naam weergegeven in de koptekst. Een app voor het ontdekken van recepten uit wereldkeukens."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Ontdek Wereldsmaken",
-      "description": "Hoofdtitel in het hero-gedeelte van de startpagina."
-    },
-    "heroSubtitle": {
-      "text": "Blader door authentieke recepten uit keukens over de hele wereld",
-      "description": "Subtitel weergegeven onder de hoofdtitel op de startpagina."
-    },
-    "featuredTitle": {
-      "text": "Uitgelichte Recepten",
-      "description": "Sectietitel weergegeven boven het raster met receptkaarten."
-    }
+  "header_subtitle": {
+    "text": "Ontdek recepten van over de hele wereld",
+    "description": "Slogan weergegeven onder de app-naam in de koptekst."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Label voor bereidingstijd op een receptkaart. {minutes} wordt vervangen door het aantal minuten."
-    },
-    "difficulty": {
-      "text": "Moeilijkheid",
-      "description": "Label weergegeven vóór het moeilijkheidsniveau op een receptkaart."
-    },
-    "easy": {
-      "text": "Makkelijk",
-      "description": "Label voor moeilijkheidsniveau die een makkelijk recept aangeeft."
-    },
-    "medium": {
-      "text": "Gemiddeld",
-      "description": "Label voor moeilijkheidsniveau die een matig moeilijk recept aangeeft."
-    },
-    "hard": {
-      "text": "Moeilijk",
-      "description": "Label voor moeilijkheidsniveau die een moeilijk recept aangeeft."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Naam van het Tonkotsu Ramen recept."
-    },
-    "ramenDescription": {
-      "text": "Rijke varkensbottenbouillon met malse chashu, zachtgekookt ei en verse noedels.",
-      "description": "Beschrijving van het Tonkotsu Ramen recept."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Naam van het Margherita Pizza recept."
-    },
-    "margheritaDescription": {
-      "text": "Klassieke Napolitaanse pizza met San Marzano tomaten, verse mozzarella en basilicum.",
-      "description": "Beschrijving van het Margherita Pizza recept."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Naam van het Tacos al Pastor recept."
-    },
-    "tacosDescription": {
-      "text": "Gemarineerde varkensvleestaco's met ananas, koriander en ui op maïstortilla's.",
-      "description": "Beschrijving van het Tacos al Pastor recept."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Naam van het Butter Chicken recept."
-    },
-    "butterChickenDescription": {
-      "text": "Malse kip in een romige tomaten- en botersaus met aromatische kruiden.",
-      "description": "Beschrijving van het Butter Chicken recept."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Naam van het Pad Thai recept."
-    },
-    "padThaiDescription": {
-      "text": "Gebakken rijstnoedels met garnalen, tofu, pinda's en tamarindesaus.",
-      "description": "Beschrijving van het Pad Thai recept."
-    },
-    "crepesName": {
-      "text": "Franse Crêpes",
-      "description": "Naam van het Franse Crêpes recept."
-    },
-    "crepesDescription": {
-      "text": "Dunne, delicate crêpes gevuld met Nutella, verse aardbeien en slagroom.",
-      "description": "Beschrijving van het Franse Crêpes recept."
-    }
+  "home_page_hero_title": {
+    "text": "Ontdek Wereldsmaken",
+    "description": "Hoofdtitel in het hero-gedeelte van de startpagina."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Taal",
-      "description": "Toegankelijkheidslabel voor de taalkeuzelijst in de koptekst."
-    },
-    "en": {
-      "text": "Engels",
-      "description": "Engelse taaloptie in de taalkeuzelijst."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanse taaloptie in de taalkeuzelijst."
-    },
-    "es": {
-      "text": "Spaans",
-      "description": "Spaanse taaloptie in de taalkeuzelijst."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Blader door authentieke recepten uit keukens over de hele wereld",
+    "description": "Subtitel weergegeven onder de hoofdtitel op de startpagina."
+  },
+  "home_page_featured_title": {
+    "text": "Uitgelichte Recepten",
+    "description": "Sectietitel weergegeven boven het raster met receptkaarten."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Label voor bereidingstijd op een receptkaart. {minutes} wordt vervangen door het aantal minuten."
+  },
+  "recipe_card_difficulty": {
+    "text": "Moeilijkheid",
+    "description": "Label weergegeven vóór het moeilijkheidsniveau op een receptkaart."
+  },
+  "recipe_card_easy": {
+    "text": "Makkelijk",
+    "description": "Label voor moeilijkheidsniveau die een makkelijk recept aangeeft."
+  },
+  "recipe_card_medium": {
+    "text": "Gemiddeld",
+    "description": "Label voor moeilijkheidsniveau die een matig moeilijk recept aangeeft."
+  },
+  "recipe_card_hard": {
+    "text": "Moeilijk",
+    "description": "Label voor moeilijkheidsniveau die een moeilijk recept aangeeft."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Naam van het Tonkotsu Ramen recept."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rijke varkensbottenbouillon met malse chashu, zachtgekookt ei en verse noedels.",
+    "description": "Beschrijving van het Tonkotsu Ramen recept."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Naam van het Margherita Pizza recept."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassieke Napolitaanse pizza met San Marzano tomaten, verse mozzarella en basilicum.",
+    "description": "Beschrijving van het Margherita Pizza recept."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Naam van het Tacos al Pastor recept."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Gemarineerde varkensvleestaco's met ananas, koriander en ui op maïstortilla's.",
+    "description": "Beschrijving van het Tacos al Pastor recept."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Naam van het Butter Chicken recept."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Malse kip in een romige tomaten- en botersaus met aromatische kruiden.",
+    "description": "Beschrijving van het Butter Chicken recept."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Naam van het Pad Thai recept."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Gebakken rijstnoedels met garnalen, tofu, pinda's en tamarindesaus.",
+    "description": "Beschrijving van het Pad Thai recept."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franse Crêpes",
+    "description": "Naam van het Franse Crêpes recept."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Dunne, delicate crêpes gevuld met Nutella, verse aardbeien en slagroom.",
+    "description": "Beschrijving van het Franse Crêpes recept."
+  },
+  "locale_switcher_label": {
+    "text": "Taal",
+    "description": "Toegankelijkheidslabel voor de taalkeuzelijst in de koptekst."
+  },
+  "locale_switcher_en": {
+    "text": "Engels",
+    "description": "Engelse taaloptie in de taalkeuzelijst."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanse taaloptie in de taalkeuzelijst."
+  },
+  "locale_switcher_es": {
+    "text": "Spaans",
+    "description": "Spaanse taaloptie in de taalkeuzelijst."
   }
 }

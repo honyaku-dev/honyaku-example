@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Ishirahamwe ry'Isi Yose",
-      "description": "Izina ry'uburyo bwerekwa mu mutwe. Porogaramu yo guhishura uburyo bwo guteka bw'isi yose."
-    },
-    "subtitle": {
-      "text": "Menya uburyo bwo guteka bw'isi yose",
-      "description": "Ubutumwa bwerekana hasi y'izina ry'uburyo mu mutwe."
-    }
+  "header_title": {
+    "text": "Ishirahamwe ry'Isi Yose",
+    "description": "Izina ry'uburyo bwerekwa mu mutwe. Porogaramu yo guhishura uburyo bwo guteka bw'isi yose."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Soma Impumuro z'Isi Yose",
-      "description": "Umurongo mukuru ku rubuga rwa mbere mu gice c'umukiza."
-    },
-    "heroSubtitle": {
-      "text": "Rondera uburyo bwo guteka bw'ukuri biva mu mashirahamwe y'isi yose",
-      "description": "Ubutumwa bwerekana munsi y'umurongo mukuru ku rubuga rwa mbere."
-    },
-    "featuredTitle": {
-      "text": "Uburyo bwo Guteka Bwerekanwe",
-      "description": "Umurongo w'igice werekana hejuru y'urutonde rw'amakarata y'uburyo bwo guteka."
-    }
+  "header_subtitle": {
+    "text": "Menya uburyo bwo guteka bw'isi yose",
+    "description": "Ubutumwa bwerekana hasi y'izina ry'uburyo mu mutwe."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} iminota",
-      "description": "Ikarita y'igihe cyo guteka ku ikarata y'uburyo bwo guteka. {minutes} isimburwa n'umubare w'iminota."
-    },
-    "difficulty": {
-      "text": "Ubworoherane",
-      "description": "Ikarita yerekana mbere y'urwego rw'ubworoherane ku ikarata y'uburyo bwo guteka."
-    },
-    "easy": {
-      "text": "Byoroshye",
-      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bworoshye."
-    },
-    "medium": {
-      "text": "Hagati",
-      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bufise ubworoherane hagati."
-    },
-    "hard": {
-      "text": "Bitoroshe",
-      "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bugoye."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Izina ry'uburyo bwo guteka Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Isosi y'ibibabi vy'inka iryoshye ifise inyama zoroshye za chashu, iyaheze y'inyama y'agatogo, hamwe n'imisambi mishasha.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Izina ry'uburyo bwo guteka Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan ya kera ifise utuyaga twa San Marzano, mozzarella nshasha, hamwe na basil.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Izina ry'uburyo bwo guteka Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos z'inka ziteguwe mu buryo butandukanye hamwe n'umuneke, cilantro, n'igitunguru ku mapapuro ya corn.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Inkoko mu Vuta",
-      "description": "Izina ry'uburyo bwo guteka Inkoko mu Vuta."
-    },
-    "butterChickenDescription": {
-      "text": "Inkoko zoroshye mu isosi y'utuyaga twa tomate n'ibinure vy'inka hamwe n'ibitonyanga vy'impumuro nziza.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Inkoko mu Vuta."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Izina ry'uburyo bwo guteka Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Imisambi y'umuceri ishyushye hamwe n'udusu tw'ibikoko, tofu, ibinyomoro, hamwe n'isosi ya tamarind.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes z'Ubufaransa",
-      "description": "Izina ry'uburyo bwo guteka Crepes z'Ubufaransa."
-    },
-    "crepesDescription": {
-      "text": "Crepes zoroshye, zifise umwero w'ibinyomoro vya Nutella, imineke mishasha, hamwe n'akayunguruzo k'amavuta.",
-      "description": "Ibisobanuro vy'uburyo bwo guteka Crepes z'Ubufaransa."
-    }
+  "home_page_hero_title": {
+    "text": "Soma Impumuro z'Isi Yose",
+    "description": "Umurongo mukuru ku rubuga rwa mbere mu gice c'umukiza."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Ururimi",
-      "description": "Ikarita ishobora kugerwaho yerekana ururimi rwa dropdown mu mutwe."
-    },
-    "en": {
-      "text": "Icongereza",
-      "description": "Amahitamwo y'ururimi rw'icongereza mu guhindura ururimi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Amahitamwo y'ururimi rw'Ubuyapani mu guhindura ururimi."
-    },
-    "es": {
-      "text": "Ispanyoli",
-      "description": "Amahitamwo y'ururimi rw'igisipanyoli mu guhindura ururimi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Rondera uburyo bwo guteka bw'ukuri biva mu mashirahamwe y'isi yose",
+    "description": "Ubutumwa bwerekana munsi y'umurongo mukuru ku rubuga rwa mbere."
+  },
+  "home_page_featured_title": {
+    "text": "Uburyo bwo Guteka Bwerekanwe",
+    "description": "Umurongo w'igice werekana hejuru y'urutonde rw'amakarata y'uburyo bwo guteka."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} iminota",
+    "description": "Ikarita y'igihe cyo guteka ku ikarata y'uburyo bwo guteka. {minutes} isimburwa n'umubare w'iminota."
+  },
+  "recipe_card_difficulty": {
+    "text": "Ubworoherane",
+    "description": "Ikarita yerekana mbere y'urwego rw'ubworoherane ku ikarata y'uburyo bwo guteka."
+  },
+  "recipe_card_easy": {
+    "text": "Byoroshye",
+    "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bworoshye."
+  },
+  "recipe_card_medium": {
+    "text": "Hagati",
+    "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bufise ubworoherane hagati."
+  },
+  "recipe_card_hard": {
+    "text": "Bitoroshe",
+    "description": "Ikarita y'urwego rw'ubworoherane yerekana uburyo bugoye."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Izina ry'uburyo bwo guteka Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Isosi y'ibibabi vy'inka iryoshye ifise inyama zoroshye za chashu, iyaheze y'inyama y'agatogo, hamwe n'imisambi mishasha.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Izina ry'uburyo bwo guteka Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan ya kera ifise utuyaga twa San Marzano, mozzarella nshasha, hamwe na basil.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Izina ry'uburyo bwo guteka Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos z'inka ziteguwe mu buryo butandukanye hamwe n'umuneke, cilantro, n'igitunguru ku mapapuro ya corn.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Inkoko mu Vuta",
+    "description": "Izina ry'uburyo bwo guteka Inkoko mu Vuta."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Inkoko zoroshye mu isosi y'utuyaga twa tomate n'ibinure vy'inka hamwe n'ibitonyanga vy'impumuro nziza.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Inkoko mu Vuta."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Izina ry'uburyo bwo guteka Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Imisambi y'umuceri ishyushye hamwe n'udusu tw'ibikoko, tofu, ibinyomoro, hamwe n'isosi ya tamarind.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes z'Ubufaransa",
+    "description": "Izina ry'uburyo bwo guteka Crepes z'Ubufaransa."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes zoroshye, zifise umwero w'ibinyomoro vya Nutella, imineke mishasha, hamwe n'akayunguruzo k'amavuta.",
+    "description": "Ibisobanuro vy'uburyo bwo guteka Crepes z'Ubufaransa."
+  },
+  "locale_switcher_label": {
+    "text": "Ururimi",
+    "description": "Ikarita ishobora kugerwaho yerekana ururimi rwa dropdown mu mutwe."
+  },
+  "locale_switcher_en": {
+    "text": "Icongereza",
+    "description": "Amahitamwo y'ururimi rw'icongereza mu guhindura ururimi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Amahitamwo y'ururimi rw'Ubuyapani mu guhindura ururimi."
+  },
+  "locale_switcher_es": {
+    "text": "Ispanyoli",
+    "description": "Amahitamwo y'ururimi rw'igisipanyoli mu guhindura ururimi."
   }
 }

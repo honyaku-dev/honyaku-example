@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Imba Yenyika",
-      "description": "Zita reApp rinoratidzwa musoro. App yekuwana mabikirwo enyika dzose."
-    },
-    "subtitle": {
-      "text": "Tsvaga mabikirwo kubva pasi rese",
-      "description": "Mutsetse unoratidzwa pasi pezita reapp musoro."
-    }
+  "header_title": {
+    "text": "Imba Yenyika",
+    "description": "Zita reApp rinoratidzwa musoro. App yekuwana mabikirwo enyika dzose."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Ongorora Zvinonhuwira Zvenyika Dzose",
-      "description": "Musoro mukuru panguva yepamusoro peji remaoko."
-    },
-    "heroSubtitle": {
-      "text": "Tarisa mabikirwo echokwadi kubva kumakicheni enyika dzose",
-      "description": "Mutsetse uri pasi pemusoro mukuru papeji remaoko."
-    },
-    "featuredTitle": {
-      "text": "Mabikirwo Akasarudzwa",
-      "description": "Musoro wechikamu unoratidzwa pamusoro pegridhi yemakadhi emabikirwo."
-    }
+  "header_subtitle": {
+    "text": "Tsvaga mabikirwo kubva pasi rese",
+    "description": "Mutsetse unoratidzwa pasi pezita reapp musoro."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Nguva yekubika inoratidzwa pakadhi rembikirwo. {minutes} inoshandurwa kuti ive nhamba yema miniti."
-    },
-    "difficulty": {
-      "text": "Kuoma",
-      "description": "Chiratidzo chinoratidzwa pamberi pechikamu chekuoma pakadhi rembikirwo."
-    },
-    "easy": {
-      "text": "Zviri Nyore",
-      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri nyore."
-    },
-    "medium": {
-      "text": "Pakati",
-      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri pakati pekuoma."
-    },
-    "hard": {
-      "text": "Zakaoma",
-      "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri yakaoma."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Zita re resipi yeTonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Muto wemapfupa enhuku une nyama yakaoma, zai rakabikwa zvinyoronyoro, uye nhozi nyowani.",
-      "description": "Tsanangudzo ye resipi yeTonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Zita re resipi yeMargherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Pizza yeNeapolitan yechinyakare ine matomatisi eSan Marzano, mozzarella itsva, uye basil.",
-      "description": "Tsanangudzo ye resipi yeMargherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Zita re resipi yeTacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos dzemhuru dzakanyikwa nemupineapuro, cilantro, uye hanyanisi pamakapu echibage.",
-      "description": "Tsanangudzo ye resipi yeTacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Zita re resipi yeButter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Huku yakanaka iri musosi yetamatisi inotapira nebhata uye zvinonhuwira zvinofadza.",
-      "description": "Tsanangudzo ye resipi yeButter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Zita re resipi yePad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nhozi dzakakangwa dzemupunga dzine huku yegungwa, tofu, nzungu, uye muto wetamarind.",
-      "description": "Tsanangudzo ye resipi yePad Thai."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Zita re resipi yeFrench Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes dzakatetepa, dzakatsetseka dzakazadzwa neNutella, ma strawberries matsva, uye kirimu yakarohwa.",
-      "description": "Tsanangudzo ye resipi yeFrench Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Ongorora Zvinonhuwira Zvenyika Dzose",
+    "description": "Musoro mukuru panguva yepamusoro peji remaoko."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Mutauro",
-      "description": "Chiratidzo chinowanikwa chekusarudza mutauro musoro."
-    },
-    "en": {
-      "text": "Chirungu",
-      "description": "Sarudzo yemutauro weChirungu pakusarudza mutauro."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Sarudzo yemutauro wechiJapanese pakusarudza mutauro."
-    },
-    "es": {
-      "text": "ChiSpanish",
-      "description": "Sarudzo yemutauro weSpanish pakusarudza mutauro."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Tarisa mabikirwo echokwadi kubva kumakicheni enyika dzose",
+    "description": "Mutsetse uri pasi pemusoro mukuru papeji remaoko."
+  },
+  "home_page_featured_title": {
+    "text": "Mabikirwo Akasarudzwa",
+    "description": "Musoro wechikamu unoratidzwa pamusoro pegridhi yemakadhi emabikirwo."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Nguva yekubika inoratidzwa pakadhi rembikirwo. {minutes} inoshandurwa kuti ive nhamba yema miniti."
+  },
+  "recipe_card_difficulty": {
+    "text": "Kuoma",
+    "description": "Chiratidzo chinoratidzwa pamberi pechikamu chekuoma pakadhi rembikirwo."
+  },
+  "recipe_card_easy": {
+    "text": "Zviri Nyore",
+    "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri nyore."
+  },
+  "recipe_card_medium": {
+    "text": "Pakati",
+    "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri pakati pekuoma."
+  },
+  "recipe_card_hard": {
+    "text": "Zakaoma",
+    "description": "Chiratidzo chekuoma chinoratidza kuti resipi iri yakaoma."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Zita re resipi yeTonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Muto wemapfupa enhuku une nyama yakaoma, zai rakabikwa zvinyoronyoro, uye nhozi nyowani.",
+    "description": "Tsanangudzo ye resipi yeTonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Zita re resipi yeMargherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza yeNeapolitan yechinyakare ine matomatisi eSan Marzano, mozzarella itsva, uye basil.",
+    "description": "Tsanangudzo ye resipi yeMargherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Zita re resipi yeTacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos dzemhuru dzakanyikwa nemupineapuro, cilantro, uye hanyanisi pamakapu echibage.",
+    "description": "Tsanangudzo ye resipi yeTacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Zita re resipi yeButter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Huku yakanaka iri musosi yetamatisi inotapira nebhata uye zvinonhuwira zvinofadza.",
+    "description": "Tsanangudzo ye resipi yeButter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Zita re resipi yePad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nhozi dzakakangwa dzemupunga dzine huku yegungwa, tofu, nzungu, uye muto wetamarind.",
+    "description": "Tsanangudzo ye resipi yePad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Zita re resipi yeFrench Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes dzakatetepa, dzakatsetseka dzakazadzwa neNutella, ma strawberries matsva, uye kirimu yakarohwa.",
+    "description": "Tsanangudzo ye resipi yeFrench Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Mutauro",
+    "description": "Chiratidzo chinowanikwa chekusarudza mutauro musoro."
+  },
+  "locale_switcher_en": {
+    "text": "Chirungu",
+    "description": "Sarudzo yemutauro weChirungu pakusarudza mutauro."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Sarudzo yemutauro wechiJapanese pakusarudza mutauro."
+  },
+  "locale_switcher_es": {
+    "text": "ChiSpanish",
+    "description": "Sarudzo yemutauro weSpanish pakusarudza mutauro."
   }
 }

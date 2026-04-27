@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Pasaules Virtuve",
-      "description": "Programmas nosaukums, kas parādīts galvenē. Lietotne pasaules virtuves receptēm."
-    },
-    "subtitle": {
-      "text": "Atklāj receptes no visas pasaules",
-      "description": "Saukļs, kas parādīts zem programmas nosaukuma galvenē."
-    }
+  "header_title": {
+    "text": "Pasaules Virtuve",
+    "description": "Programmas nosaukums, kas parādīts galvenē. Lietotne pasaules virtuves receptēm."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Izpēti globālās garšas",
-      "description": "Galvenais virsraksts mājaslapas galvenajā sadaļā."
-    },
-    "heroSubtitle": {
-      "text": "Pārlūko autentiskas receptes no virtuves visā pasaulē",
-      "description": "Apakšvirsraksts, kas parādīts zem galvenā virsraksta mājaslapā."
-    },
-    "featuredTitle": {
-      "text": "Izceltas receptes",
-      "description": "Sadaļas virsraksts, kas parādīts virs receptes karšu režģa."
-    }
+  "header_subtitle": {
+    "text": "Atklāj receptes no visas pasaules",
+    "description": "Saukļs, kas parādīts zem programmas nosaukuma galvenē."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Ēdiena gatavošanas laika etiķete receptes kartē. {minutes} aizstāts ar minūšu skaitu."
-    },
-    "difficulty": {
-      "text": "Grūtības pakāpe",
-      "description": "Etiķete, kas parādīta pirms grūtības līmeņa receptes kartē."
-    },
-    "easy": {
-      "text": "Viegli",
-      "description": "Grūtības līmeņa etiķete, norādot vieglu recepti."
-    },
-    "medium": {
-      "text": "Vidēji",
-      "description": "Grūtības līmeņa etiķete, norādot mēreni sarežģītu recepti."
-    },
-    "hard": {
-      "text": "Sarežģīti",
-      "description": "Grūtības līmeņa etiķete, norādot sarežģītu recepti."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen receptes nosaukums."
-    },
-    "ramenDescription": {
-      "text": "Bagāts cūkgaļas kaulu buljons ar maigu čašu, mīksti vārītu olu un svaigām nūdelēm.",
-      "description": "Tonkotsu Ramen receptes apraksts."
-    },
-    "margheritaName": {
-      "text": "Margherita pica",
-      "description": "Margherita picas receptes nosaukums."
-    },
-    "margheritaDescription": {
-      "text": "Klasiska Neapoles pica ar San Marzano tomātiem, svaigu mocarellu un baziliku.",
-      "description": "Margherita picas receptes apraksts."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor receptes nosaukums."
-    },
-    "tacosDescription": {
-      "text": "Marinēti cūkgaļas tacos ar ananasu, koriandru un sīpolu kukurūzas tortiljās.",
-      "description": "Tacos al Pastor receptes apraksts."
-    },
-    "butterChickenName": {
-      "text": "Sviesta vistas gaļa",
-      "description": "Sviesta vistas gaļas receptes nosaukums."
-    },
-    "butterChickenDescription": {
-      "text": "Maiga vistas gaļa krēmīgā tomātu un sviesta mērcē ar aromātiskām garšvielām.",
-      "description": "Sviesta vistas gaļas receptes apraksts."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai receptes nosaukums."
-    },
-    "padThaiDescription": {
-      "text": "Ceptas rīsu nūdeles ar garnelēm, tofu, zemesriekstiem un tamarinda mērci.",
-      "description": "Pad Thai receptes apraksts."
-    },
-    "crepesName": {
-      "text": "Franču krepi",
-      "description": "Franču krepu receptes nosaukums."
-    },
-    "crepesDescription": {
-      "text": "Plāni, smalki krepi, pildīti ar Nutellu, svaigiem zemenēm un putukrējumu.",
-      "description": "Franču krepu receptes apraksts."
-    }
+  "home_page_hero_title": {
+    "text": "Izpēti globālās garšas",
+    "description": "Galvenais virsraksts mājaslapas galvenajā sadaļā."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Valoda",
-      "description": "Pieejamības etiķete valodas pārslēdzēja nolaižamajam sarakstam galvenē."
-    },
-    "en": {
-      "text": "Angļu",
-      "description": "Angļu valodas opcija valodas pārslēdzējā."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japāņu valodas opcija valodas pārslēdzējā."
-    },
-    "es": {
-      "text": "Spāņu",
-      "description": "Spāņu valodas opcija valodas pārslēdzējā."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Pārlūko autentiskas receptes no virtuves visā pasaulē",
+    "description": "Apakšvirsraksts, kas parādīts zem galvenā virsraksta mājaslapā."
+  },
+  "home_page_featured_title": {
+    "text": "Izceltas receptes",
+    "description": "Sadaļas virsraksts, kas parādīts virs receptes karšu režģa."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Ēdiena gatavošanas laika etiķete receptes kartē. {minutes} aizstāts ar minūšu skaitu."
+  },
+  "recipe_card_difficulty": {
+    "text": "Grūtības pakāpe",
+    "description": "Etiķete, kas parādīta pirms grūtības līmeņa receptes kartē."
+  },
+  "recipe_card_easy": {
+    "text": "Viegli",
+    "description": "Grūtības līmeņa etiķete, norādot vieglu recepti."
+  },
+  "recipe_card_medium": {
+    "text": "Vidēji",
+    "description": "Grūtības līmeņa etiķete, norādot mēreni sarežģītu recepti."
+  },
+  "recipe_card_hard": {
+    "text": "Sarežģīti",
+    "description": "Grūtības līmeņa etiķete, norādot sarežģītu recepti."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen receptes nosaukums."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bagāts cūkgaļas kaulu buljons ar maigu čašu, mīksti vārītu olu un svaigām nūdelēm.",
+    "description": "Tonkotsu Ramen receptes apraksts."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita pica",
+    "description": "Margherita picas receptes nosaukums."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasiska Neapoles pica ar San Marzano tomātiem, svaigu mocarellu un baziliku.",
+    "description": "Margherita picas receptes apraksts."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor receptes nosaukums."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinēti cūkgaļas tacos ar ananasu, koriandru un sīpolu kukurūzas tortiljās.",
+    "description": "Tacos al Pastor receptes apraksts."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Sviesta vistas gaļa",
+    "description": "Sviesta vistas gaļas receptes nosaukums."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Maiga vistas gaļa krēmīgā tomātu un sviesta mērcē ar aromātiskām garšvielām.",
+    "description": "Sviesta vistas gaļas receptes apraksts."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai receptes nosaukums."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ceptas rīsu nūdeles ar garnelēm, tofu, zemesriekstiem un tamarinda mērci.",
+    "description": "Pad Thai receptes apraksts."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franču krepi",
+    "description": "Franču krepu receptes nosaukums."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Plāni, smalki krepi, pildīti ar Nutellu, svaigiem zemenēm un putukrējumu.",
+    "description": "Franču krepu receptes apraksts."
+  },
+  "locale_switcher_label": {
+    "text": "Valoda",
+    "description": "Pieejamības etiķete valodas pārslēdzēja nolaižamajam sarakstam galvenē."
+  },
+  "locale_switcher_en": {
+    "text": "Angļu",
+    "description": "Angļu valodas opcija valodas pārslēdzējā."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japāņu valodas opcija valodas pārslēdzējā."
+  },
+  "locale_switcher_es": {
+    "text": "Spāņu",
+    "description": "Spāņu valodas opcija valodas pārslēdzējā."
   }
 }

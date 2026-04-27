@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Παγκόσμια Κουζίνα",
-      "description": "Όνομα εφαρμογής που εμφανίζεται στην κεφαλίδα. Μια εφαρμογή για ανακάλυψη συνταγών από κουζίνες του κόσμου."
-    },
-    "subtitle": {
-      "text": "Ανακαλύψτε συνταγές από όλο τον κόσμο",
-      "description": "Σύνθημα που εμφανίζεται κάτω από το όνομα της εφαρμογής στην κεφαλίδα."
-    }
+  "header_title": {
+    "text": "Παγκόσμια Κουζίνα",
+    "description": "Όνομα εφαρμογής που εμφανίζεται στην κεφαλίδα. Μια εφαρμογή για ανακάλυψη συνταγών από κουζίνες του κόσμου."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Εξερευνήστε Παγκόσμιες Γεύσεις",
-      "description": "Κύριος τίτλος στην ενότητα ήρωα της αρχικής σελίδας."
-    },
-    "heroSubtitle": {
-      "text": "Περιηγηθείτε σε αυθεντικές συνταγές από κουζίνες σε όλο τον κόσμο",
-      "description": "Κείμενο υπότιτλου που εμφανίζεται κάτω από τον κύριο τίτλο στην αρχική σελίδα."
-    },
-    "featuredTitle": {
-      "text": "Επιλεγμένες Συνταγές",
-      "description": "Τίτλος ενότητας που εμφανίζεται πάνω από το πλέγμα καρτών συνταγών."
-    }
+  "header_subtitle": {
+    "text": "Ανακαλύψτε συνταγές από όλο τον κόσμο",
+    "description": "Σύνθημα που εμφανίζεται κάτω από το όνομα της εφαρμογής στην κεφαλίδα."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} λ",
-      "description": "Ετικέτα χρόνου μαγειρέματος σε κάρτα συνταγής. Το {minutes} αντικαθίσταται με τον αριθμό των λεπτών."
-    },
-    "difficulty": {
-      "text": "Δυσκολία",
-      "description": "Ετικέτα που εμφανίζεται πριν από το επίπεδο δυσκολίας σε κάρτα συνταγής."
-    },
-    "easy": {
-      "text": "Εύκολη",
-      "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει εύκολη συνταγή."
-    },
-    "medium": {
-      "text": "Μέτρια",
-      "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει μέτρια δύσκολη συνταγή."
-    },
-    "hard": {
-      "text": "Δύσκολη",
-      "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει δύσκολη συνταγή."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Όνομα της συνταγής Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Πλούσιος ζωμός από χοιρινά κόκαλα με τρυφερό chashu, μαλακό βρασμένο αυγό και φρέσκα ζυμαρικά.",
-      "description": "Περιγραφή της συνταγής Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Πίτσα Margherita",
-      "description": "Όνομα της συνταγής πίτσας Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Κλασική νεαπολιτάνικη πίτσα με ντομάτες San Marzano, φρέσκια μοτσαρέλα και βασιλικό.",
-      "description": "Περιγραφή της συνταγής πίτσας Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Όνομα της συνταγής Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Μαριναρισμένα χοιρινά tacos με ανανά, κόλιανδρο και κρεμμύδι σε τορτίγιες καλαμποκιού.",
-      "description": "Περιγραφή της συνταγής Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Όνομα της συνταγής Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Τρυφερό κοτόπουλο σε κρεμώδη σάλτσα ντομάτας και βουτύρου με αρωματικά μπαχαρικά.",
-      "description": "Περιγραφή της συνταγής Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Όνομα της συνταγής Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Τηγανητά ρύζι νουντλς με γαρίδες, τόφου, φιστίκια και σάλτσα ταμάρινδου.",
-      "description": "Περιγραφή της συνταγής Pad Thai."
-    },
-    "crepesName": {
-      "text": "Γαλλικές Κρέπες",
-      "description": "Όνομα της συνταγής γαλλικών κρέπών."
-    },
-    "crepesDescription": {
-      "text": "Λεπτές, ευαίσθητες κρέπες γεμιστές με Nutella, φρέσκιες φράουλες και σαντιγί.",
-      "description": "Περιγραφή της συνταγής γαλλικών κρέπών."
-    }
+  "home_page_hero_title": {
+    "text": "Εξερευνήστε Παγκόσμιες Γεύσεις",
+    "description": "Κύριος τίτλος στην ενότητα ήρωα της αρχικής σελίδας."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Γλώσσα",
-      "description": "Προσβάσιμη ετικέτα για το αναδυόμενο μενού επιλογής γλώσσας στην κεφαλίδα."
-    },
-    "en": {
-      "text": "Αγγλικά",
-      "description": "Επιλογή αγγλικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Επιλογή ιαπωνικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
-    },
-    "es": {
-      "text": "Ισπανικά",
-      "description": "Επιλογή ισπανικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Περιηγηθείτε σε αυθεντικές συνταγές από κουζίνες σε όλο τον κόσμο",
+    "description": "Κείμενο υπότιτλου που εμφανίζεται κάτω από τον κύριο τίτλο στην αρχική σελίδα."
+  },
+  "home_page_featured_title": {
+    "text": "Επιλεγμένες Συνταγές",
+    "description": "Τίτλος ενότητας που εμφανίζεται πάνω από το πλέγμα καρτών συνταγών."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} λ",
+    "description": "Ετικέτα χρόνου μαγειρέματος σε κάρτα συνταγής. Το {minutes} αντικαθίσταται με τον αριθμό των λεπτών."
+  },
+  "recipe_card_difficulty": {
+    "text": "Δυσκολία",
+    "description": "Ετικέτα που εμφανίζεται πριν από το επίπεδο δυσκολίας σε κάρτα συνταγής."
+  },
+  "recipe_card_easy": {
+    "text": "Εύκολη",
+    "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει εύκολη συνταγή."
+  },
+  "recipe_card_medium": {
+    "text": "Μέτρια",
+    "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει μέτρια δύσκολη συνταγή."
+  },
+  "recipe_card_hard": {
+    "text": "Δύσκολη",
+    "description": "Ετικέτα επιπέδου δυσκολίας που υποδεικνύει δύσκολη συνταγή."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Όνομα της συνταγής Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Πλούσιος ζωμός από χοιρινά κόκαλα με τρυφερό chashu, μαλακό βρασμένο αυγό και φρέσκα ζυμαρικά.",
+    "description": "Περιγραφή της συνταγής Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Πίτσα Margherita",
+    "description": "Όνομα της συνταγής πίτσας Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Κλασική νεαπολιτάνικη πίτσα με ντομάτες San Marzano, φρέσκια μοτσαρέλα και βασιλικό.",
+    "description": "Περιγραφή της συνταγής πίτσας Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Όνομα της συνταγής Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Μαριναρισμένα χοιρινά tacos με ανανά, κόλιανδρο και κρεμμύδι σε τορτίγιες καλαμποκιού.",
+    "description": "Περιγραφή της συνταγής Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Όνομα της συνταγής Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Τρυφερό κοτόπουλο σε κρεμώδη σάλτσα ντομάτας και βουτύρου με αρωματικά μπαχαρικά.",
+    "description": "Περιγραφή της συνταγής Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Όνομα της συνταγής Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Τηγανητά ρύζι νουντλς με γαρίδες, τόφου, φιστίκια και σάλτσα ταμάρινδου.",
+    "description": "Περιγραφή της συνταγής Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Γαλλικές Κρέπες",
+    "description": "Όνομα της συνταγής γαλλικών κρέπών."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Λεπτές, ευαίσθητες κρέπες γεμιστές με Nutella, φρέσκιες φράουλες και σαντιγί.",
+    "description": "Περιγραφή της συνταγής γαλλικών κρέπών."
+  },
+  "locale_switcher_label": {
+    "text": "Γλώσσα",
+    "description": "Προσβάσιμη ετικέτα για το αναδυόμενο μενού επιλογής γλώσσας στην κεφαλίδα."
+  },
+  "locale_switcher_en": {
+    "text": "Αγγλικά",
+    "description": "Επιλογή αγγλικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Επιλογή ιαπωνικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
+  },
+  "locale_switcher_es": {
+    "text": "Ισπανικά",
+    "description": "Επιλογή ισπανικής γλώσσας στον διακόπτη τοπικής ρύθμισης."
   }
 }

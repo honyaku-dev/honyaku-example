@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "World Kitchen",
-      "description": "Yaca ni app e vakaraitaki ena header. Na app ni raica ni ivakamacala ni kakana ni vuravura."
-    },
-    "subtitle": {
-      "text": "Raica na ivakamacala mai na veivanua kece e vuravura",
-      "description": "Tagline e vakaraitaki ena ruku ni yaca ni app ena header."
-    }
+  "header_title": {
+    "text": "World Kitchen",
+    "description": "Yaca ni app e vakaraitaki ena header. Na app ni raica ni ivakamacala ni kakana ni vuravura."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Raica na Lolo Vuravura",
-      "description": "Ulutaga levu ena tabana hero ni mataveilawa."
-    },
-    "heroSubtitle": {
-      "text": "Raica na ivakamacala dina mai na loma ni vale ni kakana e vuravura taucoko",
-      "description": "Ulutaga loma e vakaraitaki ena ruku ni ulutaga hero ena mataveilawa."
-    },
-    "featuredTitle": {
-      "text": "Ivakamacala e Veikilai",
-      "description": "Ulutaga ni tabana e vakaraitaki ena ruku ni kaadi ni ivakamacala."
-    }
+  "header_subtitle": {
+    "text": "Raica na ivakamacala mai na veivanua kece e vuravura",
+    "description": "Tagline e vakaraitaki ena ruku ni yaca ni app ena header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} miniti",
-      "description": "Ulutaga ni gauna ni vakakokoroi ena kaadi ni ivakamacala. {minutes} e vakacurumi ena iwiliwili ni miniti."
-    },
-    "difficulty": {
-      "text": "Levu ni dredre",
-      "description": "Ulutaga e vakaraitaki ena matamata ni levu ni dredre ena kaadi ni ivakamacala."
-    },
-    "easy": {
-      "text": "Tiko ga",
-      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e rawarawa."
-    },
-    "medium": {
-      "text": "Tiko vakatabakidua",
-      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre vakatabakidua."
-    },
-    "hard": {
-      "text": "Dredre",
-      "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Yaca ni ivakamacala ni Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Vakamamare ni mamu ni pua ni kena yacova na chashu malumu, qio malumu ni koro, kei na noodles vou.",
-      "description": "Vakasama ni ivakamacala ni Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Yaca ni ivakamacala ni Margherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan e dau kilai vakalevu ena tomati San Marzano, mozzarella vou, kei na basil.",
-      "description": "Vakasama ni ivakamacala ni Margherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Yaca ni ivakamacala ni Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos ni pua e marinated vata kei na pineapple, cilantro, kei na ulu ni wai vavalagi ena tortillas ni koro.",
-      "description": "Vakasama ni ivakamacala ni Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Kikokiko ni Suka",
-      "description": "Yaca ni ivakamacala ni Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Kikokiko malumu ena sauce tomato kei na suka, vata kei na manumanu ni kakana ni veisautaki ni manumanu.",
-      "description": "Vakasama ni ivakamacala ni Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Yaca ni ivakamacala ni Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Rice noodles e vakakokoroi vata kei na shrimp, tofu, peanuts, kei na sauce ni tamarind.",
-      "description": "Vakasama ni ivakamacala ni Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes ni Peritania",
-      "description": "Yaca ni ivakamacala ni French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes lailai, malumalumu e vakayagataki kina Nutella, strawberries vou, kei na kirim cream.",
-      "description": "Vakasama ni ivakamacala ni French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Raica na Lolo Vuravura",
+    "description": "Ulutaga levu ena tabana hero ni mataveilawa."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Vosa",
-      "description": "Ulutaga e rawa ni raica na tamata ena dropdown ni veisau ni vosa ena header."
-    },
-    "en": {
-      "text": "Vakavalagi",
-      "description": "Vosa vakavalagi ena veisau ni vosa."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Vosa vakaJapenese ena veisau ni vosa."
-    },
-    "es": {
-      "text": "Vosa Sepania",
-      "description": "Vosa vakaSepania ena veisau ni vosa."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Raica na ivakamacala dina mai na loma ni vale ni kakana e vuravura taucoko",
+    "description": "Ulutaga loma e vakaraitaki ena ruku ni ulutaga hero ena mataveilawa."
+  },
+  "home_page_featured_title": {
+    "text": "Ivakamacala e Veikilai",
+    "description": "Ulutaga ni tabana e vakaraitaki ena ruku ni kaadi ni ivakamacala."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} miniti",
+    "description": "Ulutaga ni gauna ni vakakokoroi ena kaadi ni ivakamacala. {minutes} e vakacurumi ena iwiliwili ni miniti."
+  },
+  "recipe_card_difficulty": {
+    "text": "Levu ni dredre",
+    "description": "Ulutaga e vakaraitaki ena matamata ni levu ni dredre ena kaadi ni ivakamacala."
+  },
+  "recipe_card_easy": {
+    "text": "Tiko ga",
+    "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e rawarawa."
+  },
+  "recipe_card_medium": {
+    "text": "Tiko vakatabakidua",
+    "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre vakatabakidua."
+  },
+  "recipe_card_hard": {
+    "text": "Dredre",
+    "description": "Ulutaga ni levu ni dredre e vakaraitaka na ivakamacala e dredre."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Yaca ni ivakamacala ni Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Vakamamare ni mamu ni pua ni kena yacova na chashu malumu, qio malumu ni koro, kei na noodles vou.",
+    "description": "Vakasama ni ivakamacala ni Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Yaca ni ivakamacala ni Margherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan e dau kilai vakalevu ena tomati San Marzano, mozzarella vou, kei na basil.",
+    "description": "Vakasama ni ivakamacala ni Margherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Yaca ni ivakamacala ni Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos ni pua e marinated vata kei na pineapple, cilantro, kei na ulu ni wai vavalagi ena tortillas ni koro.",
+    "description": "Vakasama ni ivakamacala ni Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Kikokiko ni Suka",
+    "description": "Yaca ni ivakamacala ni Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Kikokiko malumu ena sauce tomato kei na suka, vata kei na manumanu ni kakana ni veisautaki ni manumanu.",
+    "description": "Vakasama ni ivakamacala ni Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Yaca ni ivakamacala ni Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Rice noodles e vakakokoroi vata kei na shrimp, tofu, peanuts, kei na sauce ni tamarind.",
+    "description": "Vakasama ni ivakamacala ni Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes ni Peritania",
+    "description": "Yaca ni ivakamacala ni French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes lailai, malumalumu e vakayagataki kina Nutella, strawberries vou, kei na kirim cream.",
+    "description": "Vakasama ni ivakamacala ni French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Vosa",
+    "description": "Ulutaga e rawa ni raica na tamata ena dropdown ni veisau ni vosa ena header."
+  },
+  "locale_switcher_en": {
+    "text": "Vakavalagi",
+    "description": "Vosa vakavalagi ena veisau ni vosa."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Vosa vakaJapenese ena veisau ni vosa."
+  },
+  "locale_switcher_es": {
+    "text": "Vosa Sepania",
+    "description": "Vosa vakaSepania ena veisau ni vosa."
   }
 }

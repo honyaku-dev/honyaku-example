@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Svjetska Kuhinja",
-      "description": "Naziv aplikacije prikazan u zaglavlju. Aplikacija za otkrivanje recepata svjetskih kuhinja."
-    },
-    "subtitle": {
-      "text": "Otkrijte recepte iz cijelog svijeta",
-      "description": "Slogan prikazan ispod naziva aplikacije u zaglavlju."
-    }
+  "header_title": {
+    "text": "Svjetska Kuhinja",
+    "description": "Naziv aplikacije prikazan u zaglavlju. Aplikacija za otkrivanje recepata svjetskih kuhinja."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Istražite Globalne Okuse",
-      "description": "Glavni naslov u hero sekciji početne stranice."
-    },
-    "heroSubtitle": {
-      "text": "Pregledajte autentične recepte iz kuhinja širom svijeta",
-      "description": "Podnaslov prikazan ispod glavnog naslova u hero sekciji na početnoj stranici."
-    },
-    "featuredTitle": {
-      "text": "Izdvojeni Recepti",
-      "description": "Naslov sekcije prikazan iznad mreže kartica s receptima."
-    }
+  "header_subtitle": {
+    "text": "Otkrijte recepte iz cijelog svijeta",
+    "description": "Slogan prikazan ispod naziva aplikacije u zaglavlju."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Oznaka vremena kuhanja na kartici recepta. {minutes} se zamjenjuje brojem minuta."
-    },
-    "difficulty": {
-      "text": "Težina",
-      "description": "Oznaka prikazana prije razine težine na kartici recepta."
-    },
-    "easy": {
-      "text": "Lako",
-      "description": "Oznaka razine težine koja označava lagani recept."
-    },
-    "medium": {
-      "text": "Srednje",
-      "description": "Oznaka razine težine koja označava umjereno težak recept."
-    },
-    "hard": {
-      "text": "Teško",
-      "description": "Oznaka razine težine koja označava težak recept."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Naziv recepta za Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bogati temeljac od svinjskih kostiju s mekanim chashuom, mekim kuhanim jajetom i svježom tjesteninom.",
-      "description": "Opis recepta za Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Naziv recepta za Margherita pizzu."
-    },
-    "margheritaDescription": {
-      "text": "Klasična Napuljska pizza s rajčicama San Marzano, svježom mozzarellom i bosiljkom.",
-      "description": "Opis recepta za Margherita pizzu."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Naziv recepta za Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marinirani svinjski tacos s ananasom, korijanderom i lukom na tortiljama od kukuruza.",
-      "description": "Opis recepta za Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Maslac Piletina",
-      "description": "Naziv recepta za Maslac Piletinu."
-    },
-    "butterChickenDescription": {
-      "text": "Mekana piletina u kremastom umaku od rajčice i maslaca s aromatičnim začinima.",
-      "description": "Opis recepta za Maslac Piletinu."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Naziv recepta za Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Pržena rižina tjestenina s kozicama, tofujem, kikirikijem i tamarind umakom.",
-      "description": "Opis recepta za Pad Thai."
-    },
-    "crepesName": {
-      "text": "Francuski Crepes",
-      "description": "Naziv recepta za Francuske Crepse."
-    },
-    "crepesDescription": {
-      "text": "Tanki, nježni crepsi punjeni Nutellom, svježim jagodama i šlagom.",
-      "description": "Opis recepta za Francuske Crepse."
-    }
+  "home_page_hero_title": {
+    "text": "Istražite Globalne Okuse",
+    "description": "Glavni naslov u hero sekciji početne stranice."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Jezik",
-      "description": "Pristupačna oznaka za padajući izbornik za promjenu jezika u zaglavlju."
-    },
-    "en": {
-      "text": "Engleski",
-      "description": "Opcija za engleski jezik u izboru jezika."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opcija za japanski jezik u izboru jezika."
-    },
-    "es": {
-      "text": "Španjolski",
-      "description": "Opcija za španjolski jezik u izboru jezika."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Pregledajte autentične recepte iz kuhinja širom svijeta",
+    "description": "Podnaslov prikazan ispod glavnog naslova u hero sekciji na početnoj stranici."
+  },
+  "home_page_featured_title": {
+    "text": "Izdvojeni Recepti",
+    "description": "Naslov sekcije prikazan iznad mreže kartica s receptima."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Oznaka vremena kuhanja na kartici recepta. {minutes} se zamjenjuje brojem minuta."
+  },
+  "recipe_card_difficulty": {
+    "text": "Težina",
+    "description": "Oznaka prikazana prije razine težine na kartici recepta."
+  },
+  "recipe_card_easy": {
+    "text": "Lako",
+    "description": "Oznaka razine težine koja označava lagani recept."
+  },
+  "recipe_card_medium": {
+    "text": "Srednje",
+    "description": "Oznaka razine težine koja označava umjereno težak recept."
+  },
+  "recipe_card_hard": {
+    "text": "Teško",
+    "description": "Oznaka razine težine koja označava težak recept."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Naziv recepta za Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bogati temeljac od svinjskih kostiju s mekanim chashuom, mekim kuhanim jajetom i svježom tjesteninom.",
+    "description": "Opis recepta za Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Naziv recepta za Margherita pizzu."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasična Napuljska pizza s rajčicama San Marzano, svježom mozzarellom i bosiljkom.",
+    "description": "Opis recepta za Margherita pizzu."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Naziv recepta za Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinirani svinjski tacos s ananasom, korijanderom i lukom na tortiljama od kukuruza.",
+    "description": "Opis recepta za Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Maslac Piletina",
+    "description": "Naziv recepta za Maslac Piletinu."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mekana piletina u kremastom umaku od rajčice i maslaca s aromatičnim začinima.",
+    "description": "Opis recepta za Maslac Piletinu."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Naziv recepta za Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Pržena rižina tjestenina s kozicama, tofujem, kikirikijem i tamarind umakom.",
+    "description": "Opis recepta za Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francuski Crepes",
+    "description": "Naziv recepta za Francuske Crepse."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tanki, nježni crepsi punjeni Nutellom, svježim jagodama i šlagom.",
+    "description": "Opis recepta za Francuske Crepse."
+  },
+  "locale_switcher_label": {
+    "text": "Jezik",
+    "description": "Pristupačna oznaka za padajući izbornik za promjenu jezika u zaglavlju."
+  },
+  "locale_switcher_en": {
+    "text": "Engleski",
+    "description": "Opcija za engleski jezik u izboru jezika."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opcija za japanski jezik u izboru jezika."
+  },
+  "locale_switcher_es": {
+    "text": "Španjolski",
+    "description": "Opcija za španjolski jezik u izboru jezika."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Дерзаш хилла",
-      "description": "Аппийн нахь хила. Дерзаш хилла рецепт цуьнан со апп."
-    },
-    "subtitle": {
-      "text": "Дерзаш хилла рецептен цуьнан",
-      "description": "Аппийн нахь цуьнан хилада таглайн."
-    }
+  "header_title": {
+    "text": "Дерзаш хилла",
+    "description": "Аппийн нахь хила. Дерзаш хилла рецепт цуьнан со апп."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Цхьан дийцарш дераш",
-      "description": "Хьоме са хила герой секци хила."
-    },
-    "heroSubtitle": {
-      "text": "Дерзаш хилла кухнана аутентик рецептен цуьнан",
-      "description": "Хьоме са герой хилада хилада цуьнан субтитл."
-    },
-    "featuredTitle": {
-      "text": "Лахар рецептен",
-      "description": "Рецептен карточкан хилада секци хила."
-    }
+  "header_subtitle": {
+    "text": "Дерзаш хилла рецептен цуьнан",
+    "description": "Аппийн нахь цуьнан хилада таглайн."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} мин",
-      "description": "Рецептен карточкан кхеташ хила. {minutes} минут санахь."
-    },
-    "difficulty": {
-      "text": "Хийцар",
-      "description": "Рецептен карточкан хийцар цуьнан хила."
-    },
-    "easy": {
-      "text": "Хьоьлла",
-      "description": "Хийцар хила хьоьлла рецепт."
-    },
-    "medium": {
-      "text": "Медиум",
-      "description": "Хийцар хила медиум рецепт."
-    },
-    "hard": {
-      "text": "ГIалат",
-      "description": "Хийцар хила гIалат рецепт."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen рецептын цуьнан."
-    },
-    "ramenDescription": {
-      "text": "Ший хьалх сийна шийнан хьоьра чашу, соьйжийна хьалг, вац дойла хьоьра кхеташ.",
-      "description": "Tonkotsu Ramen рецептын дийцар."
-    },
-    "margheritaName": {
-      "text": "Маргерита Пицца",
-      "description": "Маргерита Пицца рецептын цуьнан."
-    },
-    "margheritaDescription": {
-      "text": "Сан Марзано томаташ, вац моцарелла, басиликаш цуьнан классик Неаполитан пицца.",
-      "description": "Маргерита Пицца рецептын дийцар."
-    },
-    "tacosName": {
-      "text": "Такос ал Пастор",
-      "description": "Такос ал Пастор рецептын цуьнан."
-    },
-    "tacosDescription": {
-      "text": "Ананас, кинза, хьоьжаш ца кхолам тортильясаш маринад хьалх такос.",
-      "description": "Такос ал Пастор рецептын дийцар."
-    },
-    "butterChickenName": {
-      "text": "Маслона Цыпа",
-      "description": "Маслона Цыпа рецептын цуьнан."
-    },
-    "butterChickenDescription": {
-      "text": "Ароматни хьолуш къобал дезамаш вац томаташ маслона соусаш цыпа.",
-      "description": "Маслона Цыпа рецептын дийцар."
-    },
-    "padThaiName": {
-      "text": "Пад Тай",
-      "description": "Пад Тай рецептын цуьнан."
-    },
-    "padThaiDescription": {
-      "text": "Къоба хьалх лапша, креветка, тофу, арахис, тамаринд соусаш куьйре.",
-      "description": "Пад Тай рецептын дийцар."
-    },
-    "crepesName": {
-      "text": "Француз Крепеш",
-      "description": "Француз Крепеш рецептын цуьнан."
-    },
-    "crepesDescription": {
-      "text": "Нутелла, вац гулх кIант, взбитые сливки цуьнан хьан шуьйре креьпеш.",
-      "description": "Француз Крепеш рецептын дийцар."
-    }
+  "home_page_hero_title": {
+    "text": "Цхьан дийцарш дераш",
+    "description": "Хьоме са хила герой секци хила."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Мотт",
-      "description": "Хилар дийцар дойла цуьнан аьлча хила."
-    },
-    "en": {
-      "text": "Английчо",
-      "description": "Английчо мотт цуьнан хила."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Япон мотт цуьнан хила."
-    },
-    "es": {
-      "text": "Испан мотт",
-      "description": "Испан мотт цуьнан хила."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Дерзаш хилла кухнана аутентик рецептен цуьнан",
+    "description": "Хьоме са герой хилада хилада цуьнан субтитл."
+  },
+  "home_page_featured_title": {
+    "text": "Лахар рецептен",
+    "description": "Рецептен карточкан хилада секци хила."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} мин",
+    "description": "Рецептен карточкан кхеташ хила. {minutes} минут санахь."
+  },
+  "recipe_card_difficulty": {
+    "text": "Хийцар",
+    "description": "Рецептен карточкан хийцар цуьнан хила."
+  },
+  "recipe_card_easy": {
+    "text": "Хьоьлла",
+    "description": "Хийцар хила хьоьлла рецепт."
+  },
+  "recipe_card_medium": {
+    "text": "Медиум",
+    "description": "Хийцар хила медиум рецепт."
+  },
+  "recipe_card_hard": {
+    "text": "ГIалат",
+    "description": "Хийцар хила гIалат рецепт."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen рецептын цуьнан."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ший хьалх сийна шийнан хьоьра чашу, соьйжийна хьалг, вац дойла хьоьра кхеташ.",
+    "description": "Tonkotsu Ramen рецептын дийцар."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Маргерита Пицца",
+    "description": "Маргерита Пицца рецептын цуьнан."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Сан Марзано томаташ, вац моцарелла, басиликаш цуьнан классик Неаполитан пицца.",
+    "description": "Маргерита Пицца рецептын дийцар."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Такос ал Пастор",
+    "description": "Такос ал Пастор рецептын цуьнан."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Ананас, кинза, хьоьжаш ца кхолам тортильясаш маринад хьалх такос.",
+    "description": "Такос ал Пастор рецептын дийцар."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Маслона Цыпа",
+    "description": "Маслона Цыпа рецептын цуьнан."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ароматни хьолуш къобал дезамаш вац томаташ маслона соусаш цыпа.",
+    "description": "Маслона Цыпа рецептын дийцар."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Пад Тай",
+    "description": "Пад Тай рецептын цуьнан."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Къоба хьалх лапша, креветка, тофу, арахис, тамаринд соусаш куьйре.",
+    "description": "Пад Тай рецептын дийцар."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Француз Крепеш",
+    "description": "Француз Крепеш рецептын цуьнан."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Нутелла, вац гулх кIант, взбитые сливки цуьнан хьан шуьйре креьпеш.",
+    "description": "Француз Крепеш рецептын дийцар."
+  },
+  "locale_switcher_label": {
+    "text": "Мотт",
+    "description": "Хилар дийцар дойла цуьнан аьлча хила."
+  },
+  "locale_switcher_en": {
+    "text": "Английчо",
+    "description": "Английчо мотт цуьнан хила."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Япон мотт цуьнан хила."
+  },
+  "locale_switcher_es": {
+    "text": "Испан мотт",
+    "description": "Испан мотт цуьнан хила."
   }
 }

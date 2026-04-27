@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Kuzhina Botërore",
-      "description": "Emri i aplikacionit shfaqet në krye. Një aplikacion për zbulimin e recetave të kuzhinave botërore."
-    },
-    "subtitle": {
-      "text": "Zbuloni receta nga e gjithë bota",
-      "description": "Slogani shfaqet nën emrin e aplikacionit në krye."
-    }
+  "header_title": {
+    "text": "Kuzhina Botërore",
+    "description": "Emri i aplikacionit shfaqet në krye. Një aplikacion për zbulimin e recetave të kuzhinave botërore."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Eksploroni Shijet Globale",
-      "description": "Titulli kryesor në seksionin hero të faqes kryesore."
-    },
-    "heroSubtitle": {
-      "text": "Shfletoni receta autentike nga kuzhinat e botës",
-      "description": "Teksti i nëntitullit shfaqet nën titullin hero në faqen kryesore."
-    },
-    "featuredTitle": {
-      "text": "Receta të Zgjedhura",
-      "description": "Titulli i seksionit shfaqet mbi rrjetën e kartave të recetave."
-    }
+  "header_subtitle": {
+    "text": "Zbuloni receta nga e gjithë bota",
+    "description": "Slogani shfaqet nën emrin e aplikacionit në krye."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etiketa e kohës së gatimit në një kartë recete. {minutes} zëvendësohet me numrin e minutave."
-    },
-    "difficulty": {
-      "text": "Vështirësi",
-      "description": "Etiketa që shfaqet para nivelit të vështirësisë në një kartë recete."
-    },
-    "easy": {
-      "text": "E Lehtë",
-      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të lehtë."
-    },
-    "medium": {
-      "text": "Mesatare",
-      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë me vështirësi të mesme."
-    },
-    "hard": {
-      "text": "E Vështirë",
-      "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të vështirë."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Emri i recetës Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Supë e pasur me kocka derri me chashu të butë, vezë të zierë butësisht, dhe petë të freskëta.",
-      "description": "Përshkrimi i recetës Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pica Margherita",
-      "description": "Emri i recetës Pica Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pica klasike napolitane me domate San Marzano, mocarela të freskët, dhe borzilok.",
-      "description": "Përshkrimi i recetës Pica Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Emri i recetës Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tako me derr të marinuar me ananas, koriandër, dhe qepë në tortilla misri.",
-      "description": "Përshkrimi i recetës Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pulë me Gjalpë",
-      "description": "Emri i recetës Pulë me Gjalpë."
-    },
-    "butterChickenDescription": {
-      "text": "Pulë e butë në një salcë kremi me domate dhe gjalpë me erëza aromatike.",
-      "description": "Përshkrimi i recetës Pulë me Gjalpë."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Emri i recetës Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Petë orizi të skuqura me karkaleca, tofu, arrë kikiriku, dhe salcë tamarindi.",
-      "description": "Përshkrimi i recetës Pad Thai."
-    },
-    "crepesName": {
-      "text": "Krepë Franceze",
-      "description": "Emri i recetës Krepë Franceze."
-    },
-    "crepesDescription": {
-      "text": "Krepë të holla dhe delikate të mbushura me Nutella, luleshtrydhe të freskëta, dhe krem të rrahur.",
-      "description": "Përshkrimi i recetës Krepë Franceze."
-    }
+  "home_page_hero_title": {
+    "text": "Eksploroni Shijet Globale",
+    "description": "Titulli kryesor në seksionin hero të faqes kryesore."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Gjuha",
-      "description": "Etiketa e aksesueshme për rënien e menusë së zgjedhjes së gjuhës në krye."
-    },
-    "en": {
-      "text": "Anglisht",
-      "description": "Opsioni i gjuhës angleze në zgjedhësin e gjuhës."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opsioni i gjuhës japoneze në zgjedhësin e gjuhës."
-    },
-    "es": {
-      "text": "Spanjisht",
-      "description": "Opsioni i gjuhës spanjolle në zgjedhësin e gjuhës."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Shfletoni receta autentike nga kuzhinat e botës",
+    "description": "Teksti i nëntitullit shfaqet nën titullin hero në faqen kryesore."
+  },
+  "home_page_featured_title": {
+    "text": "Receta të Zgjedhura",
+    "description": "Titulli i seksionit shfaqet mbi rrjetën e kartave të recetave."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etiketa e kohës së gatimit në një kartë recete. {minutes} zëvendësohet me numrin e minutave."
+  },
+  "recipe_card_difficulty": {
+    "text": "Vështirësi",
+    "description": "Etiketa që shfaqet para nivelit të vështirësisë në një kartë recete."
+  },
+  "recipe_card_easy": {
+    "text": "E Lehtë",
+    "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të lehtë."
+  },
+  "recipe_card_medium": {
+    "text": "Mesatare",
+    "description": "Etiketa e nivelit të vështirësisë që tregon një recetë me vështirësi të mesme."
+  },
+  "recipe_card_hard": {
+    "text": "E Vështirë",
+    "description": "Etiketa e nivelit të vështirësisë që tregon një recetë të vështirë."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Emri i recetës Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Supë e pasur me kocka derri me chashu të butë, vezë të zierë butësisht, dhe petë të freskëta.",
+    "description": "Përshkrimi i recetës Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pica Margherita",
+    "description": "Emri i recetës Pica Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pica klasike napolitane me domate San Marzano, mocarela të freskët, dhe borzilok.",
+    "description": "Përshkrimi i recetës Pica Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Emri i recetës Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tako me derr të marinuar me ananas, koriandër, dhe qepë në tortilla misri.",
+    "description": "Përshkrimi i recetës Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pulë me Gjalpë",
+    "description": "Emri i recetës Pulë me Gjalpë."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pulë e butë në një salcë kremi me domate dhe gjalpë me erëza aromatike.",
+    "description": "Përshkrimi i recetës Pulë me Gjalpë."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Emri i recetës Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Petë orizi të skuqura me karkaleca, tofu, arrë kikiriku, dhe salcë tamarindi.",
+    "description": "Përshkrimi i recetës Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Krepë Franceze",
+    "description": "Emri i recetës Krepë Franceze."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Krepë të holla dhe delikate të mbushura me Nutella, luleshtrydhe të freskëta, dhe krem të rrahur.",
+    "description": "Përshkrimi i recetës Krepë Franceze."
+  },
+  "locale_switcher_label": {
+    "text": "Gjuha",
+    "description": "Etiketa e aksesueshme për rënien e menusë së zgjedhjes së gjuhës në krye."
+  },
+  "locale_switcher_en": {
+    "text": "Anglisht",
+    "description": "Opsioni i gjuhës angleze në zgjedhësin e gjuhës."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opsioni i gjuhës japoneze në zgjedhësin e gjuhës."
+  },
+  "locale_switcher_es": {
+    "text": "Spanjisht",
+    "description": "Opsioni i gjuhës spanjolle në zgjedhësin e gjuhës."
   }
 }

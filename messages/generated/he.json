@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "מטבח עולמי",
-      "description": "שם האפליקציה המוצג בכותרת העליונה. אפליקציית גילוי מתכונים למטבחים עולמיים."
-    },
-    "subtitle": {
-      "text": "גלה מתכונים מכל רחבי העולם",
-      "description": "סיסמה המוצגת מתחת לשם האפליקציה בכותרת העליונה."
-    }
+  "header_title": {
+    "text": "מטבח עולמי",
+    "description": "שם האפליקציה המוצג בכותרת העליונה. אפליקציית גילוי מתכונים למטבחים עולמיים."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "חקור טעמים גלובליים",
-      "description": "כותרת ראשית במקטע הראשי בדף הבית."
-    },
-    "heroSubtitle": {
-      "text": "דפדף במתכונים אותנטיים ממטבחים ברחבי העולם",
-      "description": "טקסט כותרת משנה המוצג מתחת לכותרת הראשית בדף הבית."
-    },
-    "featuredTitle": {
-      "text": "מתכונים מומלצים",
-      "description": "כותרת מקטע המוצגת מעל רשת כרטיסי המתכונים."
-    }
+  "header_subtitle": {
+    "text": "גלה מתכונים מכל רחבי העולם",
+    "description": "סיסמה המוצגת מתחת לשם האפליקציה בכותרת העליונה."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} דקות",
-      "description": "תווית זמן בישול בכרטיס מתכון. {minutes} מוחלף במספר הדקות."
-    },
-    "difficulty": {
-      "text": "קושי",
-      "description": "תווית המוצגת לפני רמת הקושי בכרטיס מתכון."
-    },
-    "easy": {
-      "text": "קל",
-      "description": "תווית רמת קושי המציינת מתכון קל."
-    },
-    "medium": {
-      "text": "בינוני",
-      "description": "תווית רמת קושי המציינת מתכון בינוני."
-    },
-    "hard": {
-      "text": "קשה",
-      "description": "תווית רמת קושי המציינת מתכון קשה."
-    },
-    "ramenName": {
-      "text": "ראמן טונקוצו",
-      "description": "שם מתכון הראמן טונקוצו."
-    },
-    "ramenDescription": {
-      "text": "מרק עצמות חזיר עשיר עם צ'אשו רך, ביצה רכה, ואטריות טריות.",
-      "description": "תיאור מתכון הראמן טונקוצו."
-    },
-    "margheritaName": {
-      "text": "פיצה מרגריטה",
-      "description": "שם מתכון פיצה מרגריטה."
-    },
-    "margheritaDescription": {
-      "text": "פיצה נאפוליטנית קלאסית עם עגבניות סן מרצנו, מוצרלה טרייה ובזיליקום.",
-      "description": "תיאור מתכון פיצה מרגריטה."
-    },
-    "tacosName": {
-      "text": "טאקוס אל פסטור",
-      "description": "שם מתכון טאקוס אל פסטור."
-    },
-    "tacosDescription": {
-      "text": "טאקוס חזיר במרינדה עם אננס, כוסברה ובצל בטורטיות תירס.",
-      "description": "תיאור מתכון טאקוס אל פסטור."
-    },
-    "butterChickenName": {
-      "text": "עוף בחמאה",
-      "description": "שם מתכון עוף בחמאה."
-    },
-    "butterChickenDescription": {
-      "text": "עוף רך ברוטב עגבניות וחמאה קרמי עם תבלינים ארומטיים.",
-      "description": "תיאור מתכון עוף בחמאה."
-    },
-    "padThaiName": {
-      "text": "פאד תאי",
-      "description": "שם מתכון פאד תאי."
-    },
-    "padThaiDescription": {
-      "text": "אטריות אורז מוקפצות עם שרימפס, טופו, בוטנים ורוטב טמרינד.",
-      "description": "תיאור מתכון פאד תאי."
-    },
-    "crepesName": {
-      "text": "קרפ צרפתי",
-      "description": "שם מתכון הקרפ הצרפתי."
-    },
-    "crepesDescription": {
-      "text": "קרפים דקים ועדינים ממולאים בנוטלה, תותים טריים וקצפת.",
-      "description": "תיאור מתכון הקרפ הצרפתי."
-    }
+  "home_page_hero_title": {
+    "text": "חקור טעמים גלובליים",
+    "description": "כותרת ראשית במקטע הראשי בדף הבית."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "שפה",
-      "description": "תווית נגישה לרשימת הבחירה של השפה בכותרת העליונה."
-    },
-    "en": {
-      "text": "אנגלית",
-      "description": "אפשרות שפה אנגלית ברשימת הבחירה."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "אפשרות שפה יפנית ברשימת הבחירה."
-    },
-    "es": {
-      "text": "ספרדית",
-      "description": "אפשרות שפה ספרדית ברשימת הבחירה."
-    }
+  "home_page_hero_subtitle": {
+    "text": "דפדף במתכונים אותנטיים ממטבחים ברחבי העולם",
+    "description": "טקסט כותרת משנה המוצג מתחת לכותרת הראשית בדף הבית."
+  },
+  "home_page_featured_title": {
+    "text": "מתכונים מומלצים",
+    "description": "כותרת מקטע המוצגת מעל רשת כרטיסי המתכונים."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} דקות",
+    "description": "תווית זמן בישול בכרטיס מתכון. {minutes} מוחלף במספר הדקות."
+  },
+  "recipe_card_difficulty": {
+    "text": "קושי",
+    "description": "תווית המוצגת לפני רמת הקושי בכרטיס מתכון."
+  },
+  "recipe_card_easy": {
+    "text": "קל",
+    "description": "תווית רמת קושי המציינת מתכון קל."
+  },
+  "recipe_card_medium": {
+    "text": "בינוני",
+    "description": "תווית רמת קושי המציינת מתכון בינוני."
+  },
+  "recipe_card_hard": {
+    "text": "קשה",
+    "description": "תווית רמת קושי המציינת מתכון קשה."
+  },
+  "recipe_card_ramen_name": {
+    "text": "ראמן טונקוצו",
+    "description": "שם מתכון הראמן טונקוצו."
+  },
+  "recipe_card_ramen_description": {
+    "text": "מרק עצמות חזיר עשיר עם צ'אשו רך, ביצה רכה, ואטריות טריות.",
+    "description": "תיאור מתכון הראמן טונקוצו."
+  },
+  "recipe_card_margherita_name": {
+    "text": "פיצה מרגריטה",
+    "description": "שם מתכון פיצה מרגריטה."
+  },
+  "recipe_card_margherita_description": {
+    "text": "פיצה נאפוליטנית קלאסית עם עגבניות סן מרצנו, מוצרלה טרייה ובזיליקום.",
+    "description": "תיאור מתכון פיצה מרגריטה."
+  },
+  "recipe_card_tacos_name": {
+    "text": "טאקוס אל פסטור",
+    "description": "שם מתכון טאקוס אל פסטור."
+  },
+  "recipe_card_tacos_description": {
+    "text": "טאקוס חזיר במרינדה עם אננס, כוסברה ובצל בטורטיות תירס.",
+    "description": "תיאור מתכון טאקוס אל פסטור."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "עוף בחמאה",
+    "description": "שם מתכון עוף בחמאה."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "עוף רך ברוטב עגבניות וחמאה קרמי עם תבלינים ארומטיים.",
+    "description": "תיאור מתכון עוף בחמאה."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "פאד תאי",
+    "description": "שם מתכון פאד תאי."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "אטריות אורז מוקפצות עם שרימפס, טופו, בוטנים ורוטב טמרינד.",
+    "description": "תיאור מתכון פאד תאי."
+  },
+  "recipe_card_crepes_name": {
+    "text": "קרפ צרפתי",
+    "description": "שם מתכון הקרפ הצרפתי."
+  },
+  "recipe_card_crepes_description": {
+    "text": "קרפים דקים ועדינים ממולאים בנוטלה, תותים טריים וקצפת.",
+    "description": "תיאור מתכון הקרפ הצרפתי."
+  },
+  "locale_switcher_label": {
+    "text": "שפה",
+    "description": "תווית נגישה לרשימת הבחירה של השפה בכותרת העליונה."
+  },
+  "locale_switcher_en": {
+    "text": "אנגלית",
+    "description": "אפשרות שפה אנגלית ברשימת הבחירה."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "אפשרות שפה יפנית ברשימת הבחירה."
+  },
+  "locale_switcher_es": {
+    "text": "ספרדית",
+    "description": "אפשרות שפה ספרדית ברשימת הבחירה."
   }
 }

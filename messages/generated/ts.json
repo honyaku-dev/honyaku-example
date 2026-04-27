@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Xikolo xa Misava",
-      "description": "Vito ra pulatifomo leri kombisiwaka eka xihloko. Pulatifomo yo kuma swiresipe swa swakudya swa misava hinkwayo."
-    },
-    "subtitle": {
-      "text": "Kuma swiresipe swa misava hinkwayo",
-      "description": "Xivutiso lexi kombisiwaka ehansi ka vito ra pulatifomo eka xihloko."
-    }
+  "header_title": {
+    "text": "Xikolo xa Misava",
+    "description": "Vito ra pulatifomo leri kombisiwaka eka xihloko. Pulatifomo yo kuma swiresipe swa swakudya swa misava hinkwayo."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Hlaya Mintirho ya Misava",
-      "description": "Xihloko lexikulu eka xiphemu xa hero xa peji ra le ka ndzhawu ya le ka khaya."
-    },
-    "heroSubtitle": {
-      "text": "Hlaya swiresipe swa ntiyiso swa xikolo xa swakudya swa misava hinkwayo",
-      "description": "Xivutiso lexi kombisiwaka ehansi ka xihloko xa hero eka peji ra le ka ndzhawu ya le ka khaya."
-    },
-    "featuredTitle": {
-      "text": "Swiresipe leswi kotekaka",
-      "description": "Xihloko xa xiphemu lexi kombisiwaka eka xisungulo xa grid ya makhadi ya swiresipe."
-    }
+  "header_subtitle": {
+    "text": "Kuma swiresipe swa misava hinkwayo",
+    "description": "Xivutiso lexi kombisiwaka ehansi ka vito ra pulatifomo eka xihloko."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Xiphemu xa nkarhi wa ku pheka eka khadi ra swiresipe. {minutes} yi hundzuluxiwa hi nhumeri ya timinete."
-    },
-    "difficulty": {
-      "text": "Nhlamuselo",
-      "description": "Xiphemu lexi kombisiwaka eka xiphemu xa matimba eka khadi ra swiresipe."
-    },
-    "easy": {
-      "text": "Swin'we",
-      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka."
-    },
-    "medium": {
-      "text": "Nawumbisi",
-      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka swinene."
-    },
-    "hard": {
-      "text": "Nene",
-      "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinene swinene."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Vito ra swiresipe swa Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Nyama ya nkhuku ya xihoko leyinene leyinene ni chashu leyinyenyana, nhova leyi tsakisaka, ni noodles leyin'wana.",
-      "description": "Nhlamuselo ya swiresipe swa Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza ya Margherita",
-      "description": "Vito ra swiresipe swa Pizza ya Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan ya xivumbeko xa khale ni tinambhu ta San Marzano, mozzarella leyintshwa, na basil.",
-      "description": "Nhlamuselo ya swiresipe swa Pizza ya Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Vito ra swiresipe swa Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos ta nyama ya nkungu leyi koxiwaka ni pineapple, cilantro, na anyisi eka tortillas ya mbewu ya mhungu.",
-      "description": "Nhlamuselo ya swiresipe swa Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Chicken ya Butter",
-      "description": "Vito ra swiresipe swa Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Nyama ya nkhuku leyinyenyana eka swisi swa tamati ni butter swo tiya ni swiphephana swa xivumbeko.",
-      "description": "Nhlamuselo ya swiresipe swa Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Vito ra swiresipe swa Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles ya vhusiku byo hlelela hi shrimp, tofu, timpeleti, ni swisi swa tamarind.",
-      "description": "Nhlamuselo ya swiresipe swa Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes ya le France",
-      "description": "Vito ra swiresipe swa French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes leyinyenyana, leyi nga riki na moya leyipfukaka leyi tivelaka Nutella, masipala matsongo, ni swikombelo swa swikandza.",
-      "description": "Nhlamuselo ya swiresipe swa French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Hlaya Mintirho ya Misava",
+    "description": "Xihloko lexikulu eka xiphemu xa hero xa peji ra le ka ndzhawu ya le ka khaya."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Rurimi",
-      "description": "Xiphemu lexi endlaka leswaku ku cinca ririmi eka xihloko."
-    },
-    "en": {
-      "text": "English",
-      "description": "Nkombiso wa ririmi ra Xinghezi eka ku cinca ka ririmi."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Nkombiso wa ririmi ra Xijapani eka ku cinca ka ririmi."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Nkombiso wa ririmi ra Xihispaniya eka ku cinca ka ririmi."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Hlaya swiresipe swa ntiyiso swa xikolo xa swakudya swa misava hinkwayo",
+    "description": "Xivutiso lexi kombisiwaka ehansi ka xihloko xa hero eka peji ra le ka ndzhawu ya le ka khaya."
+  },
+  "home_page_featured_title": {
+    "text": "Swiresipe leswi kotekaka",
+    "description": "Xihloko xa xiphemu lexi kombisiwaka eka xisungulo xa grid ya makhadi ya swiresipe."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Xiphemu xa nkarhi wa ku pheka eka khadi ra swiresipe. {minutes} yi hundzuluxiwa hi nhumeri ya timinete."
+  },
+  "recipe_card_difficulty": {
+    "text": "Nhlamuselo",
+    "description": "Xiphemu lexi kombisiwaka eka xiphemu xa matimba eka khadi ra swiresipe."
+  },
+  "recipe_card_easy": {
+    "text": "Swin'we",
+    "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka."
+  },
+  "recipe_card_medium": {
+    "text": "Nawumbisi",
+    "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinga olovaka swinene."
+  },
+  "recipe_card_hard": {
+    "text": "Nene",
+    "description": "Xiphemu xa matimba lexi kombisiwaka eka swiresipe leswinene swinene."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Vito ra swiresipe swa Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Nyama ya nkhuku ya xihoko leyinene leyinene ni chashu leyinyenyana, nhova leyi tsakisaka, ni noodles leyin'wana.",
+    "description": "Nhlamuselo ya swiresipe swa Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza ya Margherita",
+    "description": "Vito ra swiresipe swa Pizza ya Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan ya xivumbeko xa khale ni tinambhu ta San Marzano, mozzarella leyintshwa, na basil.",
+    "description": "Nhlamuselo ya swiresipe swa Pizza ya Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Vito ra swiresipe swa Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos ta nyama ya nkungu leyi koxiwaka ni pineapple, cilantro, na anyisi eka tortillas ya mbewu ya mhungu.",
+    "description": "Nhlamuselo ya swiresipe swa Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Chicken ya Butter",
+    "description": "Vito ra swiresipe swa Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Nyama ya nkhuku leyinyenyana eka swisi swa tamati ni butter swo tiya ni swiphephana swa xivumbeko.",
+    "description": "Nhlamuselo ya swiresipe swa Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Vito ra swiresipe swa Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles ya vhusiku byo hlelela hi shrimp, tofu, timpeleti, ni swisi swa tamarind.",
+    "description": "Nhlamuselo ya swiresipe swa Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes ya le France",
+    "description": "Vito ra swiresipe swa French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes leyinyenyana, leyi nga riki na moya leyipfukaka leyi tivelaka Nutella, masipala matsongo, ni swikombelo swa swikandza.",
+    "description": "Nhlamuselo ya swiresipe swa French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Rurimi",
+    "description": "Xiphemu lexi endlaka leswaku ku cinca ririmi eka xihloko."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "Nkombiso wa ririmi ra Xinghezi eka ku cinca ka ririmi."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Nkombiso wa ririmi ra Xijapani eka ku cinca ka ririmi."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Nkombiso wa ririmi ra Xihispaniya eka ku cinca ka ririmi."
   }
 }

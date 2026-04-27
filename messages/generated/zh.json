@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "世界厨房",
-      "description": "显示在标题中的应用名称。一个世界美食菜谱发现应用。"
-    },
-    "subtitle": {
-      "text": "发现来自世界各地的食谱",
-      "description": "显示在标题下方的应用口号。"
-    }
+  "header_title": {
+    "text": "世界厨房",
+    "description": "显示在标题中的应用名称。一个世界美食菜谱发现应用。"
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "探索全球风味",
-      "description": "主页主视觉区域的主要标题。"
-    },
-    "heroSubtitle": {
-      "text": "浏览来自世界各地厨房的正宗食谱",
-      "description": "主页主视觉标题下方显示的副标题文本。"
-    },
-    "featuredTitle": {
-      "text": "精选食谱",
-      "description": "显示在菜谱卡片网格上方的板块标题。"
-    }
+  "header_subtitle": {
+    "text": "发现来自世界各地的食谱",
+    "description": "显示在标题下方的应用口号。"
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} 分钟",
-      "description": "菜谱卡上的烹饪时间标签。{minutes} 会被替换为分钟数。"
-    },
-    "difficulty": {
-      "text": "难度",
-      "description": "菜谱卡上难度等级前显示的标签。"
-    },
-    "easy": {
-      "text": "简单",
-      "description": "表示菜谱难度为简单的标签。"
-    },
-    "medium": {
-      "text": "中等",
-      "description": "表示菜谱难度为中等的标签。"
-    },
-    "hard": {
-      "text": "困难",
-      "description": "表示菜谱难度为困难的标签。"
-    },
-    "ramenName": {
-      "text": "豚骨拉面",
-      "description": "豚骨拉面菜谱的名称。"
-    },
-    "ramenDescription": {
-      "text": "浓郁的猪骨汤底配嫩滑叉烧、溏心蛋和新鲜面条。",
-      "description": "豚骨拉面菜谱的描述。"
-    },
-    "margheritaName": {
-      "text": "玛格丽塔披萨",
-      "description": "玛格丽塔披萨菜谱的名称。"
-    },
-    "margheritaDescription": {
-      "text": "经典那不勒斯披萨，配以圣马尔扎诺番茄、新鲜马苏里拉奶酪和罗勒。",
-      "description": "玛格丽塔披萨菜谱的描述。"
-    },
-    "tacosName": {
-      "text": "牧羊人风味玉米饼",
-      "description": "牧羊人风味玉米饼菜谱的名称。"
-    },
-    "tacosDescription": {
-      "text": "腌制猪肉玉米饼配菠萝、香菜和洋葱。",
-      "description": "牧羊人风味玉米饼菜谱的描述。"
-    },
-    "butterChickenName": {
-      "text": "黄油鸡",
-      "description": "黄油鸡菜谱的名称。"
-    },
-    "butterChickenDescription": {
-      "text": "嫩鸡肉配奶油番茄黄油酱和芳香香料。",
-      "description": "黄油鸡菜谱的描述。"
-    },
-    "padThaiName": {
-      "text": "泰式炒河粉",
-      "description": "泰式炒河粉菜谱的名称。"
-    },
-    "padThaiDescription": {
-      "text": "炒米粉配虾、豆腐、花生和罗望子酱。",
-      "description": "泰式炒河粉菜谱的描述。"
-    },
-    "crepesName": {
-      "text": "法式可丽饼",
-      "description": "法式可丽饼菜谱的名称。"
-    },
-    "crepesDescription": {
-      "text": "薄而细腻的可丽饼，填充榛果巧克力酱、新鲜草莓和鲜奶油。",
-      "description": "法式可丽饼菜谱的描述。"
-    }
+  "home_page_hero_title": {
+    "text": "探索全球风味",
+    "description": "主页主视觉区域的主要标题。"
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "语言",
-      "description": "标题中语言切换下拉菜单的无障碍标签。"
-    },
-    "en": {
-      "text": "英语",
-      "description": "语言切换器中的英语选项。"
-    },
-    "ja": {
-      "text": "日语",
-      "description": "语言切换器中的日语选项。"
-    },
-    "es": {
-      "text": "西班牙语",
-      "description": "语言切换器中的西班牙语选项。"
-    }
+  "home_page_hero_subtitle": {
+    "text": "浏览来自世界各地厨房的正宗食谱",
+    "description": "主页主视觉标题下方显示的副标题文本。"
+  },
+  "home_page_featured_title": {
+    "text": "精选食谱",
+    "description": "显示在菜谱卡片网格上方的板块标题。"
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} 分钟",
+    "description": "菜谱卡上的烹饪时间标签。{minutes} 会被替换为分钟数。"
+  },
+  "recipe_card_difficulty": {
+    "text": "难度",
+    "description": "菜谱卡上难度等级前显示的标签。"
+  },
+  "recipe_card_easy": {
+    "text": "简单",
+    "description": "表示菜谱难度为简单的标签。"
+  },
+  "recipe_card_medium": {
+    "text": "中等",
+    "description": "表示菜谱难度为中等的标签。"
+  },
+  "recipe_card_hard": {
+    "text": "困难",
+    "description": "表示菜谱难度为困难的标签。"
+  },
+  "recipe_card_ramen_name": {
+    "text": "豚骨拉面",
+    "description": "豚骨拉面菜谱的名称。"
+  },
+  "recipe_card_ramen_description": {
+    "text": "浓郁的猪骨汤底配嫩滑叉烧、溏心蛋和新鲜面条。",
+    "description": "豚骨拉面菜谱的描述。"
+  },
+  "recipe_card_margherita_name": {
+    "text": "玛格丽塔披萨",
+    "description": "玛格丽塔披萨菜谱的名称。"
+  },
+  "recipe_card_margherita_description": {
+    "text": "经典那不勒斯披萨，配以圣马尔扎诺番茄、新鲜马苏里拉奶酪和罗勒。",
+    "description": "玛格丽塔披萨菜谱的描述。"
+  },
+  "recipe_card_tacos_name": {
+    "text": "牧羊人风味玉米饼",
+    "description": "牧羊人风味玉米饼菜谱的名称。"
+  },
+  "recipe_card_tacos_description": {
+    "text": "腌制猪肉玉米饼配菠萝、香菜和洋葱。",
+    "description": "牧羊人风味玉米饼菜谱的描述。"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "黄油鸡",
+    "description": "黄油鸡菜谱的名称。"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "嫩鸡肉配奶油番茄黄油酱和芳香香料。",
+    "description": "黄油鸡菜谱的描述。"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "泰式炒河粉",
+    "description": "泰式炒河粉菜谱的名称。"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "炒米粉配虾、豆腐、花生和罗望子酱。",
+    "description": "泰式炒河粉菜谱的描述。"
+  },
+  "recipe_card_crepes_name": {
+    "text": "法式可丽饼",
+    "description": "法式可丽饼菜谱的名称。"
+  },
+  "recipe_card_crepes_description": {
+    "text": "薄而细腻的可丽饼，填充榛果巧克力酱、新鲜草莓和鲜奶油。",
+    "description": "法式可丽饼菜谱的描述。"
+  },
+  "locale_switcher_label": {
+    "text": "语言",
+    "description": "标题中语言切换下拉菜单的无障碍标签。"
+  },
+  "locale_switcher_en": {
+    "text": "英语",
+    "description": "语言切换器中的英语选项。"
+  },
+  "locale_switcher_ja": {
+    "text": "日语",
+    "description": "语言切换器中的日语选项。"
+  },
+  "locale_switcher_es": {
+    "text": "西班牙语",
+    "description": "语言切换器中的西班牙语选项。"
   }
 }

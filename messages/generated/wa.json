@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "World Kitchen",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Dëcouvi les recètes di tot l'monde",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "World Kitchen",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Éxploer les savoures do monde",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Tchûz des recètes autenticådes des cwîcines do monde entou l'monde",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Recètes vedètes",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Dëcouvi les recètes di tot l'monde",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Difficulté",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Facile",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Moyin",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Dîfici",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nom del ricete do Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bouyon d osse di porc ric avou d tchashu tendre, ouf molèt, eyet nouilles freûdes.",
-      "description": "Descrîption del ricete Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nom del ricete do Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza napolitaine classike avou des tomates San Marzano, mozzarella freûde eyet basilic.",
-      "description": "Descrîption del ricete Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nom del ricete do Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos di porc mariné avou d pineûpe, coriandre eyet ognon so des tortillas di blé.",
-      "description": "Descrîption del ricete Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pôlet a l'Beurre",
-      "description": "Nom del ricete do Pôlet a l'Beurre."
-    },
-    "butterChickenDescription": {
-      "text": "Pôlet tendre dins ene sauce crémêye di tomate eyet beurre avou des épices aromatiquès.",
-      "description": "Descrîption del ricete Pôlet a l'Beurre."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nom del ricete do Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nouilles di riz sautêyes avou des crevettes, tofu, cacahouètes eyet sauce tamarin.",
-      "description": "Descrîption del ricete Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crêpes francesès",
-      "description": "Nom del ricete do Crêpes francesès."
-    },
-    "crepesDescription": {
-      "text": "Crêpes finesses eyet delicates plenes avou du Nutella, des fraises freûdes eyet de la crème fouettée.",
-      "description": "Descrîption del ricete Crêpes francesès."
-    }
+  "home_page_hero_title": {
+    "text": "Éxploer les savoures do monde",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingaedje",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Englès",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Espanwå",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Tchûz des recètes autenticådes des cwîcines do monde entou l'monde",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Recètes vedètes",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difficulté",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Facile",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Moyin",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Dîfici",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nom del ricete do Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bouyon d osse di porc ric avou d tchashu tendre, ouf molèt, eyet nouilles freûdes.",
+    "description": "Descrîption del ricete Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nom del ricete do Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza napolitaine classike avou des tomates San Marzano, mozzarella freûde eyet basilic.",
+    "description": "Descrîption del ricete Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nom del ricete do Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos di porc mariné avou d pineûpe, coriandre eyet ognon so des tortillas di blé.",
+    "description": "Descrîption del ricete Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pôlet a l'Beurre",
+    "description": "Nom del ricete do Pôlet a l'Beurre."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pôlet tendre dins ene sauce crémêye di tomate eyet beurre avou des épices aromatiquès.",
+    "description": "Descrîption del ricete Pôlet a l'Beurre."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nom del ricete do Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nouilles di riz sautêyes avou des crevettes, tofu, cacahouètes eyet sauce tamarin.",
+    "description": "Descrîption del ricete Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crêpes francesès",
+    "description": "Nom del ricete do Crêpes francesès."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crêpes finesses eyet delicates plenes avou du Nutella, des fraises freûdes eyet de la crème fouettée.",
+    "description": "Descrîption del ricete Crêpes francesès."
+  },
+  "locale_switcher_label": {
+    "text": "Lingaedje",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Englès",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Espanwå",
+    "description": "Spanish language option in the locale switcher."
   }
 }

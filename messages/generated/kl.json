@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Nunarsuarmi Neriartortoq",
-      "description": "App-ip aqqa header-imi takuneqarsinnaasoq. Nunarsuarmi nerisassat ilisimatitsinerannut app-i."
-    },
-    "subtitle": {
-      "text": "Nerisassat nunarsuarmi tamarmi atorneqarput",
-      "description": "App-ip aappassaanik header-imi takuneqarsinnaasoq tagline."
-    }
+  "header_title": {
+    "text": "Nunarsuarmi Neriartortoq",
+    "description": "App-ip aqqa header-imi takuneqarsinnaasoq. Nunarsuarmi nerisassat ilisimatitsinerannut app-i."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Nunarsuarmi neriartortunut atornissamut",
-      "description": "Aningaasaqarnermut ullut akornanni hero immikkoortortaq qitiuvoq."
-    },
-    "heroSubtitle": {
-      "text": "Nunarsuarmi neriartortunut nerisassat eqqumiitsulianik atornissaat",
-      "description": "Hero qitiuvoq kingusinnerusoq subtitle-tut takuneqarsinnaasoq ullut akornanni."
-    },
-    "featuredTitle": {
-      "text": "Nerisassat takutinneqarput",
-      "description": "Nerisassat kortit qitiuvoq takuneqarsinnaasoq immikkoortortaq qitiuvoq."
-    }
+  "header_subtitle": {
+    "text": "Nerisassat nunarsuarmi tamarmi atorneqarput",
+    "description": "App-ip aappassaanik header-imi takuneqarsinnaasoq tagline."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Nerisassat kortimi atortut atorlugit ukiunik paasissutissiisoq. {minutes} ukiunut allanngortinneqassaaq."
-    },
-    "difficulty": {
-      "text": "Qaffasissuseq",
-      "description": "Nerisassat kortimi qaffasissuseq oqaluttuarineqartoq takuneqarsinnaavoq."
-    },
-    "easy": {
-      "text": "Assut eqqarsaatigalugu",
-      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
-    },
-    "medium": {
-      "text": "Aningaasaqarnermut qaffasissuseq",
-      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
-    },
-    "hard": {
-      "text": "Qaffasissuseq assut qaffasissuseq",
-      "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen-ip nerisassiani aningaanngitsumik aqqa."
-    },
-    "ramenDescription": {
-      "text": "Aqutsineqartartoq qaammatit iluanni nerisassat, chashu qernertut, qeqqussut qernertut, aammalu nillataq nutaaq.",
-      "description": "Tonkotsu Ramen-ip nerisassiani apeqqutit."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza-ip nerisassiani aqqa."
-    },
-    "margheritaDescription": {
-      "text": "San Marzano atorsinnaasut, mozzarella nutaaq, aamma basil qernertut, Neapolitan pizza klassik.",
-      "description": "Margherita Pizza-ip nerisassiani apeqqutit."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor-ip nerisassiani aqqa."
-    },
-    "tacosDescription": {
-      "text": "Marineret porki tacos, annanas, cilantro, aamma qarasaasiaq corn tortillas-imi.",
-      "description": "Tacos al Pastor-ip nerisassiani apeqqutit."
-    },
-    "butterChickenName": {
-      "text": "Qimussimik Chicken",
-      "description": "Butter Chicken-ip nerisassiani aqqa."
-    },
-    "butterChickenDescription": {
-      "text": "Qimussimik qaqugu, tomatomi, qimussimik saasiaq, aamma aaliangersimasunik aserorsimallutik.",
-      "description": "Butter Chicken-ip nerisassiani apeqqutit."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai-ip nerisassiani aqqa."
-    },
-    "padThaiDescription": {
-      "text": "Qaqqap qernertup, tofu, peanuts, tamarind saasiaq, sorlermi qernertut nerisassat.",
-      "description": "Pad Thai-ip nerisassiani apeqqutit."
-    },
-    "crepesName": {
-      "text": "Fransk Crepes",
-      "description": "Fransk Crepes-ip nerisassiani aqqa."
-    },
-    "crepesDescription": {
-      "text": "Nutella, nutaaq strawberry, aamma qernertut qernertut, qernertut crepes.",
-      "description": "Fransk Crepes-ip nerisassiani apeqqutit."
-    }
+  "home_page_hero_title": {
+    "text": "Nunarsuarmi neriartortunut atornissamut",
+    "description": "Aningaasaqarnermut ullut akornanni hero immikkoortortaq qitiuvoq."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Oqaatsit",
-      "description": "Header-imi oqaasii allanngortinneqartarnissaat atorlugu accessible label."
-    },
-    "en": {
-      "text": "Ingerlatseqatigiiffik",
-      "description": "Oqaatsit allanngortinneqartarnissaat atorlugu kalaallisut."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Oqaatsit allanngortinneqartarnissaat atorlugu japonisut."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Oqaatsit allanngortinneqartarnissaa atorlugu spanskisut."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Nunarsuarmi neriartortunut nerisassat eqqumiitsulianik atornissaat",
+    "description": "Hero qitiuvoq kingusinnerusoq subtitle-tut takuneqarsinnaasoq ullut akornanni."
+  },
+  "home_page_featured_title": {
+    "text": "Nerisassat takutinneqarput",
+    "description": "Nerisassat kortit qitiuvoq takuneqarsinnaasoq immikkoortortaq qitiuvoq."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Nerisassat kortimi atortut atorlugit ukiunik paasissutissiisoq. {minutes} ukiunut allanngortinneqassaaq."
+  },
+  "recipe_card_difficulty": {
+    "text": "Qaffasissuseq",
+    "description": "Nerisassat kortimi qaffasissuseq oqaluttuarineqartoq takuneqarsinnaavoq."
+  },
+  "recipe_card_easy": {
+    "text": "Assut eqqarsaatigalugu",
+    "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+  },
+  "recipe_card_medium": {
+    "text": "Aningaasaqarnermut qaffasissuseq",
+    "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+  },
+  "recipe_card_hard": {
+    "text": "Qaffasissuseq assut qaffasissuseq",
+    "description": "Qaffasissuseq marlunnik nerisassat paasineqartussat."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen-ip nerisassiani aningaanngitsumik aqqa."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Aqutsineqartartoq qaammatit iluanni nerisassat, chashu qernertut, qeqqussut qernertut, aammalu nillataq nutaaq.",
+    "description": "Tonkotsu Ramen-ip nerisassiani apeqqutit."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza-ip nerisassiani aqqa."
+  },
+  "recipe_card_margherita_description": {
+    "text": "San Marzano atorsinnaasut, mozzarella nutaaq, aamma basil qernertut, Neapolitan pizza klassik.",
+    "description": "Margherita Pizza-ip nerisassiani apeqqutit."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor-ip nerisassiani aqqa."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marineret porki tacos, annanas, cilantro, aamma qarasaasiaq corn tortillas-imi.",
+    "description": "Tacos al Pastor-ip nerisassiani apeqqutit."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Qimussimik Chicken",
+    "description": "Butter Chicken-ip nerisassiani aqqa."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Qimussimik qaqugu, tomatomi, qimussimik saasiaq, aamma aaliangersimasunik aserorsimallutik.",
+    "description": "Butter Chicken-ip nerisassiani apeqqutit."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai-ip nerisassiani aqqa."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Qaqqap qernertup, tofu, peanuts, tamarind saasiaq, sorlermi qernertut nerisassat.",
+    "description": "Pad Thai-ip nerisassiani apeqqutit."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Fransk Crepes",
+    "description": "Fransk Crepes-ip nerisassiani aqqa."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Nutella, nutaaq strawberry, aamma qernertut qernertut, qernertut crepes.",
+    "description": "Fransk Crepes-ip nerisassiani apeqqutit."
+  },
+  "locale_switcher_label": {
+    "text": "Oqaatsit",
+    "description": "Header-imi oqaasii allanngortinneqartarnissaat atorlugu accessible label."
+  },
+  "locale_switcher_en": {
+    "text": "Ingerlatseqatigiiffik",
+    "description": "Oqaatsit allanngortinneqartarnissaat atorlugu kalaallisut."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Oqaatsit allanngortinneqartarnissaat atorlugu japonisut."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Oqaatsit allanngortinneqartarnissaa atorlugu spanskisut."
   }
 }

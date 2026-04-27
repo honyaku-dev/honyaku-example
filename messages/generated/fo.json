@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Heims Matstova",
-      "description": "App navn víst í høvuðslínuni. Ein uppskriftaleitandi app fyri heims matstovur."
-    },
-    "subtitle": {
-      "text": "Uppdaga uppskriftir úr heiminum",
-      "description": "Slagorð víst undir app navninum í høvuðslínuni."
-    }
+  "header_title": {
+    "text": "Heims Matstova",
+    "description": "App navn víst í høvuðslínuni. Ein uppskriftaleitandi app fyri heims matstovur."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Kanna Heimsligar Smakkir",
-      "description": "Høvuðsrubrikkin á heimasíðuni í herosektioninum."
-    },
-    "heroSubtitle": {
-      "text": "Skráset upprunaligar uppskriftir úr køkum kring heimin",
-      "description": "Undirskrivað tekstur undir høvuðsrubrikkinum á heimasíðuni."
-    },
-    "featuredTitle": {
-      "text": "Úrvaldar Uppskriftir",
-      "description": "Seksjónsrubrikkin vístur omanfyri uppskriftarkortnetið."
-    }
+  "header_subtitle": {
+    "text": "Uppdaga uppskriftir úr heiminum",
+    "description": "Slagorð víst undir app navninum í høvuðslínuni."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Matgerðartíðarfelti á uppskriftarkorti. {minutes} verður skift út við talið av minuttum."
-    },
-    "difficulty": {
-      "text": "Avbjóðing",
-      "description": "Merki víst framman fyri avbjóðingarstigin á uppskriftarkorti."
-    },
-    "easy": {
-      "text": "Lætt",
-      "description": "Avbjóðingarstig, sum vísir eina lætta uppskrift."
-    },
-    "medium": {
-      "text": "Miðal",
-      "description": "Avbjóðingarstig, sum vísir eina miðal torføra uppskrift."
-    },
-    "hard": {
-      "text": "Torført",
-      "description": "Avbjóðingarstig, sum vísir eina torføra uppskrift."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Navn á uppskriftini Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Ríkt svínabeinssuppa við mjúkum chashu, mjúkum eggi og ferskum núðlum.",
-      "description": "Lýsing av uppskriftini Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Navn á uppskriftini Margherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Klassiskur napolitanskur pizza við San Marzano tomatum, ferskum mozzarella og basiliku.",
-      "description": "Lýsing av uppskriftini Margherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Navn á uppskriftini Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marineraðir svínakjøts tacos við ananasi, koriander og løk á maís tortillas.",
-      "description": "Lýsing av uppskriftini Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Smørkoyktur Kjúklingur",
-      "description": "Navn á uppskriftini Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Mjúkur kjúklingur í kremetum tomat- og smørsósu við aromatiskum krydnum.",
-      "description": "Lýsing av uppskriftini Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Navn á uppskriftini Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Steiktar risnúðlur við reykjusum, tofu, peanøtum og tamarind sósu.",
-      "description": "Lýsing av uppskriftini Pad Thai."
-    },
-    "crepesName": {
-      "text": "Franskar Pannukøkur",
-      "description": "Navn á uppskriftini French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Tynnar, fínar pannukøkur fyltar við Nutella, ferskum jarðberjum og pískaðari rjóma.",
-      "description": "Lýsing av uppskriftini French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Kanna Heimsligar Smakkir",
+    "description": "Høvuðsrubrikkin á heimasíðuni í herosektioninum."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Mál",
-      "description": "Atkomuligt merki fyri málsveljaran í høvuðslínuni."
-    },
-    "en": {
-      "text": "Enskt",
-      "description": "Enskt málval í málsveljaranum."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanskt málval í málsveljaranum."
-    },
-    "es": {
-      "text": "Spanskt",
-      "description": "Spanskt málval í málsveljaranum."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Skráset upprunaligar uppskriftir úr køkum kring heimin",
+    "description": "Undirskrivað tekstur undir høvuðsrubrikkinum á heimasíðuni."
+  },
+  "home_page_featured_title": {
+    "text": "Úrvaldar Uppskriftir",
+    "description": "Seksjónsrubrikkin vístur omanfyri uppskriftarkortnetið."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Matgerðartíðarfelti á uppskriftarkorti. {minutes} verður skift út við talið av minuttum."
+  },
+  "recipe_card_difficulty": {
+    "text": "Avbjóðing",
+    "description": "Merki víst framman fyri avbjóðingarstigin á uppskriftarkorti."
+  },
+  "recipe_card_easy": {
+    "text": "Lætt",
+    "description": "Avbjóðingarstig, sum vísir eina lætta uppskrift."
+  },
+  "recipe_card_medium": {
+    "text": "Miðal",
+    "description": "Avbjóðingarstig, sum vísir eina miðal torføra uppskrift."
+  },
+  "recipe_card_hard": {
+    "text": "Torført",
+    "description": "Avbjóðingarstig, sum vísir eina torføra uppskrift."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Navn á uppskriftini Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ríkt svínabeinssuppa við mjúkum chashu, mjúkum eggi og ferskum núðlum.",
+    "description": "Lýsing av uppskriftini Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Navn á uppskriftini Margherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassiskur napolitanskur pizza við San Marzano tomatum, ferskum mozzarella og basiliku.",
+    "description": "Lýsing av uppskriftini Margherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Navn á uppskriftini Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marineraðir svínakjøts tacos við ananasi, koriander og løk á maís tortillas.",
+    "description": "Lýsing av uppskriftini Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Smørkoyktur Kjúklingur",
+    "description": "Navn á uppskriftini Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mjúkur kjúklingur í kremetum tomat- og smørsósu við aromatiskum krydnum.",
+    "description": "Lýsing av uppskriftini Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Navn á uppskriftini Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Steiktar risnúðlur við reykjusum, tofu, peanøtum og tamarind sósu.",
+    "description": "Lýsing av uppskriftini Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franskar Pannukøkur",
+    "description": "Navn á uppskriftini French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tynnar, fínar pannukøkur fyltar við Nutella, ferskum jarðberjum og pískaðari rjóma.",
+    "description": "Lýsing av uppskriftini French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Mál",
+    "description": "Atkomuligt merki fyri málsveljaran í høvuðslínuni."
+  },
+  "locale_switcher_en": {
+    "text": "Enskt",
+    "description": "Enskt málval í málsveljaranum."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanskt málval í málsveljaranum."
+  },
+  "locale_switcher_es": {
+    "text": "Spanskt",
+    "description": "Spanskt málval í málsveljaranum."
   }
 }

@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "ورلڊ ڪچن",
-      "description": "ايپ جو نالو جيڪو هيڊر ۾ ڏيکاريل آهي. دنيا جي کاڌن لاءِ هڪ نسخي جي دريافت واري ايپ."
-    },
-    "subtitle": {
-      "text": "دنيا ڀر جا نسخا دريافت ڪريو",
-      "description": "هيڊر ۾ ايپ جي نالي هيٺ ڏيکاريل ٽيگ لائن."
-    }
+  "header_title": {
+    "text": "ورلڊ ڪچن",
+    "description": "ايپ جو نالو جيڪو هيڊر ۾ ڏيکاريل آهي. دنيا جي کاڌن لاءِ هڪ نسخي جي دريافت واري ايپ."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "عالمي ذائقن کي ڳوليو",
-      "description": "هوم پيج جي هيٺئين حصي ۾ مکيه سرخي."
-    },
-    "heroSubtitle": {
-      "text": "دنيا جي مختلف کاڌن کان اصلي نسخا ڏسو",
-      "description": "هوم پيج تي هيٺئين سرخي هيٺ ڏيکاريل ذيلي سرخي."
-    },
-    "featuredTitle": {
-      "text": "خاص نمايان نسخا",
-      "description": "نسخي ڪارڊ جي گرڊ مٿان ڏيکاريل سيڪشن جي سرخي."
-    }
+  "header_subtitle": {
+    "text": "دنيا ڀر جا نسخا دريافت ڪريو",
+    "description": "هيڊر ۾ ايپ جي نالي هيٺ ڏيکاريل ٽيگ لائن."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} منٽ",
-      "description": "نسخي ڪارڊ تي پچائڻ جو وقت. {minutes} کي منٽن جي تعداد سان تبديل ڪيو ويندو."
-    },
-    "difficulty": {
-      "text": "مشڪل",
-      "description": "نسخي ڪارڊ تي مشڪل جي سطح کان اڳ ڏيکاريل ليبل."
-    },
-    "easy": {
-      "text": "آسان",
-      "description": "آسان نسخي جي سطح جو ليبل."
-    },
-    "medium": {
-      "text": "درمياني",
-      "description": "درمياني مشڪل واري نسخي جي سطح جو ليبل."
-    },
-    "hard": {
-      "text": "مشڪل",
-      "description": "مشڪل نسخي جي سطح جو ليبل."
-    },
-    "ramenName": {
-      "text": "ٽنڪوٽسو رامين",
-      "description": "ٽنڪوٽسو رامين جي نسخي جو نالو."
-    },
-    "ramenDescription": {
-      "text": "ڳري سؤڙي جي هڏن جو شوربو نرم چاشو، نرم اُباليل انڊو، ۽ تازو نوڊلز سان.",
-      "description": "ٽنڪوٽسو رامين جي نسخي جي وضاحت."
-    },
-    "margheritaName": {
-      "text": "مارگيريتا پيزا",
-      "description": "مارگيريتا پيزا جي نسخي جو نالو."
-    },
-    "margheritaDescription": {
-      "text": "ڪلاسيڪ نيپوليٽن پيزا سان مارزانو ٽماٽا، تازو موزيريلا، ۽ تلسی.",
-      "description": "مارگيريتا پيزا جي نسخي جي وضاحت."
-    },
-    "tacosName": {
-      "text": "ٽيڪوس ال پاسٽر",
-      "description": "ٽيڪوس ال پاسٽر جي نسخي جو نالو."
-    },
-    "tacosDescription": {
-      "text": "مرينيٽيڊ سؤڙي جا ٽيڪوس انناس، ڌڻي، ۽ پياز سان مکئي جي ٽورٽيلا تي.",
-      "description": "ٽيڪوس ال پاسٽر جي نسخي جي وضاحت."
-    },
-    "butterChickenName": {
-      "text": "مکڻ وارو چکن",
-      "description": "مکڻ وارو چکن جي نسخي جو نالو."
-    },
-    "butterChickenDescription": {
-      "text": "نرم چکن ڪريمي ٽماٽي ۽ مکڻ واري چٽڻي ۾ خوشبودار مصالحا سان.",
-      "description": "مکڻ وارو چکن جي نسخي جي وضاحت."
-    },
-    "padThaiName": {
-      "text": "پيڊ ٿائي",
-      "description": "پيڊ ٿائي جي نسخي جو نالو."
-    },
-    "padThaiDescription": {
-      "text": "ڀاڄيون، ٽوفو، مونگفليون، ۽ املڪڙي چٽڻي سان ڀاڄيل چانورن جا نوڊلز.",
-      "description": "پيڊ ٿائي جي نسخي جي وضاحت."
-    },
-    "crepesName": {
-      "text": "فرينچ ڪريپس",
-      "description": "فرينچ ڪريپس جي نسخي جو نالو."
-    },
-    "crepesDescription": {
-      "text": "باریک، نازڪ ڪريپس جيڪي نٽيللا، تازو اسٽابيري، ۽ ويسڪيل ڪريم سان ڀريل آهن.",
-      "description": "فرينچ ڪريپس جي نسخي جي وضاحت."
-    }
+  "home_page_hero_title": {
+    "text": "عالمي ذائقن کي ڳوليو",
+    "description": "هوم پيج جي هيٺئين حصي ۾ مکيه سرخي."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "ٻولي",
-      "description": "هيڊر ۾ ٻولي جي سوئچر ڊراپ ڊائون لاءِ قابل رسائي ليبل."
-    },
-    "en": {
-      "text": "انگريزي",
-      "description": "ٻولي جي سوئچر ۾ انگريزي زبان جو اختيار."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "ٻولي جي سوئچر ۾ جاپاني زبان جو اختيار."
-    },
-    "es": {
-      "text": "اسپيني",
-      "description": "ٻولي جي سوئچر ۾ اسپيني زبان جو اختيار."
-    }
+  "home_page_hero_subtitle": {
+    "text": "دنيا جي مختلف کاڌن کان اصلي نسخا ڏسو",
+    "description": "هوم پيج تي هيٺئين سرخي هيٺ ڏيکاريل ذيلي سرخي."
+  },
+  "home_page_featured_title": {
+    "text": "خاص نمايان نسخا",
+    "description": "نسخي ڪارڊ جي گرڊ مٿان ڏيکاريل سيڪشن جي سرخي."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} منٽ",
+    "description": "نسخي ڪارڊ تي پچائڻ جو وقت. {minutes} کي منٽن جي تعداد سان تبديل ڪيو ويندو."
+  },
+  "recipe_card_difficulty": {
+    "text": "مشڪل",
+    "description": "نسخي ڪارڊ تي مشڪل جي سطح کان اڳ ڏيکاريل ليبل."
+  },
+  "recipe_card_easy": {
+    "text": "آسان",
+    "description": "آسان نسخي جي سطح جو ليبل."
+  },
+  "recipe_card_medium": {
+    "text": "درمياني",
+    "description": "درمياني مشڪل واري نسخي جي سطح جو ليبل."
+  },
+  "recipe_card_hard": {
+    "text": "مشڪل",
+    "description": "مشڪل نسخي جي سطح جو ليبل."
+  },
+  "recipe_card_ramen_name": {
+    "text": "ٽنڪوٽسو رامين",
+    "description": "ٽنڪوٽسو رامين جي نسخي جو نالو."
+  },
+  "recipe_card_ramen_description": {
+    "text": "ڳري سؤڙي جي هڏن جو شوربو نرم چاشو، نرم اُباليل انڊو، ۽ تازو نوڊلز سان.",
+    "description": "ٽنڪوٽسو رامين جي نسخي جي وضاحت."
+  },
+  "recipe_card_margherita_name": {
+    "text": "مارگيريتا پيزا",
+    "description": "مارگيريتا پيزا جي نسخي جو نالو."
+  },
+  "recipe_card_margherita_description": {
+    "text": "ڪلاسيڪ نيپوليٽن پيزا سان مارزانو ٽماٽا، تازو موزيريلا، ۽ تلسی.",
+    "description": "مارگيريتا پيزا جي نسخي جي وضاحت."
+  },
+  "recipe_card_tacos_name": {
+    "text": "ٽيڪوس ال پاسٽر",
+    "description": "ٽيڪوس ال پاسٽر جي نسخي جو نالو."
+  },
+  "recipe_card_tacos_description": {
+    "text": "مرينيٽيڊ سؤڙي جا ٽيڪوس انناس، ڌڻي، ۽ پياز سان مکئي جي ٽورٽيلا تي.",
+    "description": "ٽيڪوس ال پاسٽر جي نسخي جي وضاحت."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "مکڻ وارو چکن",
+    "description": "مکڻ وارو چکن جي نسخي جو نالو."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "نرم چکن ڪريمي ٽماٽي ۽ مکڻ واري چٽڻي ۾ خوشبودار مصالحا سان.",
+    "description": "مکڻ وارو چکن جي نسخي جي وضاحت."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "پيڊ ٿائي",
+    "description": "پيڊ ٿائي جي نسخي جو نالو."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "ڀاڄيون، ٽوفو، مونگفليون، ۽ املڪڙي چٽڻي سان ڀاڄيل چانورن جا نوڊلز.",
+    "description": "پيڊ ٿائي جي نسخي جي وضاحت."
+  },
+  "recipe_card_crepes_name": {
+    "text": "فرينچ ڪريپس",
+    "description": "فرينچ ڪريپس جي نسخي جو نالو."
+  },
+  "recipe_card_crepes_description": {
+    "text": "باریک، نازڪ ڪريپس جيڪي نٽيللا، تازو اسٽابيري، ۽ ويسڪيل ڪريم سان ڀريل آهن.",
+    "description": "فرينچ ڪريپس جي نسخي جي وضاحت."
+  },
+  "locale_switcher_label": {
+    "text": "ٻولي",
+    "description": "هيڊر ۾ ٻولي جي سوئچر ڊراپ ڊائون لاءِ قابل رسائي ليبل."
+  },
+  "locale_switcher_en": {
+    "text": "انگريزي",
+    "description": "ٻولي جي سوئچر ۾ انگريزي زبان جو اختيار."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "ٻولي جي سوئچر ۾ جاپاني زبان جو اختيار."
+  },
+  "locale_switcher_es": {
+    "text": "اسپيني",
+    "description": "ٻولي جي سوئچر ۾ اسپيني زبان جو اختيار."
   }
 }

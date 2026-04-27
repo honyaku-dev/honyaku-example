@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Pachamama Mikuna",
-      "description": "App sutiyki rikuchinqa headerpi. Huk mikuna rikuy app llaqtakunapi mikunakuna rikuykuna."
-    },
-    "subtitle": {
-      "text": "Llaqtakunapi mikunakuna rikuy",
-      "description": "App sutiyuqmanta qhipa rimay headermantata."
-    }
+  "header_title": {
+    "text": "Pachamama Mikuna",
+    "description": "App sutiyki rikuchinqa headerpi. Huk mikuna rikuy app llaqtakunapi mikunakuna rikuykuna."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Pachamamanta Mikunakuna Rikuy",
-      "description": "Huk llaqtapi hero rimaypi sutin."
-    },
-    "heroSubtitle": {
-      "text": "Pachamamanta mikunakuna chinkaykuy llaqtakunapi mikunakuna",
-      "description": "Hero rimaymantata qhipa rimay llaqtapi."
-    },
-    "featuredTitle": {
-      "text": "Rikurqan Mikunakuna",
-      "description": "Rikurqan mikunakuna rimaypaq qhipa."
-    }
+  "header_subtitle": {
+    "text": "Llaqtakunapi mikunakuna rikuy",
+    "description": "App sutiyuqmanta qhipa rimay headermantata."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Mikuna pachakuy pachapi rimay. {minutes} huk pachakuy minutuyuqmi."
-    },
-    "difficulty": {
-      "text": "Llakiy",
-      "description": "Llakiy rimay rikhurqan mikuna pachapi."
-    },
-    "easy": {
-      "text": "Rikch'ariy",
-      "description": "Rikch'ariy llakiy rikhurqan mikuna."
-    },
-    "medium": {
-      "text": "Ch'usaq",
-      "description": "Ch'usaq llakiy rikhurqan mikuna."
-    },
-    "hard": {
-      "text": "Llakiy",
-      "description": "Sumaq llakiy rikhurqan mikuna."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Tonkotsu Ramen mikuna sutiy."
-    },
-    "ramenDescription": {
-      "text": "Sumaq wayk'a ch'aki wank'a ch'aylla chashu, ch'uwa ch'uwa ch'uwa, ch'uwa q'omer noodles.",
-      "description": "Tonkotsu Ramen mikuna rimasqa."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Margherita Pizza mikuna sutiy."
-    },
-    "margheritaDescription": {
-      "text": "Neapolitan k'uchu pizza San Marzano tomati, q'omer mozzarella, basil tantiykuna.",
-      "description": "Margherita Pizza mikuna rimasqa."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Tacos al Pastor mikuna sutiy."
-    },
-    "tacosDescription": {
-      "text": "Marinado wayk'a tacos pineapple, koriya, anqas kamputi korn tortillaspi.",
-      "description": "Tacos al Pastor mikuna rimasqa."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Butter Chicken mikuna sutiy."
-    },
-    "butterChickenDescription": {
-      "text": "Ch'uki wayk'a kachka tomati manteca sikiwan aromatikus k'uychiwan.",
-      "description": "Butter Chicken mikuna rimasqa."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Pad Thai mikuna sutiy."
-    },
-    "padThaiDescription": {
-      "text": "Ch'uwa q'omer noodles shrimp, tofu, maní, tamarindo sikiwan mikuy.",
-      "description": "Pad Thai mikuna rimasqa."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "French Crepes mikuna sutiy."
-    },
-    "crepesDescription": {
-      "text": "Llwina, sumaq crepes Nutella, q'omer frutilla, ch'uwa k'uchu creammi.",
-      "description": "French Crepes mikuna rimasqa."
-    }
+  "home_page_hero_title": {
+    "text": "Pachamamanta Mikunakuna Rikuy",
+    "description": "Huk llaqtapi hero rimaypi sutin."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Rimay",
-      "description": "Rimay llikaykuy headerpi."
-    },
-    "en": {
-      "text": "English",
-      "description": "Inlis rimay llikaykuy."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japon rimay llikaykuy."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Español rimay llikaykuy."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Pachamamanta mikunakuna chinkaykuy llaqtakunapi mikunakuna",
+    "description": "Hero rimaymantata qhipa rimay llaqtapi."
+  },
+  "home_page_featured_title": {
+    "text": "Rikurqan Mikunakuna",
+    "description": "Rikurqan mikunakuna rimaypaq qhipa."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Mikuna pachakuy pachapi rimay. {minutes} huk pachakuy minutuyuqmi."
+  },
+  "recipe_card_difficulty": {
+    "text": "Llakiy",
+    "description": "Llakiy rimay rikhurqan mikuna pachapi."
+  },
+  "recipe_card_easy": {
+    "text": "Rikch'ariy",
+    "description": "Rikch'ariy llakiy rikhurqan mikuna."
+  },
+  "recipe_card_medium": {
+    "text": "Ch'usaq",
+    "description": "Ch'usaq llakiy rikhurqan mikuna."
+  },
+  "recipe_card_hard": {
+    "text": "Llakiy",
+    "description": "Sumaq llakiy rikhurqan mikuna."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Tonkotsu Ramen mikuna sutiy."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Sumaq wayk'a ch'aki wank'a ch'aylla chashu, ch'uwa ch'uwa ch'uwa, ch'uwa q'omer noodles.",
+    "description": "Tonkotsu Ramen mikuna rimasqa."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Margherita Pizza mikuna sutiy."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Neapolitan k'uchu pizza San Marzano tomati, q'omer mozzarella, basil tantiykuna.",
+    "description": "Margherita Pizza mikuna rimasqa."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Tacos al Pastor mikuna sutiy."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinado wayk'a tacos pineapple, koriya, anqas kamputi korn tortillaspi.",
+    "description": "Tacos al Pastor mikuna rimasqa."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Butter Chicken mikuna sutiy."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Ch'uki wayk'a kachka tomati manteca sikiwan aromatikus k'uychiwan.",
+    "description": "Butter Chicken mikuna rimasqa."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Pad Thai mikuna sutiy."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ch'uwa q'omer noodles shrimp, tofu, maní, tamarindo sikiwan mikuy.",
+    "description": "Pad Thai mikuna rimasqa."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "French Crepes mikuna sutiy."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Llwina, sumaq crepes Nutella, q'omer frutilla, ch'uwa k'uchu creammi.",
+    "description": "French Crepes mikuna rimasqa."
+  },
+  "locale_switcher_label": {
+    "text": "Rimay",
+    "description": "Rimay llikaykuy headerpi."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "Inlis rimay llikaykuy."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japon rimay llikaykuy."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Español rimay llikaykuy."
   }
 }

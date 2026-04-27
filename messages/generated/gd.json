@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cidsin an t-Saoghail",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Lorg reasabaidhean bho air feadh an t-saoghail",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Cidsin an t-Saoghail",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Rannsaich Blasan Eadar-nàiseanta",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Bidh thu a’ brobhsadh reasabaidhean fìor-bhreithneach bho chidsinean air feadh an t-saoghail",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Reasabaidhean Air an Taisbeanadh",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Lorg reasabaidhean bho air feadh an t-saoghail",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} mion",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Duais",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Furasta",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Meadhanach",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Dian",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Ainm reasabaidh Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Broth cnàmhan muc beairteach le chashu rèidh, ugh bog-bhruich, agus nòtan ùr.",
-      "description": "Tuairisgeul air reasabaidh Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Ainm reasabaidh Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza Neapolitan clasaigeach le tomato San Marzano, mozzarella ùr, agus basil.",
-      "description": "Tuairisgeul air reasabaidh Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Ainm reasabaidh Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos muc marinate le pineappl, cilantro, agus oinniún air tortillas arbhar.",
-      "description": "Tuairisgeul air reasabaidh Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Cearc Bùthar",
-      "description": "Ainm reasabaidh Cearc Bùthar."
-    },
-    "butterChickenDescription": {
-      "text": "Cearc rèidh ann an sauce tomato agus bùthar uachdar le spìosan fàileadhail.",
-      "description": "Tuairisgeul air reasabaidh Cearc Bùthar."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Ainm reasabaidh Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Nòtan rìs air an stir-fhrithealadh le creachadair, tofu, cnòthan-peant, agus sauce tamarind.",
-      "description": "Tuairisgeul air reasabaidh Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Fraingis",
-      "description": "Ainm reasabaidh Crepes Fraingis."
-    },
-    "crepesDescription": {
-      "text": "Crepes tana, caileagach làn le Nutella, sùbh-làir ùra, agus uachdar air a shìoladh.",
-      "description": "Tuairisgeul air reasabaidh Crepes Fraingis."
-    }
+  "home_page_hero_title": {
+    "text": "Rannsaich Blasan Eadar-nàiseanta",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Cànan",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Beurla",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Bidh thu a’ brobhsadh reasabaidhean fìor-bhreithneach bho chidsinean air feadh an t-saoghail",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Reasabaidhean Air an Taisbeanadh",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} mion",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Duais",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Furasta",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Meadhanach",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Dian",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Ainm reasabaidh Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Broth cnàmhan muc beairteach le chashu rèidh, ugh bog-bhruich, agus nòtan ùr.",
+    "description": "Tuairisgeul air reasabaidh Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Ainm reasabaidh Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza Neapolitan clasaigeach le tomato San Marzano, mozzarella ùr, agus basil.",
+    "description": "Tuairisgeul air reasabaidh Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Ainm reasabaidh Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos muc marinate le pineappl, cilantro, agus oinniún air tortillas arbhar.",
+    "description": "Tuairisgeul air reasabaidh Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Cearc Bùthar",
+    "description": "Ainm reasabaidh Cearc Bùthar."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Cearc rèidh ann an sauce tomato agus bùthar uachdar le spìosan fàileadhail.",
+    "description": "Tuairisgeul air reasabaidh Cearc Bùthar."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Ainm reasabaidh Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Nòtan rìs air an stir-fhrithealadh le creachadair, tofu, cnòthan-peant, agus sauce tamarind.",
+    "description": "Tuairisgeul air reasabaidh Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Fraingis",
+    "description": "Ainm reasabaidh Crepes Fraingis."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes tana, caileagach làn le Nutella, sùbh-làir ùra, agus uachdar air a shìoladh.",
+    "description": "Tuairisgeul air reasabaidh Crepes Fraingis."
+  },
+  "locale_switcher_label": {
+    "text": "Cànan",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Beurla",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

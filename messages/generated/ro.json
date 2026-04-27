@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Bucătăria Lumii",
-      "description": "Numele aplicației afișat în antet. O aplicație pentru descoperirea rețetelor din bucătăriile lumii."
-    },
-    "subtitle": {
-      "text": "Descoperă rețete din întreaga lume",
-      "description": "Slogan afișat sub numele aplicației în antet."
-    }
+  "header_title": {
+    "text": "Bucătăria Lumii",
+    "description": "Numele aplicației afișat în antet. O aplicație pentru descoperirea rețetelor din bucătăriile lumii."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explorează Aromele Globale",
-      "description": "Titlul principal din secțiunea eroică a paginii de start."
-    },
-    "heroSubtitle": {
-      "text": "Răsfoiește rețete autentice din bucătării din întreaga lume",
-      "description": "Textul subtitlu afișat sub titlul eroic pe pagina de start."
-    },
-    "featuredTitle": {
-      "text": "Rețete Recomandate",
-      "description": "Titlul secțiunii afișat deasupra grilei cu carduri de rețete."
-    }
+  "header_subtitle": {
+    "text": "Descoperă rețete din întreaga lume",
+    "description": "Slogan afișat sub numele aplicației în antet."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Eticheta timpului de gătit pe un card de rețetă. {minutes} este înlocuit cu numărul de minute."
-    },
-    "difficulty": {
-      "text": "Dificultate",
-      "description": "Eticheta afișată înaintea nivelului de dificultate pe un card de rețetă."
-    },
-    "easy": {
-      "text": "Ușor",
-      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă ușoară."
-    },
-    "medium": {
-      "text": "Mediu",
-      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă moderat dificilă."
-    },
-    "hard": {
-      "text": "Dificil",
-      "description": "Etichetă pentru nivelul de dificultate care indică o rețetă dificilă."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Numele rețetei Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Supă bogată de oase de porc cu chashu fraged, ou moale fiert și tăiței proaspeți.",
-      "description": "Descrierea rețetei Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Numele rețetei Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza clasică napolitană cu roșii San Marzano, mozzarella proaspătă și busuioc.",
-      "description": "Descrierea rețetei Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Numele rețetei Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porc marinat cu ananas, coriandru și ceapă pe tortilla de porumb.",
-      "description": "Descrierea rețetei Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pui cu unt",
-      "description": "Numele rețetei Pui cu unt."
-    },
-    "butterChickenDescription": {
-      "text": "Pui fraged într-un sos cremos de roșii și unt cu condimente aromatice.",
-      "description": "Descrierea rețetei Pui cu unt."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Numele rețetei Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Tăiței de orez prăjiți cu creveți, tofu, arahide și sos de tamarind.",
-      "description": "Descrierea rețetei Pad Thai."
-    },
-    "crepesName": {
-      "text": "Clătite franțuzești",
-      "description": "Numele rețetei Clătite franțuzești."
-    },
-    "crepesDescription": {
-      "text": "Clătite subțiri și delicate umplute cu Nutella, căpșuni proaspete și frișcă bătută.",
-      "description": "Descrierea rețetei Clătite franțuzești."
-    }
+  "home_page_hero_title": {
+    "text": "Explorează Aromele Globale",
+    "description": "Titlul principal din secțiunea eroică a paginii de start."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Limbă",
-      "description": "Eticheta accesibilă pentru meniul dropdown de schimbare a limbii din antet."
-    },
-    "en": {
-      "text": "Engleză",
-      "description": "Opțiunea limbii engleze în selectorul de limbă."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opțiunea limbii japoneze în selectorul de limbă."
-    },
-    "es": {
-      "text": "Spaniolă",
-      "description": "Opțiunea limbii spaniole în selectorul de limbă."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Răsfoiește rețete autentice din bucătării din întreaga lume",
+    "description": "Textul subtitlu afișat sub titlul eroic pe pagina de start."
+  },
+  "home_page_featured_title": {
+    "text": "Rețete Recomandate",
+    "description": "Titlul secțiunii afișat deasupra grilei cu carduri de rețete."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Eticheta timpului de gătit pe un card de rețetă. {minutes} este înlocuit cu numărul de minute."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dificultate",
+    "description": "Eticheta afișată înaintea nivelului de dificultate pe un card de rețetă."
+  },
+  "recipe_card_easy": {
+    "text": "Ușor",
+    "description": "Etichetă pentru nivelul de dificultate care indică o rețetă ușoară."
+  },
+  "recipe_card_medium": {
+    "text": "Mediu",
+    "description": "Etichetă pentru nivelul de dificultate care indică o rețetă moderat dificilă."
+  },
+  "recipe_card_hard": {
+    "text": "Dificil",
+    "description": "Etichetă pentru nivelul de dificultate care indică o rețetă dificilă."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Numele rețetei Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Supă bogată de oase de porc cu chashu fraged, ou moale fiert și tăiței proaspeți.",
+    "description": "Descrierea rețetei Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Numele rețetei Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza clasică napolitană cu roșii San Marzano, mozzarella proaspătă și busuioc.",
+    "description": "Descrierea rețetei Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Numele rețetei Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porc marinat cu ananas, coriandru și ceapă pe tortilla de porumb.",
+    "description": "Descrierea rețetei Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pui cu unt",
+    "description": "Numele rețetei Pui cu unt."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pui fraged într-un sos cremos de roșii și unt cu condimente aromatice.",
+    "description": "Descrierea rețetei Pui cu unt."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Numele rețetei Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Tăiței de orez prăjiți cu creveți, tofu, arahide și sos de tamarind.",
+    "description": "Descrierea rețetei Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Clătite franțuzești",
+    "description": "Numele rețetei Clătite franțuzești."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Clătite subțiri și delicate umplute cu Nutella, căpșuni proaspete și frișcă bătută.",
+    "description": "Descrierea rețetei Clătite franțuzești."
+  },
+  "locale_switcher_label": {
+    "text": "Limbă",
+    "description": "Eticheta accesibilă pentru meniul dropdown de schimbare a limbii din antet."
+  },
+  "locale_switcher_en": {
+    "text": "Engleză",
+    "description": "Opțiunea limbii engleze în selectorul de limbă."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opțiunea limbii japoneze în selectorul de limbă."
+  },
+  "locale_switcher_es": {
+    "text": "Spaniolă",
+    "description": "Opțiunea limbii spaniole în selectorul de limbă."
   }
 }

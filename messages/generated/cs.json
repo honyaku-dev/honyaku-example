@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Světová Kuchyně",
-      "description": "Název aplikace zobrazený v hlavičce. Aplikace pro objevování receptů světových kuchyní."
-    },
-    "subtitle": {
-      "text": "Objevte recepty z celého světa",
-      "description": "Slogan zobrazený pod názvem aplikace v hlavičce."
-    }
+  "header_title": {
+    "text": "Světová Kuchyně",
+    "description": "Název aplikace zobrazený v hlavičce. Aplikace pro objevování receptů světových kuchyní."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Prozkoumejte globální chutě",
-      "description": "Hlavní nadpis v úvodní části domovské stránky."
-    },
-    "heroSubtitle": {
-      "text": "Prohlížejte si autentické recepty z kuchyní po celém světě",
-      "description": "Podtitul zobrazený pod hlavním nadpisem na domovské stránce."
-    },
-    "featuredTitle": {
-      "text": "Doporučené recepty",
-      "description": "Nadpis sekce zobrazený nad mřížkou karet receptů."
-    }
+  "header_subtitle": {
+    "text": "Objevte recepty z celého světa",
+    "description": "Slogan zobrazený pod názvem aplikace v hlavičce."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Štítek doby vaření na kartě receptu. {minutes} je nahrazen počtem minut."
-    },
-    "difficulty": {
-      "text": "Obtížnost",
-      "description": "Štítek zobrazený před úrovní obtížnosti na kartě receptu."
-    },
-    "easy": {
-      "text": "Jednoduché",
-      "description": "Štítek úrovně obtížnosti označující snadný recept."
-    },
-    "medium": {
-      "text": "Střední",
-      "description": "Štítek úrovně obtížnosti označující středně obtížný recept."
-    },
-    "hard": {
-      "text": "Těžké",
-      "description": "Štítek úrovně obtížnosti označující náročný recept."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Název receptu Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Bohatý vývar z vepřových kostí s měkkým chashu, měkkým vařeným vejcem a čerstvými nudlemi.",
-      "description": "Popis receptu Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Název receptu Margherita Pizza."
-    },
-    "margheritaDescription": {
-      "text": "Klasická neapolská pizza se San Marzano rajčaty, čerstvou mozzarellou a bazalkou.",
-      "description": "Popis receptu Margherita Pizza."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Název receptu Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marinované vepřové tacos s ananasem, koriandrem a cibulí na kukuřičných tortillách.",
-      "description": "Popis receptu Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Název receptu Butter Chicken."
-    },
-    "butterChickenDescription": {
-      "text": "Měkké kuře v krémové rajčatové a máslové omáčce s aromatickým kořením.",
-      "description": "Popis receptu Butter Chicken."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Název receptu Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Smažené rýžové nudle s krevetami, tofu, arašídy a tamarindovou omáčkou.",
-      "description": "Popis receptu Pad Thai."
-    },
-    "crepesName": {
-      "text": "Francouzské palačinky",
-      "description": "Název receptu Francouzské palačinky."
-    },
-    "crepesDescription": {
-      "text": "Tenoučké, jemné palačinky plněné Nutellou, čerstvými jahodami a šlehačkou.",
-      "description": "Popis receptu Francouzské palačinky."
-    }
+  "home_page_hero_title": {
+    "text": "Prozkoumejte globální chutě",
+    "description": "Hlavní nadpis v úvodní části domovské stránky."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Jazyk",
-      "description": "Přístupný štítek pro rozbalovací nabídku přepínače jazyků v hlavičce."
-    },
-    "en": {
-      "text": "Angličtina",
-      "description": "Volba anglického jazyka v přepínači lokalizace."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Volba japonského jazyka v přepínači lokalizace."
-    },
-    "es": {
-      "text": "Španělština",
-      "description": "Volba španělského jazyka v přepínači lokalizace."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Prohlížejte si autentické recepty z kuchyní po celém světě",
+    "description": "Podtitul zobrazený pod hlavním nadpisem na domovské stránce."
+  },
+  "home_page_featured_title": {
+    "text": "Doporučené recepty",
+    "description": "Nadpis sekce zobrazený nad mřížkou karet receptů."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Štítek doby vaření na kartě receptu. {minutes} je nahrazen počtem minut."
+  },
+  "recipe_card_difficulty": {
+    "text": "Obtížnost",
+    "description": "Štítek zobrazený před úrovní obtížnosti na kartě receptu."
+  },
+  "recipe_card_easy": {
+    "text": "Jednoduché",
+    "description": "Štítek úrovně obtížnosti označující snadný recept."
+  },
+  "recipe_card_medium": {
+    "text": "Střední",
+    "description": "Štítek úrovně obtížnosti označující středně obtížný recept."
+  },
+  "recipe_card_hard": {
+    "text": "Těžké",
+    "description": "Štítek úrovně obtížnosti označující náročný recept."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Název receptu Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Bohatý vývar z vepřových kostí s měkkým chashu, měkkým vařeným vejcem a čerstvými nudlemi.",
+    "description": "Popis receptu Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Název receptu Margherita Pizza."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasická neapolská pizza se San Marzano rajčaty, čerstvou mozzarellou a bazalkou.",
+    "description": "Popis receptu Margherita Pizza."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Název receptu Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinované vepřové tacos s ananasem, koriandrem a cibulí na kukuřičných tortillách.",
+    "description": "Popis receptu Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Název receptu Butter Chicken."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Měkké kuře v krémové rajčatové a máslové omáčce s aromatickým kořením.",
+    "description": "Popis receptu Butter Chicken."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Název receptu Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Smažené rýžové nudle s krevetami, tofu, arašídy a tamarindovou omáčkou.",
+    "description": "Popis receptu Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francouzské palačinky",
+    "description": "Název receptu Francouzské palačinky."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tenoučké, jemné palačinky plněné Nutellou, čerstvými jahodami a šlehačkou.",
+    "description": "Popis receptu Francouzské palačinky."
+  },
+  "locale_switcher_label": {
+    "text": "Jazyk",
+    "description": "Přístupný štítek pro rozbalovací nabídku přepínače jazyků v hlavičce."
+  },
+  "locale_switcher_en": {
+    "text": "Angličtina",
+    "description": "Volba anglického jazyka v přepínači lokalizace."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Volba japonského jazyka v přepínači lokalizace."
+  },
+  "locale_switcher_es": {
+    "text": "Španělština",
+    "description": "Volba španělského jazyka v přepínači lokalizace."
   }
 }

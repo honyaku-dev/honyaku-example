@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Világ Konyhája",
-      "description": "Az alkalmazás neve, amely a fejlécben jelenik meg. Egy recept felfedező alkalmazás a világ konyháiról."
-    },
-    "subtitle": {
-      "text": "Fedezz fel recepteket a világ minden tájáról",
-      "description": "Szlogen, amely az alkalmazás neve alatt jelenik meg a fejlécben."
-    }
+  "header_title": {
+    "text": "Világ Konyhája",
+    "description": "Az alkalmazás neve, amely a fejlécben jelenik meg. Egy recept felfedező alkalmazás a világ konyháiról."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Fedezd fel a globális ízeket",
-      "description": "Főcímsor a kezdőlap hős szekciójában."
-    },
-    "heroSubtitle": {
-      "text": "Böngéssz autentikus recepteket a világ konyháiból",
-      "description": "Alcím a hős címe alatt a kezdőlapon."
-    },
-    "featuredTitle": {
-      "text": "Kiemelt receptek",
-      "description": "Szekciócím a receptkártyák rácsa fölött."
-    }
+  "header_subtitle": {
+    "text": "Fedezz fel recepteket a világ minden tájáról",
+    "description": "Szlogen, amely az alkalmazás neve alatt jelenik meg a fejlécben."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} perc",
-      "description": "Főzési idő címke egy receptkártyán. A {minutes} helyére a percek száma kerül."
-    },
-    "difficulty": {
-      "text": "Nehézség",
-      "description": "Címke, amely a nehézségi szint előtt jelenik meg egy receptkártyán."
-    },
-    "easy": {
-      "text": "Könnyű",
-      "description": "Nehézségi szint jelző, amely könnyű receptet mutat."
-    },
-    "medium": {
-      "text": "Közepes",
-      "description": "Nehézségi szint jelző, amely közepesen nehéz receptet mutat."
-    },
-    "hard": {
-      "text": "Nehéz",
-      "description": "Nehézségi szint jelző, amely nehéz receptet mutat."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "A Tonkotsu Ramen recept neve."
-    },
-    "ramenDescription": {
-      "text": "Gazdag sertéscsont alaplé puha chashuval, lágy tojással és friss tésztával.",
-      "description": "A Tonkotsu Ramen recept leírása."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "A Margherita Pizza recept neve."
-    },
-    "margheritaDescription": {
-      "text": "Klasszikus nápolyi pizza San Marzano paradicsommal, friss mozzarellával és bazsalikommal.",
-      "description": "A Margherita Pizza recept leírása."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "A Tacos al Pastor recept neve."
-    },
-    "tacosDescription": {
-      "text": "Pácolt sertéshúsos tacos ananásszal, korianderrel és hagymával kukoricás tortillán.",
-      "description": "A Tacos al Pastor recept leírása."
-    },
-    "butterChickenName": {
-      "text": "Vajcsirke",
-      "description": "A Vajcsirke recept neve."
-    },
-    "butterChickenDescription": {
-      "text": "Párolt csirke krémes paradicsomos-vajas szósszal és aromás fűszerekkel.",
-      "description": "A Vajcsirke recept leírása."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "A Pad Thai recept neve."
-    },
-    "padThaiDescription": {
-      "text": "Pirított rizstészta garnélával, tofúval, földimogyoróval és tamarind szósszal.",
-      "description": "A Pad Thai recept leírása."
-    },
-    "crepesName": {
-      "text": "Francia palacsinta",
-      "description": "A Francia palacsinta recept neve."
-    },
-    "crepesDescription": {
-      "text": "Vékony, finom palacsinták Nutellával, friss eperrel és habtejszínnel töltve.",
-      "description": "A Francia palacsinta recept leírása."
-    }
+  "home_page_hero_title": {
+    "text": "Fedezd fel a globális ízeket",
+    "description": "Főcímsor a kezdőlap hős szekciójában."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Nyelv",
-      "description": "Hozzáférhető címke a nyelvváltó legördülő menüjéhez a fejlécben."
-    },
-    "en": {
-      "text": "Angol",
-      "description": "Angol nyelv opció a nyelvváltóban."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japán nyelv opció a nyelvváltóban."
-    },
-    "es": {
-      "text": "Spanyol",
-      "description": "Spanyol nyelv opció a nyelvváltóban."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Böngéssz autentikus recepteket a világ konyháiból",
+    "description": "Alcím a hős címe alatt a kezdőlapon."
+  },
+  "home_page_featured_title": {
+    "text": "Kiemelt receptek",
+    "description": "Szekciócím a receptkártyák rácsa fölött."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} perc",
+    "description": "Főzési idő címke egy receptkártyán. A {minutes} helyére a percek száma kerül."
+  },
+  "recipe_card_difficulty": {
+    "text": "Nehézség",
+    "description": "Címke, amely a nehézségi szint előtt jelenik meg egy receptkártyán."
+  },
+  "recipe_card_easy": {
+    "text": "Könnyű",
+    "description": "Nehézségi szint jelző, amely könnyű receptet mutat."
+  },
+  "recipe_card_medium": {
+    "text": "Közepes",
+    "description": "Nehézségi szint jelző, amely közepesen nehéz receptet mutat."
+  },
+  "recipe_card_hard": {
+    "text": "Nehéz",
+    "description": "Nehézségi szint jelző, amely nehéz receptet mutat."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "A Tonkotsu Ramen recept neve."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Gazdag sertéscsont alaplé puha chashuval, lágy tojással és friss tésztával.",
+    "description": "A Tonkotsu Ramen recept leírása."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "A Margherita Pizza recept neve."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasszikus nápolyi pizza San Marzano paradicsommal, friss mozzarellával és bazsalikommal.",
+    "description": "A Margherita Pizza recept leírása."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "A Tacos al Pastor recept neve."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Pácolt sertéshúsos tacos ananásszal, korianderrel és hagymával kukoricás tortillán.",
+    "description": "A Tacos al Pastor recept leírása."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Vajcsirke",
+    "description": "A Vajcsirke recept neve."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Párolt csirke krémes paradicsomos-vajas szósszal és aromás fűszerekkel.",
+    "description": "A Vajcsirke recept leírása."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "A Pad Thai recept neve."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Pirított rizstészta garnélával, tofúval, földimogyoróval és tamarind szósszal.",
+    "description": "A Pad Thai recept leírása."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francia palacsinta",
+    "description": "A Francia palacsinta recept neve."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Vékony, finom palacsinták Nutellával, friss eperrel és habtejszínnel töltve.",
+    "description": "A Francia palacsinta recept leírása."
+  },
+  "locale_switcher_label": {
+    "text": "Nyelv",
+    "description": "Hozzáférhető címke a nyelvváltó legördülő menüjéhez a fejlécben."
+  },
+  "locale_switcher_en": {
+    "text": "Angol",
+    "description": "Angol nyelv opció a nyelvváltóban."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japán nyelv opció a nyelvváltóban."
+  },
+  "locale_switcher_es": {
+    "text": "Spanyol",
+    "description": "Spanyol nyelv opció a nyelvváltóban."
   }
 }

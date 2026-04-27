@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Verdenskøkken",
-      "description": "App-navn vist i headeren. En opskriftsopdagelsesapp for verdens køkkener."
-    },
-    "subtitle": {
-      "text": "Opdag opskrifter fra hele verden",
-      "description": "Slogan vist under app-navnet i headeren."
-    }
+  "header_title": {
+    "text": "Verdenskøkken",
+    "description": "App-navn vist i headeren. En opskriftsopdagelsesapp for verdens køkkener."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Udforsk globale smagsoplevelser",
-      "description": "Hovedoverskrift på startsidens hero-sektion."
-    },
-    "heroSubtitle": {
-      "text": "Gennemse autentiske opskrifter fra køkkener verden over",
-      "description": "Underoverskrift vist under hero-overskriften på startsiden."
-    },
-    "featuredTitle": {
-      "text": "Fremhævede opskrifter",
-      "description": "Sektionstitel vist over opskriftkortgitteret."
-    }
+  "header_subtitle": {
+    "text": "Opdag opskrifter fra hele verden",
+    "description": "Slogan vist under app-navnet i headeren."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Madlavningstid på et opskriftkort. {minutes} erstattes med antallet af minutter."
-    },
-    "difficulty": {
-      "text": "Sværhedsgrad",
-      "description": "Etiket vist før sværhedsgraden på et opskriftkort."
-    },
-    "easy": {
-      "text": "Let",
-      "description": "Sværhedsgradsetiket, der angiver en let opskrift."
-    },
-    "medium": {
-      "text": "Middel",
-      "description": "Sværhedsgradsetiket, der angiver en moderat svær opskrift."
-    },
-    "hard": {
-      "text": "Svær",
-      "description": "Sværhedsgradsetiket, der angiver en svær opskrift."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Navnet på Tonkotsu Ramen opskriften."
-    },
-    "ramenDescription": {
-      "text": "Rig svinekødbenbouillon med mørt chashu, blødkogt æg og friske nudler.",
-      "description": "Beskrivelse af Tonkotsu Ramen opskriften."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Navnet på Margherita Pizza opskriften."
-    },
-    "margheritaDescription": {
-      "text": "Klassisk napolitansk pizza med San Marzano tomater, frisk mozzarella og basilikum.",
-      "description": "Beskrivelse af Margherita Pizza opskriften."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Navnet på Tacos al Pastor opskriften."
-    },
-    "tacosDescription": {
-      "text": "Marinerede svine-tacos med ananas, koriander og løg på majs tortillas.",
-      "description": "Beskrivelse af Tacos al Pastor opskriften."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Navnet på Butter Chicken opskriften."
-    },
-    "butterChickenDescription": {
-      "text": "Mørt kylling i en cremet tomat- og smørsauce med aromatiske krydderier.",
-      "description": "Beskrivelse af Butter Chicken opskriften."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Navnet på Pad Thai opskriften."
-    },
-    "padThaiDescription": {
-      "text": "Stegte risnudler med rejer, tofu, jordnødder og tamarindsauce.",
-      "description": "Beskrivelse af Pad Thai opskriften."
-    },
-    "crepesName": {
-      "text": "Franske Pandekager",
-      "description": "Navnet på de franske pandekageopskrifter."
-    },
-    "crepesDescription": {
-      "text": "Tynde, delikate pandekager fyldt med Nutella, friske jordbær og flødeskum.",
-      "description": "Beskrivelse af de franske pandekageopskrifter."
-    }
+  "home_page_hero_title": {
+    "text": "Udforsk globale smagsoplevelser",
+    "description": "Hovedoverskrift på startsidens hero-sektion."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Sprog",
-      "description": "Tilgængelig etiket for sprogskifter-dropdown i headeren."
-    },
-    "en": {
-      "text": "Engelsk",
-      "description": "Engelsk sprogindstilling i sprogskifteren."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japansk sprogindstilling i sprogskifteren."
-    },
-    "es": {
-      "text": "Spansk",
-      "description": "Spansk sprogindstilling i sprogskifteren."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Gennemse autentiske opskrifter fra køkkener verden over",
+    "description": "Underoverskrift vist under hero-overskriften på startsiden."
+  },
+  "home_page_featured_title": {
+    "text": "Fremhævede opskrifter",
+    "description": "Sektionstitel vist over opskriftkortgitteret."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Madlavningstid på et opskriftkort. {minutes} erstattes med antallet af minutter."
+  },
+  "recipe_card_difficulty": {
+    "text": "Sværhedsgrad",
+    "description": "Etiket vist før sværhedsgraden på et opskriftkort."
+  },
+  "recipe_card_easy": {
+    "text": "Let",
+    "description": "Sværhedsgradsetiket, der angiver en let opskrift."
+  },
+  "recipe_card_medium": {
+    "text": "Middel",
+    "description": "Sværhedsgradsetiket, der angiver en moderat svær opskrift."
+  },
+  "recipe_card_hard": {
+    "text": "Svær",
+    "description": "Sværhedsgradsetiket, der angiver en svær opskrift."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Navnet på Tonkotsu Ramen opskriften."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Rig svinekødbenbouillon med mørt chashu, blødkogt æg og friske nudler.",
+    "description": "Beskrivelse af Tonkotsu Ramen opskriften."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Navnet på Margherita Pizza opskriften."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassisk napolitansk pizza med San Marzano tomater, frisk mozzarella og basilikum.",
+    "description": "Beskrivelse af Margherita Pizza opskriften."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Navnet på Tacos al Pastor opskriften."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinerede svine-tacos med ananas, koriander og løg på majs tortillas.",
+    "description": "Beskrivelse af Tacos al Pastor opskriften."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Navnet på Butter Chicken opskriften."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mørt kylling i en cremet tomat- og smørsauce med aromatiske krydderier.",
+    "description": "Beskrivelse af Butter Chicken opskriften."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Navnet på Pad Thai opskriften."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Stegte risnudler med rejer, tofu, jordnødder og tamarindsauce.",
+    "description": "Beskrivelse af Pad Thai opskriften."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franske Pandekager",
+    "description": "Navnet på de franske pandekageopskrifter."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Tynde, delikate pandekager fyldt med Nutella, friske jordbær og flødeskum.",
+    "description": "Beskrivelse af de franske pandekageopskrifter."
+  },
+  "locale_switcher_label": {
+    "text": "Sprog",
+    "description": "Tilgængelig etiket for sprogskifter-dropdown i headeren."
+  },
+  "locale_switcher_en": {
+    "text": "Engelsk",
+    "description": "Engelsk sprogindstilling i sprogskifteren."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japansk sprogindstilling i sprogskifteren."
+  },
+  "locale_switcher_es": {
+    "text": "Spansk",
+    "description": "Spansk sprogindstilling i sprogskifteren."
   }
 }

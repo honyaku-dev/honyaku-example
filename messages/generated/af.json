@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Wêreld Kombuis",
-      "description": "App naam wat in die kop vertoon word. 'n Resep ontdekking app vir wêreldkookkuns."
-    },
-    "subtitle": {
-      "text": "Ontdek resepte van regoor die wêreld",
-      "description": "Slogan wat onder die app naam in die kop vertoon word."
-    }
+  "header_title": {
+    "text": "Wêreld Kombuis",
+    "description": "App naam wat in die kop vertoon word. 'n Resep ontdekking app vir wêreldkookkuns."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Verken Globale Smake",
-      "description": "Hoofopskrif op die tuisblad held afdeling."
-    },
-    "heroSubtitle": {
-      "text": "Blaai deur egte resepte uit kombuise regoor die wêreld",
-      "description": "Subtitel teks wat onder die held opskrif op die tuisblad vertoon word."
-    },
-    "featuredTitle": {
-      "text": "Uitgeligte Resepte",
-      "description": "Afdelingsopskrif wat bo die resepkaart rooster vertoon word."
-    }
+  "header_subtitle": {
+    "text": "Ontdek resepte van regoor die wêreld",
+    "description": "Slogan wat onder die app naam in die kop vertoon word."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Kooktyd etiket op 'n resepkaart. {minutes} word vervang met die aantal minute."
-    },
-    "difficulty": {
-      "text": "Moeilikheid",
-      "description": "Etiket wat voor die moeilikheidsvlak op 'n resepkaart vertoon word."
-    },
-    "easy": {
-      "text": "Maklik",
-      "description": "Moeilikheidsvlak etiket wat 'n maklike resep aandui."
-    },
-    "medium": {
-      "text": "Medium",
-      "description": "Moeilikheidsvlak etiket wat 'n matig moeilike resep aandui."
-    },
-    "hard": {
-      "text": "Moeilik",
-      "description": "Moeilikheidsvlak etiket wat 'n moeilike resep aandui."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Naam van die Tonkotsu Ramen resep."
-    },
-    "ramenDescription": {
-      "text": "Ryk varkbeen aftreksel met sagte chashu, saggekookte eier, en vars noedels.",
-      "description": "Beskrywing van die Tonkotsu Ramen resep."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Naam van die Margherita Pizza resep."
-    },
-    "margheritaDescription": {
-      "text": "Klassieke Neapolitaanse pizza met San Marzano tamaties, vars mozzarella, en basiliekruid.",
-      "description": "Beskrywing van die Margherita Pizza resep."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Naam van die Tacos al Pastor resep."
-    },
-    "tacosDescription": {
-      "text": "Gemarineerde vark tacos met pynappel, koljander, en ui op mielietertjies.",
-      "description": "Beskrywing van die Tacos al Pastor resep."
-    },
-    "butterChickenName": {
-      "text": "Botter Hoender",
-      "description": "Naam van die Botter Hoender resep."
-    },
-    "butterChickenDescription": {
-      "text": "Sagte hoender in 'n romerige tamatie- en bottersous met aromatiese speserye.",
-      "description": "Beskrywing van die Botter Hoender resep."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Naam van die Pad Thai resep."
-    },
-    "padThaiDescription": {
-      "text": "Roergebraaide rysnoedels met garnale, tofu, grondbone, en tamarindsous.",
-      "description": "Beskrywing van die Pad Thai resep."
-    },
-    "crepesName": {
-      "text": "Franse Pannekoekies",
-      "description": "Naam van die Franse Pannekoekies resep."
-    },
-    "crepesDescription": {
-      "text": "Dun, delikate pannekoekies gevul met Nutella, vars aarbeie, en geklopte room.",
-      "description": "Beskrywing van die Franse Pannekoekies resep."
-    }
+  "home_page_hero_title": {
+    "text": "Verken Globale Smake",
+    "description": "Hoofopskrif op die tuisblad held afdeling."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Taal",
-      "description": "Toeganklike etiket vir die taalskakelaar keuselys in die kop."
-    },
-    "en": {
-      "text": "Engels",
-      "description": "Engelse taal opsie in die taalskakelaar."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanse taal opsie in die taalskakelaar."
-    },
-    "es": {
-      "text": "Spaans",
-      "description": "Spaanse taal opsie in die taalskakelaar."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Blaai deur egte resepte uit kombuise regoor die wêreld",
+    "description": "Subtitel teks wat onder die held opskrif op die tuisblad vertoon word."
+  },
+  "home_page_featured_title": {
+    "text": "Uitgeligte Resepte",
+    "description": "Afdelingsopskrif wat bo die resepkaart rooster vertoon word."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Kooktyd etiket op 'n resepkaart. {minutes} word vervang met die aantal minute."
+  },
+  "recipe_card_difficulty": {
+    "text": "Moeilikheid",
+    "description": "Etiket wat voor die moeilikheidsvlak op 'n resepkaart vertoon word."
+  },
+  "recipe_card_easy": {
+    "text": "Maklik",
+    "description": "Moeilikheidsvlak etiket wat 'n maklike resep aandui."
+  },
+  "recipe_card_medium": {
+    "text": "Medium",
+    "description": "Moeilikheidsvlak etiket wat 'n matig moeilike resep aandui."
+  },
+  "recipe_card_hard": {
+    "text": "Moeilik",
+    "description": "Moeilikheidsvlak etiket wat 'n moeilike resep aandui."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Naam van die Tonkotsu Ramen resep."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ryk varkbeen aftreksel met sagte chashu, saggekookte eier, en vars noedels.",
+    "description": "Beskrywing van die Tonkotsu Ramen resep."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Naam van die Margherita Pizza resep."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klassieke Neapolitaanse pizza met San Marzano tamaties, vars mozzarella, en basiliekruid.",
+    "description": "Beskrywing van die Margherita Pizza resep."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Naam van die Tacos al Pastor resep."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Gemarineerde vark tacos met pynappel, koljander, en ui op mielietertjies.",
+    "description": "Beskrywing van die Tacos al Pastor resep."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Botter Hoender",
+    "description": "Naam van die Botter Hoender resep."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Sagte hoender in 'n romerige tamatie- en bottersous met aromatiese speserye.",
+    "description": "Beskrywing van die Botter Hoender resep."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Naam van die Pad Thai resep."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Roergebraaide rysnoedels met garnale, tofu, grondbone, en tamarindsous.",
+    "description": "Beskrywing van die Pad Thai resep."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Franse Pannekoekies",
+    "description": "Naam van die Franse Pannekoekies resep."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Dun, delikate pannekoekies gevul met Nutella, vars aarbeie, en geklopte room.",
+    "description": "Beskrywing van die Franse Pannekoekies resep."
+  },
+  "locale_switcher_label": {
+    "text": "Taal",
+    "description": "Toeganklike etiket vir die taalskakelaar keuselys in die kop."
+  },
+  "locale_switcher_en": {
+    "text": "Engels",
+    "description": "Engelse taal opsie in die taalskakelaar."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanse taal opsie in die taalskakelaar."
+  },
+  "locale_switcher_es": {
+    "text": "Spaans",
+    "description": "Spaanse taal opsie in die taalskakelaar."
   }
 }

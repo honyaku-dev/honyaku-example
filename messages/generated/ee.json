@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Dunia Ŋkɔdzinɔ",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Tse ŋkɔdzinɔwo le dzudzɔ la me le dunia gome",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Dunia Ŋkɔdzinɔ",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Tso ŋkɔdzinɔ ƒe ŋutsuwo ŋu",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Tso dzudzɔwo aɖe le ŋkɔdzinɔƒe dzideƒe me le dunia gome",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Dzudzɔ ƒe ŋkɔdzinɔwo",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Tse ŋkɔdzinɔwo le dzudzɔ la me le dunia gome",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Nukunu",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Fle",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "ɖeƒe",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Dɔwɔ",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
-    },
-    "ramenDescription": {
-      "text": "Tɔƒe pork bone broth kple chashu si wòle ɖoɖo, nu ɖoɖo egg, kple noodles si wòle dzo.",
-      "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
-    },
-    "margheritaName": {
-      "text": "Margherita Pizza",
-      "description": "Dzudzɔla si le Margherita Pizza recipe me."
-    },
-    "margheritaDescription": {
-      "text": "Classic Neapolitan pizza kple San Marzano tomatoes, fresh mozzarella, kple basil.",
-      "description": "Dzudzɔla si le Margherita Pizza recipe me."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Dzudzɔla si le Tacos al Pastor recipe me."
-    },
-    "tacosDescription": {
-      "text": "Marinated pork tacos kple pineapple, cilantro, kple onion le corn tortillas me.",
-      "description": "Dzudzɔla si le Tacos al Pastor recipe me."
-    },
-    "butterChickenName": {
-      "text": "Butter Chicken",
-      "description": "Dzudzɔla si le Butter Chicken recipe me."
-    },
-    "butterChickenDescription": {
-      "text": "Tender chicken le creamy tomato kple butter sauce kple aromatic spices.",
-      "description": "Dzudzɔla si le Butter Chicken recipe me."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Dzudzɔla si le Pad Thai recipe me."
-    },
-    "padThaiDescription": {
-      "text": "Stir-fried rice noodles kple shrimp, tofu, peanuts, kple tamarind sauce.",
-      "description": "Dzudzɔla si le Pad Thai recipe me."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Dzudzɔla si le French Crepes recipe me."
-    },
-    "crepesDescription": {
-      "text": "Thin, delicate crepes si wòle Nutella, fresh strawberries, kple whipped cream.",
-      "description": "Dzudzɔla si le French Crepes recipe me."
-    }
+  "home_page_hero_title": {
+    "text": "Tso ŋkɔdzinɔ ƒe ŋutsuwo ŋu",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Gbegblɔ",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "English",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Tso dzudzɔwo aɖe le ŋkɔdzinɔƒe dzideƒe me le dunia gome",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Dzudzɔ ƒe ŋkɔdzinɔwo",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Nukunu",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Fle",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "ɖeƒe",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Dɔwɔ",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Tɔƒe pork bone broth kple chashu si wòle ɖoɖo, nu ɖoɖo egg, kple noodles si wòle dzo.",
+    "description": "Dzudzɔla si le Tonkotsu Ramen recipe me."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pizza",
+    "description": "Dzudzɔla si le Margherita Pizza recipe me."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Classic Neapolitan pizza kple San Marzano tomatoes, fresh mozzarella, kple basil.",
+    "description": "Dzudzɔla si le Margherita Pizza recipe me."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Dzudzɔla si le Tacos al Pastor recipe me."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinated pork tacos kple pineapple, cilantro, kple onion le corn tortillas me.",
+    "description": "Dzudzɔla si le Tacos al Pastor recipe me."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butter Chicken",
+    "description": "Dzudzɔla si le Butter Chicken recipe me."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Tender chicken le creamy tomato kple butter sauce kple aromatic spices.",
+    "description": "Dzudzɔla si le Butter Chicken recipe me."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Dzudzɔla si le Pad Thai recipe me."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Stir-fried rice noodles kple shrimp, tofu, peanuts, kple tamarind sauce.",
+    "description": "Dzudzɔla si le Pad Thai recipe me."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Dzudzɔla si le French Crepes recipe me."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Thin, delicate crepes si wòle Nutella, fresh strawberries, kple whipped cream.",
+    "description": "Dzudzɔla si le French Crepes recipe me."
+  },
+  "locale_switcher_label": {
+    "text": "Gbegblɔ",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Spanish language option in the locale switcher."
   }
 }

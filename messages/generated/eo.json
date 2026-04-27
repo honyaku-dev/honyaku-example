@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Monda Kuirejo",
-      "description": "App nomo montrita en la kaplinio. Recepta malkovra app por mondaj kuirejoj."
-    },
-    "subtitle": {
-      "text": "Malkovru receptojn el la tuta mondo",
-      "description": "Slogano montrata sub la app-nomo en la kaplinio."
-    }
+  "header_title": {
+    "text": "Monda Kuirejo",
+    "description": "App nomo montrita en la kaplinio. Recepta malkovra app por mondaj kuirejoj."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Esploru Tutmondajn Gustojn",
-      "description": "Ĉefa titolo en la ĉefa sekcio de la hejmpaĝo."
-    },
-    "heroSubtitle": {
-      "text": "Foliumu aŭtentikajn receptojn el kuirejoj tra la mondo",
-      "description": "Subtitola teksto montrata sub la ĉefa titolo en la hejmpaĝo."
-    },
-    "featuredTitle": {
-      "text": "Elstaraj Receptoj",
-      "description": "Sekcia titolo montrata super la grido de receptokartoj."
-    }
+  "header_subtitle": {
+    "text": "Malkovru receptojn el la tuta mondo",
+    "description": "Slogano montrata sub la app-nomo en la kaplinio."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Labelo por kuirtempa sur receptokarto. {minutes} estas anstataŭigita per la nombro da minutoj."
-    },
-    "difficulty": {
-      "text": "Malfacileco",
-      "description": "Labelo montrata antaŭ la nivelo de malfacileco sur receptokarto."
-    },
-    "easy": {
-      "text": "Facila",
-      "description": "Labelo por malfacileca nivelo indikanta facilan recepton."
-    },
-    "medium": {
-      "text": "Meza",
-      "description": "Labelo por malfacileca nivelo indikanta mezume malfacilan recepton."
-    },
-    "hard": {
-      "text": "Malfacila",
-      "description": "Labelo por malfacileca nivelo indikanta malfacilan recepton."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nomo de la recepto Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Riĉa porkosta osto-buljono kun mola chashu, milda boligita ovo, kaj freŝaj nudeloj.",
-      "description": "Priskribo de la recepto Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Margherita Pico",
-      "description": "Nomo de la recepto Margherita Pico."
-    },
-    "margheritaDescription": {
-      "text": "Klasika Neapola pico kun San Marzano tomatoj, freŝa mozzarelo, kaj bazilio.",
-      "description": "Priskribo de la recepto Margherita Pico."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nomo de la recepto Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Marinita porka tacos kun ananaso, koriandro, kaj cepo sur maizaj tortiloj.",
-      "description": "Priskribo de la recepto Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Butera Koko",
-      "description": "Nomo de la recepto Butera Koko."
-    },
-    "butterChickenDescription": {
-      "text": "Mola koko en kremeca tomato- kaj butersaŭco kun aromaj spicoj.",
-      "description": "Priskribo de la recepto Butera Koko."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nomo de la recepto Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Frititaj riza nudeloj kun ŝrimpeto, tofuo, pekanoj, kaj tamarinda saŭco.",
-      "description": "Priskribo de la recepto Pad Thai."
-    },
-    "crepesName": {
-      "text": "Francaj Krepes",
-      "description": "Nomo de la recepto Francaj Krepes."
-    },
-    "crepesDescription": {
-      "text": "Maldikaj, delikataj krepes plenigitaj per Nutella, freŝaj fragoj, kaj batis kremon.",
-      "description": "Priskribo de la recepto Francaj Krepes."
-    }
+  "home_page_hero_title": {
+    "text": "Esploru Tutmondajn Gustojn",
+    "description": "Ĉefa titolo en la ĉefa sekcio de la hejmpaĝo."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingvo",
-      "description": "Alirebla labelo por la lingva ŝanĝilo en la kaplinio."
-    },
-    "en": {
-      "text": "Angla",
-      "description": "Angla lingvo-opcio en la lingva ŝanĝilo."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japana lingvo-opcio en la lingva ŝanĝilo."
-    },
-    "es": {
-      "text": "Hispana",
-      "description": "Hispana lingvo-opcio en la lingva ŝanĝilo."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Foliumu aŭtentikajn receptojn el kuirejoj tra la mondo",
+    "description": "Subtitola teksto montrata sub la ĉefa titolo en la hejmpaĝo."
+  },
+  "home_page_featured_title": {
+    "text": "Elstaraj Receptoj",
+    "description": "Sekcia titolo montrata super la grido de receptokartoj."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Labelo por kuirtempa sur receptokarto. {minutes} estas anstataŭigita per la nombro da minutoj."
+  },
+  "recipe_card_difficulty": {
+    "text": "Malfacileco",
+    "description": "Labelo montrata antaŭ la nivelo de malfacileco sur receptokarto."
+  },
+  "recipe_card_easy": {
+    "text": "Facila",
+    "description": "Labelo por malfacileca nivelo indikanta facilan recepton."
+  },
+  "recipe_card_medium": {
+    "text": "Meza",
+    "description": "Labelo por malfacileca nivelo indikanta mezume malfacilan recepton."
+  },
+  "recipe_card_hard": {
+    "text": "Malfacila",
+    "description": "Labelo por malfacileca nivelo indikanta malfacilan recepton."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nomo de la recepto Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Riĉa porkosta osto-buljono kun mola chashu, milda boligita ovo, kaj freŝaj nudeloj.",
+    "description": "Priskribo de la recepto Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Margherita Pico",
+    "description": "Nomo de la recepto Margherita Pico."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Klasika Neapola pico kun San Marzano tomatoj, freŝa mozzarelo, kaj bazilio.",
+    "description": "Priskribo de la recepto Margherita Pico."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nomo de la recepto Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Marinita porka tacos kun ananaso, koriandro, kaj cepo sur maizaj tortiloj.",
+    "description": "Priskribo de la recepto Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Butera Koko",
+    "description": "Nomo de la recepto Butera Koko."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Mola koko en kremeca tomato- kaj butersaŭco kun aromaj spicoj.",
+    "description": "Priskribo de la recepto Butera Koko."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nomo de la recepto Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Frititaj riza nudeloj kun ŝrimpeto, tofuo, pekanoj, kaj tamarinda saŭco.",
+    "description": "Priskribo de la recepto Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Francaj Krepes",
+    "description": "Nomo de la recepto Francaj Krepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Maldikaj, delikataj krepes plenigitaj per Nutella, freŝaj fragoj, kaj batis kremon.",
+    "description": "Priskribo de la recepto Francaj Krepes."
+  },
+  "locale_switcher_label": {
+    "text": "Lingvo",
+    "description": "Alirebla labelo por la lingva ŝanĝilo en la kaplinio."
+  },
+  "locale_switcher_en": {
+    "text": "Angla",
+    "description": "Angla lingvo-opcio en la lingva ŝanĝilo."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japana lingvo-opcio en la lingva ŝanĝilo."
+  },
+  "locale_switcher_es": {
+    "text": "Hispana",
+    "description": "Hispana lingvo-opcio en la lingva ŝanĝilo."
   }
 }

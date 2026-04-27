@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cuisine del Mundo",
-      "description": "Nomine del app monstrate in le capite. Un app de descoperimento de recetas pro cuisines mundial."
-    },
-    "subtitle": {
-      "text": "Descoperi recetas ab tote le mundo",
-      "description": "Slogan monstrate sub le nomine del app in le capite."
-    }
+  "header_title": {
+    "text": "Cuisine del Mundo",
+    "description": "Nomine del app monstrate in le capite. Un app de descoperimento de recetas pro cuisines mundial."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explora Sapores Global",
-      "description": "Titolo principal in le section hero del pagina principal."
-    },
-    "heroSubtitle": {
-      "text": "Naviga recetas authentic ab cuisines per tote le mundo",
-      "description": "Texto subtitle monstrate sub le titulo hero in le pagina principal."
-    },
-    "featuredTitle": {
-      "text": "Recetas Recomendate",
-      "description": "Titolo del section monstrate super le grilla de cartos de recetas."
-    }
+  "header_subtitle": {
+    "text": "Descoperi recetas ab tote le mundo",
+    "description": "Slogan monstrate sub le nomine del app in le capite."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etiqueta de tempore de cuisson in un carto de receta. {minutes} es remplace con le numero de minutos."
-    },
-    "difficulty": {
-      "text": "Difficultate",
-      "description": "Etiqueta monstrate ante le nivello de difficultate in un carto de receta."
-    },
-    "easy": {
-      "text": "Facile",
-      "description": "Etiqueta de nivello de difficultate que indica un receta facile."
-    },
-    "medium": {
-      "text": "Medie",
-      "description": "Etiqueta de nivello de difficultate que indica un receta moderatemente difficile."
-    },
-    "hard": {
-      "text": "Difficile",
-      "description": "Etiqueta de nivello de difficultate que indica un receta difficile."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nomine del receta Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Ric brodo de ossos de porco con chashu tener, ovo cocite a basse fervura, e noodles fresce.",
-      "description": "Description del receta Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nomine del receta Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilico.",
-      "description": "Description del receta Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nomine del receta Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porco marinate con ananas, coriandro, e cepa super tortillas de maiz.",
-      "description": "Description del receta Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pollo al Burro",
-      "description": "Nomine del receta Pollo al Burro."
-    },
-    "butterChickenDescription": {
-      "text": "Pollo tener in un salsa cremose de tomate e burro con species aromatic.",
-      "description": "Description del receta Pollo al Burro."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nomine del receta Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Noodles de rice sauté con gambas, tofu, arachides, e salsa de tamarindo.",
-      "description": "Description del receta Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crespellas Francese",
-      "description": "Nomine del receta Crespellas Francese."
-    },
-    "crepesDescription": {
-      "text": "Crespellas delicat e finemente plenas con Nutella, frutillas fresce, e crema montate.",
-      "description": "Description del receta Crespellas Francese."
-    }
+  "home_page_hero_title": {
+    "text": "Explora Sapores Global",
+    "description": "Titolo principal in le section hero del pagina principal."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Lingua",
-      "description": "Etiqueta accessible pro le menu a disceder del lingua in le capite."
-    },
-    "en": {
-      "text": "Anglese",
-      "description": "Optione de lingua anglese in le selector de lingua."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Optione de lingua japoneze in le selector de lingua."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Optione de lingua espagnole in le selector de lingua."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Naviga recetas authentic ab cuisines per tote le mundo",
+    "description": "Texto subtitle monstrate sub le titulo hero in le pagina principal."
+  },
+  "home_page_featured_title": {
+    "text": "Recetas Recomendate",
+    "description": "Titolo del section monstrate super le grilla de cartos de recetas."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etiqueta de tempore de cuisson in un carto de receta. {minutes} es remplace con le numero de minutos."
+  },
+  "recipe_card_difficulty": {
+    "text": "Difficultate",
+    "description": "Etiqueta monstrate ante le nivello de difficultate in un carto de receta."
+  },
+  "recipe_card_easy": {
+    "text": "Facile",
+    "description": "Etiqueta de nivello de difficultate que indica un receta facile."
+  },
+  "recipe_card_medium": {
+    "text": "Medie",
+    "description": "Etiqueta de nivello de difficultate que indica un receta moderatemente difficile."
+  },
+  "recipe_card_hard": {
+    "text": "Difficile",
+    "description": "Etiqueta de nivello de difficultate que indica un receta difficile."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nomine del receta Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Ric brodo de ossos de porco con chashu tener, ovo cocite a basse fervura, e noodles fresce.",
+    "description": "Description del receta Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nomine del receta Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza classic Neapolitan con tomates San Marzano, mozzarella fresc, e basilico.",
+    "description": "Description del receta Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nomine del receta Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porco marinate con ananas, coriandro, e cepa super tortillas de maiz.",
+    "description": "Description del receta Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pollo al Burro",
+    "description": "Nomine del receta Pollo al Burro."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pollo tener in un salsa cremose de tomate e burro con species aromatic.",
+    "description": "Description del receta Pollo al Burro."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nomine del receta Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Noodles de rice sauté con gambas, tofu, arachides, e salsa de tamarindo.",
+    "description": "Description del receta Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crespellas Francese",
+    "description": "Nomine del receta Crespellas Francese."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crespellas delicat e finemente plenas con Nutella, frutillas fresce, e crema montate.",
+    "description": "Description del receta Crespellas Francese."
+  },
+  "locale_switcher_label": {
+    "text": "Lingua",
+    "description": "Etiqueta accessible pro le menu a disceder del lingua in le capite."
+  },
+  "locale_switcher_en": {
+    "text": "Anglese",
+    "description": "Optione de lingua anglese in le selector de lingua."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Optione de lingua japoneze in le selector de lingua."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Optione de lingua espagnole in le selector de lingua."
   }
 }

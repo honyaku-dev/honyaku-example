@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Oshikuku shOmadhano",
-      "description": "Oshityo shOmadhano shokumwenyo mOmusheno. Eapp yo ndjoka yomadhano gOmadhano gOmadhano gOshilongo."
-    },
-    "subtitle": {
-      "text": "Loka omadhano goholoka mumadhano goholoka",
-      "description": "Oshityo shOhambo shokumwenyo po oshowo shOmadhano shilongo."
-    }
+  "header_title": {
+    "text": "Oshikuku shOmadhano",
+    "description": "Oshityo shOmadhano shokumwenyo mOmusheno. Eapp yo ndjoka yomadhano gOmadhano gOmadhano gOshilongo."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Loka Omadhano gOmondjila",
-      "description": "Oshityo shOmadhano shOshoka mOmusheno gOhome page."
-    },
-    "heroSubtitle": {
-      "text": "Loka omadhano goholoka gOshikuku shOmadhano gOmadhano",
-      "description": "Oshityo shOhambo shOshoka mOmusheno gOhome page po oshowo shOmadhano."
-    },
-    "featuredTitle": {
-      "text": "Omadhano GOkukwatha",
-      "description": "Oshityo shOmadhano shOshowo kOmadhano gOshilongo."
-    }
+  "header_subtitle": {
+    "text": "Loka omadhano goholoka mumadhano goholoka",
+    "description": "Oshityo shOhambo shokumwenyo po oshowo shOmadhano shilongo."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Oshityo shOhambo shokupika mEpi gOmadhano gOshilongo. {minutes} oya shoka okwa li mEpi."
-    },
-    "difficulty": {
-      "text": "Oshilongo",
-      "description": "Oshityo shOhambo shOshowo po oshowo oshilongo shOmadhano gOshilongo."
-    },
-    "easy": {
-      "text": "Okuya",
-      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmuya."
-    },
-    "medium": {
-      "text": "Ombi",
-      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmbi."
-    },
-    "hard": {
-      "text": "Okutumba",
-      "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOkutumba."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Oshindjila shOmakwawo shO Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Omukalo gwOmadhano gOmapuku gOshilongo gOshilongo na chashu yomahumbata, ombinga yOmapeto, na ongele yOmadhano gOmwene.",
-      "description": "Okutaholoka kOmakwawo gO Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza ya Margherita",
-      "description": "Oshindjila shOmakwawo shO Pizza ya Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza ya Neapolitan e ta li na San Marzano tomatoes, mozzarella yOmwene, na basil.",
-      "description": "Okutaholoka kOmakwawo gO Pizza ya Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Oshindjila shOmakwawo shO Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos dzOmapuku dzOshilongo dzO shoka na pineapple, cilantro, na onion pa corn tortillas.",
-      "description": "Okutaholoka kOmakwawo gO Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Omadhano gOshipandelo shOmapuku",
-      "description": "Oshindjila shOmakwawo shOmapuku gOshipandelo."
-    },
-    "butterChickenDescription": {
-      "text": "Omadhano gOmapuku gOshilongo gOli na sauce ya tomato na butter gOli na omakandjo gO makandjo.",
-      "description": "Okutaholoka kOmakwawo gOmapuku gOshipandelo."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Oshindjila shOmakwawo shO Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Ongele yOmadhano gOshilongo gOli na shrimp, tofu, peanuts, na sauce ya tamarind.",
-      "description": "Okutaholoka kOmakwawo gO Pad Thai."
-    },
-    "crepesName": {
-      "text": "French Crepes",
-      "description": "Oshindjila shOmakwawo shO French Crepes."
-    },
-    "crepesDescription": {
-      "text": "Crepes dzOshilongo, dzOli na Nutella, strawberries yOmwene, na whipped cream.",
-      "description": "Okutaholoka kOmakwawo gO French Crepes."
-    }
+  "home_page_hero_title": {
+    "text": "Loka Omadhano gOmondjila",
+    "description": "Oshityo shOmadhano shOshoka mOmusheno gOhome page."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Oshindonga",
-      "description": "Oshityo shOhambo shOshowo oshindonga shOshoka mOmusheno gOheader."
-    },
-    "en": {
-      "text": "English",
-      "description": "Oshindonga shOEnglish mOmusheno gOshindonga."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Oshindonga shOJapanese mOmusheno gOshindonga."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Oshindonga shOSpanish mOmusheno gOshindonga."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Loka omadhano goholoka gOshikuku shOmadhano gOmadhano",
+    "description": "Oshityo shOhambo shOshoka mOmusheno gOhome page po oshowo shOmadhano."
+  },
+  "home_page_featured_title": {
+    "text": "Omadhano GOkukwatha",
+    "description": "Oshityo shOmadhano shOshowo kOmadhano gOshilongo."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Oshityo shOhambo shokupika mEpi gOmadhano gOshilongo. {minutes} oya shoka okwa li mEpi."
+  },
+  "recipe_card_difficulty": {
+    "text": "Oshilongo",
+    "description": "Oshityo shOhambo shOshowo po oshowo oshilongo shOmadhano gOshilongo."
+  },
+  "recipe_card_easy": {
+    "text": "Okuya",
+    "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmuya."
+  },
+  "recipe_card_medium": {
+    "text": "Ombi",
+    "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOmbi."
+  },
+  "recipe_card_hard": {
+    "text": "Okutumba",
+    "description": "Oshityo shOhambo shOshowo oshilongo sho ndjoka yOkutumba."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Oshindjila shOmakwawo shO Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Omukalo gwOmadhano gOmapuku gOshilongo gOshilongo na chashu yomahumbata, ombinga yOmapeto, na ongele yOmadhano gOmwene.",
+    "description": "Okutaholoka kOmakwawo gO Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza ya Margherita",
+    "description": "Oshindjila shOmakwawo shO Pizza ya Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza ya Neapolitan e ta li na San Marzano tomatoes, mozzarella yOmwene, na basil.",
+    "description": "Okutaholoka kOmakwawo gO Pizza ya Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Oshindjila shOmakwawo shO Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos dzOmapuku dzOshilongo dzO shoka na pineapple, cilantro, na onion pa corn tortillas.",
+    "description": "Okutaholoka kOmakwawo gO Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Omadhano gOshipandelo shOmapuku",
+    "description": "Oshindjila shOmakwawo shOmapuku gOshipandelo."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Omadhano gOmapuku gOshilongo gOli na sauce ya tomato na butter gOli na omakandjo gO makandjo.",
+    "description": "Okutaholoka kOmakwawo gOmapuku gOshipandelo."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Oshindjila shOmakwawo shO Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ongele yOmadhano gOshilongo gOli na shrimp, tofu, peanuts, na sauce ya tamarind.",
+    "description": "Okutaholoka kOmakwawo gO Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "French Crepes",
+    "description": "Oshindjila shOmakwawo shO French Crepes."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes dzOshilongo, dzOli na Nutella, strawberries yOmwene, na whipped cream.",
+    "description": "Okutaholoka kOmakwawo gO French Crepes."
+  },
+  "locale_switcher_label": {
+    "text": "Oshindonga",
+    "description": "Oshityo shOhambo shOshowo oshindonga shOshoka mOmusheno gOheader."
+  },
+  "locale_switcher_en": {
+    "text": "English",
+    "description": "Oshindonga shOEnglish mOmusheno gOshindonga."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Oshindonga shOJapanese mOmusheno gOshindonga."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Oshindonga shOSpanish mOmusheno gOshindonga."
   }
 }

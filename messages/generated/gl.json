@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Cociña Mundial",
-      "description": "Nome da aplicación mostrado no cabeceiro. Unha aplicación para descubrir receitas de cociñas do mundo."
-    },
-    "subtitle": {
-      "text": "Descubre receitas de todo o mundo",
-      "description": "Lema mostrado debaixo do nome da aplicación no cabeceiro."
-    }
+  "header_title": {
+    "text": "Cociña Mundial",
+    "description": "Nome da aplicación mostrado no cabeceiro. Unha aplicación para descubrir receitas de cociñas do mundo."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Explora Sabores Globais",
-      "description": "Título principal na sección hero da páxina principal."
-    },
-    "heroSubtitle": {
-      "text": "Navega por receitas auténticas de cociñas de todo o mundo",
-      "description": "Texto do subtítulo mostrado debaixo do título hero na páxina principal."
-    },
-    "featuredTitle": {
-      "text": "Receitas Destacadas",
-      "description": "Título da sección mostrado por riba da grella de tarxetas de receitas."
-    }
+  "header_subtitle": {
+    "text": "Descubre receitas de todo o mundo",
+    "description": "Lema mostrado debaixo do nome da aplicación no cabeceiro."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} min",
-      "description": "Etiqueta do tempo de cociñado nunha tarxeta de receita. {minutes} é substituído polo número de minutos."
-    },
-    "difficulty": {
-      "text": "Dificultade",
-      "description": "Etiqueta mostrada antes do nivel de dificultade nunha tarxeta de receita."
-    },
-    "easy": {
-      "text": "Fácil",
-      "description": "Etiqueta do nivel de dificultade indicando que a receita é fácil."
-    },
-    "medium": {
-      "text": "Medio",
-      "description": "Etiqueta do nivel de dificultade indicando que a receita é moderadamente difícil."
-    },
-    "hard": {
-      "text": "Difícil",
-      "description": "Etiqueta do nivel de dificultade indicando que a receita é difícil."
-    },
-    "ramenName": {
-      "text": "Tonkotsu Ramen",
-      "description": "Nome da receita Tonkotsu Ramen."
-    },
-    "ramenDescription": {
-      "text": "Caldo rico de ósos de porco con chashu tenro, ovo cocido brandamente e fideos frescos.",
-      "description": "Descrición da receita Tonkotsu Ramen."
-    },
-    "margheritaName": {
-      "text": "Pizza Margherita",
-      "description": "Nome da receita Pizza Margherita."
-    },
-    "margheritaDescription": {
-      "text": "Pizza clásica napolitana con tomates San Marzano, mozzarella fresca e albahaca.",
-      "description": "Descrición da receita Pizza Margherita."
-    },
-    "tacosName": {
-      "text": "Tacos al Pastor",
-      "description": "Nome da receita Tacos al Pastor."
-    },
-    "tacosDescription": {
-      "text": "Tacos de porco marinados con piña, cilantro e cebola en tortillas de millo.",
-      "description": "Descrición da receita Tacos al Pastor."
-    },
-    "butterChickenName": {
-      "text": "Pollo con Manteiga",
-      "description": "Nome da receita Pollo con Manteiga."
-    },
-    "butterChickenDescription": {
-      "text": "Pollo tenro nunha salsa cremosa de tomate e manteiga con especias aromáticas.",
-      "description": "Descrición da receita Pollo con Manteiga."
-    },
-    "padThaiName": {
-      "text": "Pad Thai",
-      "description": "Nome da receita Pad Thai."
-    },
-    "padThaiDescription": {
-      "text": "Fideos de arroz fritidos con gambas, tofu, cacahuetes e salsa de tamarindo.",
-      "description": "Descrición da receita Pad Thai."
-    },
-    "crepesName": {
-      "text": "Crepes Franceses",
-      "description": "Nome da receita Crepes Franceses."
-    },
-    "crepesDescription": {
-      "text": "Crepes finos e delicados recheos con Nutella, amorodos frescos e crema batida.",
-      "description": "Descrición da receita Crepes Franceses."
-    }
+  "home_page_hero_title": {
+    "text": "Explora Sabores Globais",
+    "description": "Título principal na sección hero da páxina principal."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Idioma",
-      "description": "Etiqueta accesible para o despregable de cambio de idioma no cabeceiro."
-    },
-    "en": {
-      "text": "Inglés",
-      "description": "Opción do idioma inglés no cambiador de localidade."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Opción do idioma xaponés no cambiador de localidade."
-    },
-    "es": {
-      "text": "Español",
-      "description": "Opción do idioma español no cambiador de localidade."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Navega por receitas auténticas de cociñas de todo o mundo",
+    "description": "Texto do subtítulo mostrado debaixo do título hero na páxina principal."
+  },
+  "home_page_featured_title": {
+    "text": "Receitas Destacadas",
+    "description": "Título da sección mostrado por riba da grella de tarxetas de receitas."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} min",
+    "description": "Etiqueta do tempo de cociñado nunha tarxeta de receita. {minutes} é substituído polo número de minutos."
+  },
+  "recipe_card_difficulty": {
+    "text": "Dificultade",
+    "description": "Etiqueta mostrada antes do nivel de dificultade nunha tarxeta de receita."
+  },
+  "recipe_card_easy": {
+    "text": "Fácil",
+    "description": "Etiqueta do nivel de dificultade indicando que a receita é fácil."
+  },
+  "recipe_card_medium": {
+    "text": "Medio",
+    "description": "Etiqueta do nivel de dificultade indicando que a receita é moderadamente difícil."
+  },
+  "recipe_card_hard": {
+    "text": "Difícil",
+    "description": "Etiqueta do nivel de dificultade indicando que a receita é difícil."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Tonkotsu Ramen",
+    "description": "Nome da receita Tonkotsu Ramen."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Caldo rico de ósos de porco con chashu tenro, ovo cocido brandamente e fideos frescos.",
+    "description": "Descrición da receita Tonkotsu Ramen."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Pizza Margherita",
+    "description": "Nome da receita Pizza Margherita."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Pizza clásica napolitana con tomates San Marzano, mozzarella fresca e albahaca.",
+    "description": "Descrición da receita Pizza Margherita."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Tacos al Pastor",
+    "description": "Nome da receita Tacos al Pastor."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Tacos de porco marinados con piña, cilantro e cebola en tortillas de millo.",
+    "description": "Descrición da receita Tacos al Pastor."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Pollo con Manteiga",
+    "description": "Nome da receita Pollo con Manteiga."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Pollo tenro nunha salsa cremosa de tomate e manteiga con especias aromáticas.",
+    "description": "Descrición da receita Pollo con Manteiga."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Pad Thai",
+    "description": "Nome da receita Pad Thai."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Fideos de arroz fritidos con gambas, tofu, cacahuetes e salsa de tamarindo.",
+    "description": "Descrición da receita Pad Thai."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Crepes Franceses",
+    "description": "Nome da receita Crepes Franceses."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Crepes finos e delicados recheos con Nutella, amorodos frescos e crema batida.",
+    "description": "Descrición da receita Crepes Franceses."
+  },
+  "locale_switcher_label": {
+    "text": "Idioma",
+    "description": "Etiqueta accesible para o despregable de cambio de idioma no cabeceiro."
+  },
+  "locale_switcher_en": {
+    "text": "Inglés",
+    "description": "Opción do idioma inglés no cambiador de localidade."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Opción do idioma xaponés no cambiador de localidade."
+  },
+  "locale_switcher_es": {
+    "text": "Español",
+    "description": "Opción do idioma español no cambiador de localidade."
   }
 }

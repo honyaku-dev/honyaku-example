@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Աշխարհի խոհանոց",
-      "description": "App name shown in the header. A recipe discovery app for world cuisines."
-    },
-    "subtitle": {
-      "text": "Բացահայտեք բաղադրատոմսեր ամբողջ աշխարհից",
-      "description": "Tagline shown below the app name in the header."
-    }
+  "header_title": {
+    "text": "Աշխարհի խոհանոց",
+    "description": "App name shown in the header. A recipe discovery app for world cuisines."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "Հետազոտեք համաշխարհային համերը",
-      "description": "Main heading on the home page hero section."
-    },
-    "heroSubtitle": {
-      "text": "Թերթեք իսկական բաղադրատոմսեր աշխարհի խոհանոցներից",
-      "description": "Subtitle text displayed under the hero heading on the home page."
-    },
-    "featuredTitle": {
-      "text": "Հատուկ բաղադրատոմսեր",
-      "description": "Section heading displayed above the recipe card grid."
-    }
+  "header_subtitle": {
+    "text": "Բացահայտեք բաղադրատոմսեր ամբողջ աշխարհից",
+    "description": "Tagline shown below the app name in the header."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} րոպե",
-      "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
-    },
-    "difficulty": {
-      "text": "Բարդություն",
-      "description": "Label displayed before the difficulty level on a recipe card."
-    },
-    "easy": {
-      "text": "Հեշտ",
-      "description": "Difficulty level label indicating an easy recipe."
-    },
-    "medium": {
-      "text": "Միջին",
-      "description": "Difficulty level label indicating a moderately difficult recipe."
-    },
-    "hard": {
-      "text": "Դժվար",
-      "description": "Difficulty level label indicating a difficult recipe."
-    },
-    "ramenName": {
-      "text": "Տոնկոցու Ռամեն",
-      "description": "Տոնկոցու Ռամեն բաղադրատոմսի անունը։"
-    },
-    "ramenDescription": {
-      "text": "Հարստացված խոզի ոսկրերի թաշկինակ մեղմ չաշուով, փափուկ եփած ձվով և թարմ նուդլերով։",
-      "description": "Տոնկոցու Ռամեն բաղադրատոմսի նկարագրություն։"
-    },
-    "margheritaName": {
-      "text": "Մարղարիտա Պիցցա",
-      "description": "Մարղարիտա Պիցցա բաղադրատոմսի անունը։"
-    },
-    "margheritaDescription": {
-      "text": "Դասական նեապոլիտանական պիցցա Սան Մարսանո լոլիկներով, թարմ մոցարելլայով և բազիլիկով։",
-      "description": "Մարղարիտա Պիցցա բաղադրատոմսի նկարագրություն։"
-    },
-    "tacosName": {
-      "text": "Տակոս ալ Պաստոր",
-      "description": "Տակոս ալ Պաստոր բաղադրատոմսի անունը։"
-    },
-    "tacosDescription": {
-      "text": "Մարինացված խոզի տակոսներ անանասով, սուսամբարով և սոխով՝ հացահատիկային տորթիլյաների վրա։",
-      "description": "Տակոս ալ Պաստոր բաղադրատոմսի նկարագրություն։"
-    },
-    "butterChickenName": {
-      "text": "Կարագով Հավ",
-      "description": "Կարագով Հավ բաղադրատոմսի անունը։"
-    },
-    "butterChickenDescription": {
-      "text": "Փափուկ հավ կարմիր լոլիկով և կարագով սոուսում՝ հոտավետ համեմունքներով։",
-      "description": "Կարագով Հավ բաղադրատոմսի նկարագրություն։"
-    },
-    "padThaiName": {
-      "text": "Պադ Թայ",
-      "description": "Պադ Թայ բաղադրատոմսի անունը։"
-    },
-    "padThaiDescription": {
-      "text": "Արագ տապակած բրնձի նուդլեր ծովախեցգետինով, տոֆու, ընկույզներով և տամարինդի սոուսով։",
-      "description": "Պադ Թայ բաղադրատոմսի նկարագրություն։"
-    },
-    "crepesName": {
-      "text": "Ֆրանսիական Կրեպներ",
-      "description": "Ֆրանսիական Կրեպներ բաղադրատոմսի անունը։"
-    },
-    "crepesDescription": {
-      "text": "Բարակ, նուրբ կրեպներ՝ նուտելլայով, թարմ ելակով և հարած կրեմով լցված։",
-      "description": "Ֆրանսիական Կրեպներ բաղադրատոմսի նկարագրություն։"
-    }
+  "home_page_hero_title": {
+    "text": "Հետազոտեք համաշխարհային համերը",
+    "description": "Main heading on the home page hero section."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Լեզու",
-      "description": "Accessible label for the language switcher dropdown in the header."
-    },
-    "en": {
-      "text": "Անգլերեն",
-      "description": "English language option in the locale switcher."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Japanese language option in the locale switcher."
-    },
-    "es": {
-      "text": "Իսպաներեն",
-      "description": "Spanish language option in the locale switcher."
-    }
+  "home_page_hero_subtitle": {
+    "text": "Թերթեք իսկական բաղադրատոմսեր աշխարհի խոհանոցներից",
+    "description": "Subtitle text displayed under the hero heading on the home page."
+  },
+  "home_page_featured_title": {
+    "text": "Հատուկ բաղադրատոմսեր",
+    "description": "Section heading displayed above the recipe card grid."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} րոպե",
+    "description": "Cooking time label on a recipe card. {minutes} is replaced with the number of minutes."
+  },
+  "recipe_card_difficulty": {
+    "text": "Բարդություն",
+    "description": "Label displayed before the difficulty level on a recipe card."
+  },
+  "recipe_card_easy": {
+    "text": "Հեշտ",
+    "description": "Difficulty level label indicating an easy recipe."
+  },
+  "recipe_card_medium": {
+    "text": "Միջին",
+    "description": "Difficulty level label indicating a moderately difficult recipe."
+  },
+  "recipe_card_hard": {
+    "text": "Դժվար",
+    "description": "Difficulty level label indicating a difficult recipe."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Տոնկոցու Ռամեն",
+    "description": "Տոնկոցու Ռամեն բաղադրատոմսի անունը։"
+  },
+  "recipe_card_ramen_description": {
+    "text": "Հարստացված խոզի ոսկրերի թաշկինակ մեղմ չաշուով, փափուկ եփած ձվով և թարմ նուդլերով։",
+    "description": "Տոնկոցու Ռամեն բաղադրատոմսի նկարագրություն։"
+  },
+  "recipe_card_margherita_name": {
+    "text": "Մարղարիտա Պիցցա",
+    "description": "Մարղարիտա Պիցցա բաղադրատոմսի անունը։"
+  },
+  "recipe_card_margherita_description": {
+    "text": "Դասական նեապոլիտանական պիցցա Սան Մարսանո լոլիկներով, թարմ մոցարելլայով և բազիլիկով։",
+    "description": "Մարղարիտա Պիցցա բաղադրատոմսի նկարագրություն։"
+  },
+  "recipe_card_tacos_name": {
+    "text": "Տակոս ալ Պաստոր",
+    "description": "Տակոս ալ Պաստոր բաղադրատոմսի անունը։"
+  },
+  "recipe_card_tacos_description": {
+    "text": "Մարինացված խոզի տակոսներ անանասով, սուսամբարով և սոխով՝ հացահատիկային տորթիլյաների վրա։",
+    "description": "Տակոս ալ Պաստոր բաղադրատոմսի նկարագրություն։"
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Կարագով Հավ",
+    "description": "Կարագով Հավ բաղադրատոմսի անունը։"
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Փափուկ հավ կարմիր լոլիկով և կարագով սոուսում՝ հոտավետ համեմունքներով։",
+    "description": "Կարագով Հավ բաղադրատոմսի նկարագրություն։"
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Պադ Թայ",
+    "description": "Պադ Թայ բաղադրատոմսի անունը։"
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Արագ տապակած բրնձի նուդլեր ծովախեցգետինով, տոֆու, ընկույզներով և տամարինդի սոուսով։",
+    "description": "Պադ Թայ բաղադրատոմսի նկարագրություն։"
+  },
+  "recipe_card_crepes_name": {
+    "text": "Ֆրանսիական Կրեպներ",
+    "description": "Ֆրանսիական Կրեպներ բաղադրատոմսի անունը։"
+  },
+  "recipe_card_crepes_description": {
+    "text": "Բարակ, նուրբ կրեպներ՝ նուտելլայով, թարմ ելակով և հարած կրեմով լցված։",
+    "description": "Ֆրանսիական Կրեպներ բաղադրատոմսի նկարագրություն։"
+  },
+  "locale_switcher_label": {
+    "text": "Լեզու",
+    "description": "Accessible label for the language switcher dropdown in the header."
+  },
+  "locale_switcher_en": {
+    "text": "Անգլերեն",
+    "description": "English language option in the locale switcher."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Japanese language option in the locale switcher."
+  },
+  "locale_switcher_es": {
+    "text": "Իսպաներեն",
+    "description": "Spanish language option in the locale switcher."
   }
 }

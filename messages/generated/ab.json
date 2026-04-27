@@ -1,114 +1,106 @@
 {
-  "Header": {
-    "title": {
-      "text": "Аҿахы kitchen",
-      "description": "Ажурнал иахәынҭқарраҿы иақәхәы. А世界 кухняқәа иҟоу ашыҟоу аџьабаа."
-    },
-    "subtitle": {
-      "text": "А世界 кухонқәа рҟны ашыҟазтәқәа ирҳәо",
-      "description": "Ажурнал ахь иақәхәы ахыԥхьаӡарақә иԥсы."
-    }
+  "header_title": {
+    "text": "Аҿахы kitchen",
+    "description": "Ажурнал иахәынҭқарраҿы иақәхәы. А世界 кухняқәа иҟоу ашыҟоу аџьабаа."
   },
-  "HomePage": {
-    "heroTitle": {
-      "text": "А世界 аахьықәа ашьҭыхра",
-      "description": "Аҳатәы ахәаҧшра аихәарақәа рҭаа."
-    },
-    "heroSubtitle": {
-      "text": "А世界 kitchenқәа рахь акизнырра ашыҟоу ашыбзиалақәа агәыҧ аҿы",
-      "description": "Аҳатәы ахәаҧшра ахь иашьа."
-    },
-    "featuredTitle": {
-      "text": "Аҵыхәтәантәи ашыжәарақәа",
-      "description": "Ашыҟазтә карточкқәа ирызку ахәаҧшра."
-    }
+  "header_subtitle": {
+    "text": "А世界 кухонқәа рҟны ашыҟазтәқәа ирҳәо",
+    "description": "Ажурнал ахь иақәхәы ахыԥхьаӡарақә иԥсы."
   },
-  "RecipeCard": {
-    "cookingTime": {
-      "text": "{minutes} мин",
-      "description": "Ашыҭарц рааӡазаара ахәаҧшра. {minutes} аамҭақәа рыла ианашьақәиҭтәуп."
-    },
-    "difficulty": {
-      "text": "Аҳаджрақәа",
-      "description": "Ашыarsiornра ахәаҧшра ахыркәшра."
-    },
-    "easy": {
-      "text": "Аҿырхара",
-      "description": "Аҳаджрақәаҿы аԥхьаӡа ашыҭара."
-    },
-    "medium": {
-      "text": "Ашәарҭадара",
-      "description": "Аҳаджрақәа рышьҭахь ашыҭара."
-    },
-    "hard": {
-      "text": "Агәыҭра",
-      "description": "Аҳаджрақәа ршаҟа ашыҭан."
-    },
-    "ramenName": {
-      "text": "Тонкоцу Рамен",
-      "description": "Аҭыԥ Тонкоцу Рамен ашыԥхьаӡара."
-    },
-    "ramenDescription": {
-      "text": "Аҟәа иашықәса хыдырра шьыжь, шьыбжьша хымш, ԥшьышьыгәа яйцақәа, ныхасра нәқәшәқәа.",
-      "description": "Тонкоцу Рамен ашыԥхьаӡара ахәаҧшра."
-    },
-    "margheritaName": {
-      "text": "Маргерита Пицца",
-      "description": "Аҭыԥ Маргерита Пицца ашыԥхьаӡара."
-    },
-    "margheritaDescription": {
-      "text": "Неиаполитан классик пицца Сан Марцано атоматқәа, иашықәса моцарелла, базилик.",
-      "description": "Маргерита Пицца ашыԥхьаӡара ахәаҧшра."
-    },
-    "tacosName": {
-      "text": "Такос ал Пастор",
-      "description": "Аҭыԥ Такос ал Пастор ашыԥхьаӡара."
-    },
-    "tacosDescription": {
-      "text": "Маринадтә хыдырра такосқәа ананас, кинза, ажьон на корн тортильа.",
-      "description": "Такос ал Пастор ашыԥхьаӡара ахәаҧшра."
-    },
-    "butterChickenName": {
-      "text": "Аҧсыр Чикен",
-      "description": "Аҭыԥ Аҧсыр Чикен ашыԥхьаӡара."
-    },
-    "butterChickenDescription": {
-      "text": "Иашықәса хыдырра кремтәтоматтә аԥшыртә соус, амшын азы.",
-      "description": "Аҧсыр Чикен ашыбжьқәа ахәаҧшра."
-    },
-    "padThaiName": {
-      "text": "Пад Тай",
-      "description": "Аҭыԥ Пад Тай ашыԥхьаӡара."
-    },
-    "padThaiDescription": {
-      "text": "Ашьыжь рыс ныхасрақәа шьыжь, тофу, арахис, тамаринд соус.",
-      "description": "Пад Тай ашыԥхьаӡарақәа ахәаҧшра."
-    },
-    "crepesName": {
-      "text": "Француз Крепқәа",
-      "description": "Аҭыԥ Француз Крепқәа ашыԥхьаӡара."
-    },
-    "crepesDescription": {
-      "text": "Ирацәах crepesқәа Nutella, иашықәса строберри, крем шышәқәа.",
-      "description": "Француз Крепқәа ашышьҭра ахәаҧшра."
-    }
+  "home_page_hero_title": {
+    "text": "А世界 аахьықәа ашьҭыхра",
+    "description": "Аҳатәы ахәаҧшра аихәарақәа рҭаа."
   },
-  "LocaleSwitcher": {
-    "label": {
-      "text": "Аҧсшәа",
-      "description": "Ажурнал ахь иақәхәы аганахьала аҳәара."
-    },
-    "en": {
-      "text": "Англиски",
-      "description": "Англиски аԥсшәа ахаркәа."
-    },
-    "ja": {
-      "text": "日本語",
-      "description": "Аапон аҧсшәа ахаркәа."
-    },
-    "es": {
-      "text": "Испански",
-      "description": "Аиспан аҧсшәа ахаркәа."
-    }
+  "home_page_hero_subtitle": {
+    "text": "А世界 kitchenқәа рахь акизнырра ашыҟоу ашыбзиалақәа агәыҧ аҿы",
+    "description": "Аҳатәы ахәаҧшра ахь иашьа."
+  },
+  "home_page_featured_title": {
+    "text": "Аҵыхәтәантәи ашыжәарақәа",
+    "description": "Ашыҟазтә карточкқәа ирызку ахәаҧшра."
+  },
+  "recipe_card_cooking_time": {
+    "text": "{minutes} мин",
+    "description": "Ашыҭарц рааӡазаара ахәаҧшра. {minutes} аамҭақәа рыла ианашьақәиҭтәуп."
+  },
+  "recipe_card_difficulty": {
+    "text": "Аҳаджрақәа",
+    "description": "Ашыarsiornра ахәаҧшра ахыркәшра."
+  },
+  "recipe_card_easy": {
+    "text": "Аҿырхара",
+    "description": "Аҳаджрақәаҿы аԥхьаӡа ашыҭара."
+  },
+  "recipe_card_medium": {
+    "text": "Ашәарҭадара",
+    "description": "Аҳаджрақәа рышьҭахь ашыҭара."
+  },
+  "recipe_card_hard": {
+    "text": "Агәыҭра",
+    "description": "Аҳаджрақәа ршаҟа ашыҭан."
+  },
+  "recipe_card_ramen_name": {
+    "text": "Тонкоцу Рамен",
+    "description": "Аҭыԥ Тонкоцу Рамен ашыԥхьаӡара."
+  },
+  "recipe_card_ramen_description": {
+    "text": "Аҟәа иашықәса хыдырра шьыжь, шьыбжьша хымш, ԥшьышьыгәа яйцақәа, ныхасра нәқәшәқәа.",
+    "description": "Тонкоцу Рамен ашыԥхьаӡара ахәаҧшра."
+  },
+  "recipe_card_margherita_name": {
+    "text": "Маргерита Пицца",
+    "description": "Аҭыԥ Маргерита Пицца ашыԥхьаӡара."
+  },
+  "recipe_card_margherita_description": {
+    "text": "Неиаполитан классик пицца Сан Марцано атоматқәа, иашықәса моцарелла, базилик.",
+    "description": "Маргерита Пицца ашыԥхьаӡара ахәаҧшра."
+  },
+  "recipe_card_tacos_name": {
+    "text": "Такос ал Пастор",
+    "description": "Аҭыԥ Такос ал Пастор ашыԥхьаӡара."
+  },
+  "recipe_card_tacos_description": {
+    "text": "Маринадтә хыдырра такосқәа ананас, кинза, ажьон на корн тортильа.",
+    "description": "Такос ал Пастор ашыԥхьаӡара ахәаҧшра."
+  },
+  "recipe_card_butter_chicken_name": {
+    "text": "Аҧсыр Чикен",
+    "description": "Аҭыԥ Аҧсыр Чикен ашыԥхьаӡара."
+  },
+  "recipe_card_butter_chicken_description": {
+    "text": "Иашықәса хыдырра кремтәтоматтә аԥшыртә соус, амшын азы.",
+    "description": "Аҧсыр Чикен ашыбжьқәа ахәаҧшра."
+  },
+  "recipe_card_pad_thai_name": {
+    "text": "Пад Тай",
+    "description": "Аҭыԥ Пад Тай ашыԥхьаӡара."
+  },
+  "recipe_card_pad_thai_description": {
+    "text": "Ашьыжь рыс ныхасрақәа шьыжь, тофу, арахис, тамаринд соус.",
+    "description": "Пад Тай ашыԥхьаӡарақәа ахәаҧшра."
+  },
+  "recipe_card_crepes_name": {
+    "text": "Француз Крепқәа",
+    "description": "Аҭыԥ Француз Крепқәа ашыԥхьаӡара."
+  },
+  "recipe_card_crepes_description": {
+    "text": "Ирацәах crepesқәа Nutella, иашықәса строберри, крем шышәқәа.",
+    "description": "Француз Крепқәа ашышьҭра ахәаҧшра."
+  },
+  "locale_switcher_label": {
+    "text": "Аҧсшәа",
+    "description": "Ажурнал ахь иақәхәы аганахьала аҳәара."
+  },
+  "locale_switcher_en": {
+    "text": "Англиски",
+    "description": "Англиски аԥсшәа ахаркәа."
+  },
+  "locale_switcher_ja": {
+    "text": "日本語",
+    "description": "Аапон аҧсшәа ахаркәа."
+  },
+  "locale_switcher_es": {
+    "text": "Испански",
+    "description": "Аиспан аҧсшәа ахаркәа."
   }
 }
