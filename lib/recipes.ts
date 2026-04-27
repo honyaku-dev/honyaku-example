@@ -11,8 +11,8 @@ export interface Recipe {
 export const recipes: Recipe[] = [
   {
     id: "ramen",
-    nameKey: "ramenName",
-    descriptionKey: "ramenDescription",
+    nameKey: "recipe_card_ramen_name",
+    descriptionKey: "recipe_card_ramen_description",
     cookingTime: 180,
     difficulty: "hard",
     cuisine: "Japanese",
@@ -20,8 +20,8 @@ export const recipes: Recipe[] = [
   },
   {
     id: "margherita",
-    nameKey: "margheritaName",
-    descriptionKey: "margheritaDescription",
+    nameKey: "recipe_card_margherita_name",
+    descriptionKey: "recipe_card_margherita_description",
     cookingTime: 30,
     difficulty: "medium",
     cuisine: "Italian",
@@ -29,8 +29,8 @@ export const recipes: Recipe[] = [
   },
   {
     id: "tacos",
-    nameKey: "tacosName",
-    descriptionKey: "tacosDescription",
+    nameKey: "recipe_card_tacos_name",
+    descriptionKey: "recipe_card_tacos_description",
     cookingTime: 45,
     difficulty: "medium",
     cuisine: "Mexican",
@@ -38,8 +38,8 @@ export const recipes: Recipe[] = [
   },
   {
     id: "butter-chicken",
-    nameKey: "butterChickenName",
-    descriptionKey: "butterChickenDescription",
+    nameKey: "recipe_card_butter_chicken_name",
+    descriptionKey: "recipe_card_butter_chicken_description",
     cookingTime: 60,
     difficulty: "medium",
     cuisine: "Indian",
@@ -47,8 +47,8 @@ export const recipes: Recipe[] = [
   },
   {
     id: "pad-thai",
-    nameKey: "padThaiName",
-    descriptionKey: "padThaiDescription",
+    nameKey: "recipe_card_pad_thai_name",
+    descriptionKey: "recipe_card_pad_thai_description",
     cookingTime: 30,
     difficulty: "easy",
     cuisine: "Thai",
@@ -56,8 +56,8 @@ export const recipes: Recipe[] = [
   },
   {
     id: "crepes",
-    nameKey: "crepesName",
-    descriptionKey: "crepesDescription",
+    nameKey: "recipe_card_crepes_name",
+    descriptionKey: "recipe_card_crepes_description",
     cookingTime: 20,
     difficulty: "easy",
     cuisine: "French",
