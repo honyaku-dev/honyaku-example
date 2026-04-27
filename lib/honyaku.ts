@@ -6,8 +6,8 @@ export function loadMessages(messages: Record<string, { text: string }>): Record
 
 export async function loadLocale(locale: string) {
   if (locale === "en") {
-    return enMessages
+    return loadMessages(enMessages)
   } else {
-    return loadMessages((await import(`../messages/${locale}.json`)).default)
+    return loadMessages((await import(`../messages/generated/${locale}.json`)).default)
   }
 }

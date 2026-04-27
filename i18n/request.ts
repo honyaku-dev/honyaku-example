@@ -12,12 +12,12 @@ export default getRequestConfig(async ({ requestLocale }) => {
     ? requested
     : routing.defaultLocale;
 
-  const messages = loadLocale(locale);
+  const messages = await loadLocale(locale);
   return {
     locale,
     messages: {
-      ...messages,
       ...enMessages,
+      ...messages,
     }
   };
 });
