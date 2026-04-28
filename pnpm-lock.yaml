@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@honyaku-dev/locales':
+        specifier: ^1.0.0
+        version: 1.0.0
       next:
         specifier: 16.2.4
         version: 16.2.4(@babel/core@7.29.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -177,6 +180,9 @@ packages:
 
   '@formatjs/intl-localematcher@0.8.3':
     resolution: {integrity: sha512-pHUjWb9NuhnMs8+PxQdzBtZRFJHlGhrURGAbm6Ltwl82BFajeuiIR3jblSa7ia3r62rXe/0YtVpUG3xWr5bFCA==}
+
+  '@honyaku-dev/locales@1.0.0':
+    resolution: {integrity: sha512-27oRxBiSKOOL/i/7xlowSAWnyDbG+QHTyOo/9LQ5ublgx3FRKXDLCrizAm1PxTkp6OOB6fPCbcJZ/R+hIXnJ8Q==}
 
   '@humanfs/core@0.19.2':
     resolution: {integrity: sha512-UhXNm+CFMWcbChXywFwkmhqjs3PRCmcSa/hfBgLIb7oQ5HNb1wS0icWsGtSAUNgefHeI+eBrA8I1fxmbHsGdvA==}
@@ -2364,6 +2370,8 @@ snapshots:
   '@formatjs/intl-localematcher@0.8.3':
     dependencies:
       '@formatjs/fast-memoize': 3.1.2
+
+  '@honyaku-dev/locales@1.0.0': {}
 
   '@humanfs/core@0.19.2':
     dependencies:

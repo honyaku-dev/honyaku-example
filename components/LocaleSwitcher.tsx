@@ -4,7 +4,7 @@ import { useState, useRef, useEffect, useMemo } from "react";
 import { useLocale } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import locales from "@/locale.json";
+import locales from "@honyaku-dev/locales";
 
 export function LocaleSwitcher() {
   const locale = useLocale();
@@ -16,14 +16,14 @@ export function LocaleSwitcher() {
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  const currentInfo = locales[locale as keyof typeof locales];
+  const currentInfo = locales.find((item) => item.id === locale);
   const currentLabel = currentInfo ? currentInfo.endonym : locale;
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return routing.locales.filter((loc) => {
       if (!q) return true;
-      const info = locales[loc as keyof typeof locales];
+      const info = locales.find((item) => item.id === loc);
       if (!info) return loc.includes(q);
       return (
         info.id.toLowerCase().includes(q) ||
@@ -87,7 +87,7 @@ export function LocaleSwitcher() {
               </li>
             ) : (
               filtered.map((loc) => {
-                const info = locales[loc as keyof typeof locales];
+                const info = locales.find((item) => item.id === loc);
                 const label = info ? info.endonym : loc;
                 const name = info?.name;
                 return (

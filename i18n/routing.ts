@@ -1,7 +1,7 @@
 import { defineRouting } from "next-intl/routing";
-import locales from "@/locale.json";
+import locales from "@honyaku-dev/locales";
 
 export const routing = defineRouting({
-  locales: Object.keys(locales) as [string, ...string[]],
+  locales: locales.map((locale) => locale.id),
   defaultLocale: "en",
 });
