@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: honyaku-dev/honyaku-action@v0
+      - uses: honyaku-dev/honyaku-action@v1
         with:
           source-file: "messages/en.json"
           output-dir: "messages/generated"
