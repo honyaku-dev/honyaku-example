@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes tinútinú, pẹ̀lú Nutella, stoberi tuntun, àti kírímù tí a fi fẹ́ràn sí i.",
     "description": "Àpejuwe àdídùn Crepes Faranse."
-  },
-  "locale_switcher_label": {
-    "text": "Èdè",
-    "description": "Àpamọ́ tó wúlò fún yíyàn èdè nínú àtùpale èdè ní orí ìlà."
-  },
-  "locale_switcher_en": {
-    "text": "Gẹ̀ẹ́sì",
-    "description": "Àṣàyàn èdè Gẹ̀ẹ́sì nínú àtùpale èdè."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Àṣàyàn èdè Japanese nínú àtùpale èdè."
-  },
-  "locale_switcher_es": {
-    "text": "Èdè Sípáníìṣì",
-    "description": "Àṣàyàn èdè Sípáníìṣì nínú àtùpale èdè."
   }
 }

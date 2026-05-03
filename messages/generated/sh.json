@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tanki, delikatni krepi punjeni Nutellom, svežim jagodama i šlagom.",
     "description": "Opis recepta za Francuske krepove."
-  },
-  "locale_switcher_label": {
-    "text": "Jezik",
-    "description": "Pristupačna oznaka za padajući meni za izbor jezika u zaglavlju."
-  },
-  "locale_switcher_en": {
-    "text": "Engleski",
-    "description": "Opcija za engleski jezik u menjaču jezika."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opcija za japanski jezik u menjaču jezika."
-  },
-  "locale_switcher_es": {
-    "text": "Španski",
-    "description": "Opcija za španski jezik u menjaču jezika."
   }
 }

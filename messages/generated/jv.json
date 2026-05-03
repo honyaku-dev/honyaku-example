@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crêpe tipis lan alus diisi Nutella, stroberi seger, lan krim kocok.",
     "description": "Deskripsi resep Crêpe Prancis."
-  },
-  "locale_switcher_label": {
-    "text": "Basa",
-    "description": "Label aksesibel kanggo dropdown ganti basa ing header."
-  },
-  "locale_switcher_en": {
-    "text": "Basa Inggris",
-    "description": "Pilihan basa Inggris ing ganti basa."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Pilihan basa Jepang ing ganti basa."
-  },
-  "locale_switcher_es": {
-    "text": "Basa Spanyol",
-    "description": "Pilihan basa Spanyol ing ganti basa."
   }
 }

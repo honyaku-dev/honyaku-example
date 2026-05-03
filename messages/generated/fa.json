@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "کروپ‌های نازک و ظریف پر شده با نوتلا، توت‌فرنگی تازه و خامه زده شده.",
     "description": "توضیح دستور پخت کروپ‌های فرانسوی."
-  },
-  "locale_switcher_label": {
-    "text": "زبان",
-    "description": "برچسب قابل دسترسی برای منوی کشویی تغییر زبان در هدر."
-  },
-  "locale_switcher_en": {
-    "text": "انگلیسی",
-    "description": "گزینه زبان انگلیسی در تغییر دهنده زبان."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "گزینه زبان ژاپنی در تغییر دهنده زبان."
-  },
-  "locale_switcher_es": {
-    "text": "اسپانیایی",
-    "description": "گزینه زبان اسپانیایی در تغییر دهنده زبان."
   }
 }

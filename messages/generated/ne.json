@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "नुटेला, ताजा स्ट्रबेरी, र व्हिप्ड क्रीमले भरिएको पातलो, नाजुक क्रेप्स।",
     "description": "फ्रेन्च क्रेप्स रेसिपीको विवरण।"
-  },
-  "locale_switcher_label": {
-    "text": "भाषा",
-    "description": "हेडरमा भाषा स्विचर ड्रपडाउनको पहुँचयोग्य लेबल।"
-  },
-  "locale_switcher_en": {
-    "text": "अंग्रेजी",
-    "description": "स्थान स्विचरमा अंग्रेजी भाषा विकल्प।"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "स्थान स्विचरमा जापानी भाषा विकल्प।"
-  },
-  "locale_switcher_es": {
-    "text": "स्पेनिश",
-    "description": "स्थान स्विचरमा स्पेनी भाषा विकल्प।"
   }
 }

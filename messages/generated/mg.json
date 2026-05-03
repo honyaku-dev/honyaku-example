@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes manify, malefaka feno Nutella, frezy vaovao, ary crème whipped.",
     "description": "Famaritana ny resipe Crepes Frantsay."
-  },
-  "locale_switcher_label": {
-    "text": "Fiteny",
-    "description": "Marika azo idirana ho an'ny fisafidianana fiteny ao amin'ny lohateny."
-  },
-  "locale_switcher_en": {
-    "text": "Anglisy",
-    "description": "Safidy fiteny anglisy ao amin'ny fisafidianana fiteny."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Safidy fiteny japoney ao amin'ny fisafidianana fiteny."
-  },
-  "locale_switcher_es": {
-    "text": "Espaniola",
-    "description": "Safidy fiteny espaniola ao amin'ny fisafidianana fiteny."
   }
 }

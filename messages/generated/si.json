@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "නැහැදිලි, නරක ක්‍රෙප්ස්, නූටෙලා, නවීන ස්ටෝබෙරි සහ විප් ක්‍රීම් සමඟ පිරවූ.",
     "description": "ප්‍රංශ ක්‍රෙප්ස් රෑපි විස්තරය."
-  },
-  "locale_switcher_label": {
-    "text": "භාෂාව",
-    "description": "සිරස්තලයේ භාෂා මාරු කරන්නාගේ පහසුකමට ලේබලයක්."
-  },
-  "locale_switcher_en": {
-    "text": "ඉංග්‍රීසි",
-    "description": "භාෂා මාරු කරන්නා තුළ ඉංග්‍රීසි භාෂා විකල්පය."
-  },
-  "locale_switcher_ja": {
-    "text": "ජපන්",
-    "description": "භාෂා මාරු කරන්නා තුළ ජපන් භාෂා විකල්පය."
-  },
-  "locale_switcher_es": {
-    "text": "ස්පාඤ්ඤ",
-    "description": "භාෂා මාරු කරන්නා තුළ ස්පාඤ්ඤ භාෂා විකල්පය."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krèp mens, delika plen ak Nutella, franbwaz fre, ak krèm chantilly.",
     "description": "Deskripsyon resèt Krèp Franse yo."
-  },
-  "locale_switcher_label": {
-    "text": "Lang",
-    "description": "Etikèt aksè pou meni chwa lang nan tèt paj la."
-  },
-  "locale_switcher_en": {
-    "text": "Angle",
-    "description": "Opsyon lang Angle nan meni chwa lang nan."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opsyon lang Japonè nan meni chwa lang nan."
-  },
-  "locale_switcher_es": {
-    "text": "Panyòl",
-    "description": "Opsyon lang Panyòl nan meni chwa lang nan."
   }
 }

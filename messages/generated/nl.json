@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Dunne, delicate crêpes gevuld met Nutella, verse aardbeien en slagroom.",
     "description": "Beschrijving van het Franse Crêpes recept."
-  },
-  "locale_switcher_label": {
-    "text": "Taal",
-    "description": "Toegankelijkheidslabel voor de taalkeuzelijst in de koptekst."
-  },
-  "locale_switcher_en": {
-    "text": "Engels",
-    "description": "Engelse taaloptie in de taalkeuzelijst."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanse taaloptie in de taalkeuzelijst."
-  },
-  "locale_switcher_es": {
-    "text": "Spaans",
-    "description": "Spaanse taaloptie in de taalkeuzelijst."
   }
 }

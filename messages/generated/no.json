@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tynne, delikate crêpes fylt med Nutella, ferske jordbær og pisket krem.",
     "description": "Beskrivelse av de franske crêpes-oppskriftene."
-  },
-  "locale_switcher_label": {
-    "text": "Språk",
-    "description": "Tilgjengelighetsmerkelapp for språkmenyen i overskriften."
-  },
-  "locale_switcher_en": {
-    "text": "Engelsk",
-    "description": "Engelsk språkvalg i språkvelgeren."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japansk språkvalg i språkvelgeren."
-  },
-  "locale_switcher_es": {
-    "text": "Spansk",
-    "description": "Spansk språkvalg i språkvelgeren."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes dza u fhulufhela dza u lulama dzi khou bveledzwa na Nutella, strawberries dza mutshelo, na whipped cream.",
     "description": "Ṱhalutshedzo ya recipe ya French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Lugha",
-    "description": "Dzina ḽi wanala kha language switcher dropdown kha header."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "Lugha ya English kha locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Lugha ya Japanese kha locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Lugha ya Spanish kha locale switcher."
   }
 }

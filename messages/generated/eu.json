@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Lodi, delikatuak diren krepeak Nutella, freskako marrubiak eta krema irina beteta.",
     "description": "Frantziar Krepeak errezetaren deskribapena."
-  },
-  "locale_switcher_label": {
-    "text": "Hizkuntza",
-    "description": "Goiburuko hizkuntza aldatzeko hautapenaren irisgarria den etiketa."
-  },
-  "locale_switcher_en": {
-    "text": "Ingelesa",
-    "description": "Hizkuntza aldaketako ingeles aukeraren etiketa."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Hizkuntza aldaketako japoniar aukeraren etiketa."
-  },
-  "locale_switcher_es": {
-    "text": "Espainiera",
-    "description": "Hizkuntza aldaketako gaztelania aukeraren etiketa."
   }
 }

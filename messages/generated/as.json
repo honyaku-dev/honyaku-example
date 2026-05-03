@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "নুটেলা, তাজা ষ্ট্ৰ'বেৰী আৰু হুইপ্‌ড ক্ৰীমে ভৰপূৰ পাতলুৱা, কোমল ক্ৰেপছ।",
     "description": "ফৰাচী ক্ৰেপছ ৰেচিপিৰ বৰ্ণনা।"
-  },
-  "locale_switcher_label": {
-    "text": "ভাষা",
-    "description": "হেডাৰৰ ভাষা সলনি কৰাৰ ড্ৰপডাউনটোৰ বাবে প্ৰৱেশযোগ্য লেবেল।"
-  },
-  "locale_switcher_en": {
-    "text": "ইংৰাজী",
-    "description": "ভাষা সলনি কৰাৰ বিকল্পত ইংৰাজী ভাষা।"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "ভাষা সলনি কৰাৰ বিকল্পত জাপানী ভাষা।"
-  },
-  "locale_switcher_es": {
-    "text": "স্পেনিছ",
-    "description": "ভাষা সলনি কৰাৰ বিকল্পত স্পেনিছ ভাষা।"
   }
 }

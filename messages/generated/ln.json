@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes ya petele, ya malamu oyo ebomamaki na Nutella, fraises ya sika, mpe crème ya kokoba.",
     "description": "Nkombo ya resipi ya Crepes ya Bufransi."
-  },
-  "locale_switcher_label": {
-    "text": "Likalombo",
-    "description": "Liloba ya kosalela mpo na kobongisa likalombo na likolo."
-  },
-  "locale_switcher_en": {
-    "text": "Lingelesi",
-    "description": "Likambo ya likalombo ya Lingelesi na kokanisa likalombo."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Likambo ya likalombo ya Japonɛzɛ na kokanisa likalombo."
-  },
-  "locale_switcher_es": {
-    "text": "Esipanye",
-    "description": "Likambo ya likalombo ya Esipanye na kokanisa likalombo."
   }
 }

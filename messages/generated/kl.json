@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Nutella, nutaaq strawberry, aamma qernertut qernertut, qernertut crepes.",
     "description": "Fransk Crepes-ip nerisassiani apeqqutit."
-  },
-  "locale_switcher_label": {
-    "text": "Oqaatsit",
-    "description": "Header-imi oqaasii allanngortinneqartarnissaat atorlugu accessible label."
-  },
-  "locale_switcher_en": {
-    "text": "Ingerlatseqatigiiffik",
-    "description": "Oqaatsit allanngortinneqartarnissaat atorlugu kalaallisut."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Oqaatsit allanngortinneqartarnissaat atorlugu japonisut."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Oqaatsit allanngortinneqartarnissaa atorlugu spanskisut."
   }
 }

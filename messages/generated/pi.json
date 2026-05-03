@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Sūkṣma, mrdu crepes Nutella, nava strāubērī, piṇḍita sītehi pūrita.",
     "description": "Phālañca Crepes pākatthassa paribhāṣā."
-  },
-  "locale_switcher_label": {
-    "text": "Vācā",
-    "description": "Sirase vācā badhakoṭṭhāsaṃ paricchindati."
-  },
-  "locale_switcher_en": {
-    "text": "Aṅgālīsa",
-    "description": "Vācā badhakoṭṭhāse aṅgālīsa vācā."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Vācā badhakoṭṭhāse japonīsa vācā."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Vācā badhakoṭṭhāse espāṇiyā vācā."
   }
 }

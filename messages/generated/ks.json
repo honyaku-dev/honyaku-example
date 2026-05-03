@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "بَرٛقٛرار، نازک کریپس جے منز نٹیلہ، تازٲ اسٹرابیریز تہ وِھپ کیٛت کریم شامل۔",
     "description": "فرانسیسی کریپس ریسپی کی وضاحت۔"
-  },
-  "locale_switcher_label": {
-    "text": "زٲن",
-    "description": "ہیڈر منز زبان بدلٙن ہٙند ڈراپ ڈاؤن ہٙند قابلِ رسائی لیبل۔"
-  },
-  "locale_switcher_en": {
-    "text": "انگریزی",
-    "description": "زبان بدلٙن منز انگریزی زبان اختیار۔"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "زبان بدلٙن منز جاپانی زبان اختیار۔"
-  },
-  "locale_switcher_es": {
-    "text": "سپینی",
-    "description": "زبان بدلٙن منز ہسپانوی زبان اختیار۔"
   }
 }

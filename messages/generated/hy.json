@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Բարակ, նուրբ կրեպներ՝ նուտելլայով, թարմ ելակով և հարած կրեմով լցված։",
     "description": "Ֆրանսիական Կրեպներ բաղադրատոմսի նկարագրություն։"
-  },
-  "locale_switcher_label": {
-    "text": "Լեզու",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Անգլերեն",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Իսպաներեն",
-    "description": "Spanish language option in the locale switcher."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "薄而细腻的可丽饼，填充榛果巧克力酱、新鲜草莓和鲜奶油。",
     "description": "法式可丽饼菜谱的描述。"
-  },
-  "locale_switcher_label": {
-    "text": "语言",
-    "description": "标题中语言切换下拉菜单的无障碍标签。"
-  },
-  "locale_switcher_en": {
-    "text": "英语",
-    "description": "语言切换器中的英语选项。"
-  },
-  "locale_switcher_ja": {
-    "text": "日语",
-    "description": "语言切换器中的日语选项。"
-  },
-  "locale_switcher_es": {
-    "text": "西班牙语",
-    "description": "语言切换器中的西班牙语选项。"
   }
 }

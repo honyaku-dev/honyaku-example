@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Nutella, täze gaýnatylan ýerkökresi we köpürtkilen krem bilen doldurylan inçe we ýumşak krepler.",
     "description": "Fransuz krepleri reseptiniň beýany."
-  },
-  "locale_switcher_label": {
-    "text": "Dil",
-    "description": "Baş sahypadaky dil üýtgediji düşürilýän sanaw üçin elýeterli bellik."
-  },
-  "locale_switcher_en": {
-    "text": "Iňlisçe",
-    "description": "Dil üýtgedijisindäki iňlis dili opsiýasy."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Dil üýtgedijisindäki ýapon dili opsiýasy."
-  },
-  "locale_switcher_es": {
-    "text": "Ispança",
-    "description": "Dil üýtgedijisindäki ispan dili opsiýasy."
   }
 }

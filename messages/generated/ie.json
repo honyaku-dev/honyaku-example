@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes fin e delicat plenat con Nutella, fragoles fresc, e crema frapat.",
     "description": "Description del recet Crepes Francese."
-  },
-  "locale_switcher_label": {
-    "text": "Lingue",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Angles",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Spanish language option in the locale switcher."
   }
 }

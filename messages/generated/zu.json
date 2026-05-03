@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Ama-crepes amancane, acwebile agcwele i-Nutella, ama-strawberry amasha, kanye nokhilimu oshaywe.",
     "description": "Incazelo yenqubo yokupheka ama-Crepes aseFrance."
-  },
-  "locale_switcher_label": {
-    "text": "Ulimi",
-    "description": "Ilebula elitholakalayo le-dropdown yokushintsha ulimi esihlokweni."
-  },
-  "locale_switcher_en": {
-    "text": "IsiNgisi",
-    "description": "Inketho yolimi lwesiNgisi ku-switcher wolimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Inketho yolimi lwesiJapane ku-switcher wolimi."
-  },
-  "locale_switcher_es": {
-    "text": "IsiSpanishi",
-    "description": "Inketho yolimi lwesiSpanishi ku-switcher wolimi."
   }
 }

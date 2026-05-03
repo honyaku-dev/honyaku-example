@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes tse di motlhofo, tse di tlatsitsweng ka Nutella, ditapole tse dintšhwa, le kirimu e e peletsweng.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Puo",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Sekgoa",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Sepanish",
-    "description": "Spanish language option in the locale switcher."
   }
 }

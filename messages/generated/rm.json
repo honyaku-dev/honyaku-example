@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crêpes finas e delicatas emplenidas cun Nutella, fraidas freschas e panna battida.",
     "description": "Descriziun da la retscha Crêpes franzosas."
-  },
-  "locale_switcher_label": {
-    "text": "Lingua",
-    "description": "Label accessibel per la glisadressa da lingua en l'entira."
-  },
-  "locale_switcher_en": {
-    "text": "Englais",
-    "description": "Opziun per la lingua englaisa en la glisadressa da lingua."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opziun per la lingua giapunaisa en la glisadressa da lingua."
-  },
-  "locale_switcher_es": {
-    "text": "Spagnol",
-    "description": "Opziun per la lingua spagnola en la glisadressa da lingua."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Amakrepi lamatsandza, agcwele iNutella, amatamatisi lamasha, kanye nekhrimu lephukile.",
     "description": "Incazelo yekunyatsela kweAmakrepi aseFrance."
-  },
-  "locale_switcher_label": {
-    "text": "Lulwimi",
-    "description": "Ligama lekwenta kube lula kutsi utfole lulwimi lwekushintja ekhanda."
-  },
-  "locale_switcher_en": {
-    "text": "IsiNgisi",
-    "description": "Inkhetfo yelulwimi lwesiNgisi ekushintjweni kwelulwimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Inkhetfo yelulwimi lwesiJapan ekushintjweni kwelulwimi."
-  },
-  "locale_switcher_es": {
-    "text": "IsiSpanishi",
-    "description": "Inkhetfo yelulwimi lwesiSpanishi ekushintjweni kwelulwimi."
   }
 }

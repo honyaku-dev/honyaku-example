@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krampouezh sklaer ha delik gant Nutella, fraezhenn fresk, ha krem gwisket.",
     "description": "Deskrivadur ar resisad Krampouezh Frañs."
-  },
-  "locale_switcher_label": {
-    "text": "Yezh",
-    "description": "Lezel aes da gavout evit dibab yezh e-barzh an droad-kentañ."
-  },
-  "locale_switcher_en": {
-    "text": "Saezh",
-    "description": "Dibab yezh saezh e-barzh an emzalc'h yezhoù."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Dibab yezh japaneg e-barzh an emzalc'h yezhoù."
-  },
-  "locale_switcher_es": {
-    "text": "Spagnoleg",
-    "description": "Dibab yezh spagnoleg e-barzh an emzalc'h yezhoù."
   }
 }

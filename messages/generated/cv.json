@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Ялан, пухăн крепсем, Нутелла, хушашар çĕрпи, взбитый кăмаçсемпе тулталăх.",
     "description": "Француз Крепсем рецептĕн тасвирĕ."
-  },
-  "locale_switcher_label": {
-    "text": "Тил",
-    "description": "Хӗрлӗнӗн тил переключателе паян шутӑн."
-  },
-  "locale_switcher_en": {
-    "text": "Англисси",
-    "description": "Тил переключателе Англисси вариантӗ."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Тил переключателе Япон вариантӗ."
-  },
-  "locale_switcher_es": {
-    "text": "Испан",
-    "description": "Тил переключателе Испан вариантӗ."
   }
 }

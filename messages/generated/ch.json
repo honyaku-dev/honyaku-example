@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Manhåtsa, fina'nu' na crepes yan Nutella, nuebu na fresas, yan whipped cream gi i entre.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Chålan",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Iningles",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Spanish language option in the locale switcher."
   }
 }

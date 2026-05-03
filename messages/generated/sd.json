@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "باریک، نازڪ ڪريپس جيڪي نٽيللا، تازو اسٽابيري، ۽ ويسڪيل ڪريم سان ڀريل آهن.",
     "description": "فرينچ ڪريپس جي نسخي جي وضاحت."
-  },
-  "locale_switcher_label": {
-    "text": "ٻولي",
-    "description": "هيڊر ۾ ٻولي جي سوئچر ڊراپ ڊائون لاءِ قابل رسائي ليبل."
-  },
-  "locale_switcher_en": {
-    "text": "انگريزي",
-    "description": "ٻولي جي سوئچر ۾ انگريزي زبان جو اختيار."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "ٻولي جي سوئچر ۾ جاپاني زبان جو اختيار."
-  },
-  "locale_switcher_es": {
-    "text": "اسپيني",
-    "description": "ٻولي جي سوئچر ۾ اسپيني زبان جو اختيار."
   }
 }

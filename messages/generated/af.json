@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Dun, delikate pannekoekies gevul met Nutella, vars aarbeie, en geklopte room.",
     "description": "Beskrywing van die Franse Pannekoekies resep."
-  },
-  "locale_switcher_label": {
-    "text": "Taal",
-    "description": "Toeganklike etiket vir die taalskakelaar keuselys in die kop."
-  },
-  "locale_switcher_en": {
-    "text": "Engels",
-    "description": "Engelse taal opsie in die taalskakelaar."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanse taal opsie in die taalskakelaar."
-  },
-  "locale_switcher_es": {
-    "text": "Spaans",
-    "description": "Spaanse taal opsie in die taalskakelaar."
   }
 }

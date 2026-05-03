@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tin, delikate crêpes fol mei Nutella, farske aarbeien, en slachroom.",
     "description": "Beskriuwing fan it Franse Crêpes-resept."
-  },
-  "locale_switcher_label": {
-    "text": "Taal",
-    "description": "Tagonklik label foar de taalwikselaar dropdown yn de koptekst."
-  },
-  "locale_switcher_en": {
-    "text": "Ingelsk",
-    "description": "Ingelske taalopsje yn de taalwikselaar."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanske taalopsje yn de taalwikselaar."
-  },
-  "locale_switcher_es": {
-    "text": "Spaansk",
-    "description": "Spaanske taalopsje yn de taalwikselaar."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crêpes tanaí, mín líonta le Nutella, sútha talún úr, agus uachtar gealaithe.",
     "description": "Cur síos ar oidis Crêpes Francacha."
-  },
-  "locale_switcher_label": {
-    "text": "Teanga",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Béarla",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Spáinnis",
-    "description": "Spanish language option in the locale switcher."
   }
 }

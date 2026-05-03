@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes lailai, malumalumu e vakayagataki kina Nutella, strawberries vou, kei na kirim cream.",
     "description": "Vakasama ni ivakamacala ni French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Vosa",
-    "description": "Ulutaga e rawa ni raica na tamata ena dropdown ni veisau ni vosa ena header."
-  },
-  "locale_switcher_en": {
-    "text": "Vakavalagi",
-    "description": "Vosa vakavalagi ena veisau ni vosa."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Vosa vakaJapenese ena veisau ni vosa."
-  },
-  "locale_switcher_es": {
-    "text": "Vosa Sepania",
-    "description": "Vosa vakaSepania ena veisau ni vosa."
   }
 }

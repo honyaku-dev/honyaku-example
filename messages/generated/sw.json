@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes nyembamba, nyororo zilizojaa Nutella, jordgubbar safi, na krimu iliyopigwa.",
     "description": "Maelezo ya mapishi ya Crepes za Kifaransa."
-  },
-  "locale_switcher_label": {
-    "text": "Lugha",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Kiingereza",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Kihispania",
-    "description": "Spanish language option in the locale switcher."
   }
 }

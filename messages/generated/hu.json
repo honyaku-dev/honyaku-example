@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Vékony, finom palacsinták Nutellával, friss eperrel és habtejszínnel töltve.",
     "description": "A Francia palacsinta recept leírása."
-  },
-  "locale_switcher_label": {
-    "text": "Nyelv",
-    "description": "Hozzáférhető címke a nyelvváltó legördülő menüjéhez a fejlécben."
-  },
-  "locale_switcher_en": {
-    "text": "Angol",
-    "description": "Angol nyelv opció a nyelvváltóban."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japán nyelv opció a nyelvváltóban."
-  },
-  "locale_switcher_es": {
-    "text": "Spanyol",
-    "description": "Spanyol nyelv opció a nyelvváltóban."
   }
 }

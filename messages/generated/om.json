@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes laaffaa fi bareedaa kan Nutella, qamadii haaraa, fi akaakuu korma wajjin guutame.",
     "description": "Ibsa garaa Crepes Faransaayii."
-  },
-  "locale_switcher_label": {
-    "text": "Afaan",
-    "description": "Barreeffama afaan jijjiiruu filannoo header keessatti argamuuf."
-  },
-  "locale_switcher_en": {
-    "text": "Ingiliizii",
-    "description": "Filannoo afaan Ingiliizii afaan jijjiiruu keessatti."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Filannoo afaan Jaappaanii afaan jijjiiruu keessatti."
-  },
-  "locale_switcher_es": {
-    "text": "Ispeenishii",
-    "description": "Filannoo afaan Ispeenishii afaan jijjiiruu keessatti."
   }
 }

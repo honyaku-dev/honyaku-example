@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Nutella, təzə çiyələk və şirin qaymaqla doldurulmuş nazik, incə kreplər.",
     "description": "French Crepes reseptinin təsviri."
-  },
-  "locale_switcher_label": {
-    "text": "Dil",
-    "description": "Başlıqdakı dil dəyişdirici açılan menyu üçün əlçatanlıq etiketi."
-  },
-  "locale_switcher_en": {
-    "text": "İngilis",
-    "description": "Dil dəyişdiricidə ingilis dili seçimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Dil dəyişdiricidə yapon dili seçimi."
-  },
-  "locale_switcher_es": {
-    "text": "İspan",
-    "description": "Dil dəyişdiricidə ispan dili seçimi."
   }
 }

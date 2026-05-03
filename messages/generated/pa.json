@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "ਬਾਰੀਕ, ਨਰਮ ਕ੍ਰੇਪਸ ਜੋ ਨੁਟੇਲਾ, ਤਾਜ਼ੇ ਸਟਰਾਬੈਰੀ ਅਤੇ ਫੈਂਟੀ ਕ੍ਰੀਮ ਨਾਲ ਭਰੇ ਹੋਏ ਹਨ।",
     "description": "ਫਰਾਂਸੀਸੀ ਕ੍ਰੇਪਸ ਵਿਧੀ ਦਾ ਵੇਰਵਾ।"
-  },
-  "locale_switcher_label": {
-    "text": "ਭਾਸ਼ਾ",
-    "description": "ਹੈਡਰ ਵਿੱਚ ਭਾਸ਼ਾ ਬਦਲਣ ਵਾਲੇ ਡ੍ਰਾਪਡਾਊਨ ਲਈ ਸਹੂਲਤਯੋਗ ਲੇਬਲ।"
-  },
-  "locale_switcher_en": {
-    "text": "ਅੰਗਰੇਜ਼ੀ",
-    "description": "ਲੋਕੇਲ ਸੁਵਿਧਾ ਵਿੱਚ ਅੰਗਰੇਜ਼ੀ ਭਾਸ਼ਾ ਚੋਣ।"
-  },
-  "locale_switcher_ja": {
-    "text": "ਜਪਾਨੀ",
-    "description": "ਲੋਕੇਲ ਸੁਵਿਧਾ ਵਿੱਚ ਜਪਾਨੀ ਭਾਸ਼ਾ ਚੋਣ।"
-  },
-  "locale_switcher_es": {
-    "text": "ਸਪੇਨੀ",
-    "description": "ਲੋਕੇਲ ਸੁਵਿਧਾ ਵਿੱਚ ਸਪੇਨੀ ਭਾਸ਼ਾ ਚੋਣ।"
   }
 }

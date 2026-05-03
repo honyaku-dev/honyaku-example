@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "ନୁଟେଲ୍ଲା, ତାଜା ଷ୍ଟ୍ରବେରି, ଏବଂ ହ୍ୱିପ୍ କ୍ରିମ୍ ଭରା ପତଳା, ସୁକୁମାର କ୍ରେପ୍ସ୍।",
     "description": "ଫ୍ରେଞ୍ଚ କ୍ରେପ୍ସ୍ ରେସିପିର ବିବରଣୀ।"
-  },
-  "locale_switcher_label": {
-    "text": "ଭାଷା",
-    "description": "ହେଡରରେ ଭାଷା ସ୍ୱିଚର୍ ଡ୍ରପଡାଉନ୍ ପାଇଁ ସହଜ ସମ୍ପ୍ରେଷଣ ଲେବଲ୍।"
-  },
-  "locale_switcher_en": {
-    "text": "ଇଂରାଜୀ",
-    "description": "ଭାଷା ସ୍ୱିଚରରେ ଇଂରାଜୀ ଭାଷା ବିକଳ୍ପ।"
-  },
-  "locale_switcher_ja": {
-    "text": "ଜାପାନୀୟ",
-    "description": "ଭାଷା ସ୍ୱିଚରରେ ଜାପାନୀୟ ଭାଷା ବିକଳ୍ପ।"
-  },
-  "locale_switcher_es": {
-    "text": "ସ୍ପାନିସ୍",
-    "description": "ଭାଷା ସ୍ୱିଚରରେ ସ୍ପାନିସ୍ ଭାଷା ବିକଳ୍ପ।"
   }
 }

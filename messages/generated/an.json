@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes finas y delicadas rellenas con Nutella, fresas frescas y nata montada.",
     "description": "Descripción de la receta Crepes Francesas."
-  },
-  "locale_switcher_label": {
-    "text": "Idioma",
-    "description": "Etiqueta accesible ta o desplegable d'intercambiador de idioma en a cabecera."
-  },
-  "locale_switcher_en": {
-    "text": "Anglés",
-    "description": "Opción d'idioma anglés en o intercambiador de llingua."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opción d'idioma xaponés en o intercambiador de llingua."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Opción d'idioma español en o intercambiador de llingua."
   }
 }

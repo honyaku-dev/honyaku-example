@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "ሚና ያለውና የተሰራ ክሬፕስ ከኑቴላ፣ አዲስ ፈረንጅ ፍራንድስ እና ተንቀሳቃሽ ክሬም ጋር የተሞላ።",
     "description": "የፈረንሳይ ክሬፕስ አሰራር መግለጫ።"
-  },
-  "locale_switcher_label": {
-    "text": "ቋንቋ",
-    "description": "በራስጌ ያለው የቋንቋ ለውጥ አማራጭ የሚጠቀሙበት አሰራር።"
-  },
-  "locale_switcher_en": {
-    "text": "እንግሊዝኛ",
-    "description": "በቋንቋ ለውጥ ውስጥ ያለው የእንግሊዝኛ አማራጭ።"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "በቋንቋ ለውጥ ውስጥ ያለው የጃፓንኛ አማራጭ።"
-  },
-  "locale_switcher_es": {
-    "text": "ስፓኒሽ",
-    "description": "በቋንቋ ለውጥ ውስጥ ያለው የስፓንኛ አማራጭ።"
   }
 }

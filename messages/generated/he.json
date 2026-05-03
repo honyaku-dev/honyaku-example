@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "קרפים דקים ועדינים ממולאים בנוטלה, תותים טריים וקצפת.",
     "description": "תיאור מתכון הקרפ הצרפתי."
-  },
-  "locale_switcher_label": {
-    "text": "שפה",
-    "description": "תווית נגישה לרשימת הבחירה של השפה בכותרת העליונה."
-  },
-  "locale_switcher_en": {
-    "text": "אנגלית",
-    "description": "אפשרות שפה אנגלית ברשימת הבחירה."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "אפשרות שפה יפנית ברשימת הבחירה."
-  },
-  "locale_switcher_es": {
-    "text": "ספרדית",
-    "description": "אפשרות שפה ספרדית ברשימת הבחירה."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tynnar, fínar pannukøkur fyltar við Nutella, ferskum jarðberjum og pískaðari rjóma.",
     "description": "Lýsing av uppskriftini French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Mál",
-    "description": "Atkomuligt merki fyri málsveljaran í høvuðslínuni."
-  },
-  "locale_switcher_en": {
-    "text": "Enskt",
-    "description": "Enskt málval í málsveljaranum."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanskt málval í málsveljaranum."
-  },
-  "locale_switcher_es": {
-    "text": "Spanskt",
-    "description": "Spanskt málval í málsveljaranum."
   }
 }

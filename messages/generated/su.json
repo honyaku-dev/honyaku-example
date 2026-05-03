@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes ipis sareng hampang dieusian ku Nutella, stroberi seger, jeung krim kocok.",
     "description": "Pedaran ngeunaan resep Crepes Perancis."
-  },
-  "locale_switcher_label": {
-    "text": "Basa",
-    "description": "Labél aksésibel pikeun dropdown pangaluyuan basa dina header."
-  },
-  "locale_switcher_en": {
-    "text": "Basa Inggris",
-    "description": "Pilihan basa Inggris dina pangaluyuan lokal."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Pilihan basa Jepang dina pangaluyuan lokal."
-  },
-  "locale_switcher_es": {
-    "text": "Basa Spanyol",
-    "description": "Pilihan basa Spanyol dina pangaluyuan lokal."
   }
 }

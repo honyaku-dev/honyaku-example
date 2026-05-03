@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crêpes fines et délicates garnies de Nutella, fraises fraîches et crème fouettée.",
     "description": "Description de la recette Crêpes Françaises."
-  },
-  "locale_switcher_label": {
-    "text": "Langue",
-    "description": "Étiquette accessible pour le menu déroulant de sélection de langue dans l'en-tête."
-  },
-  "locale_switcher_en": {
-    "text": "Anglais",
-    "description": "Option de langue anglaise dans le sélecteur de langue."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Option de langue japonaise dans le sélecteur de langue."
-  },
-  "locale_switcher_es": {
-    "text": "Espagnol",
-    "description": "Option de langue espagnole dans le sélecteur de langue."
   }
 }

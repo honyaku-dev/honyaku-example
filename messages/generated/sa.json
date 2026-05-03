@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "पतला, सुसूक्ष्मः क्रेप्स्, नुटेल्ला, ताजाः स्ट्रॉबेरी, तथा फेंटितक्रीमेन पूरितः।",
     "description": "फ्रेंच् क्रेप्स् पाकस्य विवरणम्।"
-  },
-  "locale_switcher_label": {
-    "text": "भाषा",
-    "description": "शीर्षलेखस्य भाषापरिवर्तकस्य सूचनाम्।"
-  },
-  "locale_switcher_en": {
-    "text": "आङ्ग्लभाषा",
-    "description": "भाषापरिवर्तके आङ्ग्लभाषाया विकल्पः।"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "भाषापरिवर्तके जापानीभाषाया विकल्पः।"
-  },
-  "locale_switcher_es": {
-    "text": "स्पॅनिश्",
-    "description": "भाषापरिवर्तके स्पेनिश् भाषाया विकल्पः।"
   }
 }

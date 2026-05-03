@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Thin, delicate crepes filled with Nutella, fresh strawberries, and whipped cream.",
     "description": "French Crepes receta ñe’ẽme’ẽ."
-  },
-  "locale_switcher_label": {
-    "text": "Ñe’ẽ",
-    "description": "Etiqueta oñemohendáva ñe’ẽ mokõi rehegua oñembojoajuva’ekue yvyra yvoty reheve."
-  },
-  "locale_switcher_en": {
-    "text": "Ingles",
-    "description": "Inglés ñe’ẽ opción yvoty rehegua."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japones ñe’ẽ opción yvoty rehegua."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Español ñe’ẽ opción yvoty rehegua."
   }
 }

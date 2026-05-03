@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes ochepa, ofewa okhala ndi Nutella, strawberi watsopano, ndi kirimu wopukutidwa.",
     "description": "Kufotokozera kwa mapangidwe a Crepes za ku France."
-  },
-  "locale_switcher_label": {
-    "text": "Chilankhulo",
-    "description": "Dzina lopezeka kwa wosankha chilankhulo mu chikwatu cha mutu."
-  },
-  "locale_switcher_en": {
-    "text": "Chingerezi",
-    "description": "Kusankha chilankhulo cha Chingerezi mu wosankha chilankhulo."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Kusankha chilankhulo cha Chijapani mu wosankha chilankhulo."
-  },
-  "locale_switcher_es": {
-    "text": "Chisipanishi",
-    "description": "Kusankha chilankhulo cha Chisipanishi mu wosankha chilankhulo."
   }
 }

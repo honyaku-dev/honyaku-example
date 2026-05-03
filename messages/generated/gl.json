@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes finos e delicados recheos con Nutella, amorodos frescos e crema batida.",
     "description": "Descrición da receita Crepes Franceses."
-  },
-  "locale_switcher_label": {
-    "text": "Idioma",
-    "description": "Etiqueta accesible para o despregable de cambio de idioma no cabeceiro."
-  },
-  "locale_switcher_en": {
-    "text": "Inglés",
-    "description": "Opción do idioma inglés no cambiador de localidade."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opción do idioma xaponés no cambiador de localidade."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Opción do idioma español no cambiador de localidade."
   }
 }

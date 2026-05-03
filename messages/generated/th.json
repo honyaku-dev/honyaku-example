@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "เครบบางละเอียดที่ใส่นูเทลล่า สตรอว์เบอร์รีสด และวิปครีม",
     "description": "คำอธิบายของสูตรเครปฝรั่งเศส"
-  },
-  "locale_switcher_label": {
-    "text": "ภาษา",
-    "description": "ป้ายที่เข้าถึงได้สำหรับเมนูเปลี่ยนภาษาในส่วนหัว"
-  },
-  "locale_switcher_en": {
-    "text": "อังกฤษ",
-    "description": "ตัวเลือกภาษาอังกฤษในเมนูเปลี่ยนภาษา"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "ตัวเลือกภาษาญี่ปุ่นในเมนูเปลี่ยนภาษา"
-  },
-  "locale_switcher_es": {
-    "text": "สเปน",
-    "description": "ตัวเลือกภาษาสเปนในเมนูเปลี่ยนภาษา"
   }
 }

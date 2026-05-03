@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krepë të holla dhe delikate të mbushura me Nutella, luleshtrydhe të freskëta, dhe krem të rrahur.",
     "description": "Përshkrimi i recetës Krepë Franceze."
-  },
-  "locale_switcher_label": {
-    "text": "Gjuha",
-    "description": "Etiketa e aksesueshme për rënien e menusë së zgjedhjes së gjuhës në krye."
-  },
-  "locale_switcher_en": {
-    "text": "Anglisht",
-    "description": "Opsioni i gjuhës angleze në zgjedhësin e gjuhës."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opsioni i gjuhës japoneze në zgjedhësin e gjuhës."
-  },
-  "locale_switcher_es": {
-    "text": "Spanjisht",
-    "description": "Opsioni i gjuhës spanjolle në zgjedhësin e gjuhës."
   }
 }

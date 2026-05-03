@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "পাতলা, নরম ক্রেপস যা নিউটেলা, তাজা স্ট্রবেরি, এবং হুইপড ক্রিম দিয়ে ভর্তি।",
     "description": "ফরাসি ক্রেপস রেসিপির বর্ণনা।"
-  },
-  "locale_switcher_label": {
-    "text": "ভাষা",
-    "description": "হেডারে ভাষা স্যুইচারের ড্রপডাউন এর জন্য অ্যাক্সেসযোগ্য লেবেল।"
-  },
-  "locale_switcher_en": {
-    "text": "ইংরেজি",
-    "description": "লোকেল স্যুইচারে ইংরেজি ভাষার অপশন।"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "লোকেল স্যুইচারে জাপানি ভাষার অপশন।"
-  },
-  "locale_switcher_es": {
-    "text": "স্প্যানিশ",
-    "description": "লোকেল স্যুইচারে স্প্যানিশ ভাষার অপশন।"
   }
 }

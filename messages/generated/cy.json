@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Creps tenau, delicaet wedi'u llenwi gyda Nutella, mefus ffres, a hufen wedi'i chwipio.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Iaith",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Saesneg",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Sbaeneg",
-    "description": "Spanish language option in the locale switcher."
   }
 }

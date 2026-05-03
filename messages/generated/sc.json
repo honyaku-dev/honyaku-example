@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes finas e delicadas imbottidas cun Nutella, fragolas frescas, e crema montada.",
     "description": "Descritzione de sa ricetta Crepes Frantzesas."
-  },
-  "locale_switcher_label": {
-    "text": "Limba",
-    "description": "Etichetta accessìbile po su menu a cascada de su cambiador de limba in su testu."
-  },
-  "locale_switcher_en": {
-    "text": "Inglese",
-    "description": "Opzione de limba inglese in su cambiador de limba."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opzione de limba giapponese in su cambiador de limba."
-  },
-  "locale_switcher_es": {
-    "text": "Spagnolu",
-    "description": "Opzione de limba spagnola in su cambiador de limba."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krep nipis dan halus diisi dengan Nutella, strawberi segar, dan krim putar.",
     "description": "Deskripsi resipi Krep Perancis."
-  },
-  "locale_switcher_label": {
-    "text": "Bahasa",
-    "description": "Label boleh diakses untuk dropdown penukar bahasa di tajuk utama."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "Pilihan bahasa Inggeris dalam penukar lokasi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Pilihan bahasa Jepun dalam penukar lokasi."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Pilihan bahasa Sepanyol dalam penukar lokasi."
   }
 }

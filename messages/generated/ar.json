@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "كريب رقيق ورقيق محشو بالنيتولا، الفراولة الطازجة، والكريمة المخفوقة.",
     "description": "وصف وصفة الكريب الفرنسي."
-  },
-  "locale_switcher_label": {
-    "text": "اللغة",
-    "description": "تسمية وصول للوحة اختيار اللغة المنسدلة في الرأس."
-  },
-  "locale_switcher_en": {
-    "text": "الإنجليزية",
-    "description": "خيار اللغة الإنجليزية في مفتاح تبديل اللغة."
-  },
-  "locale_switcher_ja": {
-    "text": "اليابانية",
-    "description": "خيار اللغة اليابانية في مفتاح تبديل اللغة."
-  },
-  "locale_switcher_es": {
-    "text": "الإسبانية",
-    "description": "خيار اللغة الإسبانية في مفتاح تبديل اللغة."
   }
 }

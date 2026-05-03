@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes yu neex, yu lekk ci Nutella, strawberries yu rafet, ak cream bu xam xam.",
     "description": "Tàmbali French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Lëngu",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Spanish language option in the locale switcher."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crespellas delicat e finemente plenas con Nutella, frutillas fresce, e crema montate.",
     "description": "Description del receta Crespellas Francese."
-  },
-  "locale_switcher_label": {
-    "text": "Lingua",
-    "description": "Etiqueta accessible pro le menu a disceder del lingua in le capite."
-  },
-  "locale_switcher_en": {
-    "text": "Anglese",
-    "description": "Optione de lingua anglese in le selector de lingua."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Optione de lingua japoneze in le selector de lingua."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Optione de lingua espagnole in le selector de lingua."
   }
 }

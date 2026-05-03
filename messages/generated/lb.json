@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Dënn, delikat Crêpes gefëllt mat Nutella, frëschen Äerdbieren, an geschloener Creme.",
     "description": "Beschreiwung vun der Franséisch Crêpes Rezept."
-  },
-  "locale_switcher_label": {
-    "text": "Sprooch",
-    "description": "Accessibel Label fir d'Sproochwiessel Dropdown am Header."
-  },
-  "locale_switcher_en": {
-    "text": "Englesch",
-    "description": "Englesch Sproochoptioun am Locale Switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanesch Sproochoptioun am Locale Switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Spuenesch",
-    "description": "Spuenesch Sproochoptioun am Locale Switcher."
   }
 }

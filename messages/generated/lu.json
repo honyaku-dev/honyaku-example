@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes ya mpasi, ya mpasi sana, ya kulimbikila na Nutella, strawberries ya mpya, na cream ya whipped.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Lusansu",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Lingeleshi",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Esipanyoli",
-    "description": "Spanish language option in the locale switcher."
   }
 }

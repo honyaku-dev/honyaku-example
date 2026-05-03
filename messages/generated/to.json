@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes mālohi lahi 'oku 'i ai ha Nutella, strawberries fo'ou, pea mo e cream 'oku to'o.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Lea faka-Tonga",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Sāpele",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Sipania",
-    "description": "Spanish language option in the locale switcher."
   }
 }

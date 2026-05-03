@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Maldikaj, delikataj krepes plenigitaj per Nutella, freŝaj fragoj, kaj batis kremon.",
     "description": "Priskribo de la recepto Francaj Krepes."
-  },
-  "locale_switcher_label": {
-    "text": "Lingvo",
-    "description": "Alirebla labelo por la lingva ŝanĝilo en la kaplinio."
-  },
-  "locale_switcher_en": {
-    "text": "Angla",
-    "description": "Angla lingvo-opcio en la lingva ŝanĝilo."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japana lingvo-opcio en la lingva ŝanĝilo."
-  },
-  "locale_switcher_es": {
-    "text": "Hispana",
-    "description": "Hispana lingvo-opcio en la lingva ŝanĝilo."
   }
 }

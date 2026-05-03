@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tenoučké, jemné palačinky plněné Nutellou, čerstvými jahodami a šlehačkou.",
     "description": "Popis receptu Francouzské palačinky."
-  },
-  "locale_switcher_label": {
-    "text": "Jazyk",
-    "description": "Přístupný štítek pro rozbalovací nabídku přepínače jazyků v hlavičce."
-  },
-  "locale_switcher_en": {
-    "text": "Angličtina",
-    "description": "Volba anglického jazyka v přepínači lokalizace."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Volba japonského jazyka v přepínači lokalizace."
-  },
-  "locale_switcher_es": {
-    "text": "Španělština",
-    "description": "Volba španělského jazyka v přepínači lokalizace."
   }
 }

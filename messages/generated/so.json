@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krebs khafiif ah oo jilicsan oo buuxda leh Nutella, strawberries cusub, iyo kareem la garaacay.",
     "description": "Sharaxaadda cunto karinta Krebs Faransiis."
-  },
-  "locale_switcher_label": {
-    "text": "Luqadda",
-    "description": "Summad la heli karo oo loogu talagalay doorashada luqadda ee madaxa."
-  },
-  "locale_switcher_en": {
-    "text": "Ingiriisi",
-    "description": "Ikhtiyaarka luqadda Ingiriiska ee beddelaha luqadda."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Ikhtiyaarka luqadda Jabaan ee beddelaha luqadda."
-  },
-  "locale_switcher_es": {
-    "text": "Isbaanish",
-    "description": "Ikhtiyaarka luqadda Isbaanishka ee beddelaha luqadda."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Nutella, taze çilek ve krem şanti ile doldurulmuş ince, narin krepler.",
     "description": "Fransız Krep tarifinin açıklaması."
-  },
-  "locale_switcher_label": {
-    "text": "Dil",
-    "description": "Başlıktaki dil değiştirme açılır menüsü için erişilebilir etiket."
-  },
-  "locale_switcher_en": {
-    "text": "İngilizce",
-    "description": "Yer değiştirme anahtarındaki İngilizce dil seçeneği."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Yer değiştirme anahtarındaki Japonca dil seçeneği."
-  },
-  "locale_switcher_es": {
-    "text": "İspanyolca",
-    "description": "Yer değiştirme anahtarındaki İspanyolca dil seçeneği."
   }
 }

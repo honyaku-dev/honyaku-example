@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Iikrepi ezincinci nezithambileyo ezigcwele iNutella, iistrawberry ezitsha, kunye nekhrimu eqhwetyiweyo.",
     "description": "Inkcazo yeresiphi yeFrench Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Ulwimi",
-    "description": "Ilabheli efikelelelekayo yokutshintsha ulwimi kumphenduli wendawo ephezulu."
-  },
-  "locale_switcher_en": {
-    "text": "IsiNgesi",
-    "description": "Ukhetho lolwimi lwesiNgesi kumphenduli wolwimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Ukhetho lolwimi lwesiJapan kumphenduli wolwimi."
-  },
-  "locale_switcher_es": {
-    "text": "IsiSpanish",
-    "description": "Ukhetho lolwimi lwesiSpanish kumphenduli wolwimi."
   }
 }

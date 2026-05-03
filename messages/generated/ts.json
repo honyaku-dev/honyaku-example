@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes leyinyenyana, leyi nga riki na moya leyipfukaka leyi tivelaka Nutella, masipala matsongo, ni swikombelo swa swikandza.",
     "description": "Nhlamuselo ya swiresipe swa French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Rurimi",
-    "description": "Xiphemu lexi endlaka leswaku ku cinca ririmi eka xihloko."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "Nkombiso wa ririmi ra Xinghezi eka ku cinca ka ririmi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Nkombiso wa ririmi ra Xijapani eka ku cinca ka ririmi."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Nkombiso wa ririmi ra Xihispaniya eka ku cinca ka ririmi."
   }
 }

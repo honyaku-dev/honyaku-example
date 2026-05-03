@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "አርከትና ዝኾነ ክሬፕስ ብኑተላ፣ ናይነት ስትራበሪዎች እና ዝተፈነጠ ክሬም ዝተሞላ።",
     "description": "መግለጺ ናይ ፈረንሳይ ክሬፕስ ክረፍቲ።"
-  },
-  "locale_switcher_label": {
-    "text": "ቋንቋ",
-    "description": "በራስ ክፍል የቋንቋ ለውጥ ዝርዝር ለማሳያ ተደላላፊ መለያ።"
-  },
-  "locale_switcher_en": {
-    "text": "እንግሊዝኛ",
-    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የእንግሊዝኛ አማራጭ።"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የጃፓንኛ አማራጭ።"
-  },
-  "locale_switcher_es": {
-    "text": "ስፓኒሽ",
-    "description": "በቋንቋ ለውጥ መሳሪያ ውስጥ የስፓኒሽ አማራጭ።"
   }
 }

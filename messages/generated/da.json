@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tynde, delikate pandekager fyldt med Nutella, friske jordbær og flødeskum.",
     "description": "Beskrivelse af de franske pandekageopskrifter."
-  },
-  "locale_switcher_label": {
-    "text": "Sprog",
-    "description": "Tilgængelig etiket for sprogskifter-dropdown i headeren."
-  },
-  "locale_switcher_en": {
-    "text": "Engelsk",
-    "description": "Engelsk sprogindstilling i sprogskifteren."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japansk sprogindstilling i sprogskifteren."
-  },
-  "locale_switcher_es": {
-    "text": "Spansk",
-    "description": "Spansk sprogindstilling i sprogskifteren."
   }
 }

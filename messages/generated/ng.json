@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes dzOshilongo, dzOli na Nutella, strawberries yOmwene, na whipped cream.",
     "description": "Okutaholoka kOmakwawo gO French Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Oshindonga",
-    "description": "Oshityo shOhambo shOshowo oshindonga shOshoka mOmusheno gOheader."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "Oshindonga shOEnglish mOmusheno gOshindonga."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Oshindonga shOJapanese mOmusheno gOshindonga."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Oshindonga shOSpanish mOmusheno gOshindonga."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes irqaq u delikati mimlija b'Nutella, freski ta' strawberries, u krema mħawra.",
     "description": "Deskrizzjoni tar-riċetta Crepes Franċiżi."
-  },
-  "locale_switcher_label": {
-    "text": "Lingwa",
-    "description": "Tikketta aċċessibbli għad-dropdown tal-bidla tal-lingwa fil-header."
-  },
-  "locale_switcher_en": {
-    "text": "Ingliż",
-    "description": "Għażla tal-lingwa Ingliża fil-bidla tal-lokalità."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Għażla tal-lingwa Ġappuniża fil-bidla tal-lokalità."
-  },
-  "locale_switcher_es": {
-    "text": "Spanjol",
-    "description": "Għażla tal-lingwa Spanjola fil-bidla tal-lokalità."
   }
 }

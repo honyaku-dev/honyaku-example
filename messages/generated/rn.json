@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes zoroshye, zifise umwero w'ibinyomoro vya Nutella, imineke mishasha, hamwe n'akayunguruzo k'amavuta.",
     "description": "Ibisobanuro vy'uburyo bwo guteka Crepes z'Ubufaransa."
-  },
-  "locale_switcher_label": {
-    "text": "Ururimi",
-    "description": "Ikarita ishobora kugerwaho yerekana ururimi rwa dropdown mu mutwe."
-  },
-  "locale_switcher_en": {
-    "text": "Icongereza",
-    "description": "Amahitamwo y'ururimi rw'icongereza mu guhindura ururimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Amahitamwo y'ururimi rw'Ubuyapani mu guhindura ururimi."
-  },
-  "locale_switcher_es": {
-    "text": "Ispanyoli",
-    "description": "Amahitamwo y'ururimi rw'igisipanyoli mu guhindura ururimi."
   }
 }

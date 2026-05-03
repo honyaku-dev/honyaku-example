@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "နူးညံ့ပါးလွှာသော ခရက်ပ်များကို နူတဲလာ၊ အသစ်ပြုတ် စတော်ဘယ်ရီနဲ့ ဂျွပ်ထွက်ထားသော အရည်ဖြင့် ပြည့်စုံစွာ ပြုလုပ်ထားသည်။",
     "description": "ပြင်သစ် ခရက်ပ် ချက်ပြုတ်နည်း အကြောင်းအရာ။"
-  },
-  "locale_switcher_label": {
-    "text": "ဘာသာစကား",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "အင်္ဂလိပ်",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "စပိန်",
-    "description": "Spanish language option in the locale switcher."
   }
 }

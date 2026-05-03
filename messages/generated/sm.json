@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes manifinifi ma mālūlū ua tumu i Nutella, tua'i fou, ma sua mamago.",
     "description": "Fa'amatalaga o le fua Crepes Faranisi."
-  },
-  "locale_switcher_label": {
-    "text": "Gagana",
-    "description": "Fa'ailoga maua mo le lisi liliu gagana i le ulutala."
-  },
-  "locale_switcher_en": {
-    "text": "Igilisi",
-    "description": "Filifiliga o le gagana Igilisi i le lisi liliu gagana."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Filifiliga o le gagana Iapani i le lisi liliu gagana."
-  },
-  "locale_switcher_es": {
-    "text": "Sipaniolo",
-    "description": "Filifiliga o le gagana Sipaniolo i le lisi liliu gagana."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "თხელი, ნაზი კრეპები ნუტელათი, ახალ მარწყვებით და ათქვეფილი კრემით შევსებული.",
     "description": "საფრანგეთის კრეპების რეცეპტის აღწერა."
-  },
-  "locale_switcher_label": {
-    "text": "ენა",
-    "description": "ხელმისაწვდომი ლეიბლი ენის გადართვის dropdown-ში ჰედერში."
-  },
-  "locale_switcher_en": {
-    "text": "ინგლისური",
-    "description": "ინგლისური ენის არჩევანი ენის გადართვაში."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "იაპონური ენის არჩევანი ენის გადართვაში."
-  },
-  "locale_switcher_es": {
-    "text": "ესპანური",
-    "description": "ესპანური ენის არჩევანი ენის გადართვაში."
   }
 }

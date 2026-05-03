@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "𐬚𐬋𐬙𐬋𐬥𐬀𐬙𐬋𐬮𐬀 𐬙𐬀𐬭𐬂𐬙𐬋, 𐬥𐬇𐬙𐬆𐬭𐬋𐬙𐬋, 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬱𐬭𐬙𐬭𐬋𐬙𐬋, 𐬯𐬁𐬙𐬀𐬭𐬌𐬙𐬁 𐬢𐬭𐬀𐬙𐬀𐬭𐬁𐬙𐬋.",
     "description": "𐬞𐬆𐬭𐬀𐬣𐬀𐬎 𐬗𐬭𐬊𐬞𐬀𐬯 𐬓𐬀𐬰𐬭𐬀𐬌 𐬯𐬙𐬀𐬭𐬁𐬙."
-  },
-  "locale_switcher_label": {
-    "text": "𐬯𐬀𐬭𐬌𐬨𐬀𐬥𐬀𐬊𐬘𐬀𐬥𐬀𐬌𐬙𐬀",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "𐬁𐬥𐬕𐬌𐬱",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "𐬰𐬀𐬉𐬞𐬀𐬌𐬙𐬀",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "𐬁𐬯𐬞𐬀𐬚𐬀𐬎𐬎𐬀𐬌𐬙𐬀",
-    "description": "Spanish language option in the locale switcher."
   }
 }

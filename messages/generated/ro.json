@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Clătite subțiri și delicate umplute cu Nutella, căpșuni proaspete și frișcă bătută.",
     "description": "Descrierea rețetei Clătite franțuzești."
-  },
-  "locale_switcher_label": {
-    "text": "Limbă",
-    "description": "Eticheta accesibilă pentru meniul dropdown de schimbare a limbii din antet."
-  },
-  "locale_switcher_en": {
-    "text": "Engleză",
-    "description": "Opțiunea limbii engleze în selectorul de limbă."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opțiunea limbii japoneze în selectorul de limbă."
-  },
-  "locale_switcher_es": {
-    "text": "Spaniolă",
-    "description": "Opțiunea limbii spaniole în selectorul de limbă."
   }
 }

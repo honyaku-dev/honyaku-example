@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Vuolgit, ruoššat crepes šaddat Nutella, ođđa máhttu ja vahkkuš.",
     "description": "Fránska Crepes recepta máŋggaid."
-  },
-  "locale_switcher_label": {
-    "text": "Giella",
-    "description": "Giella válddolaš dropdown headeris."
-  },
-  "locale_switcher_en": {
-    "text": "Englannagiella",
-    "description": "Englannagiella váldde locale switcheris."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japála giella váldde locale switcheris."
-  },
-  "locale_switcher_es": {
-    "text": "Spánskka",
-    "description": "Spánskka giella váldde locale switcheris."
   }
 }

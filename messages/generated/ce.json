@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Нутелла, вац гулх кIант, взбитые сливки цуьнан хьан шуьйре креьпеш.",
     "description": "Француз Крепеш рецептын дийцар."
-  },
-  "locale_switcher_label": {
-    "text": "Мотт",
-    "description": "Хилар дийцар дойла цуьнан аьлча хила."
-  },
-  "locale_switcher_en": {
-    "text": "Английчо",
-    "description": "Английчо мотт цуьнан хила."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Япон мотт цуьнан хила."
-  },
-  "locale_switcher_es": {
-    "text": "Испан мотт",
-    "description": "Испан мотт цуьнан хила."
   }
 }

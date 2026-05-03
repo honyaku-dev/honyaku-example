@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes tipis dan lembut diisi dengan Nutella, stroberi segar, dan krim kocok.",
     "description": "Deskripsi resep Crepes Perancis."
-  },
-  "locale_switcher_label": {
-    "text": "Bahasa",
-    "description": "Label aksesibel untuk dropdown pengalih bahasa di header."
-  },
-  "locale_switcher_en": {
-    "text": "Inggris",
-    "description": "Opsi bahasa Inggris dalam pengalih lokal."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opsi bahasa Jepang dalam pengalih lokal."
-  },
-  "locale_switcher_es": {
-    "text": "Spanyol",
-    "description": "Opsi bahasa Spanyol dalam pengalih lokal."
   }
 }

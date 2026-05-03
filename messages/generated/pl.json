@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Cienkie, delikatne naleśniki nadziewane Nutellą, świeżymi truskawkami i bitą śmietaną.",
     "description": "Opis przepisu na francuskie naleśniki."
-  },
-  "locale_switcher_label": {
-    "text": "Język",
-    "description": "Etykieta dostępności dla rozwijanego przełącznika języka w nagłówku."
-  },
-  "locale_switcher_en": {
-    "text": "Angielski",
-    "description": "Opcja języka angielskiego w przełączniku języków."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opcja języka japońskiego w przełączniku języków."
-  },
-  "locale_switcher_es": {
-    "text": "Hiszpański",
-    "description": "Opcja języka hiszpańskiego w przełączniku języków."
   }
 }

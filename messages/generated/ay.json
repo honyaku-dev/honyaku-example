@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Phisqa, suman crepes Nutella, phisqa frutilla, ukhamaraki whip cream.",
     "description": "French Crepes manq'at aruskipañani."
-  },
-  "locale_switcher_label": {
-    "text": "Aruskipawi",
-    "description": "Aruskipawi qillqt'awinak uñt'ayasiñapataki."
-  },
-  "locale_switcher_en": {
-    "text": "Inglés",
-    "description": "Inglés aruskipawi qillqt'awi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japón aruskipawi qillqt'awi."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Español aruskipawi qillqt'awi."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Ngā kiripēhi māmā, ātaahua kua kīia ki te Nutella, ngā hua rōpere hou, me te kirīmi pāhi.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Reo",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Ingarangi",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Paniora",
-    "description": "Spanish language option in the locale switcher."
   }
 }

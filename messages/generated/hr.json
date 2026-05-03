@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Tanki, nježni crepsi punjeni Nutellom, svježim jagodama i šlagom.",
     "description": "Opis recepta za Francuske Crepse."
-  },
-  "locale_switcher_label": {
-    "text": "Jezik",
-    "description": "Pristupačna oznaka za padajući izbornik za promjenu jezika u zaglavlju."
-  },
-  "locale_switcher_en": {
-    "text": "Engleski",
-    "description": "Opcija za engleski jezik u izboru jezika."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opcija za japanski jezik u izboru jezika."
-  },
-  "locale_switcher_es": {
-    "text": "Španjolski",
-    "description": "Opcija za španjolski jezik u izboru jezika."
   }
 }

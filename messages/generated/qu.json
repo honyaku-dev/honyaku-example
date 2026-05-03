@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Llwina, sumaq crepes Nutella, q'omer frutilla, ch'uwa k'uchu creammi.",
     "description": "French Crepes mikuna rimasqa."
-  },
-  "locale_switcher_label": {
-    "text": "Rimay",
-    "description": "Rimay llikaykuy headerpi."
-  },
-  "locale_switcher_en": {
-    "text": "English",
-    "description": "Inlis rimay llikaykuy."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japon rimay llikaykuy."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Español rimay llikaykuy."
   }
 }

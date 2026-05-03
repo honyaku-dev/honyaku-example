@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes zoroshye kandi zinononsoye zishyirwamo Nutella, amacunga mashya, n'ifu y'inkoko.",
     "description": "Ibisobanuro by'uburyo bwo guteka Crepes z'Abafaransa."
-  },
-  "locale_switcher_label": {
-    "text": "Ururimi",
-    "description": "Icyapa cyorohereza guhindura ururimi mu mutwe."
-  },
-  "locale_switcher_en": {
-    "text": "Icyongereza",
-    "description": "Amahitamo y'ururimi rw'Icyongereza mu guhindura ururimi."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Amahitamo y'ururimi rw'Igipapani mu guhindura ururimi."
-  },
-  "locale_switcher_es": {
-    "text": "Icyesipanyolo",
-    "description": "Amahitamo y'ururimi rw'Icyesipanyolo mu guhindura ururimi."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Ирацәах crepesқәа Nutella, иашықәса строберри, крем шышәқәа.",
     "description": "Француз Крепқәа ашышьҭра ахәаҧшра."
-  },
-  "locale_switcher_label": {
-    "text": "Аҧсшәа",
-    "description": "Ажурнал ахь иақәхәы аганахьала аҳәара."
-  },
-  "locale_switcher_en": {
-    "text": "Англиски",
-    "description": "Англиски аԥсшәа ахаркәа."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Аапон аҧсшәа ахаркәа."
-  },
-  "locale_switcher_es": {
-    "text": "Испански",
-    "description": "Аиспан аҧсшәа ахаркәа."
   }
 }

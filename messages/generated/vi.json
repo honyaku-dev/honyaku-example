@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Bánh crepes mỏng, tinh tế nhân Nutella, dâu tây tươi và kem tươi.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Ngôn Ngữ",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Tiếng Anh",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Tiếng Tây Ban Nha",
-    "description": "Spanish language option in the locale switcher."
   }
 }

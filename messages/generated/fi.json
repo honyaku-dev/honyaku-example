@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Ohuet, herkät vohvelit, jotka on täytetty Nutellalla, tuoreilla mansikoilla ja kermavaahdolla.",
     "description": "Ranskalaiset vohvelit -reseptin kuvaus."
-  },
-  "locale_switcher_label": {
-    "text": "Kieli",
-    "description": "Esteetön tunniste kielivalitsimelle otsikossa."
-  },
-  "locale_switcher_en": {
-    "text": "Englanti",
-    "description": "Englannin kielen valinta kielivalitsimessa."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanin kielen valinta kielivalitsimessa."
-  },
-  "locale_switcher_es": {
-    "text": "Espanja",
-    "description": "Espanjan kielen valinta kielivalitsimessa."
   }
 }

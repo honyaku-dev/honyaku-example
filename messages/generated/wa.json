@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crêpes finesses eyet delicates plenes avou du Nutella, des fraises freûdes eyet de la crème fouettée.",
     "description": "Descrîption del ricete Crêpes francesès."
-  },
-  "locale_switcher_label": {
-    "text": "Lingaedje",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Englès",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Espanwå",
-    "description": "Spanish language option in the locale switcher."
   }
 }

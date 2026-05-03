@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes finos e delicados recheados com Nutella, morangos frescos e chantilly.",
     "description": "Descrição da receita de Crepes Franceses."
-  },
-  "locale_switcher_label": {
-    "text": "Idioma",
-    "description": "Rótulo acessível para o menu suspenso de seleção de idioma no cabeçalho."
-  },
-  "locale_switcher_en": {
-    "text": "Inglês",
-    "description": "Opção de idioma inglês no seletor de localidade."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Opção de idioma japonês no seletor de localidade."
-  },
-  "locale_switcher_es": {
-    "text": "Espanhol",
-    "description": "Opção de idioma espanhol no seletor de localidade."
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "薄く繊細なクレープにヌテラ、新鮮なイチゴ、生クリームを詰めたデザート。",
     "description": "フレンチクレープのレシピの説明。"
-  },
-  "locale_switcher_label": {
-    "text": "言語",
-    "description": "ヘッダーの言語切替ドロップダウンのアクセシブルラベル。"
-  },
-  "locale_switcher_en": {
-    "text": "英語",
-    "description": "ロケールスイッチャーの英語オプション。"
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "ロケールスイッチャーの日本語オプション。"
-  },
-  "locale_switcher_es": {
-    "text": "スペイン語",
-    "description": "ロケールスイッチャーのスペイン語オプション。"
   }
 }

@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Plāni, smalki krepi, pildīti ar Nutellu, svaigiem zemenēm un putukrējumu.",
     "description": "Franču krepu receptes apraksts."
-  },
-  "locale_switcher_label": {
-    "text": "Valoda",
-    "description": "Pieejamības etiķete valodas pārslēdzēja nolaižamajam sarakstam galvenē."
-  },
-  "locale_switcher_en": {
-    "text": "Angļu",
-    "description": "Angļu valodas opcija valodas pārslēdzējā."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japāņu valodas opcija valodas pārslēdzējā."
-  },
-  "locale_switcher_es": {
-    "text": "Spāņu",
-    "description": "Spāņu valodas opcija valodas pārslēdzējā."
   }
 }

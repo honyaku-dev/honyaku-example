@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Nozik, nozik kreplar Nutella, yangi qulupnay va qaymoq bilan to'ldirilgan.",
     "description": "Fransuz Kreplari retsepti ta'rifi."
-  },
-  "locale_switcher_label": {
-    "text": "Til",
-    "description": "Sarlavhadagi til almashgich uchun kirish yorlig'i."
-  },
-  "locale_switcher_en": {
-    "text": "Inglizcha",
-    "description": "Til almashgichdagi ingliz tili varianti."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Til almashgichdagi yapon tili varianti."
-  },
-  "locale_switcher_es": {
-    "text": "Ispancha",
-    "description": "Til almashgichdagi ispan tili varianti."
   }
 }

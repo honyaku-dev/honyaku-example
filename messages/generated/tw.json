@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes a ɛyɛ hare na ɛyɛ fɛfɛɛfɛ a wɔde Nutella, strawberries foforo, ne whipped cream hyɛ mu.",
     "description": "French Crepes aduane no nkyerɛase."
-  },
-  "locale_switcher_label": {
-    "text": "Kasa",
-    "description": "Kasa a wɔde bɛsesaa kasa no wɔ header no mu."
-  },
-  "locale_switcher_en": {
-    "text": "Borɔfo",
-    "description": "Borɔfo kasa a wɔde yɛ locale switcher no mu."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japan kasa a wɔde yɛ locale switcher no mu."
-  },
-  "locale_switcher_es": {
-    "text": "Español",
-    "description": "Spanish kasa a wɔde yɛ locale switcher no mu."
   }
 }

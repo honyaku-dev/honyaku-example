@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Krepsên nerm û nazik tije kirî bi Nutella, tûşeya tazeyê, û kremê şîrîn.",
     "description": "Danasîna reseptê Krepsên Fransî."
-  },
-  "locale_switcher_label": {
-    "text": "Ziman",
-    "description": "Nîşana gihîştinê ya bo hilbijartina zimanê di dropdownê ser sernavê de."
-  },
-  "locale_switcher_en": {
-    "text": "Îngilîzî",
-    "description": "Vebijarka zimanê Îngilîzî di hilbijartina zimanê de."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Vebijarka zimanê Japonî di hilbijartina zimanê de."
-  },
-  "locale_switcher_es": {
-    "text": "Îspanyolî",
-    "description": "Vebijarka zimanê Îspanyolî di hilbijartina zimanê de."
   }
 }

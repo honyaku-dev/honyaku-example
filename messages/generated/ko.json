@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "누텔라, 신선한 딸기, 휘핑 크림을 채운 얇고 섬세한 크레페.",
     "description": "프렌치 크레페 레시피의 설명입니다."
-  },
-  "locale_switcher_label": {
-    "text": "언어",
-    "description": "헤더의 언어 전환 드롭다운에 대한 접근 가능한 라벨입니다."
-  },
-  "locale_switcher_en": {
-    "text": "영어",
-    "description": "로케일 스위처에서 영어 옵션입니다."
-  },
-  "locale_switcher_ja": {
-    "text": "일본어",
-    "description": "로케일 스위처에서 일본어 옵션입니다."
-  },
-  "locale_switcher_es": {
-    "text": "스페인어",
-    "description": "로케일 스위처에서 스페인어 옵션입니다."
   }
 }

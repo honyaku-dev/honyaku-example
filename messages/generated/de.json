@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Dünne, zarte Crêpes gefüllt mit Nutella, frischen Erdbeeren und Schlagsahne.",
     "description": "Description of the French Crepes recipe."
-  },
-  "locale_switcher_label": {
-    "text": "Sprache",
-    "description": "Accessible label for the language switcher dropdown in the header."
-  },
-  "locale_switcher_en": {
-    "text": "Englisch",
-    "description": "English language option in the locale switcher."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Japanese language option in the locale switcher."
-  },
-  "locale_switcher_es": {
-    "text": "Spanisch",
-    "description": "Spanish language option in the locale switcher."
   }
 }

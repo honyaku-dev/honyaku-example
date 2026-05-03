@@ -86,21 +86,5 @@
   "recipe_card_crepes_description": {
     "text": "Crepes dzakatetepa, dzakatsetseka dzakazadzwa neNutella, ma strawberries matsva, uye kirimu yakarohwa.",
     "description": "Tsanangudzo ye resipi yeFrench Crepes."
-  },
-  "locale_switcher_label": {
-    "text": "Mutauro",
-    "description": "Chiratidzo chinowanikwa chekusarudza mutauro musoro."
-  },
-  "locale_switcher_en": {
-    "text": "Chirungu",
-    "description": "Sarudzo yemutauro weChirungu pakusarudza mutauro."
-  },
-  "locale_switcher_ja": {
-    "text": "日本語",
-    "description": "Sarudzo yemutauro wechiJapanese pakusarudza mutauro."
-  },
-  "locale_switcher_es": {
-    "text": "ChiSpanish",
-    "description": "Sarudzo yemutauro weSpanish pakusarudza mutauro."
   }
 }
