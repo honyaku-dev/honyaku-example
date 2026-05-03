@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# honyaku-example
 
-## Getting Started
+An example Next.js app demonstrating automatic translation generation with [honyaku.dev](https://honyaku.dev).
 
-First, run the development server:
+## Overview
+
+This is a small recipe-discovery app ("World Kitchen") built with Next.js 16 and `next-intl`. The English source strings live in `messages/en.json`, and translations for every locale supported by `@honyaku-dev/locales` are generated into `messages/generated/<locale>.json` by the honyaku.dev service.
+
+## How translation works
+
+- `messages/en.json` holds each string along with a description that gives the translator context.
+- `.github/workflows/translate.yml` runs `honyaku-dev/honyaku-action@v1` on every push to `main` that modifies `messages/en.json` (and on manual dispatch). It reads the source file and writes one JSON file per target locale into `messages/generated/`, then commits the results back.
+- `i18n/routing.ts` registers every locale from `@honyaku-dev/locales` with `next-intl`, so the `[locale]` route segment automatically supports all of them.
+- `lib/honyaku.ts` flattens the `{ text, description }` shape into the plain `key → string` map that `next-intl` expects, dynamically importing the generated locale files at request time.
+- `i18n/request.ts` falls back to English for any keys missing from a generated translation.
+
+To add or change copy, edit `messages/en.json` and merge to `main`; the workflow regenerates the rest.
+
+## Getting started
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open [http://localhost:3000](http://localhost:3000) to view the app.
